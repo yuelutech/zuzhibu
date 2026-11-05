@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-laurence-socha",
+      "line": "cadre",
+      "subject_id": "laurence-socha",
+      "title": "劳伦斯·索查简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00225.htm?congress=119&session=2&vote=00225",
+          "title": "U.S. Senate Roll Call Vote 119th Congress - 2nd Session, Vote 225",
+          "published_at": "2026-08-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "Vote Date: August 7, 2026; Vote Result: Confirmed; PN1022-34 - Laurence Socha, of Illinois, to be Ambassador to the Republic of The Gambia; YEAs 51, NAYs 47",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://thepoint.gm/africa/gambia/headlines/u-s-ambassador-socha-presents-credentials-to-barrow",
+          "title": "U.S. Ambassador Socha presents credentials to Barrow",
+          "published_at": "2026-10-15",
+          "checked_at": "2026-10-18",
+          "excerpt": "Socha today presented his Letter of Credence",
+          "tier": 2
+        },
+        {
+          "id": "s3",
+          "url": "https://senegambiatimes.com/us-ambassador-presents-credentials-to-barrow-signals-oush-for-trade-economic-cooperation/",
+          "title": "US Ambassador presents credentials to Barrow",
+          "published_at": "2026-10-14",
+          "checked_at": "2026-10-18",
+          "excerpt": "presenting his Letter of Credence",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://www.foreign.senate.gov/download/071626_socha_testimonypdf",
+          "title": "Statement of Laurence J. Socha",
+          "published_at": "2026-07-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "I have been privileged to represent the United States in 12 countries across four continents",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.voazimbabwe.com/a/usa-working-with-zimbabweans-in-many-fields-/7588527.html",
+          "title": "USA Working With Zimbabweans in Many Fields Says Larry Socha",
+          "published_at": "2024-04-29",
+          "checked_at": "2026-10-18",
+          "excerpt": "Public Affairs Officer at the United States Embassy in Harare, Larry Socha",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "劳伦斯·索查",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": null,
+        "birth_place": null,
+        "work_start": null,
+        "education": null,
+        "degree": null,
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国驻冈比亚大使馆",
+          "role": "大使",
+          "start": {
+            "value": "2026-10",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "大使"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-10",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国驻冈比亚大使馆",
+          "role": "大使",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "大使"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [
+        {
+          "field": "current_roles.start",
+          "alternatives": [
+            {
+              "value": "2026-10-14",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2026-10-15",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "reason": "用户选择到任时间仅写到月，两家报道的具体日期差异保留。",
+          "selected_value": "2026-10"
+        }
+      ],
+      "unknowns": [
+        "出生年月、出生城市、学历学位及首份全职工作的起止年份未查到。",
+        "本人听证证词确认其在12个国家、4大洲任职，但未给完整岗位、机构与时间表。",
+        "2024年4月报道时为驻津巴布韦使馆公共事务官，任期起止未查到；未把报道日当到任日。",
+        "递交国书日期在2026年10月14日和15日两份报道间有差异，已请求用户确定处理方式，暂不填写到任日期。",
+        "未查到党籍、入党锚点和族裔。",
+        "递交国书具体日期存在10月14日、15日差异，采用到月日期。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Laurence Socha；美国驻冈比亚大使馆",
+      "review_items": [
+        "出生和首次工作年份缺失，保留seed级。"
+      ]
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

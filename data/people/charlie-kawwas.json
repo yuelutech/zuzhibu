@@ -1,0 +1,569 @@
+{
+  "id": "charlie-kawwas",
+  "name_zh": "查理·卡瓦斯",
+  "name_en": "Charlie Kawwas",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“博通公司 President, Semiconductor Solutions Group Broadcom President, Semiconductor Solutions Group”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/charlie-kawwas.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.broadcom.com/media/blt4ac44e0e6c6d8341/blt13dcd6e2d0923c10/6037266f8095d30fa65dab33/Charlie_Kawwas",
+    "source": "https://www.broadcom.com/company/about-us/executives/charlie-kawwas"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Broadcom",
+      "role_en": "President, Semiconductor Solutions Group"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“博通公司 President, Semiconductor Solutions Group Broadcom President, Semiconductor Solutions Group”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "charlie-kawwas-20261018",
+    "line": "cadre",
+    "subject_id": "charlie-kawwas",
+    "title": "查理·卡瓦斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm",
+        "title": "Broadcom 2025 Form 10-K",
+        "excerpt": "Charlie B. Kawwas, Ph.D. has served as our President, Semiconductor Solutions Group since July 2022.",
+        "published_at": "2025-12-18",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.concordia.ca/news/stories/2025/04/30/concordia-university-awards-8-honorary-doctorates-at-its-spring-2025-convocation.html",
+        "title": "Concordia honorary doctorate announcements",
+        "excerpt": "He also earned a MASc ’99 and a PhD ’07 in Electrical & Computer Engineering.",
+        "published_at": "2025-04-30",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.concordia.ca/profiles/offices/advancement/notable-concordians/charlie-kawwas.html",
+        "title": "Concordia: Charlie Kawwas",
+        "excerpt": "He began his career as an engineer with Nortel in Montreal",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "查理·卡瓦斯"
+    ],
+    "person": {
+      "name": {
+        "value": "查理·卡瓦斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1970-06",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "2025年12月18日10-K列55岁，出生区间1969-12-19至1970-12-18，中间月份1970年6月。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2025-12-18",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "康考迪亚大学电气与计算机工程专业",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "博士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "博通公司",
+        "role": "半导体解决方案集团总裁",
+        "start": {
+          "value": "2022-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1989-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1993减标准学制4年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1993",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1993-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "organization": "康考迪亚大学",
+        "role": null,
+        "program": "计算机工程专业",
+        "degree_awarded": {
+          "value": "工程学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1997-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1999减标准学制2年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1999",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1999-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1999",
+            "duration_years": null
+          }
+        },
+        "organization": "康考迪亚大学",
+        "role": null,
+        "program": "电气与计算机工程专业",
+        "degree_awarded": {
+          "value": "应用科学硕士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005-07",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2005",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2007-07",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2007",
+            "duration_years": null
+          }
+        },
+        "organization": "Agere Systems 公司",
+        "role": "营销总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2007",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2010-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2010",
+            "duration_years": null
+          }
+        },
+        "organization": "LSI 公司",
+        "role": "营销副总裁、销售与营销副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2010",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2014-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "LSI 公司",
+        "role": "全球销售高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2014-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "安华高科技公司",
+        "role": "全球销售高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "安华高科技公司",
+        "role": "高级副总裁兼首席销售官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "博通公司",
+        "role": "首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "博通公司",
+        "role": "半导体解决方案集团总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "博通公司",
+    "conflicts": [],
+    "unknowns": [
+      "国籍、北电网络首份全职工作的起始年月未查明。",
+      "硕士、博士是否在职学习及博士入学日期未知。",
+      "已核实经历，开始时间未知：康考迪亚大学；电气与计算机工程专业博士研究生学习；已获博士；结束2007-07。来源：s2。",
+      "已核实经历，开始时间未知：北电网络公司；工程师、光以太网产品线管理负责人；结束2005-07。来源：s3。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

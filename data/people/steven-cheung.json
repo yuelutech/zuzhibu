@@ -1,0 +1,526 @@
+{
+  "id": "steven-cheung",
+  "name_zh": "史蒂文·张",
+  "name_en": "Steven Cheung",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Assistant to the President and Director of Communications The White House Assistant to the President and Director of Communications”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/steven-cheung.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "The White House",
+      "role_en": "Assistant to the President and Director of Communications"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Assistant to the President and Director of Communications The White House Assistant to the President and Director of Communications”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/steven-cheung.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-steven-cheung",
+    "line": "cadre",
+    "subject_id": "steven-cheung",
+    "title": "史蒂文·张简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf",
+        "title": "2026 Annual Report to Congress on White House Staff",
+        "published_at": "2026-07-01",
+        "checked_at": "2026-10-18",
+        "excerpt": "CHEUNG, STEVEN; ASSISTANT TO THE PRESIDENT AND DIRECTOR OF COMMUNICATIONS",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.theatlantic.com/politics/archive/2025/03/steven-cheung-voice-trump/682211/",
+        "title": "Steven Cheung Is the Voice of Trump",
+        "published_at": "2025-03-31",
+        "checked_at": "2026-10-18",
+        "excerpt": "Now 42; did not graduate; In 2009 ... director of online messaging; In 2013 ... director of communications and public affairs",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://www.scmp.com/magazines/style/entertainment/article/3260339/meet-donald-trumps-sumo-wrestler-spokesman-steven-cheung-he-interned-under-arnold-schwarzenegger-did",
+        "title": "Meet Donald Trump’s spokesman Steven Cheung",
+        "published_at": "2024-04-26",
+        "checked_at": "2026-10-18",
+        "excerpt": "graduating from California State University, Sacramento",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.axios.com/2023/03/20/trump-campaign-makeover-2024",
+        "title": "Trump’s campaign makeover",
+        "published_at": "2023-03-20",
+        "checked_at": "2026-10-18",
+        "excerpt": "Steven Cheung ... head of communications",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://www.politico.com/news/2024/11/15/trump-transition-steven-cheung-communications-director-00189857",
+        "title": "Trump names Steven Cheung communications director",
+        "published_at": "2024-11-15",
+        "checked_at": "2026-10-18",
+        "excerpt": "Cheung served in Trump’s first White House as special assistant to the president and assistant communications director",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "史蒂文·张",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1982-09",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "2025-03-31报道42岁，出生区间1982-04-01至1983-03-31，按中点取1982年9月",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2025-03-31",
+          "duration_years": 42
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "加利福尼亚州立大学萨克拉门托分校",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": {
+        "value": "加利福尼亚州立大学萨克拉门托分校",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "白宫",
+        "role": "总统助理、通讯联络主任",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "总统助理、通讯联络主任"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "约翰·麦凯恩总统竞选团队",
+        "role": "竞选工作人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "竞选工作人员"
+        ],
+        "role_category": {
+          "value": "worked on ... political campaigns",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "来源明确在麦凯恩2008年总统竞选团队工作，未给具体岗位",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "史蒂夫·波伊兹纳州长竞选团队",
+        "role": "网络传播主管",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "网络传播主管"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "终极格斗冠军赛（UFC）",
+        "role": "传播及公共事务主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "传播及公共事务主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "唐纳德·特朗普总统竞选团队",
+        "role": "快速反应经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "快速反应经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "白宫",
+        "role": "总统特别助理、通讯联络助理主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总统特别助理、通讯联络助理主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "唐纳德·特朗普总统竞选团队",
+        "role": "顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "唐纳德·特朗普总统竞选团队",
+        "role": "传播主管",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "传播主管"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "白宫",
+        "role": "总统助理、通讯联络主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总统助理、通讯联络主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [
+      {
+        "field": "person.education / person.degree",
+        "alternatives": [
+          {
+            "value": "California State University, Sacramento毕业",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "就读三年，未毕业",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "reason": "用户选择采用专访所述就读三年、未毕业，保留另一报道的毕业说法。",
+        "selected_value": "大学肄业"
+      }
+    ],
+    "unknowns": [
+      "出生日期未取得可打开的直接生日原文，按带日期的年龄陈述推算年月。",
+      "2008年已为麦凯恩竞选团队工作；此前实习和职业经历缺完整记录，首次全职工作年月暂空。",
+      "Solgence成立、内华达和得克萨斯州竞选岗位起止、2021—2022年具体任职未查全。",
+      "党籍及入党锚点未取得可核实来源。",
+      "大学肄业按专访采用；入学和离校年月未查清，未按四年本科倒推。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Steven Cheung；白宫",
+    "review_items": [
+      "首次全职工作日期和学历冲突待核。"
+    ]
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-robert-f-kennedy-jr",
+      "line": "cadre",
+      "subject_id": "robert-f-kennedy-jr",
+      "title": "小罗伯特·肯尼迪简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.hhs.gov/about/leadership/robert-kennedy.html",
+          "title": "Robert F. Kennedy, Jr.",
+          "excerpt": "HHS Secretary; Riverkeeper attorney starting in 1985; independent candidacy announced October 9, 2023.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.hhs.gov/press-room/eo-maha.html",
+          "title": "Robert F. Kennedy, Jr. Sworn in as 26th Secretary at HHS",
+          "excerpt": "today was sworn in as the 26th Secretary.",
+          "published_at": "2025-02-13",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://millercenter.org/robert-f-kennedy-jr-2025",
+          "title": "Robert F. Kennedy, Jr. (2025–)",
+          "excerpt": "Born January 17, 1954; Harvard 1976; Virginia Law 1981; Pace environmental law master's 1987.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://archive.ph/VAj0P",
+          "title": "Britannica: Robert F. Kennedy, Jr. — archived 2023-10-18",
+          "excerpt": "American environmental lawyer; began work in 1982 as an assistant district attorney in Manhattan.",
+          "published_at": "2023-10-18",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "sanju-neige",
+        "research"
+      ],
+      "person": {
+        "name": {
+          "value": "小罗伯特·肯尼迪",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1954-01-17",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "华盛顿哥伦比亚特区",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1982-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：1982年全职助理检察官；具体月未查到，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1982",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法学博士",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "无党派",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国卫生与公众服务部",
+          "role": "部长",
+          "start": {
+            "value": "2025-02-13",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1972",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：按已知毕业年和标准学制推算，仅保留本稿采用的年份精度。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1976",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1976",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：按已知毕业年和标准学制推算，仅保留本稿采用的年份精度。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1976",
+              "duration_years": null
+            }
+          },
+          "organization": "哈佛大学",
+          "role": null,
+          "program": "美国历史与文学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1978",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：按已知毕业年和标准学制推算，仅保留本稿采用的年份精度。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1981",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1981",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：按已知毕业年和标准学制推算，仅保留本稿采用的年份精度。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1981",
+              "duration_years": null
+            }
+          },
+          "organization": "弗吉尼亚大学",
+          "role": null,
+          "program": "法学",
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1982-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：1982年全职助理检察官；具体月未查到，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1982",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "纽约曼哈顿地区检察官办公室",
+          "role": "助理地区检察官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Riverkeeper组织",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：按已知毕业年和标准学制推算，仅保留本稿采用的年份精度。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1987",
+              "duration_years": 2
+            }
+          },
+          "end": {
+            "value": "1987",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：按已知毕业年和标准学制推算，仅保留本稿采用的年份精度。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1987",
+              "duration_years": null
+            }
+          },
+          "organization": "佩斯大学",
+          "role": null,
+          "program": "环境法",
+          "degree_awarded": {
+            "value": "法学硕士",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Waterkeeper Alliance",
+          "role": "创始人、主席",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国总统选举",
+          "role": "参选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-02-13",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国卫生与公众服务部",
+          "role": "部长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国政要",
+      "conflicts": [],
+      "unknowns": [
+        "法学硕士学习是否在职、非营利组织和律所各次任职的终止日期未查到。",
+        "所用大英百科存档只支撑历史身份和1982年首份工作，现职采用HHS当前页。",
+        "族裔及加入民主党的最早锚点未查到。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "Secretary of Health and Human Services | U.S. Department of Health and Human Services",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-neige"
+}

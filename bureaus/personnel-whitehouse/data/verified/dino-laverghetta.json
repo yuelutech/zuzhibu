@@ -1,0 +1,478 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-dino-laverghetta",
+      "line": "cadre",
+      "subject_id": "dino-laverghetta",
+      "title": "迪诺·拉韦尔盖塔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+          "title": "Nominations Sent to the Senate",
+          "published_at": "2026-09-28",
+          "checked_at": "2026-10-18",
+          "excerpt": "Dino LaVerghetta, of Virginia, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the State of Kuwait.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.sidley.com/en/people/l/laverghetta-dino-l",
+          "title": "Dino L. LaVerghetta | Sidley Austin",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Partner; New York University School of Law, J.D., 2006; Boston University, B.A., 2003.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://aglawjournal.wp.drake.edu/wp-content/uploads/sites/66/2023/03/LaVerghetta-Macro-Final.pdf",
+          "title": "Agricultural Biotechnology and the Law",
+          "published_at": "2020",
+          "checked_at": "2026-10-18",
+          "excerpt": "From 2017 to 2019, he served in the Office of White House Counsel as Senior Associate Counsel to the President",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.sidley.com/en/newslanding/newsannouncements/2026/06/dino-laverghetta-appointed-public-member-of-the-administrative-conference-of-the-united-states",
+          "title": "Dino LaVerghetta Appointed Public Member of ACUS",
+          "published_at": "2026-06-17",
+          "checked_at": "2026-10-18",
+          "excerpt": "a two-year term beginning July 1, 2026",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://projects.propublica.org/trump-town/staffers/dino-luigi-laverghetta",
+          "title": "Dino Luigi LaVerghetta | Trump Town",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Former Positions Outside Government: Wilmer Cutler Pickering Hale and Dorr LLP — Counsel",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://www.senate.gov/legislative/nom_cmtec.htm",
+          "title": "Nominations in Committee (Civilian)",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Dino LaVerghetta, of Virginia, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the State of Kuwait.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "迪诺·拉韦尔盖塔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1981-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2003年本科毕业减22年；出生月未知取7月",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "2003",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法律博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "盛德律师事务所",
+          "role": "合伙人",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "合伙人"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国行政会议",
+          "role": "公众委员",
+          "start": {
+            "value": "2026-07-01",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "roles": [
+            "公众委员"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国驻科威特大使馆",
+          "role": "大使",
+          "start": {
+            "value": "2026-09-28",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "roles": [
+            "大使"
+          ],
+          "sector": "politics",
+          "appointment_state": "提名人选"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "2003年本科毕业减4年",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "2003",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2003",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "波士顿大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "2006年JD毕业减3年",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "2006",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "纽约大学法学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "法律博士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "白宫",
+          "role": "总统特别助理、总统副法律顾问、高级副法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总统特别助理、总统副法律顾问、高级副法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "盛德律师事务所",
+          "role": "顾问律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "顾问律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "白宫",
+          "role": "总统高级法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总统高级法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-07-01",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国行政会议",
+          "role": "公众委员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [
+            "公众委员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "未查到出生原始日期、出生地和族裔。",
+        "首份全职工作的起始年份尚无可核原始材料，参加工作时间留空。",
+        "WilmerHale顾问律师经历有财产申报转录依据，起止日期未查到。",
+        "2019年加入盛德时为顾问律师，升任合伙人日期未查到。",
+        "2025年临时回白宫为特别政府雇员，任职起止月份未查到。",
+        "未取得2010年参选记录原件，党籍和入党锚点留空。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "Dino LaVerghetta；盛德律师事务所",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

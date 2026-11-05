@@ -1,0 +1,608 @@
+{
+  "id": "maria-cantwell",
+  "name_zh": "玛丽亚·坎特威尔",
+  "name_en": "Maria Cantwell",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {
+    "bioguide": "C000127"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "maria-cantwell.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Maria_Cantwell,_official_portrait,_110th_Congress_2.jpg",
+    "source_kind": "维基共享资源（国会议员官方照）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Senate），File:Maria Cantwell, official portrait, 110th Congress 2.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Maria_Cantwell%2C_official_portrait%2C_110th_Congress_2.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-c000127",
+    "line": "cadre",
+    "subject_id": "c000127",
+    "title": "玛丽亚·坎特威尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "",
+        "tier": 1
+      },
+      {
+        "id": "care1",
+        "url": "https://github.com/yuelutech/zuzhibu-archive/blob/d4e223436dc4f548069b85bfb14569402edf0257/bureaus/personnel-congress/import/ceo-profiles/resumes/C000127.md",
+        "title": "国会议员简历底稿（2026年6月整理，仓库归档）",
+        "published_at": "2026-06-13",
+        "checked_at": "2026-10-22",
+        "excerpt": "玛丽亚·坎特威尔，女，1958年10月生，印第安纳州印第安纳波利斯市人，大学学历，公共管理学士学位，1980年6月参加工作，1986年9月加入美国民主党。",
+        "tier": 3
+      },
+      {
+        "id": "cdir1",
+        "url": "https://www.govinfo.gov/app/details/CDIR-2026-02-20",
+        "title": "Official Congressional Directory, 119th Congress（2026年2月20日版，美国政府出版局）",
+        "published_at": "2026-02-20",
+        "checked_at": "2026-10-22",
+        "excerpt": "MARIA CANTWELL, Democrat, of Edmonds, WA; born in Indianapolis, IN, October 13, 1958; education: B.A., Miami University, Miami, OH, 1980; professional history: businesswoman; member, Washington House of Representatives, 1987- 92",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "senate",
+      "state:WA"
+    ],
+    "person": {
+      "name": {
+        "value": "玛丽亚·坎特威尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1958-10-13",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "印第安纳州印第安纳波利斯",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1980",
+        "source_ids": [
+          "care1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "education": {
+        "value": "大学学历",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "迈阿密大学公共管理文学学士学位",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（华盛顿州）",
+        "role": "",
+        "start": {
+          "value": "2025-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院商务、科学和交通委员会",
+        "role": "资深成员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [],
+        "roles": [
+          "资深成员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1976",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1980",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "迈阿密大学",
+        "role": null,
+        "program": "公共管理",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1980",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1986",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "民主党总统竞选组织工作人员、华盛顿州地方竞选组织工作人员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1986",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1987",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "玛丽亚·坎特威尔州众议员竞选委员会民主党华盛顿州众议员候选人",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "华盛顿州众议员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "玛丽亚·坎特威尔国会竞选委员会民主党联邦众议员候选人",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1995",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "华盛顿州第1选区联邦众议员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2000",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "RealNetworks公司市场营销副总裁",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2000",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "玛丽亚·坎特威尔参议员竞选委员会民主党联邦参议员候选人",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "华盛顿州联邦参议员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2021",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2025",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国参议院商务、科学和交通委员会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": []
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国参议院商务、科学和交通委员会资深成员",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": []
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "履历：来源只有旧项目国会议员简历底稿（三级），待重新取证",
+      "入党时间：底稿无锚点，按 party_join.md 重新取锚点"
+    ],
+    "excluded": [
+      "发布稿「1980年6月参加工作」：月份为旧规则推定，只写到年",
+      "发布稿入党句「1986年9月加入美国民主党」：底稿无锚点、无来源，不采用"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "id": "mark-chen",
+  "name_zh": "马克·陈",
+  "name_en": "Mark Chen",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“开放人工智能研究中心（OpenAI） 首席研究官 OpenAI Chief Research Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/mark-chen.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://images.ctfassets.net/kftzwdyauwt9/1uFRNCY1X4AKnOBoCoQ21U/ee4d47b8d6f5cbc99cb7c3d76b58bd68/241107_OAI_ExecPortraits_MarkChen_1025_1.png?w=3840&q=90&fm=webp",
+    "source": "https://openai.com/index/leadership-updates-march-2025/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "OpenAI",
+      "role_en": "Chief Research Officer"
+    }
+  ],
+  "notes": [
+    "CRO appointment announced 2025-03-24; effective date not specified."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“开放人工智能研究中心（OpenAI） 首席研究官 OpenAI Chief Research Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "mark-chen-20261018",
+    "line": "cadre",
+    "subject_id": "mark-chen",
+    "title": "马克·陈简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://openai.com/index/leadership-updates-march-2025/",
+        "title": "Leadership updates: expanding our leadership team",
+        "published_at": "2025-03-24",
+        "checked_at": "2026-10-18",
+        "excerpt": "Mark Chen will take on the expanded role of Chief Research Officer.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://event.technologyreview.com/emtech-mit-2023/speaker/901826/mark-chen",
+        "title": "Mark Chen — EmTech MIT 2023",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Mark Chen '12; bachelor's degree in mathematics with computer science",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://technews.tw/2024/05/18/openai-mark-chen/",
+        "title": "在 OpenAI 發表會大放異彩的 Mark！是如何從台灣走向世界？",
+        "published_at": "2024-05-18",
+        "checked_at": "2026-10-18",
+        "excerpt": "Mark Chen中文名是陳信翰",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.technologyreview.jp/l/innovators/370845/mark-chen/",
+        "title": "Innovators Under 35 2025 — Mark Chen",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "2018年にOpenAIに入社",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://www.ftvnews.com.tw/news/detail/2024A07W0142",
+        "title": "OpenAI高層新星陳信翰",
+        "published_at": "2024-10-09",
+        "checked_at": "2026-10-18",
+        "excerpt": "研究高級副總裁",
+        "tier": 2
+      },
+      {
+        "id": "s6",
+        "url": "https://www.linkedin.com/in/markchen90/",
+        "title": "Mark Chen — MIT education",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "2008 - 2012",
+        "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://www.36kr.com/p/3699952432672389",
+        "title": "人在OpenAI，刚拿下研究工程师岗位，一年底薪470万",
+        "published_at": "2026-02-27",
+        "checked_at": "2026-10-18",
+        "excerpt": "陈信翰是美籍华人；2018年，他加入OpenAI。",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "马克·陈"
+    ],
+    "person": {
+      "name": {
+        "value": "马克·陈",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1990-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "本科毕业年2012减22得1990；出生月缺据取7月。",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "2012",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "麻省理工学院数学与计算机科学专业",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "数学与计算机科学专业学士学位",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "开放人工智能研究中心（OpenAI）",
+        "role": "首席研究官",
+        "roles": [
+          "首席研究官"
+        ],
+        "start": {
+          "value": "2025-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2008-09",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "美国本科入学月依学年取9月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2008",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2012-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "毕业年2012，毕业月依美国学年取5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2012",
+            "duration_years": null
+          }
+        },
+        "organization": "麻省理工学院",
+        "role": null,
+        "program": "数学与计算机科学",
+        "degree_awarded": {
+          "value": "学士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-07",
+          "source_ids": [
+            "s4",
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "2018年加入OpenAI，月份未载，按规则取7月",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2018",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2024-09",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "开放人工智能研究中心（OpenAI）",
+        "role": "研究科学家、多模态与前沿研究部门负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研究科学家",
+          "多模态与前沿研究部门负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024-09",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "开放人工智能研究中心（OpenAI）",
+        "role": "研究高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研究高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "开放人工智能研究中心（OpenAI）",
+        "role": "首席研究官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "首席研究官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "开放人工智能研究中心（OpenAI）",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作年月：MIT活动简介确认曾任Jane Street等自营交易机构量化交易员，但各段起止年份未核到。",
+      "出生年月无直接记录，按本科毕业年推算；2025年度榜单年龄缺少可核发布日期，未用作年龄锚点。",
+      "早期量化交易雇主与起止日期、OpenAI内部研究职务交接月份未查明。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Mark Chen；开放人工智能研究中心（OpenAI）；首席研究官",
+    "review_items": [
+      "MIT活动页写 mathematics with computer science，采用单一学士专业；媒体双学位说法未采用。",
+      "汉名陈信翰有媒体依据；现有译名表备注仍标待核，按表内新华社译名列使用马克·陈。",
+      "国籍已由36氪转载智东西文章的美籍华人直接记载补齐；首份全职工作的年月仍缺来源。"
+    ]
+  }
+}

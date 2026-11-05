@@ -1,0 +1,345 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-s001225",
+      "line": "cadre",
+      "subject_id": "s001225",
+      "title": "埃里克·索伦森简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "draft",
+        "house",
+        "state:IL"
+      ],
+      "person": {
+        "name": {
+          "value": "埃里克·索伦森",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1976-03-18",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1999",
+          "source_ids": [],
+          "inferred": true,
+          "basis": "按履历首个非学习条目的开始年份推算：德克萨斯州电视台气象员（T2 Codex 初稿时间线，无来源）；发布稿作「1999年6月参加工作」，月份为旧规则推定，不采用",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1999",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "北伊利诺伊大学气象学理学学士学位",
+          "source_ids": [],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（伊利诺伊州第17选区）",
+          "role": "",
+          "start": {
+            "value": "2025-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1994",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北伊利诺伊大学",
+          "role": null,
+          "program": "气象学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2003",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "德克萨斯州电视台气象员",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "罗克福德WREX-TV电视台气象员、首席气象员",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "莫林WQAD-TV电视台首席气象员",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2022",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "气象顾问、民主党联邦众议员候选人",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "伊利诺伊州第17选区联邦众议员",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "履历：T2 Codex 初稿时间线，逐条无来源，待重新取证",
+        "出生地：无来源（底稿首段作「伊利诺伊州罗克福德市人」）",
+        "入党时间：底稿无锚点，按 party_join.md 重新取锚点"
+      ],
+      "excluded": [
+        "发布稿「1999年6月参加工作」：月份为旧规则推定，只写到年",
+        "发布稿入党句「2022年6月加入美国民主党」：底稿无锚点、无来源，不采用"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

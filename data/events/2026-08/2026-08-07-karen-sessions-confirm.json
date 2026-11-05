@@ -1,0 +1,81 @@
+{
+  "id": "2026-08-07-karen-sessions-confirm",
+  "date": "2026-08-07",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "karen-sessions",
+  "person": {
+    "name_zh": "卡伦·塞申斯",
+    "name_en": "Karen Sessions",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国消费品安全委员会",
+      "role": "委员",
+      "organization_en": "Consumer Product Safety Commission",
+      "role_en": "Commissioner",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "参议院确认卡伦·塞申斯出任美国消费品安全委员会委员",
+  "summary": "参议院于2026-08-07确认Karen Sessions出任美国消费品安全委员会委员（PN806-7）。到任日期未由确认记录给出。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Karen Sessions, of Texas, to be a Commissioner of the Consumer Product Safety Commission for a term of seven years from October 27, 2025.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 karen-sessions（库里没有此人）",
+      "现任职务新增：美国消费品安全委员会委员",
+      "履历新增：2026-08 美国消费品安全委员会委员"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "karen-sessions"
+  }
+}

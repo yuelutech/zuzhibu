@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "napoleon-ta-20261018",
+      "line": "cadre",
+      "subject_id": "napoleon-ta",
+      "title": "拿破仑·塔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://foundersfund.com/team/napoleon-ta/",
+          "title": "Napoleon Ta – Founders Fund",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Napoleon is a Partner at Founders Fund ... He holds an MBA from Stanford and a BS from the University of Colorado.",
+          "tier": 1
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "拿破仑·塔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": null,
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "硕士研究生",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "斯坦福大学工商管理硕士学位",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "创始人基金",
+          "role": "合伙人",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "合伙人"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "创始人基金",
+      "conflicts": [],
+      "unknowns": [
+        "官网未列本科、硕士取得年份、首份全职工作和基金任职起始日期；按本人姓名加学校检索未找到可核年表。",
+        "国籍：已查所列来源，未找到可采用依据。",
+        "出生年月：已查所列来源，未找到可采用依据。",
+        "参加工作时间：已查所列来源，未找到可采用依据。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": [
+        "表外建议译音拿破仑·塔，未找到本人汉名，待审。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

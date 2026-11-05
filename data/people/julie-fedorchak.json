@@ -1,0 +1,521 @@
+{
+  "id": "julie-fedorchak",
+  "name_zh": "朱莉·费多洽克",
+  "name_en": "Julie Fedorchak",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {
+    "bioguide": "F000482"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "julie-fedorchak.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rep._Julie_Fedorchak_official_photo,_119th_Congress.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（House Creative Services；https://fedorchak.house.gov/about），File:Rep. Julie Fedorchak official photo, 119th Congress.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rep._Julie_Fedorchak_official_photo%2C_119th_Congress.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-f000482",
+    "line": "cadre",
+    "subject_id": "f000482",
+    "title": "朱莉·费多洽克简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "",
+        "tier": 1
+      },
+      {
+        "id": "care1",
+        "url": "https://github.com/yuelutech/zuzhibu-archive/blob/d4e223436dc4f548069b85bfb14569402edf0257/bureaus/personnel-congress/import/ceo-profiles/resumes/F000482.md",
+        "title": "国会议员简历底稿（2026年6月整理，仓库归档）",
+        "published_at": "2026-06-13",
+        "checked_at": "2026-10-22",
+        "excerpt": "朱莉·费多洽克，女，1968年9月生，北达科他州威利斯顿人，大学学历，文学学士学位，1991年7月参加工作，2012年12月加入美国共和党。",
+        "tier": 3
+      },
+      {
+        "id": "cdir1",
+        "url": "https://www.govinfo.gov/app/details/CDIR-2026-02-20",
+        "title": "Official Congressional Directory, 119th Congress（2026年2月20日版，美国政府出版局）",
+        "published_at": "2026-02-20",
+        "checked_at": "2026-10-22",
+        "excerpt": "JULIE FEDORCHAK, Republican, of Mandan, ND; born in Williston, ND, September 28, 1968; education: B.A., journalism, University of North Dakota, Grand Forks, ND, 1991; professional history: communications director, Governor Ed Schaefer, 1995-2000; president, Liffrig Communications, Inc., 2000-10",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "house",
+      "state:ND"
+    ],
+    "person": {
+      "name": {
+        "value": "朱莉·费多洽克",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1968-09-28",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "北达科他州威利斯顿",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1991",
+        "source_ids": [
+          "care1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "education": {
+        "value": "大学学历",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "北达科他大学新闻学文学学士学位",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（北达科他州）",
+        "role": "",
+        "start": {
+          "value": "2025-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1991",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "北达科他大学",
+        "role": null,
+        "program": "新闻学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1991",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1995",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "北达科他州新闻机构记者、编辑",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2000",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "北达科他州州长埃德·沙弗办公室通信主任",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "利夫里格通信公司创始人、负责人",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦参议员约翰·霍文北达科他州办公室主任",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2024",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "北达科他州公共服务委员会委员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2023",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2024",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "全国监管公用事业委员协会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": []
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国联邦众议院议员、北达科他州全州选区代表",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国众议院能源和商务委员会委员",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": []
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [],
+    "unknowns": [
+      "履历：来源只有旧项目国会议员简历底稿（三级），待重新取证",
+      "入党时间：底稿无锚点，按 party_join.md 重新取锚点"
+    ],
+    "excluded": [
+      "发布稿「1991年7月参加工作」：月份为旧规则推定，只写到年",
+      "发布稿入党句「2012年12月加入美国共和党」：底稿无锚点、无来源，不采用"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

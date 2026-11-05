@@ -1,0 +1,835 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001114",
+      "line": "cadre",
+      "subject_id": "c001114",
+      "title": "匡希恒简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/C/CURTIS,-John-R--(C001114)/",
+          "title": "CURTIS, John R. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Ogden, Weber County, Utah, May 10, 1960; ... attended University of Utah, Salt Lake City, Utah, 1979;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-UT.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Utah",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "COO and part-owner, Action Target, 1999-2010; manager, O.C. Tanner Co., 1989-99; overseas lead buyer, Brazil International, 1987-88;",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-sworn-in-as-united-states-senator-for-utah/",
+          "title": "Curtis Sworn in as United States Senator for Utah",
+          "published_at": "2025-01-03",
+          "checked_at": "2026-10-19",
+          "excerpt": "Today, John R. Curtis was sworn in as the United States Senator representing Utah. Senator Curtis—a Republican—took the oath of office",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been nine Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.curtis.senate.gov/about/committee-assignments/",
+          "title": "Committee Assignments - Senator John Curtis",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Environment and Public Works ... Committee on Foreign Relations ... Commerce, Science, and Transportation ... Committee on Small Business and Entrepreneurship",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Curtis, John R. (R-UT) ... Committee on Commerce, Science, and Transportation ... Committee on Environment and Public Works ... Committee on Foreign Relations",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://abcnews.com/Politics/utahs-special-election-primary/story?id=49216793",
+          "title": "Moderate mayor wins Republican primary to replace Rep. Chaffetz in Utah",
+          "published_at": "2017-08-15",
+          "checked_at": "2026-10-19",
+          "excerpt": "was a registered Democrat until 2006, when he switched his registration to Republican.",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://newsnet.byu.edu/pdf/du20170808.pdf",
+          "title": "The Universe, August 8–14, 2017 — Curtis, Ainge and Herrod vie for special election Republican slot",
+          "published_at": "2017-08-08",
+          "checked_at": "2026-10-19",
+          "excerpt": "Curtis earned a bachelor’s degree in business management from BYU in 1985.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.sltrib.com/news/politics/2017/09/10/meet-utahs-john-curtis-republican-congressional-hopeful-sock-enthusiast-and-one-time-watch-salesman/",
+          "title": "John Curtis: the Republican congressional hopeful, one-time watch salesman and ... sock enthusiast?",
+          "published_at": "2017-09-10",
+          "checked_at": "2026-10-19",
+          "excerpt": "started working as his assistant in 1981. ... In 1986, ... graduated from Brigham Young University with a business degree",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2017-11-13/pdf/CREC-2017-11-13-pt1-PgH9155-4.pdf",
+          "title": "Congressional Record, November 13, 2017 — Swearing in of the Honorable John R. Curtis",
+          "published_at": "2017-11-13",
+          "checked_at": "2026-10-19",
+          "excerpt": "Mr. CURTIS appeared at the bar of the House and took the oath of office",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.senate.gov/senators/NewSenators.htm",
+          "title": "U.S. Senate: New Senators 2001-present",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "John Curtis | R-UT | General election | January 3, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://www.utah.gov/pmn/sitemap/noticeprint/27428.html",
+          "title": "Provo Municipal Council Meeting — January 19, 2010",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "A resolution consenting to the appointment of Mayor John Curtis as Provo City's representative",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "senate",
+        "state:UT"
+      ],
+      "person": {
+        "name": {
+          "value": "匡希恒",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1960-05-10",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "犹他州奥格登",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "杨百翰大学工商管理理学学士学位",
+          "source_ids": [
+            "s2",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s3",
+            "s6",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2006",
+          "source_ids": [
+            "s7",
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第1级锚点：ABC News 明确报道其于2006年将选民党籍登记由民主党改为共和党，日期：2006；来源：https://abcnews.com/Politics/utahs-special-election-primary/story?id=49216793 。沿革：2000年以民主党身份参选州参议员，2006年重新登记为共和党；《盐湖城论坛报》亦报道其返回共和党后参加2007年州众议院席位补缺竞争。未找到可打开的原始选民登记记录或可靠的登记月日。2009年普罗沃市长选举为无党派选举，不作锚点；2017年共和党国会参选及就任晚于2006年登记，不采用。",
+          "inference": {
+            "rule": "party_anchor_registration",
+            "from_date": "2006",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（犹他州）",
+          "role": "",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s3",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s6",
+            "s11"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院商务、科学和运输委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院环境和公共工程委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院外交关系委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院小企业和创业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1979",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "犹他大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1981",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s8"
+            ],
+            "inferred": true,
+            "basis": "国会人物页、国会名录及杨百翰大学校报均记1985年毕业，按毕业年减4推算：1985－4＝1981；实际入学年未查到。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1985",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1985",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "杨百翰大学",
+          "role": null,
+          "program": "工商管理",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1984",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1986",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "西铁城钟表公司",
+          "role": "区域销售代表",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "区域销售代表"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1987",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1988",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Brazil International",
+          "role": "海外首席采购员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "海外首席采购员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "O.C. Tanner 公司",
+          "role": "经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Action Target 公司",
+          "role": "首席运营官、共同所有人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席运营官",
+            "共同所有人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010",
+            "source_ids": [
+              "s2",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "犹他州普罗沃市政府",
+          "role": "市长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s9",
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "市长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-11-13",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（犹他州第3选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（犹他州第3选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s3",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（犹他州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s6",
+            "s11"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（犹他州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "person.birth_place",
+          "alternatives": [
+            {
+              "value": "犹他州奥格登",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "犹他州盐湖城",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "犹他州奥格登",
+          "reason": "暂取国会现行人物页；2022年国会名录记盐湖城。一级来源之间的冲突交AI政见确认。"
+        },
+        {
+          "field": "careers.普罗沃市长.start",
+          "alternatives": [
+            {
+              "value": "2009",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2010",
+              "source_ids": [
+                "s2",
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2010",
+          "reason": "国会名录记2010—2017年，回顾报道明确记2010年就任，州政府保存的2010年1月市议会议程已称其为市长；暂按就任年2010记录，人物页的2009年口径交AI政见确认。"
+        },
+        {
+          "field": "careers.杨百翰大学.end",
+          "alternatives": [
+            {
+              "value": "1985",
+              "source_ids": [
+                "s1",
+                "s2",
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1986",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1985",
+          "reason": "采用国会人物页、国会名录及杨百翰大学校报一致记载的1985年；不采用媒体人物报道中的1986年。"
+        },
+        {
+          "field": "careers.联邦众议员.start",
+          "alternatives": [
+            {
+              "value": "2017-11-07",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2017-11-13",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2017-11-13",
+          "reason": "人物页按特别选举日计算服务期间；本批履历按实际就任记录，采用国会实录记载的宣誓日。两日期分别为当选日与宣誓就任日。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过国会人物页、2022年国会名录及《盐湖城论坛报》2017年人物报道。名录记1984—1986年任西铁城区域代表，报道另记1981年任销售代表助手、两年后独立销售；未找到最早一份工作的全职性质及全职起始时间，work_start留空。",
+        "族裔：查过国会人物页、国会名录及议员官网，未找到本人自述或官方统计支持的族裔字段。",
+        "犹他大学学习：国会人物页只记1979年就读，未找到专业、结束时间和学位依据。",
+        "杨百翰大学学习：查过国会人物页、国会名录和大学校报，未找到实际入学年月、毕业月份及全日制性质；入学年仅按获准规则推算。",
+        "早期工作月份：国会名录仅列西铁城、Brazil International、O.C. Tanner及Action Target任职年份，未找到任职起止月份和单位间具体交接日期。",
+        "履历缺口：西铁城销售助手1981年起的经历未找到可靠结束时间及全职性质；1979年至杨百翰大学毕业前的学习、传教与就业衔接仍有缺口。",
+        "委员会任职起始日期：查过第119届参议院委员会名单、议员委员会页面和2025年1月3日宣誓公告；未找到四个委员会实际生效任职日期，current_roles.start均留空。",
+        "保守气候核心小组：议员官网确认其创建该小组，但本次未取得可用于建立准确起止日期的原始成立或任职记录，未写入annotations。",
+        "2024年参议院竞选兼职：本次未取得正式提名生效日期与完整候选人期间的来源组合，未沿用底稿括注。",
+        "党籍登记月日：已打开ABC News关于2006年改登记共和党的报道，未取得可打开的原始选民登记记录；只保留年份。",
+        "完整简历卡：参加工作时间缺证，五项必备字段未齐，card_type留空。"
+      ],
+      "excluded": [
+        "底稿『1978—1985年杨百翰大学学习』：未找到1978年入学依据；国会人物页另记1979年就读犹他大学。",
+        "底稿『1985—2000年奥西坦纳公司、公民表公司管理人员』：国会名录分别记西铁城1984—1986年区域代表、O.C. Tanner公司1989—1999年经理，不能合为底稿所列期间。",
+        "底稿『2000—2009年行动目标公司首席运营官』：国会名录记Action Target公司1999—2010年首席运营官及共同所有人，采用官方名录。",
+        "底稿『1985年参加工作』『1985年6月参加工作』：无第一份全职工作依据，未采用年份和月份。",
+        "底稿『2006年1月加入美国共和党』：已打开来源只支持2006年改登记，未采用1月。",
+        "底稿『2000—2006年美国民主党籍地方政治人士』『2006年转为美国共和党籍』履历括注：党籍沿革转入party_joined_at.basis。",
+        "底稿『2009年起任普罗沃市长』：与国会名录及就任回顾报道不一致，已列入conflicts。",
+        "底稿『2021年保守气候核心小组创始人』一年期括注：创建事实不构成仅任职一年的证据，未沿用。",
+        "底稿『2024年共和党联邦参议员候选人』一年期括注：未找到支持完整起止期间的已打开来源，未沿用。",
+        "检索所得『2006年11月30日登记共和党』说法：本次仅在转引性搜索摘要发现，未取得并打开支持该日期的可靠原始报道，未采用月日。",
+        "国会名录『2017年11月17日特别选举』：与国会人物页及2017年11月13日国会实录所记11月7日选举不符，不采用。",
+        "《盐湖城论坛报》『1986年杨百翰大学毕业』：与国会和大学来源不符，不采用。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（犹他州），美国国会；Bioguide C001114",
+      "review_items": [
+        "出生城市的一级来源冲突交AI政见确认：现行国会人物页为奥格登，2022年国会名录为盐湖城。",
+        "市长就任起年存在一级来源口径差异，暂取2010年，交AI政见确认。",
+        "补查第一份全职工作后再确定参加工作时间和完整简历卡资格。",
+        "复核共和党登记锚点的原始选民登记记录；当前2006年取自权威媒体明确报道。",
+        "出生地及市长起年的冲突、参加工作时间缺证解决前，保留研究候选状态。"
+      ]
+    }
+  ]
+}

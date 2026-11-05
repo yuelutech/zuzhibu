@@ -1,0 +1,635 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-m001184",
+      "line": "cadre",
+      "subject_id": "m001184",
+      "title": "托马斯·马斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "rep 2012-11-13~ KY-4 Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: M",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Massie was born in Huntington, West Virginia (1971-01-13)",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+          "title": "维基百科：Thomas_Massie",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Massie was born in Huntington, West Virginia (1971-01-13)",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+          "title": "维基百科：Thomas_Massie",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Massie was born in Huntington, West Virginia.",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+          "title": "维基百科：Thomas_Massie",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Committee on Rules; Committee on the Judiciary; Committee on Transportation and Infrastructure",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+          "title": "维基百科：Thomas_Massie",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "earned a Bachelor of Science in electrical engineering in 1993...from the Massachusetts Institute of Technology",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+          "title": "维基百科：Thomas_Massie",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "a Master of Science in mechanical engineering in 1996 from the Massachusetts Institute of Technology",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+          "title": "维基百科：Thomas_Massie",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "In 1993, Massie and his wife founded a company, SensAble Devices Inc.",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+          "title": "维基百科：Thomas_Massie",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "inventor/farmer in Lewis County Kentucky",
+          "tier": 3
+        },
+        {
+          "id": "s11",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+          "title": "维基百科：Thomas_Massie",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Lewis County Judge-Executive (2011-2012)",
+          "tier": 3
+        },
+        {
+          "id": "s12",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Massie was sworn in for the balance of Davis's term on November 13, 2012",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+          "title": "维基百科：Thomas_Massie",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Massie was sworn in for the balance of Davis's term on November 13, 2012",
+          "tier": 3
+        },
+        {
+          "id": "s14",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Massie",
+          "title": "维基百科：Thomas_Massie",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "In 2010, Massie ran for Judge Executive of Lewis County. He won the primary election, defeating the incumbent by a large margin.",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "house",
+        "state:KY"
+      ],
+      "person": {
+        "name": {
+          "value": "托马斯·马斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1971-01-13",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "西弗吉尼亚州亨廷顿",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1993",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：与配偶共同创办 SensAble 公司；底稿备注：规则①：1993年本科毕业即创办公司",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "麻省理工学院（MIT）机械工程理学硕士学位",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2010-05",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以共和党身份参选并胜出党内初选：2010年肯塔基州刘易斯县县长共和党初选；来源：https://en.wikipedia.org/wiki/Thomas_Massie；底稿备注：首次自身竞选；肯塔基州初选5月；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2010-05",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（肯塔基州第4选区）",
+          "role": "",
+          "start": {
+            "value": "2012-11-13",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院规则委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院交通和基础设施委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1993倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1993",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "麻省理工学院（MIT）",
+          "role": null,
+          "program": "电气工程",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1993",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": true,
+            "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：硕士自1993本科毕业衔接、1996取得（与创业并行）",
+            "inference": {
+              "rule": "degree_duration",
+              "from_date": "1996",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "麻省理工学院（MIT）",
+          "role": null,
+          "program": "机械工程",
+          "degree_awarded": {
+            "value": "理学硕士",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2003",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "SensAble 技术公司",
+          "role": "联合创始人、负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人",
+            "负责人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "study",
+              "start": {
+                "value": "1993",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1996",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "麻省理工学院",
+              "role": null,
+              "roles": [],
+              "program": "机械工程",
+              "degree_awarded": {
+                "value": "理学硕士",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "concurrent": true,
+              "source_ids": [
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2011",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "（肯塔基州刘易斯县）",
+          "role": "农场经营者、技术发明家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "农场经营者",
+            "技术发明家"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "肯塔基州刘易斯县",
+          "role": "县长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "县长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012",
+            "source_ids": [
+              "s12",
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（肯塔基州第4选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s12",
+            "s13"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（肯塔基州第4选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "底稿缺项：MIT本科/硕士入学年（按学制倒推）",
+        "底稿缺项：SensAble公司离任精确年、刘易斯县农场/技术企业身份细分",
+        "底稿缺项：众议院 PTR 明细（须人工到书记官入口核取）"
+      ],
+      "excluded": [
+        "参加工作月份「1993年6月」：底稿推定（规则①：1993年本科毕业即创办公司），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

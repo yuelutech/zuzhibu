@@ -1,0 +1,648 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "cadre-a000055",
+      "line": "cadre",
+      "subject_id": "a000055",
+      "title": "罗伯特·阿德霍尔特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/A/ADERHOLT,-Robert-(A000055)/",
+          "title": "ADERHOLT, Robert | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "born in Haleyville, Winston County, Ala., July 22, 1965; ... municipal judge, 1992-1995; ... (January 3, 1997-present).",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/Members/A000055",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Robert B. Aderholt ... Alabama (AL) – 4th, Republican ... Oath of Office: Jan. 03, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://encyclopediaofalabama.org/article/robert-aderholt/",
+          "title": "Robert Aderholt - Encyclopedia of Alabama",
+          "published_at": "2014-04-22",
+          "checked_at": "2026-10-17",
+          "excerpt": "He then attended the Cumberland School of Law at Samford University in Birmingham and received his JD in 1990.",
+          "tier": null
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-H-4.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "assistant legal advisor to Governor Fob James, 1995-96; Haleyville municipal judge, 1992-96; ... Republican nominee for the 17th District, Alabama House of Representatives, 1990",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.legistorm.com/person/bio/51250/Robert_Brown_Aderholt/hashkey/93c07f09.html",
+          "title": "Rep. Robert Aderholt - R Alabama, 4th, In Office - Biography | LegiStorm",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "JD (1987-1990) ... BA, history, political science (1985-1987) ... Political science (1983-1984) ... Private practice attorney (1990-1992)",
+          "tier": null
+        },
+        {
+          "id": "s7",
+          "url": "https://www.samford.edu/news/2017/12/Jones-Joins-Growing-List-of-Samford-Graduate-in-Congressional-Service",
+          "title": "Jones Joins Growing List of Samford Graduates in Congressional Service",
+          "published_at": "2017-12-13",
+          "checked_at": "2026-10-17",
+          "excerpt": "Rep. Robert Aderholt ’90 ... All are graduates of Samford University’s Cumberland School of Law.",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://appropriations.house.gov/about/membership",
+          "title": "Membership | House Committee on Appropriations - Republicans",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Majority Committee Members ... Robert Aderholt ... AL - 04",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://clerk.house.gov/committees/AP00",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "119th Congress, 2nd Session ... Committee on Appropriations ... Republican ... Robert B. Aderholt, AL",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.fec.gov/data/committee/C00313247/?cycle=2024&tab=about-committee",
+          "title": "ROBERT ADERHOLT FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Registration date: February 14, 1996 ... ADERHOLT, ROBERT B. REP. ... House candidate Alabama - 04 Republican Party",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://content.time.com/time/subscriber/article/0,33009,985448-4,00.html",
+          "title": "A GUIDE TO THE CONGRESSIONAL RACES: ALABAMA - TIME",
+          "published_at": "1996-11-04",
+          "checked_at": "2026-10-17",
+          "excerpt": "POLITICAL CAREER: Republican nominee for Alabama House, 1990",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:AL"
+      ],
+      "person": {
+        "name": {
+          "value": "罗伯特·阿德霍尔特",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1965-07-22",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "阿拉巴马州哈利维尔",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1990",
+          "source_ids": [
+            "s6",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职职业经历的开始年份推算：LegiStorm列私人执业律师任期为1990—1992年；《阿拉巴马百科全书》记其1990年取得JD后私人执业两年，1992年获任市法官。来源：https://www.legistorm.com/person/bio/51250/Robert_Brown_Aderholt/hashkey/93c07f09.html；https://encyclopediaofalabama.org/article/robert-aderholt/。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1990",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "桑福德大学坎伯兰法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1990",
+          "source_ids": [
+            "s5",
+            "s11",
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以共和党提名候选人身份参选阿拉巴马州众议院第17选区，1990年；来源：https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-H-4.htm；同期媒体交叉依据：https://content.time.com/time/subscriber/article/0,33009,985448-4,00.html。未找到本人党籍登记日期、党组织职务就任日期或1990年州级参选登记受理日。FEC所列国会竞选委员会登记日1996-02-14晚于已证实的1990年共和党参选锚点，不采用；1992年共和党全国代表大会代表经历未给出党组织职务就任日期，不作第2级锚点；1997年就任共和党众议员为更晚的第5级锚点，不采用。现有证据未发现转党沿革。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1990",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": null
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（阿拉巴马州第4选区）",
+          "role": "",
+          "start": {
+            "value": "1997-01-03",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1983",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1984",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北阿拉巴马大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1987",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "伯明翰南方学院",
+          "role": null,
+          "program": "历史学与政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1987",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1990",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "桑福德大学坎伯兰法学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1990",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1992",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "私人执业",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1992",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1995",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "阿拉巴马州哈利维尔市",
+          "role": "市法官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "市法官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "阿拉巴马州州长办公室",
+          "role": "助理法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "助理法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997-01-03",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（阿拉巴马州第4选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（阿拉巴马州第4选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers[4].end",
+          "alternatives": [
+            {
+              "value": "1995",
+              "source_ids": [
+                "s1",
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1996",
+              "source_ids": [
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1995",
+          "reason": "众议院现行官方历史人物页记哈利维尔市法官任期为1992—1995年，LegiStorm相同；2022年国会名录记为1992—1996年。按现行机构官方页面优先规则选1995年，保留差异交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "本科履历缺口：LegiStorm列北阿拉巴马大学1983—1984年、伯明翰南方学院1985—1987年；查过众议院历史页、《阿拉巴马百科全书》及北阿拉巴马大学官网检索结果，没有找到解释1984—1985年衔接的记录。",
+        "早期学习起始日期：北阿拉巴马大学、伯明翰南方学院及坎伯兰法学院的入学年份仅找到LegiStorm明确列示；查过国会官方履历、学校官网和百科，没有找到第二个明确列示这些入学年份的来源。",
+        "学习形式及法学院专业：已打开的国会履历、学校新闻、百科和LegiStorm没有明确记载全日制或非全日制形式，亦未列JD之外的专业名称，相关字段留null。",
+        "1996年至1997年1月任职衔接：国会官方履历和LegiStorm仅记州长办公室任职结束于1996年、众议员任职始于1997-01-03，没有找到覆盖其间的另一份正式工作及起止日期。",
+        "拨款委员会任职起始日期：已打开本届委员会官网成员页和众议院书记官名单，确认现任委员，没有找到其首次就任该委员会委员的生效日期，start留null。",
+        "入党锚点第1至3级：检索本人党籍登记、党组织职务、州级参选登记及FEC记录，未找到早于1990年共和党州众议员提名候选人经历的合格登记或就任日期；1990年锚点仅按官方名录精度记到年。",
+        "欧洲安全与合作委员会现职：检索119届国会相关记录，委员会现行成员页打开失败，未取得可打开的现行名单，未写入current_roles。"
+      ],
+      "excluded": [
+        "底稿『现职起始2025-01』：2025年为本届任期宣誓时间；同一第4选区议员职务始于1997-01-03，已改用首次任职日期。",
+        "底稿『北阿拉巴马大学、伯明翰南方学院，1983—1987年』：两个学校分别有不同起止年份，拆成两条，不将四年全部记作同一学校经历。",
+        "底稿『1992—1996年哈利维尔市法官』：与现行众议院官方历史页冲突，选用1992—1995年并在conflicts保留另一值。",
+        "底稿『1995—1996年兼任州长办公室高级助理』：国会名录列职务为助理法律顾问；现行官方历史页记市法官任期止于1995年，未取得兼职同期依据，改为独立任职条目。",
+        "底稿『1996—1997年罗伯特·阿德霍尔特国会竞选委员会共和党联邦众议员候选人』：参选身份及委员会登记不构成该委员会正式任职的证据，删除工作履历条目。",
+        "底稿『1990年6月参加工作』：没有月份依据，按私人执业律师经历起始年份推算为1990年。",
+        "底稿『1992年8月加入美国共和党』：没有支持该年月的锚点；官方名录已记其1990年为共和党州众议院提名候选人，采用1990年。",
+        "FEC『1996-02-14竞选委员会登记』：晚于已证实的1990年共和党参选经历，不用作首次加入现党籍的时间。",
+        "小组委员会职务：按本批规则不在current_roles单列。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

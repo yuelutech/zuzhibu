@@ -1,0 +1,671 @@
+{
+  "id": "ko-seung-beom",
+  "name_zh": "高承范",
+  "name_en": "Ko Seung-Beom",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“SK海力士公司 Chairman of the Board SK hynix Chairman of the Board”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/ko-seung-beom.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://mis-prod-koce-skhynixhomepage-cdn-01-ep.azureedge.net/img/content/img_member_ksb.jpg",
+    "source": "https://www.skhynix.com/sustainability/UI-FR-SA1502/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "SK hynix",
+      "role_en": "Chairman of the Board"
+    }
+  ],
+  "notes": [
+    "SEC field blank: SK hynix is listed in South Korea; no SEC annual report or proxy biography was identified in its official reporting sources."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“SK海力士公司 Chairman of the Board SK hynix Chairman of the Board”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "ko-seung-beom-20261018",
+    "line": "cadre",
+    "subject_id": "ko-seung-beom",
+    "title": "高承范简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.skhynix.com/sustainability/UI-FR-SA1502/",
+        "title": "SK hynix — Board of Directors",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Ko Seung-Beom Chairman of the Board ... 2026.03 (First appointment : 2026.03)",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://kind.krx.co.kr/external/2026/05/06/000689/20260430000693/99602.htm",
+        "title": "SK hynix — 최대주주등소유주식변동신고서",
+        "published_at": "2026-05-06",
+        "checked_at": "2026-10-18",
+        "excerpt": "고승범 생년월일 621109 성별 남 ... 국적 대한민국",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.bkl.co.kr/en/law/member/11321-seung-beom-koh",
+        "title": "Seung Beom Koh — Bae, Kim & Lee LLC",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Seung Beom Koh began his public service career in 1985 ... 1995 The American University (Ph.D.)",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.bkl.co.kr/zh/law/member/11321-seung-beom-koh",
+        "title": "高承範 — 法务法人太平洋",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "高承範 资深顾问",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "高承范"
+    ],
+    "person": {
+      "name": {
+        "value": "高承范",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "韩国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1962-11",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1985-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "本人任职律所明确1985年开始公职，月份未明确，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1985",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "美利坚大学经济学专业",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哲学博士",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "SK 海力士公司",
+        "role": "董事长、独立董事",
+        "roles": [
+          "董事长",
+          "独立董事"
+        ],
+        "start": {
+          "value": "2026-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "法务法人太平洋",
+        "role": "资深顾问",
+        "roles": [
+          "资深顾问"
+        ],
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "sector": "advisory",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1981",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1985年本科毕业减4年。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1985",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1985",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "首尔大学",
+        "role": null,
+        "program": "经济学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1985-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1985年开始公职，月份取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1985",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国财政部、财政经济部",
+        "role": "公务员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "公务员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "亚洲开发银行",
+        "role": "经济学家",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "经济学家"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国金融监督委员会",
+        "role": "银行监督处处长、非银行监督处处长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "银行监督处处长",
+          "非银行监督处处长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "世界银行",
+        "role": "高级金融部门专家",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级金融部门专家"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国金融委员会",
+        "role": "金融政策局局长、秘书长、常任委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "金融政策局局长",
+          "秘书长",
+          "常任委员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021-08",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国银行货币政策委员会",
+        "role": "委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "委员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-08",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国金融委员会",
+        "role": "委员长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "委员长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "首尔市立大学经济学部",
+        "role": "客座教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "客座教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "法务法人太平洋",
+        "role": "资深顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "资深顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "SK 海力士公司",
+        "role": "董事长、独立董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长",
+          "独立董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "SK 海力士公司",
+    "conflicts": [],
+    "unknowns": [
+      "首尔大学硕士1989年、美利坚大学博士1995年毕业已核得；入学年月及是否在职学习未核得。",
+      "1985—1998年具体岗位、2010—2016年同单位职务交接时间未载，未拆分。",
+      "2022年7月退休至2024年间主要任职未核得；青年金融教育协议会理事长2023年起已见官网，属协会兼职。",
+      "董事长具体生效日未核得，2026年3月为公司列示的董事到任月。",
+      "未查到党籍时间。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Ko Seung-Beom；SK 海力士公司；董事长、独立董事",
+    "review_items": [
+      "汉名采用本人律所中文页高承範，转简体高承范。",
+      "与1994年出生的足球运动员Ko Seung-beom、1963年出生的企业高管고승범区分。"
+    ]
+  }
+}

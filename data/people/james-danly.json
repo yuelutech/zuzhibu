@@ -1,0 +1,489 @@
+{
+  "id": "james-danly",
+  "name_zh": "詹姆斯·丹利",
+  "name_en": "James Danly",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Department of Energy Deputy Secretary Department of Energy Deputy Secretary”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/james-danly.json（sanju-neige，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.energy.gov/sites/default/files/styles/full_article_width/public/2025-07/JAMES-DANLY-PORTRAIT.jpg?itok=9Og4YlMQ",
+    "source": "https://www.energy.gov/person/james-danly",
+    "file": "james-danly.jpg",
+    "source_kind": "官方照片（补采）",
+    "license": "美国联邦政府官网标准照；页面未单列许可条款。"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Department of Energy",
+      "role_en": "Deputy Secretary"
+    }
+  ],
+  "notes": [
+    "补采任务 sanju-neige（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Department of Energy Deputy Secretary Department of Energy Deputy Secretary”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/james-danly.json（sanju-neige，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-james-danly",
+    "line": "cadre",
+    "subject_id": "james-danly",
+    "title": "詹姆斯·丹利简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.energy.gov/person/james-danly",
+        "title": "James Danly",
+        "excerpt": "James P. Danly was sworn in as Deputy Secretary on June 9, 2025.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://legacy-assets.eenews.net/open_files/assets/2019/11/01/document_ew_06.pdf",
+        "title": "James Patrick Danly — FOIA released resume",
+        "excerpt": "Yale May 1999; Vanderbilt May 2013; Army 2005–2008; ISW 2008–2009; CFR 2009–2010; clerk 2013–2014.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-neige",
+      "research"
+    ],
+    "person": {
+      "name": {
+        "value": "詹姆斯·丹利",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1977-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3、9.6：本科毕业年1999减22；出生月未核，取7月。",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1999",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "研究生",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法学博士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国能源部",
+        "role": "常务副部长",
+        "start": {
+          "value": "2025-06-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1995-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1999-05",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1999-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "耶鲁大学",
+        "role": null,
+        "program": "英语",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国陆军",
+        "role": "驻伊拉克多国部队联络官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "战争研究所",
+        "role": "执行主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国外交关系协会",
+        "role": "国际事务研究员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2010-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2013-05",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "2013-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "范德堡大学",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2014",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国第六巡回上诉法院",
+        "role": "法官书记员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2014",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "世达律师事务所",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-06-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国能源部",
+        "role": "常务副部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国政要",
+    "conflicts": [],
+    "unknowns": [
+      "真实出生年月、国籍直接陈述、首份全职工作时间和入党锚点未核实；2005年是已知服役岗位起点，未当成首次入伍日期。",
+      "FERC总法律顾问、委员、主席和返回世达任合伙人的完整任期待补；历史律师条目ongoing=false。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Deputy Secretary | Department of Energy",
+    "review_items": [
+      "表外译名待审：詹姆斯·丹利",
+      "完整简历卡缺项：nationality、work_start。保留seed级事实包。"
+    ]
+  }
+}

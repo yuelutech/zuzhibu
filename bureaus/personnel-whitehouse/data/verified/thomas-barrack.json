@@ -1,0 +1,855 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-thomas-barrack",
+      "line": "cadre",
+      "subject_id": "thomas-barrack",
+      "title": "托马斯·巴拉克简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.iletisim.gov.tr/englIsh/haberler/detay/president-erdogan-receives-u.s-ambassador-barrack-and-u.s-congressman-issa",
+          "title": "President Erdoğan receives U.S. Ambassador Barrack and U.S. Congressman Issa",
+          "published_at": "2026-09-09",
+          "checked_at": "2026-10-18",
+          "excerpt": "U.S. Ambassador to Ankara and Special Presidential Envoy for Syria and Iraq Tom Barrack",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://gould.usc.edu/news/thomas-j-barrack-jr-named-new-usc-trustee/",
+          "title": "Thomas J. Barrack Jr. Named New USC Trustee",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "USC 1969; JD, San Diego 1972; Dunn president 1976; Bass principal 1986–1991; Colony founder 1991.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://gould.usc.edu/assets/docs/news/publications/magazine/fall-2012-winter-2013.pdf",
+          "title": "USC Law magazine, Fall 2012 / Winter 2013",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "bachelor’s degree in sociology ... 1969; earned his J.D. in 1972.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://lamag.com/news/the-takedown-of-tom-barrack/",
+          "title": "The Takedown of Tom Barrack",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "In 1972 ... Barrack landed a job working for Herbert Kalmbach.",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://www.washingtonpost.com/archive/politics/1983/10/08/mulling-future-watt-visits-ex-aides-ranch/953d7a01-f8e8-4d3e-9ad3-19b1e8f15246/",
+          "title": "Mulling Future, Watt Visits Ex-Aide’s Ranch",
+          "published_at": "1983-10-08",
+          "checked_at": "2026-10-18",
+          "excerpt": "deputy undersecretary of interior for the first three months ... moved to the Commerce Department ... in June he left the government",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://labusinessjournal.com/finance/barrack-steps-down-exec-chairman-colony-capital/",
+          "title": "Barrack Steps Down as Executive Chairman at Colony Capital",
+          "published_at": "2021-03-31",
+          "checked_at": "2026-10-18",
+          "excerpt": "73-year-old Barrack ... will stay on as a director; Nancy Curtin replaces Barrack ... effective April 1.",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.sec.gov/Archives/edgar/data/1679688/000167968820000026/clny2020def14aproxy.htm",
+          "title": "Colony Capital 2020 proxy statement",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "First Republic Bank June 2010–February 2020; Colony Starwood Homes January 2016–June 2017; Carrefour January 2014–May 2016.",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://mobile.aa.com.tr/tr/politika/cumhurbaskani-erdogan-3-ulkenin-buyukelcisini-kabul-etti/3567844",
+          "title": "Cumhurbaşkanı Erdoğan 3 ülkenin büyükelçisini kabul etti",
+          "published_at": "2025-05-14",
+          "checked_at": "2026-10-18",
+          "excerpt": "Thomas Joseph Barrack ... güven mektuplarını sundu.",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://sana.sy/en/politics/2320512/",
+          "title": "Trump appoints Tom Barrack as Special Presidential Envoy to Syria and Iraq",
+          "published_at": "2026-05-31",
+          "checked_at": "2026-10-18",
+          "excerpt": "May 31: Special Presidential Envoy to Syria and Iraq; continues as ambassador to Türkiye.",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://www.foreign.senate.gov/download/08/14/2025/040125_barrack_testimonypdf",
+          "title": "Thomas Barrack statement to Senate Foreign Relations Committee",
+          "published_at": "2025-04-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "I was a finance lawyer and was sent to Saudi Arabia in 1973; Colony Capital ... I founded in 1991.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "托马斯·巴拉克",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1947-09",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "2021-03-31报道73岁，出生区间1947-04-01至1948-03-31，取中间月份1947-09。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2021-03-31",
+            "duration_years": 73
+          }
+        },
+        "birth_place": {
+          "value": "加利福尼亚洛杉矶",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1972-06",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "1972年法学院毕业后在Kalmbach律所任职；毕业月按美国学年取5月，参加工作取次月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1972-05",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法律博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国驻土耳其大使馆",
+          "role": "大使",
+          "start": {
+            "value": "2025-05-14",
+            "source_ids": [
+              "s1",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "roles": [
+            "大使"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "白宫",
+          "role": "叙利亚和伊拉克问题总统特使",
+          "start": {
+            "value": "2026-05-31",
+            "source_ids": [
+              "s1",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "roles": [
+            "叙利亚和伊拉克问题总统特使"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1965",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "本科1969年毕业，减4年。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1969",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1969",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "南加利福尼亚大学",
+          "role": null,
+          "program": "社会学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1969",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "1972年JD毕业，减3年；两校转学节点未知。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1972",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1972",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "南加利福尼亚大学、圣迭戈大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "法律博士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1972-06",
+            "source_ids": [
+              "s2",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "1972年法学院毕业后在Kalmbach律所任职；毕业月按美国学年取5月，参加工作取次月。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "1972-05",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "Herbert W. Kalmbach 律师事务所",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1976",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Dunn International Corporation",
+          "role": "总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1983-01",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1983-03",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国内政部",
+          "role": "副次长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "副次长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1983-03",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1983-06",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国商务部",
+          "role": "工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员"
+          ],
+          "role_category": {
+            "value": "moved to the Commerce Department",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "来源未明确实际任命职称，仅记录其在商务部任职；预期提名职位不作实职。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1986",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1991",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Robert M. Bass Group",
+          "role": "负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "负责人"
+          ],
+          "role_category": {
+            "value": "principal",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "principal按投资机构负责人译。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1991",
+            "source_ids": [
+              "s2",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021",
+            "source_ids": [
+              "s2",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Colony Capital",
+          "role": "创始人、董事长、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始人",
+            "董事长",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010-06",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2020-02",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "第一共和银行",
+          "role": "董事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "董事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014-01",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016-05",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "家乐福",
+          "role": "董事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "董事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016-01",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017-06",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Colony Starwood Homes",
+          "role": "联席董事长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联席董事长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-05-14",
+            "source_ids": [
+              "s1",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国驻土耳其大使馆",
+          "role": "大使",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "ongoing": true,
+          "roles": [
+            "大使"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-05-23",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2026-05",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国务院",
+          "role": "叙利亚问题特使",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "叙利亚问题特使"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-05-31",
+            "source_ids": [
+              "s1",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "白宫",
+          "role": "叙利亚和伊拉克问题总统特使",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "ongoing": true,
+          "roles": [
+            "叙利亚和伊拉克问题总统特使"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "Dunn离任及Oxford Development Ventures总裁、E. F. Hutton高级副总裁的起止年月未知。",
+        "Colony历次董事长、首席执行官交接时间未全部查明，合并记载；2021年后董事离任日期及其他私人企业职务待核。",
+        "2012年高校简介列出多所学校咨询或理事职务，未找到截至2026年仍在任依据，不列为现职。",
+        "出生日期尚未取得原始记录；使用带日期年龄陈述推算年月。",
+        "本科文学学士名称依据1969年BA资料；专业以南加利福尼亚大学校刊社会学为准。",
+        "党籍锚点未知。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "Thomas Barrack；美国驻土耳其大使馆",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

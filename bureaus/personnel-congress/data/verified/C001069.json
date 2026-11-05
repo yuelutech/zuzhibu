@@ -1,0 +1,629 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001069",
+      "line": "cadre",
+      "subject_id": "c001069",
+      "title": "乔·考特尼简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/C/COURTNEY,-Joe-(C001069)/",
+          "title": "COURTNEY, Joe | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in West Hartford, Hartford County, Conn., April 6, 1953; ... J.D., University of Connecticut, Storrs, Conn., 1978;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/C001069",
+          "title": "Office of the Clerk, U.S. House of Representatives — Joe Courtney",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Joe Courtney ... Connecticut (CT) – 2nd, Democrat ... Committee on Armed Services ... Committee on Education and Workforce",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2011-12-01/html/CDIR-2011-12-01-CT.htm",
+          "title": "Congressional Directory for the 112th Congress (2011-2012), December 2011. — Connecticut",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Tufts University, 1971-75; ... Connecticut Law School, 1975-78; ... Vernon Town Attorney, 2003-06; ... attorney, Courtney, Boyan, and Foran, LLC, 1978-2006;",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-CT.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022. — Connecticut",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Hartford, CT, April 6, 1953; ... Connecticut State Representative, 1987-94; ... attorney, Courtney, Boyan, and Foran, LLC, 1978-2006;",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://electionresults.hartfordct.gov/eng/candidates/view/Joseph-David-Courtney",
+          "title": "State of Connecticut Elections Database » Candidate: Joseph David Courtney",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Joseph David Courtney (D) ... Ran in 0 primaries. ... 1986 Nov 4 ... State Representative ... District 56 ... Joseph D. Courtney won",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://clerk.house.gov/Committees/AS00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on Armed Services",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Democrat ... Joe Courtney, CT",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://clerk.house.gov/Committees/ED00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on Education and Workforce",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Democrat ... Joe Courtney, CT",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://joecourtney.com/meet-joe/",
+          "title": "Meet Joe - Joe Courtney",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "he entered private practice ... Joe served as a public defender in Vernon ... After three years",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.fec.gov/data/candidate/H2CT02112/",
+          "title": "COURTNEY, JOSEPH - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Candidate for House Connecticut - 02 ID: H2CT02112 DEMOCRATIC PARTY ... Current version (PDF) ... Filed 11/24/2024",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:CT"
+      ],
+      "person": {
+        "name": {
+          "value": "乔·考特尼",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1953-04-06",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1978",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "国会名录将其律师职业经历记为1978—2006年；以最早有明确起始年份的毕业后职业经历推定参加工作年。来源：https://www.govinfo.gov/content/pkg/CDIR-2011-12-01/html/CDIR-2011-12-01-CT.htm ；https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-CT.htm 。公开传记另载先任公设辩护律师三年，但未给出该段起止年份；本字段不推定月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1978",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "康涅狄格大学法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1986-11",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以民主党候选人身份参加康涅狄格州第56选区州众议员大选，1986-11-04；来源：https://electionresults.hartfordct.gov/eng/candidates/view/Joseph-David-Courtney 。页面标识其为(D)，列出1986年11月4日该选举，并记载数据库收录0场初选。已检索公开党籍登记、本人宣布入党、早期党组织任职及州级参选登记线索，未找到可打开并确认的更高等级早期锚点。FEC委员会登记日2005-03-18及当前参选声明2024-11-24晚于1986年有效锚点，不采用；底稿1986年6月无来源，不采用。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1986-11-04",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（康涅狄格州第2选区）",
+          "role": "",
+          "start": {
+            "value": "2007-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院军事委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院教育和劳动力委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1971",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1975",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "塔夫茨大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1978",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "康涅狄格大学法学院",
+          "role": null,
+          "program": "法学",
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1978",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Courtney, Boyan, and Foran, LLC",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1987",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "康涅狄格州众议院",
+          "role": "州众议员（第56选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员（第56选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "康涅狄格州弗农镇",
+          "role": "法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（康涅狄格州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（康涅狄格州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.birth_place",
+          "alternatives": [
+            {
+              "value": "康涅狄格州西哈特福德",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "康涅狄格州哈特福德",
+              "source_ids": [
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": null,
+          "reason": "两项均为国会一级来源，城市记载不同；出生地留空，交AI政见确认。"
+        },
+        {
+          "field": "careers.律师任职单位及起始年份",
+          "alternatives": [
+            {
+              "value": "Courtney, Boyan, and Foran, LLC律师，1978—2006年",
+              "source_ids": [
+                "s4",
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "先任弗农公设辩护律师三年，随后进入私人执业；未注明起止年份",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "Courtney, Boyan, and Foran, LLC律师，1978—2006年",
+          "reason": "采用两版正式国会名录明确记载的单位和年份；竞选网站的先后经历保留为冲突线索，不据三年时长补造1981年交接日期。"
+        }
+      ],
+      "unknowns": [
+        "出生地：众议院历史页记西哈特福德，国会名录记哈特福德；一级来源冲突，字段留空。",
+        "参加工作月份：查阅2011年、2022年国会名录及本人竞选传记，仅找到1978年职业经历起始年，没有找到月份。",
+        "公设辩护律师经历：本人竞选传记确认在弗农任职三年，但没有起止年份和正式雇佣机构名称；未单列履历。",
+        "本科专业、学习是否全日制：查阅众议院历史页、国会名录及本人竞选传记，没有找到明确记载。",
+        "第119届委员会任职起始日期：书记官议员页及两委员会名单确认现任委员，没有给出本届委员任职生效日期；current_roles.start留空，未编入有起始日期要求的annotations。",
+        "海上力量和投送力量小组委员会资深成员：议员官网传记搜索结果提供线索，但打开原文返回403；未用搜索摘要取证。",
+        "州众议院公共卫生、人类服务委员会主席经历：本人竞选传记提及职务，没有给出就任和结束年份；未增加履历条目。",
+        "族裔：已查国会官方人物页及本人公开传记，没有找到符合本人自述或官方统计要求的证据。",
+        "最高学位第二项明确学位类别证据：众议院历史页明确记载J.D.；已打开的国会名录和本人传记支持学校及1978年毕业，但未同样明确记载J.D.类别。"
+      ],
+      "excluded": [
+        "底稿『现职开始于2025-01』：这是本届任期起点；该选区连续任职始于2007-01-03。",
+        "底稿『1978—1981年康涅狄格州公设辩护律师』：找到三年任职描述，未找到明确起止年份，不沿用分段。",
+        "底稿『1981—1986年、1995—2003年Flaherty, Meisler and Courtney律师事务所合伙人』：未取得可打开的合格来源支持律所名称、合伙人身份及两段起止年份；改用正式国会名录记载。",
+        "底稿『1987—1995年康涅狄格州众议员』：已打开的众议院历史页和两版国会名录均记1987—1994年，采用这些来源的年份。",
+        "底稿『1986年6月加入美国民主党』：没有来源；采用1986-11-04党派选举锚点，入党字段写1986-11。",
+        "底稿『1978年6月参加工作』：没有月份依据，保留1978年。",
+        "底稿『小组委员会资深成员』单列现任：本批现任委员会只列全委员会；该小组委员会职务原文还存在打开失败问题。",
+        "底稿『2025年起兼任教育和劳动力委员会委员』：现职已确认，但该起始日期未取得生效依据，不沿用括注日期。",
+        "底稿『西哈特福德市人』：官方出生地记载冲突，暂不选值。",
+        "康涅狄格大学2019年毕业典礼页面：打开后未读到所需人物原文，未纳入sources。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "联邦众议员（康涅狄格州第2选区）＋美国国会众议院；Bioguide C001069；FEC H2CT02112",
+      "review_items": [
+        "出生地一级来源冲突交AI政见确认；本包字段留空。",
+        "复核国会名录将1978—2006年归于同一律所的概括，与本人所述先任公设辩护律师三年的关系。",
+        "入党采用1986年11月党派大选锚点；继续查找1986年州级最初参选登记或更早党籍登记，可据更高等级有效锚点更新。",
+        "补取可打开的议员官网或委员会官方原文，确认小组委员会资深成员及其生效时间。"
+      ]
+    }
+  ]
+}

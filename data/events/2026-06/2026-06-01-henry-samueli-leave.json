@@ -1,0 +1,93 @@
+{
+  "id": "2026-06-01-henry-samueli-leave",
+  "date": "2026-06-01",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "henry-samueli",
+  "person": {
+    "name_zh": "亨利·萨穆埃利",
+    "name_en": "Henry Samueli",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": null,
+  "effective_at": "2026-06",
+  "ended_roles": [
+    {
+      "organization": "博通公司",
+      "role": "董事长",
+      "organization_en": "Broadcom Inc.",
+      "role_en": "Chairman of the Board",
+      "start": "2018-12",
+      "end": "2026-06",
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": [
+    {
+      "organization": "博通公司",
+      "role": "董事",
+      "organization_en": "Broadcom Inc.",
+      "role_en": "Director",
+      "start": "2016-02",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "亨利·萨穆埃利卸任博通董事长，继续担任董事",
+  "summary": "博通现行个人简介记载，亨利·萨穆埃利的董事长任期于2026年6月结束，现任董事。公告日和具体生效日未载。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://investors.broadcom.com/board-member/henry-samueli-phd",
+      "title": "Henry Samueli, Ph.D. — Broadcom Board Member",
+      "publisher": "Broadcom",
+      "published_at": null,
+      "excerpt": "Chairman of the Board from December 2018 until June 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090053",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（s1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "原任“博通公司 董事长 Broadcom Inc. Chairman of the Board”在记录的现任职务里找不到对应项，未移出"
+    ],
+    "bureau_before": "ai",
+    "bureau_after": "ai",
+    "person_id": "henry-samueli",
+    "reason": "主要职务“博通公司 董事”：AI 与科技机构名单"
+  }
+}

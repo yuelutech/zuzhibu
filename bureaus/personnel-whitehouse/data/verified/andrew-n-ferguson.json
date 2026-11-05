@@ -1,0 +1,858 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-andrew-n-ferguson",
+      "line": "cadre",
+      "subject_id": "andrew-n-ferguson",
+      "title": "安德鲁·弗格森简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.ftc.gov/about-ftc/commissioners-staff/andrew-n-ferguson",
+          "title": "Andrew N. Ferguson",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Chairman; Solicitor General; Chief Counsel to Senator Mitch McConnell",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.commerce.senate.gov/wp-content/uploads/media/doc/Andrew%20Ferguson%20Questionnaire.pdf",
+          "title": "Senate nominee questionnaire: Andrew N. Ferguson",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "June 17, 1986, Harrisonburg, Virginia; University of Virginia, 2005–2009; J.D. awarded May 2012",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://search.ftc.gov/news-events/news/press-releases/2025/01/andrew-n-ferguson-takes-over-ftc-chairman",
+          "title": "Andrew N. Ferguson Takes Over as FTC Chairman",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "designated as Chairman ... January 20, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.ftc.gov/about-ftc/commissioners-staff/commissioners",
+          "title": "Commissioners",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Andrew N. Ferguson; Chairman Sworn in: April 2, 2024",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-october-4-2026",
+          "title": "Truth Social Posts of October 4, 2026",
+          "published_at": "2026-10-04",
+          "checked_at": "2026-10-18",
+          "excerpt": "will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "安德鲁·弗格森",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1986-06-17",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "弗吉尼亚州哈里森堡",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2012-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2012年5月法律博士毕业，同年任全职法官助理；按毕业次月推定首职月份",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2012-05",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "弗吉尼亚大学法学院研究生",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法律博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦贸易委员会",
+          "role": "主席",
+          "start": {
+            "value": "2025-01-20",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国联邦贸易委员会",
+          "role": "委员",
+          "start": {
+            "value": "2024-04-02",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国超级智能工作组",
+          "role": "共同负责人",
+          "start": {
+            "value": "2026-10-04",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "共同负责人"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2005",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2009-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "弗吉尼亚大学",
+          "role": "历史学专业学习",
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "历史学专业学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "威廉与玛丽学院法学院",
+          "role": "法律专业学习",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律专业学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2010",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "弗吉尼亚大学法学院",
+          "role": "法律专业学习",
+          "program": null,
+          "degree_awarded": {
+            "value": "法律博士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律专业学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国哥伦比亚特区巡回上诉法院",
+          "role": "凯伦·亨德森法官助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "凯伦·亨德森法官助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "科文顿律师事务所",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "班克罗夫特律师事务所",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国最高法院",
+          "role": "克拉伦斯·托马斯大法官助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "克拉伦斯·托马斯大法官助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "盛德律师事务所",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "参议院司法委员会",
+          "role": "查克·格拉斯利主席高级特别法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "查克·格拉斯利主席高级特别法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "参议院司法委员会",
+          "role": "林赛·格雷厄姆主席提名与宪法首席法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "林赛·格雷厄姆主席提名与宪法首席法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "参议院共和党领袖办公室",
+          "role": "米奇·麦康奈尔首席法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "米奇·麦康奈尔首席法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-12",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2022-01",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "杰森·米亚雷斯竞选团队",
+          "role": "过渡法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "过渡法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2022-01",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "弗吉尼亚州",
+          "role": "副检察长（Solicitor General）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "副检察长（Solicitor General）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2024-04-02",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国联邦贸易委员会",
+          "role": "委员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [
+            "委员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-20",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国联邦贸易委员会",
+          "role": "主席",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "主席"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2026-10-04",
+                "source_ids": [
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "美国超级智能工作组",
+              "role": "共同负责人",
+              "roles": [
+                "共同负责人"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s5"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "党籍及正式加入政党时间未查明；政党领袖雇员经历不作为入党依据。",
+        "弗吉尼亚州副检察长离任日期未查清；2017年至2018年间是否另有任职未查清。",
+        "10月15日Semafor列其为超级智能工作组副主席；当前采用总统10月4日原文的负责人称谓，细分职衔尚待一级来源。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Andrew N. Ferguson；联邦贸易委员会",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

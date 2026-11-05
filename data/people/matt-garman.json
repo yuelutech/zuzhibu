@@ -1,0 +1,552 @@
+{
+  "id": "matt-garman",
+  "name_zh": "马特·加曼",
+  "name_en": "Matt Garman",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Amazon and AWS Chief Executive Officer, Amazon Web Services Amazon and AWS Chief Executive Officer, Amazon Web Services”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/matt-garman.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://s2.q4cdn.com/299287126/files/images/officers/2024/matt-garman-9255_new-1.jpg",
+    "source": "https://ir.aboutamazon.com/officers-and-directors/default.aspx?stream=top"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Amazon and AWS",
+      "role_en": "Chief Executive Officer, Amazon Web Services"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Amazon and AWS Chief Executive Officer, Amazon Web Services Amazon and AWS Chief Executive Officer, Amazon Web Services”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "matt-garman-20261018",
+    "line": "cadre",
+    "subject_id": "matt-garman",
+    "title": "马特·加曼简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.aboutamazon.com/author/matt-garman",
+        "title": "Matt Garman, CEO of Amazon Web Services",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "He has a BS and MS from Stanford University in Industrial Engineering",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.aboutamazon.com/news/company-news/leadership-update-aws-adam-selipsky-matt-garman",
+        "title": "Andy Jassy makes AWS leadership announcement",
+        "published_at": "2024-05-14",
+        "checked_at": "2026-10-18",
+        "excerpt": "Matt Garman will become CEO of AWS, effective June 3rd.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "title": "Amazon 2025 Form 10-K",
+        "published_at": "2026-02-06",
+        "checked_at": "2026-10-18",
+        "excerpt": "Matthew S. Garman | 49 | CEO Amazon Web Services",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://kellogg.northwestern.edu/news/blog/2025/11/20/intern-industry-leader-matt-garman-amazon/",
+        "title": "From intern to industry leader: Matt Garman’s journey at Amazon",
+        "published_at": "2025-11-20",
+        "checked_at": "2026-10-18",
+        "excerpt": "Matt Garman ’06 MBA",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.aboutamazon.com/news/aws/aws-ceo-matt-garman-things-to-know",
+        "title": "10 things you need to know about AWS CEO Matt Garman",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "grew up in Scottsdale, Arizona",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "马特·加曼"
+    ],
+    "person": {
+      "name": {
+        "value": "马特·加曼",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1976-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "2026-01-28年龄49岁，区间1976-01-29至1977-01-28，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-01-28",
+          "duration_years": 49
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "西北大学凯洛格管理学院工商管理专业",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "工商管理硕士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "亚马逊云科技公司（AWS）",
+        "role": "首席执行官",
+        "roles": [
+          "首席执行官"
+        ],
+        "start": {
+          "value": "2024-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2004-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "2006年MBA毕业且本人称两年全日制项目，倒推2004年；美国学年9月入学",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2006-05",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "2006-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "美国毕业月取5月",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2006-05",
+            "duration_years": null
+          }
+        },
+        "organization": "西北大学凯洛格管理学院",
+        "role": null,
+        "program": "工商管理",
+        "degree_awarded": {
+          "value": "工商管理硕士学位",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2006年毕业后全职加入AWS；按毕业月下月取6月",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2006-05",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2012-12",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "亚马逊云科技公司（AWS）",
+        "role": "产品经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "产品经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-12",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2016年兼掌全部计算服务，月份未载取7月",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2016",
+            "duration_years": null
+          }
+        },
+        "organization": "亚马逊云科技公司（AWS）",
+        "role": "EC2副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "EC2副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2016年开始任计算服务总经理，缺月取7月",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2016",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2018-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "亚马逊云科技公司（AWS）",
+        "role": "EC2副总裁、计算服务总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "EC2副总裁",
+          "计算服务总经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "亚马逊云科技公司（AWS）",
+        "role": "计算服务副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "计算服务副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021-02",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "亚马逊云科技公司（AWS）",
+        "role": "市场营销、销售与支援副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "市场营销",
+          "销售与支援副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-02",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2024-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "亚马逊云科技公司（AWS）",
+        "role": "销售、市场营销与全球服务高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "销售",
+          "市场营销与全球服务高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "亚马逊云科技公司（AWS）",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "亚马逊云科技公司（AWS）",
+    "conflicts": [],
+    "unknowns": [
+      "国籍未找到直接的一级或合格二级依据。",
+      "AWS以前有创业企业的产品管理经历，但公司和起止年未取得可打开的原始依据；参加工作时间留空。",
+      "斯坦福工业工程学士、硕士学位有公司依据，具体学习年份未核到。"
+    ],
+    "excluded": [
+      "2005年Amazon实习不作为第一份全职工作。",
+      "同名英国企业主、冰球运动员、心理治疗师记录未采用。"
+    ],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Matt Garman；亚马逊云科技公司（AWS）；首席执行官",
+    "review_items": [
+      "出生地留空：Scottsdale仅为成长地。",
+      "2016年计算服务总经理与2018年计算服务副总裁是不同职务称谓，分别按公司公告、SEC申报记载。",
+      "2020—2021年SEC职务中的Support译作支援；2021—2024年的Global Services译作全球服务。"
+    ]
+  }
+}

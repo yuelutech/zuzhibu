@@ -1,0 +1,119 @@
+{
+  "id": "defense",
+  "title": "国防",
+  "groups": [
+    {
+      "title": "",
+      "style": "row",
+      "members": [
+        {
+          "person": "pete-hegseth",
+          "post": "国防部（战争部）部长",
+          "short_post": "国防部部长"
+        },
+        {
+          "person": "dan-caine",
+          "post": "参谋长联席会议主席"
+        }
+      ]
+    },
+    {
+      "title": "各军种",
+      "note": "按陆军、海军、海军陆战队、空军、太空军、海岸警卫队、国民警卫局排列",
+      "style": "grid",
+      "members": [
+        {
+          "person": "adam-telle",
+          "post": "陆军部代理部长"
+        },
+        {
+          "person": "christopher-c-laneve",
+          "post": "陆军代理参谋长"
+        },
+        {
+          "person": "hung-cao",
+          "post": "海军部代理部长"
+        },
+        {
+          "person": "daryl-l-caudle",
+          "post": "海军作战部长"
+        },
+        {
+          "person": "eric-m-smith",
+          "post": "海军陆战队司令"
+        },
+        {
+          "person": "troy-e-meink",
+          "post": "空军部部长"
+        },
+        {
+          "person": "kenneth-s-wilsbach",
+          "post": "空军参谋长"
+        },
+        {
+          "person": "douglas-a-schiess",
+          "post": "太空军太空作战部长"
+        },
+        {
+          "person": "kevin-e-lunday",
+          "post": "海岸警卫队司令"
+        },
+        {
+          "person": "steven-s-nordhaus",
+          "post": "国民警卫局局长"
+        }
+      ]
+    },
+    {
+      "title": "联合作战司令部",
+      "note": "按司令部英文名称字母排列",
+      "style": "grid",
+      "members": [
+        {
+          "person": "dagvin-r-m-anderson",
+          "post": "非洲司令部司令"
+        },
+        {
+          "person": "brad-cooper",
+          "post": "中央司令部司令"
+        },
+        {
+          "person": "joshua-m-rudd",
+          "post": "网络司令部司令"
+        },
+        {
+          "person": "alexus-g-grynkewich",
+          "post": "欧洲司令部司令"
+        },
+        {
+          "person": "gregory-m-guillot",
+          "post": "北方司令部司令"
+        },
+        {
+          "person": "samuel-j-paparo-jr",
+          "post": "太平洋司令部司令"
+        },
+        {
+          "person": "francis-l-donovan",
+          "post": "南方司令部司令"
+        },
+        {
+          "person": "stephen-n-whiting",
+          "post": "太空司令部司令"
+        },
+        {
+          "person": "frank-m-bradley",
+          "post": "特种作战司令部司令"
+        },
+        {
+          "person": "richard-a-correll",
+          "post": "战略司令部司令"
+        },
+        {
+          "person": "randall-reed",
+          "post": "运输司令部司令"
+        }
+      ]
+    }
+  ]
+}

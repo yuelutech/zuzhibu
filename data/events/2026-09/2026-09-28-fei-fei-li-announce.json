@@ -1,0 +1,81 @@
+{
+  "id": "2026-09-28-fei-fei-li-announce",
+  "date": "2026-09-28",
+  "kind": "announce",
+  "kind_label": "宣布",
+  "person_id": "fei-fei-li",
+  "person": {
+    "name_zh": "李飞飞",
+    "name_en": "Fei-Fei Li",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-09-28",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "超威半导体公司（AMD）",
+      "role": "执行副总裁兼首席科学家",
+      "organization_en": "AMD",
+      "role_en": "Executive Vice President and Chief Scientist",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "amd-feifei"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "超威半导体公司宣布李飞飞将在收购完成后任执行副总裁兼首席科学家",
+  "summary": "9月28日，超威半导体公司宣布收购World Labs的协议。交易完成后，李飞飞将任执行副总裁兼首席科学家，向苏姿丰汇报。交易预计2026年底前完成，具体任职生效日未公布。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "amd-feifei",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
+      "title": "AMD to Acquire World Labs to Advance the Future of AI Compute",
+      "publisher": "AMD",
+      "published_at": "2026-09-28",
+      "excerpt": "Dr. Fei-Fei Li will join AMD as executive vice president and chief scientist",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-094711",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：amd-feifei"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-sep-fei-fei-li",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 fei-fei-li（库里没有此人）",
+      "现任职务新增：超威半导体公司（AMD）执行副总裁兼首席科学家",
+      "履历新增：2026-09 超威半导体公司（AMD）执行副总裁兼首席科学家",
+      "所属局：按宣布职务定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "fei-fei-li"
+  }
+}

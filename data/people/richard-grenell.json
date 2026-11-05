@@ -1,0 +1,916 @@
+{
+  "id": "richard-grenell",
+  "name_zh": "理查德·格雷内尔",
+  "name_en": "Richard Grenell",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Special Presidential Envoy for Special Missions The White House Special Presidential Envoy for Special Missions”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/richard-grenell.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://71e73428c98d2e64fd6b-596a7347bb8d75314ef5b080382defe2.ssl.cf2.rackcdn.com/writers/richard_grenell.jpg",
+    "source": "https://aclj.org/writers/richard-a-grenell"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "The White House",
+      "role_en": "Special Presidential Envoy for Special Missions"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Special Presidential Envoy for Special Missions The White House Special Presidential Envoy for Special Missions”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/richard-grenell.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-richard-grenell",
+    "line": "cadre",
+    "subject_id": "richard-grenell",
+    "title": "理查德·格雷内尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202500213/html/DCPD-202500213.htm",
+        "title": "总统签署特使任命",
+        "published_at": "2025-02-03",
+        "checked_at": "2026-10-18",
+        "excerpt": "Next, we have designation of Richard Grenell—Ric Grenell—to be your Envoy for Special Missions.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.munzinger.de/register/portrait/biographien/richard%2Bgrenell/00/31247",
+        "title": "Richard Grenell",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "18. September 1966 Jenison/MI; bis 1988 ein Bachelor-Studium; 1997-1998 ... Master-Abschluss",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/donald-trump-names-richard-grenell-as-presidential-envoy-for-special-missions-will-focus-on-venezuela-north-korea/articleshow/116332276.cms",
+        "title": "Trump names Richard Grenell as Presidential Envoy for Special Missions",
+        "published_at": "2024-12-15",
+        "checked_at": "2026-10-18",
+        "excerpt": "Administrator, American Arbitration Association (1989-1991).",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://aclj.org/writers/richard-a-grenell",
+        "title": "Richard A. Grenell, Senior Advisor for National Security and Foreign Policy",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Richard A. Grenell is Senior Advisor for National Security and Foreign Policy at the American Center for Law and Justice (ACLJ).",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://history.state.gov/departmenthistory/people/grenell-richard-a",
+        "title": "Richard A. Grenell — Department History",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Presentation of Credentials: May 8, 2018",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.aol.com/articles/white-house-investigating-missing-5-224858000.html",
+        "title": "White House investigating missing Kennedy Centre donation",
+        "published_at": "2026-10-14",
+        "checked_at": "2026-10-18",
+        "excerpt": "currently Mr Trump’s presidential envoy for special missions",
+        "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://www.axios.com/2026/03/13/grenell-kennedy-center-president-renovation",
+        "title": "Grenell expected to shift out of Kennedy Center leadership on Monday",
+        "published_at": "2026-03-13",
+        "checked_at": "2026-10-18",
+        "excerpt": "will still be active in the organization as an unpaid consultant",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "理查德·格雷内尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1966-09",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "密歇根州杰尼森",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1989-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "国务院履历经ANI报道转载列最早任职为1989年美国仲裁协会行政人员，月份未列，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1989",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "哈佛大学肯尼迪学院公共管理",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "公共管理硕士",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "白宫",
+        "role": "总统特别任务特使",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s6"
+        ],
+        "roles": [
+          "总统特别任务特使"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国法律与正义中心",
+        "role": "国家安全及外交政策高级顾问",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s4"
+        ],
+        "roles": [
+          "国家安全及外交政策高级顾问"
+        ],
+        "sector": "advisory",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1984",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1988",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "伊万杰尔学院",
+        "role": null,
+        "program": "政府与公共管理",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1989-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "国务院履历经ANI报道转载列最早任职为1989年美国仲裁协会行政人员，月份未列，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1991",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国仲裁协会",
+        "role": "行政人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "行政人员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1992",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "布什—奎尔连任竞选团队",
+        "role": "联盟协调员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联盟协调员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国共和党全国国会委员会",
+        "role": "竞选部助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "竞选部助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1995",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国众议院",
+        "role": "新闻秘书",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "新闻秘书"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "纽约州彩票局",
+        "role": "新闻秘书",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "新闻秘书"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哈佛大学肯尼迪学院",
+        "role": null,
+        "program": "公共管理",
+        "degree_awarded": {
+          "value": "公共管理硕士",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2000",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "圣迭戈市长办公室",
+        "role": "新闻秘书",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "新闻秘书"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国常驻联合国代表团",
+        "role": "通讯及公共外交主任、发言人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "通讯及公共外交主任、发言人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "联合国安全理事会",
+        "role": "美国候补代表",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "美国候补代表"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "DaVita 公司",
+        "role": "企业通讯高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "企业通讯高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Capitol Media Partners 公司",
+        "role": "创始合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "创始合伙人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-05",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国驻德国大使馆",
+        "role": "大使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "大使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020-02",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020-05",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国国家情报总监办公室",
+        "role": "代理国家情报总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "代理国家情报总监"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "代理",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "白宫",
+        "role": "总统特别任务特使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s6"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总统特别任务特使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025-02",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2026-03",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "约翰·肯尼迪表演艺术中心",
+            "role": "临时负责人",
+            "roles": [
+              "临时负责人"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s6"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "国务院2017年资格证书原网页返回Technical Difficulties；早期任职采用已打开的ANI报道所转述的同一履历。",
+      "2025年2月3日为特使任命签署日，签署时已执行任务；正式任职起点只列2025年。",
+      "1993年党组织竞选部助理为雇员经历，未据此推断入党时间。",
+      "2020—2025年部分咨询、教学、Fix California和塞尔维亚—科索沃特使经历尚缺完整起止年月。",
+      "2026年3月报道宣布其将任肯尼迪中心无偿顾问；未取得落实及持续任职的一级来源，未列现职。",
+      "美国法律与正义中心官网仍列高级顾问；起任日期未公开。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Richard Grenell；白宫",
+    "review_items": []
+  }
+}

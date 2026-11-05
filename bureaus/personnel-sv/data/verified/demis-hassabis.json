@@ -1,0 +1,569 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "demis-hassabis-20261018",
+      "line": "cadre",
+      "subject_id": "demis-hassabis",
+      "title": "德米斯·哈萨比斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "title": "The next chapter of our AI momentum",
+          "excerpt": "Chair of GDM and Chief Scientist of Alphabet",
+          "published_at": "2026-08-05",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.ae-info.org/ae/Member/Hassabis_Demis/CV",
+          "title": "Academia Europaea: Demis Hassabis CV",
+          "excerpt": "1993 - 1998",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.munzinger.de/register/portrait/biographien/Sir%2BDemosthenes%2BHassabis/00/33548",
+          "title": "Demis Hassabis",
+          "excerpt": "27. Juli 1976",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "德米斯·哈萨比斯"
+      ],
+      "person": {
+        "name": {
+          "value": "德米斯·哈萨比斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "英国",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1976-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "伦敦",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1993-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "伦敦大学学院",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "认知神经科学博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "字母表公司",
+          "role": "首席科学家",
+          "start": {
+            "value": "2026-08",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "谷歌DeepMind公司",
+          "role": "董事长",
+          "start": {
+            "value": "2026-08",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "Isomorphic Labs公司",
+          "role": "创始人、首席执行官",
+          "start": {
+            "value": "2021-02",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1993",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1998-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1998",
+              "duration_years": null
+            }
+          },
+          "organization": "Bullfrog、Lionhead游戏工作室",
+          "role": "首席人工智能程序员、首席设计师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1994-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1994",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1997-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1997",
+              "duration_years": null
+            }
+          },
+          "organization": "剑桥大学",
+          "role": null,
+          "program": "计算机科学",
+          "degree_awarded": {
+            "value": "学士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1998-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1998",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2005-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2005",
+              "duration_years": null
+            }
+          },
+          "organization": "Elixir Studios公司",
+          "role": "创始人、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2005-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2005",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2009-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2009",
+              "duration_years": null
+            }
+          },
+          "organization": "伦敦大学学院",
+          "role": null,
+          "program": "认知神经科学",
+          "degree_awarded": {
+            "value": "博士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2009",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2010-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2010",
+              "duration_years": null
+            }
+          },
+          "organization": "伦敦大学学院、麻省理工学院、哈佛大学",
+          "role": "博士后研究员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010-09",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023-04",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "DeepMind公司",
+          "role": "联合创始人、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-04",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2026-08",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "谷歌DeepMind公司",
+          "role": "首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-08",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "字母表公司",
+          "role": "首席科学家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "字母表公司",
+      "conflicts": [],
+      "unknowns": [
+        "Bullfrog与Lionhead之间的转任时间未知，合并保留原来源给出的1993—1998年区间；三家博士后机构各自起止时间未知。"
+      ],
+      "excluded": [],
+      "country_profile": "other",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

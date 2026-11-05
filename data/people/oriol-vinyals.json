@@ -1,0 +1,345 @@
+{
+  "id": "oriol-vinyals",
+  "name_zh": "奥廖尔·维尼亚尔斯",
+  "name_en": "Oriol Vinyals",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "resume": {
+    "id": "oriol-vinyals-20261018",
+    "line": "cadre",
+    "subject_id": "oriol-vinyals",
+    "title": "奥廖尔·维尼亚尔斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.discoveryloop.com/",
+        "title": "Discovery Loop — Continuous Exploration",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Our founding team — Jeff Dean, Sanjay Ghemawat, Quoc Le, and Oriol Vinyals",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.upc.edu/en/press-room/news/oriol-vinyals-honorary-doctoral-degree-upc-ai-allows-us-to-focus-on-asking-the-right-questions-to-advance-science",
+        "title": "Oriol Vinyals, honorary doctoral degree holder by the UPC",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Oriol Vinyals (Sabadell, 1983) ... PhD in Electrical Engineering and Computer Sciences ... the only Spanish scientist",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.oreilly.com/content/sequence-to-sequence-machine-learning/",
+        "title": "Sequence-to-sequence machine learning",
+        "published_at": "2016-07-20",
+        "checked_at": "2026-10-18",
+        "excerpt": "before moving to Berkeley for my Ph.D. in 2009. ... In 2013, I joined Google full time.",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-202.html",
+        "title": "Beyond Deep Learning: Scalable Methods and Models for Learning",
+        "published_at": "2013",
+        "checked_at": "2026-10-18",
+        "excerpt": "Oriol Vinyals ... @phdthesis ... Year= {2013}",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+        "title": "4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup",
+        "published_at": "2026-08-05",
+        "checked_at": "2026-10-18",
+        "excerpt": "Jeff Dean and other high-profile Google executives have founded Discovery Loop",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "奥廖尔·维尼亚尔斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "西班牙",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1983-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：大学记载1983年，未载月份，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1983",
+          "duration_years": null
+        }
+      },
+      "birth_place": {
+        "value": "萨瓦德尔",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2013-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：本人称2013年加入谷歌全职任职，首份全职开始月未载，取7月。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "2013",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "博士研究生",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "加利福尼亚大学伯克利分校电气工程与计算机科学哲学博士学位",
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "探索循环公司",
+        "role": "联合创始人",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "联合创始人"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "加利福尼亚大学伯克利分校",
+        "role": null,
+        "program": "电气工程与计算机科学",
+        "degree_awarded": {
+          "value": "哲学博士学位",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：本人称2013年开始全职任职，月份未载，按7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2013",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "谷歌公司",
+        "role": "研究科学家",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研究科学家"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "谷歌旗下“深层思维”公司",
+        "role": "研究科学家、研究副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研究科学家",
+          "研究副总裁"
+        ],
+        "role_category": null,
+        "role_basis": "同一单位内职务交接日期未载，合写；停止日期未知。",
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "探索循环公司",
+    "conflicts": [],
+    "unknowns": [
+      "本科双专业、圣迭戈硕士学习起止年未齐；未按四年制倒推双学位。",
+      "探索循环公司创立日期及谷歌任职结束日期未载明，2026-08-05是报道日，不用作到任日。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": [
+      "已打开机构人物页并核看单人照片，链接另见 portraits.csv。"
+    ]
+  },
+  "data_cutoff": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-18",
+  "events": [
+    "2026-08-05-oriol-vinyals-transfer"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-08-05",
+      "event": "2026-08-05-oriol-vinyals-transfer",
+      "reason": "主要职务“探索循环公司 联合创始人”：企业职务，原属二局"
+    }
+  ],
+  "origin": "一局动态新建；补采简历 bureaus/personnel-sv/data/verified/oriol-vinyals.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "source": "https://cfis.upc.edu/ca/noticies/oriol-vinyals-titulat-cfis-entre-els-mes-influents-del-mon-en-intel-ligencia-artificial",
+    "url": "https://cfis.upc.edu/ca/noticies/oriol-vinyals-titulat-cfis-entre-els-mes-influents-del-mon-en-intel-ligencia-artificial/@@download/image/oriol_vinyals.jpeg"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "2026-08-07-juan-segura-confirm",
+  "date": "2026-08-07",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "juan-segura",
+  "person": {
+    "name_zh": "胡安·塞古拉",
+    "name_en": "Juan Segura",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国美洲基金会",
+      "role": "董事",
+      "organization_en": "Inter-American Foundation",
+      "role_en": "Member of the Board of Directors",
+      "start": null,
+      "end": "2032-09-20",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2",
+        "c1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "参议院确认胡安·塞古拉出任美国美洲基金会董事",
+  "summary": "参议院于2026-08-07确认胡安·塞古拉出任美国美洲基金会董事。PN937-8对应任期截至2026-09-20，PN937-9对应任期截至2032-09-20；确认记录未列明实际到任日期。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Juan Segura, of Virginia, to be a Member of the Board of Directors of the Inter-American Foundation for a term expiring September 20, 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "e2",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Juan Segura, of Virginia, to be a Member of the Board of Directors of the Inter-American Foundation for a term expiring September 20, 2032.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "c1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "U.S. Senate: Nominations Confirmed (Civilian)",
+      "publisher": "",
+      "published_at": null,
+      "excerpt": "Juan Segura, of Virginia, to be a Member of the Board of Directors of the Inter-American Foundation for a term expiring September 20, 2032.",
+      "supports": [
+        "new_roles[0].end"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "new_roles[0].end → 2032-09-20（来源 c1）",
+      "summary_zh → 参议院于2026-08-07确认胡安·塞古拉出任美国美洲基金会董事。PN937-8对应任期截至2026-09-20，PN937-9对应任期截至2032-09-20；确认记录未列明实际到任日期。"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等）；e2：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 juan-segura（库里没有此人）",
+      "现任职务新增：美国美洲基金会董事",
+      "履历新增：2026-08 美国美洲基金会董事"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "juan-segura"
+  }
+}

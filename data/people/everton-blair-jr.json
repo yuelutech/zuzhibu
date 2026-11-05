@@ -1,0 +1,237 @@
+{
+  "id": "everton-blair-jr",
+  "name_zh": "小埃弗顿·布莱尔",
+  "name_en": "Everton Blair Jr.",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {
+    "bioguide": "B001328"
+  },
+  "resume": {
+    "id": "cadre-everton-blair-jr",
+    "line": "cadre",
+    "subject_id": "everton-blair-jr",
+    "title": "小埃弗顿·布莱尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://history.house.gov/Institution/Vacancies-Successors/Vacancies-Successors/",
+        "title": "Vacancies & Successors",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "The Honorable Everton Blair Jr. (D) was elected August 25, 2026, in a special election. Representative Blair was added to the rolls of the House upon executing the oath of office on September 1, 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://clerk.house.gov/Members/ViewVacancies",
+        "title": "Vacancies of the 119th Congress",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "Passed Away April 22, 2026",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current）",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "bio.gender: M; bio.birthday: 1992-04-23",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.evertonblair.com/about",
+        "title": "Meet Everton（本人竞选网站自述）",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "Born and raised in Gwinnett County, Georgia, Dr. Everton Blair Jr. is an educator ... He holds a bachelor’s in applied mathematics (B.A.) and a Doctor of Education Leadership (Ed.L.D.) from Harvard University and a Master's in Policy, Organization, and Leadership (M.A.) from Stanford University.",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s4",
+          "s1"
+        ],
+        "basis": "出生于美国佐治亚州格威内特县；现任须具美国公民身份的联邦众议员",
+        "inferred": false,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1992-04-23",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "佐治亚州格威内特县",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哈佛大学教育领导学博士学位",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "name": {
+        "value": "小埃弗顿·布莱尔",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（佐治亚州第13选区）",
+        "role": "",
+        "start": {
+          "value": "2026-09-01",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-09-01",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国联邦众议员（佐治亚州第13选区）",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作时间未见来源；在亚特兰大公立学校任高中数学教师、参与奥巴马政府白宫教育卓越倡议、任格威内特县学区教育委员会委员（2018 年当选，任委员会主席）的起止年份未见一致的来源"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-17",
+  "updated_at": "2026-10-22",
+  "roles_checked_at": "2026-10-17",
+  "events": [
+    "2026-09-01-everton-blair-jr-appoint"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-09-01",
+      "event": "2026-09-01-everton-blair-jr-appoint",
+      "reason": "主要职务“美国联邦众议员（佐治亚州第13选区）”：参众两院"
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true,
+  "portrait": {
+    "file": "everton-blair-jr.jpg",
+    "source": "https://blair.house.gov/about",
+    "source_kind": "官方照片（机构官网）",
+    "license": "公有领域：众议员官方照，与维基共享资源 File:Everton Blair, official portrait (119th Congress).jpg（标为公有领域）、国会人物传记名录 B001328 照片为同一张，此为众议员官网所挂原尺寸图；已换蓝白渐变底",
+    "url": "https://blair.house.gov/sites/evo-subsites/blair.house.gov/files/evo-media-image/elb-official-headshot.jpg"
+  }
+}

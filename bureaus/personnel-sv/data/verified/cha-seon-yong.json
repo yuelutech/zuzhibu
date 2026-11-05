@@ -1,0 +1,386 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cha-seon-yong-20261018",
+      "line": "cadre",
+      "subject_id": "cha-seon-yong",
+      "title": "车宣龙简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.skhynix.com/sustainability/UI-FR-SA1502/",
+          "title": "SK hynix Board of Directors",
+          "excerpt": "Cha Seon-yong",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://kind.krx.co.kr/external/2026/07/10/000103/20260710000123/10601.htm",
+          "title": "SK海力士2026年证券申报：董事和高管",
+          "excerpt": "차선용 남 1967년 08월 사장",
+          "published_at": "2026-07-10",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://news.skhynix.com/cn/dreaming-of-the-best-dram-toward-the-no-1-in-technology-head-of-dram-development-seon-yong-cha/",
+          "title": "SK海力士：DRAM开发负责人车宣龙",
+          "excerpt": "DRAM开发负责人—车宣龙",
+          "published_at": "2020-11-12",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.fnnews.com/news/202510301353554629",
+          "title": "News1：车宣龙升任社长",
+          "excerpt": "미래기술연구원장이 30일 신임 사장으로 승진했다.",
+          "published_at": "2025-10-30",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "车宣龙"
+      ],
+      "person": {
+        "name": {
+          "value": "车宣龙",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1967-08",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "韩国科学技术院电气电子工程专业",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "SK 海力士公司",
+          "role": "总裁兼未来技术研究院院长",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "SK 海力士公司",
+          "role": "董事",
+          "start": {
+            "value": "2026-03-25",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2014",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2015-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2015",
+              "duration_years": null
+            }
+          },
+          "organization": "SK 海力士公司",
+          "role": "器件技术 D 团队负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2015",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2017-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2017",
+              "duration_years": null
+            }
+          },
+          "organization": "SK 海力士公司",
+          "role": "Alius Core 专项组负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2018",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2020-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2020",
+              "duration_years": null
+            }
+          },
+          "organization": "SK 海力士公司",
+          "role": "DRAM 技术开发负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2020-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2020",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2021",
+              "duration_years": null
+            }
+          },
+          "organization": "SK 海力士公司",
+          "role": "DRAM 开发负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2022-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2022",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "SK 海力士公司",
+          "role": "未来技术研究院院长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "SK 海力士公司",
+      "conflicts": [],
+      "unknowns": [
+        "国籍、首份全职工作及起始年月未查明。",
+        "博士取得年份和早期学历未查明。",
+        "官网将2022年至今概括为现有总裁兼院长职务；News1记载2025年10月30日晋升总裁。院长任期采用官网2022年，合并职务起始年月留空。",
+        "已核实经历，开始时间未知：韩国科学技术院；电气电子工程专业博士研究生学习；已获博士。来源：s2。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

@@ -1,0 +1,315 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "paul-christiano-20261018",
+      "line": "cadre",
+      "subject_id": "paul-christiano",
+      "title": "保罗·克里斯蒂亚诺简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board/",
+          "title": "Paul Christiano joins OpenAI Foundation Board",
+          "published_at": "2026-09-09",
+          "checked_at": "2026-10-18",
+          "excerpt": "appointment of Paul Christiano to the OpenAI Foundation Board.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://simons.berkeley.edu/people/paul-christiano",
+          "title": "Paul Christiano — Simons Institute",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "He holds a Ph.D. in computer science from the University of California, Berkeley",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://esp.mit.edu/teach/teachers/paulfc/bio.html",
+          "title": "MIT ESP — Paul Christiano",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Major: Mathematics; College/Employer: MIT; Year of Graduation: 2012",
+          "tier": 1
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "保罗·克里斯蒂亚诺",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1990-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "本科毕业2012年减22；缺出生月取7月",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "2012",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "博士研究生",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "加利福尼亚大学伯克利分校计算机科学博士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "开放人工智能研究中心（OpenAI）基金会",
+          "role": "董事、安全与安保委员会委员",
+          "start": {
+            "value": "2026-09-09",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "董事",
+            "安全与安保委员会委员"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "开放人工智能研究中心（OpenAI）集团公益公司",
+          "role": "董事会非表决观察员",
+          "start": {
+            "value": "2026-09-09",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "董事会非表决观察员"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2008-09",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "来源仅载2008年；按 cadre.md 3.3 的学年规则，入学取9月、毕业取5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2008",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2012-05",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "来源仅载2012年；按 cadre.md 3.3 的学年规则，入学取9月、毕业取5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2012",
+              "duration_years": null
+            }
+          },
+          "organization": "麻省理工学院",
+          "role": null,
+          "program": "数学",
+          "degree_awarded": {
+            "value": "理学学士学位",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "来源仅载2017年；按 cadre.md 3.3 的缺月份取7月规则补齐。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2017",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "来源仅载2021年；按 cadre.md 3.3 的缺月份取7月规则补齐。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2021",
+              "duration_years": null
+            }
+          },
+          "organization": "开放人工智能研究中心（OpenAI）",
+          "role": "对齐研究负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "对齐研究负责人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-09-09",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "开放人工智能研究中心（OpenAI）基金会",
+          "role": "董事、安全与安保委员会委员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "董事",
+            "安全与安保委员会委员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "OpenAI 基金会",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：查到2017年起任OpenAI对齐研究负责人；未查明此前是否已有全职工作，未将此年直接认作首份工作。",
+        "博士入学、毕业年月未知；ARC创办年月未在已打开来源中查到。",
+        "国籍：已查所列来源，未找到可采用依据。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": null,
+      "review_items": [
+        "NIST高级技术顾问为政府咨询兼职，按干部规则不进企业现任段；具体起始时间待核。",
+        "官方大学页仍列旧任美国AI安全研究所职务，现任采用2026-09-09任命公告。",
+        "来源s1阅读记录：并列非表决观察员、SSC及2017—2021年对齐研究经历。",
+        "已打开机构人物页并核看单人照片，链接另见 portraits.csv。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

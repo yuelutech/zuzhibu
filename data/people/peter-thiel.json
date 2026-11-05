@@ -1,0 +1,485 @@
+{
+  "id": "peter-thiel",
+  "name_zh": "彼得·蒂尔",
+  "name_en": "Peter Thiel",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“帕兰蒂尔公司 Co-founder and Chairman (Palantir) Palantir Co-founder and Chairman (Palantir)”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/peter-thiel.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://foundersfund.com/wp-content/uploads/2014/03/Peter.jpg",
+    "source": "https://investors.palantir.com/governance/board-of-directors"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Palantir",
+      "role_en": "Co-founder and Chairman (Palantir)"
+    },
+    {
+      "organization_en": "Founders Fund",
+      "role_en": "Partner (Founders Fund)"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“帕兰蒂尔公司 Co-founder and Chairman (Palantir) Palantir Co-founder and Chairman (Palantir)”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "peter-thiel-20261018",
+    "line": "cadre",
+    "subject_id": "peter-thiel",
+    "title": "彼得·蒂尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm",
+        "title": "Palantir 2026 Proxy Statement",
+        "published_at": "2026-04-23",
+        "checked_at": "2026-10-18",
+        "excerpt": "Peter Thiel; 58; Co-Founder and Chairman; 2003",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.dia.govt.nz/Citizenship-of-Mr-Peter-Thiel",
+        "title": "New Zealand Citizenship of Mr Peter Thiel",
+        "published_at": "2018-01-25",
+        "checked_at": "2026-10-18",
+        "excerpt": "Mr Thiel attended a private ceremony at the New Zealand Consulate in Santa Monica in August 2011.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://law.stanford.edu/wp-content/uploads/2015/07/Stanford_Lawyer_issue-63_2002-SUMMER-VOL36-NO3_front.pdf",
+        "title": "Stanford Lawyer Summer 2002 Issue 63",
+        "published_at": "2002",
+        "checked_at": "2026-10-18",
+        "excerpt": "Peter Thiel '92 (AB/BS '89)",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "彼得·蒂尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "新西兰",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1967-10",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "2026-04-06时58岁，出生区间1967-04-07至1968-04-06，取中间月份1967-10",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-04-06",
+          "duration_years": 58
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "斯坦福大学法学院法律博士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "帕兰蒂尔公司",
+        "role": "联合创始人、董事长",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "联合创始人",
+          "董事长"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "创始人基金",
+        "role": "合伙人",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "合伙人"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "Thiel Capital 公司",
+        "role": "总裁",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "总裁"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1985",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "本科1989年毕业减4年",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1989",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1989",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": null,
+        "program": "哲学",
+        "degree_awarded": {
+          "value": "文学学士学位",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1989",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1992年法律博士毕业减3年",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1992",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1992",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法律博士学位",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2000",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "贝宝公司",
+        "role": "首席执行官、总裁、董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官",
+          "总裁",
+          "董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "帕兰蒂尔公司",
+        "role": "联合创始人、董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联合创始人",
+          "董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "创始人基金",
+        "role": "合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "合伙人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Thiel Capital 公司",
+        "role": "总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "帕兰提尔公司",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作时间：大学原刊说明1992年毕业后进入纽约律所，具体雇主及首份岗位待核。",
+      "其他国籍：已确认新西兰入籍记录；德国、美国国籍本次未取得原始依据。",
+      "1992年至2000年各段任职的准确起止和交接未知。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": [
+      "1989年校刊并列AB/BS；本事实包只采用SEC明确说明专业的哲学文学学士。",
+      "同期外部董事任职未全展开；SEC列Meta 2005—2022、AbCellera 2020—2024。",
+      "来源s1阅读记录：年龄截至2026-04-06）。",
+      "来源s3阅读记录：第4页：1992年法学院毕业后进入纽约律所；原文未给律所名。"
+    ]
+  }
+}

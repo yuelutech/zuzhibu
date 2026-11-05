@@ -1,0 +1,546 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "ilya-sutskever-20261018",
+      "line": "cadre",
+      "subject_id": "ilya-sutskever",
+      "title": "伊利亚·苏茨克韦尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://ssi.inc/updates",
+          "title": "Safe Superintelligence Updates",
+          "published_at": "2025-07-03",
+          "checked_at": "2026-10-18",
+          "excerpt": "I am now formally CEO of SSI, and Daniel Levy is President.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://ssi.inc/",
+          "title": "Safe Superintelligence Inc.",
+          "published_at": "2024-06-19",
+          "checked_at": "2026-10-18",
+          "excerpt": "Ilya Sutskever, Daniel Gross, Daniel Levy",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://magazine.utoronto.ca/people/students/ilya-sutskever-google-phd-fellowship/",
+          "title": "A Neural Network for a New Millennium",
+          "published_at": "2010-12-08",
+          "checked_at": "2026-10-18",
+          "excerpt": "Sutskever, 24, who earned a BSc in 2005 and an MSc in 2007 from U of T.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.sgs.utoronto.ca/profile/ilya-sutskever/",
+          "title": "Ilya Sutskever — School of Graduate Studies",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Alumnus, PhD (2013), Computer Science",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.utoronto.ca/news/ilya-sutskever-leader-ai-and-its-responsible-development-receives-u-t-honorary-degree",
+          "title": "Ilya Sutskever receives U of T honorary degree",
+          "published_at": "2025-06-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "In 2015, Sutskever co-founded OpenAI, serving as its research director and later as chief scientist.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.utoronto.ca/news/google-acquires-u-t-neural-networks-company",
+          "title": "Google acquires U of T neural networks company",
+          "published_at": "2013-03-12",
+          "checked_at": "2026-10-18",
+          "excerpt": "incorporated by Alex Krizhevsky, Ilya Sutskever and Hinton in 2012",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist/",
+          "title": "Ilya Sutskever to leave OpenAI",
+          "published_at": "2024-05-14",
+          "checked_at": "2026-10-18",
+          "excerpt": "Ilya Sutskever to leave OpenAI",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.cs.toronto.edu/~ilya/",
+          "title": "Ilya Sutskever's home page",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "I spent three wonderful years as a Research Scientist at the Google Brain Team.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.jns.org/culture-and-society/edited-hold-fri-openais-israeli-co-founder-departs-as-us-gears-up-regulation",
+          "title": "OpenAI’s Israeli co-founder departs as US gears up regulation",
+          "published_at": "2024-05-17",
+          "checked_at": "2026-10-18",
+          "excerpt": "Sutskever, who holds Israeli and Canadian citizenship",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "伊利亚·苏茨克韦尔"
+      ],
+      "person": {
+        "name": {
+          "value": "伊利亚·苏茨克韦尔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "加拿大、以色列",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1986-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "2010-12-08报道24岁，区间1985-12-09至1986-12-08，取中间月份。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2010-12-08",
+            "duration_years": 24
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "2012-07",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "已核到的创业发生于2012年；月份未公开，按规则取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2012",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "多伦多大学计算机科学专业",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "哲学博士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [
+          {
+            "value": "英国皇家学会院士",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "安全超级智能公司（SSI）",
+          "role": "联合创始人、首席执行官",
+          "roles": [
+            "联合创始人",
+            "首席执行官"
+          ],
+          "start": {
+            "value": "2025-07-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2001",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "2005年本科毕业减4年标准学制；实际提前入学情况未核清。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "2005",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2005",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "多伦多大学",
+          "role": null,
+          "program": "数学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2005",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "2007年硕士毕业减2年标准学制。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "2007",
+              "duration_years": 2
+            }
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "多伦多大学",
+          "role": null,
+          "program": "计算机科学",
+          "degree_awarded": {
+            "value": "理学硕士",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012-07",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "创业年份2012，月份按规则取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2012",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2013-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "DNNresearch 公司",
+          "role": "联合创始人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "谷歌大脑项目",
+          "role": "研究科学家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s6",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "研究科学家"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024-05",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "开放人工智能研究中心（OpenAI）",
+          "role": "联合创始人、研究主管、首席科学家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人",
+            "研究主管",
+            "首席科学家"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2024-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "安全超级智能公司（SSI）",
+          "role": "联合创始人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "安全超级智能公司（SSI）",
+          "role": "联合创始人、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联合创始人",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "安全超级智能公司（SSI）",
+      "conflicts": [],
+      "unknowns": [
+        "出生年月为带日期年龄陈述推算；没有采用网络上未闭合来源的生日。",
+        "博士入学时间未核到；学位采用研究生院2013年校友记录，博士学习段暂缺。",
+        "斯坦福博士后身份有本人主页依据，但起止日期不明；参加工作时间采用目前核实的2012年创业，可能存在更早任职。"
+      ],
+      "excluded": [],
+      "country_profile": "other",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Ilya Sutskever；安全超级智能公司（SSI）；联合创始人、首席执行官",
+      "review_items": [
+        "国籍采用JNS原文明确的加拿大、以色列双重国籍；原大学报道的first Canadian不再作为国籍依据。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-2"
+}

@@ -1,0 +1,447 @@
+{
+  "id": "sundar-pichai",
+  "name_zh": "孙达尔·皮柴",
+  "name_en": "Sundar Pichai",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Google and Google DeepMind Chief Executive Officer, Google and Alphabet Google and Google DeepMind Chief Executive Officer, Google and Alphabet”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/sundar-pichai.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sundar-208x208.width-400.format-webp.webp",
+    "source": "维护者提供（孙达尔·皮柴_Sundar-Pichai_谷歌_雷达版.jpg）",
+    "file": "sundar-pichai.jpg",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Google and Google DeepMind",
+      "role_en": "Chief Executive Officer, Google and Alphabet"
+    }
+  ],
+  "notes": [
+    "since refers to the Alphabet CEO role; Google CEO since 2015-10."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Google and Google DeepMind Chief Executive Officer, Google and Alphabet Google and Google DeepMind Chief Executive Officer, Google and Alphabet”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "sundar-pichai-20261018",
+    "line": "cadre",
+    "subject_id": "sundar-pichai",
+    "title": "孙达尔·皮柴简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm",
+        "title": "Alphabet 2026 Proxy Statement — Sundar Pichai",
+        "published_at": "2026-04-24",
+        "checked_at": "2026-10-18",
+        "excerpt": "Chief Executive Officer, Alphabet and Google.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://economictimes.indiatimes.com/panache/panache-people-101/sundar-pichai/profileshow/79665140.cms",
+        "title": "Sundar Pichai — The Economic Times",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Birth Details June 10, 1972; Nationality American.",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://magazine.wharton.upenn.edu/issues/spring-summer-2020/sundar-pichai-wg02-wants-to-change-your-life/",
+        "title": "Sundar Pichai WG02 Wants to Change Your Life",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Sundar Pichai WG02",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://abc.xyz/investor/board-and-governance/default.aspx",
+        "title": "Alphabet Board & Governance",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Sundar Pichai.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "孙达尔·皮柴",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1972-06",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "斯坦福大学理学硕士、宾夕法尼亚大学沃顿商学院工商管理硕士双硕士学位",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "硕士",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "谷歌公司",
+        "role": "首席执行官",
+        "start": {
+          "value": "2015-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "首席执行官"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "字母表公司",
+        "role": "首席执行官",
+        "start": {
+          "value": "2019-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "首席执行官"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "字母表公司",
+        "role": "董事",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "roles": [
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2000",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "2002年MBA按标准2年倒推。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2002",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "2002",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "宾夕法尼亚大学沃顿商学院",
+        "role": null,
+        "program": "工商管理",
+        "degree_awarded": {
+          "value": "工商管理硕士学位",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-10",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "谷歌公司",
+        "role": "产品管理副总裁、Chrome及应用高级副总裁、Android负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "产品管理副总裁",
+          "Chrome及应用高级副总裁",
+          "Android负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "谷歌公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "字母表公司",
+        "role": "董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "字母表公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "谷歌公司",
+    "conflicts": [],
+    "unknowns": [
+      "首份全职工作的起始年月、应用材料和麦肯锡任职日期未获得可采用依据。",
+      "本科及斯坦福硕士学习起止时间未获得已打开原文支持；斯坦福2026年演讲页加载失败。",
+      "斯坦福硕士专业未在本次已打开正文确认。",
+      "参加工作时间：已查所列来源，未找到可采用依据。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": [
+      "有来源的无起始日期经历：印度理工学院克勒格布尔分校；冶金工程；终点：未找到；来源：s2",
+      "有来源的无起始日期经历：斯坦福大学；学习；终点：未找到；来源：s2",
+      "有来源的无起始日期经历：应用材料公司；产品经理；终点：未找到；来源：s2",
+      "有来源的无起始日期经历：麦肯锡公司；管理顾问；终点：2004；来源：s2",
+      "来源s1阅读记录：CEO谷歌2015年10月、Alphabet2019年12月；2004年进入谷歌。",
+      "来源s2阅读记录：列本科、硕士、MBA及应用材料、麦肯锡经历。",
+      "来源s4阅读记录：现行董事名单。"
+    ]
+  }
+}

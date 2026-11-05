@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; script-src 'unsafe-inline'; img-src data:">
+<title>AI政见·组织部</title>
+<style>
+  :root { --red: #C7161E; --red-press: #A51117; --paper: #F2F3F5; --card: #FFFFFF; --ink: #1A1A1A; --sub: #555555; --meta: #777777;
+          --hair: #E5E6EA; --overlay: 48px; }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    display: flex; flex-direction: column; background: var(--paper); color: var(--ink);
+    font-family: "Microsoft YaHei UI", "Microsoft YaHei", "PingFang SC", system-ui, sans-serif;
+  }
+  .bar {
+    flex: none; display: flex; align-items: center; height: env(titlebar-area-height, var(--overlay)); min-height: var(--overlay);
+    padding: 0 20px; background: var(--red); color: #fff; -webkit-app-region: drag; user-select: none;
+  }
+  .bar b { font-family: "SimSun", "NSimSun", "Songti SC", serif; font-size: 18px; letter-spacing: .06em; }
+  .main { flex: 1; display: grid; place-items: center; padding: 24px 16px; }
+  .card {
+    width: min(560px, 100%); padding: 28px 28px 24px; border: 1px solid var(--hair); border-radius: 10px; background: var(--card);
+  }
+  h1 { display: flex; align-items: center; gap: 10px; margin: 0 0 12px; font-family: "SimSun", "NSimSun", "Songti SC", serif;
+       font-size: 22px; }
+  h1::before { content: ""; width: 4px; height: 22px; border-radius: 2px; background: var(--red); }
+  p { margin: 0 0 10px; font-size: 15px; line-height: 1.75; color: var(--sub); }
+  .reason { color: var(--ink); }
+  .log { font-size: 13px; color: var(--meta); word-break: break-all; }
+  .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+  a.btn {
+    display: inline-flex; align-items: center; min-height: 40px; padding: 0 20px; border-radius: 999px; font-size: 14px;
+    font-weight: 600; text-decoration: none; cursor: pointer;
+  }
+  a.primary { background: var(--red); color: #fff; }
+  a.primary:hover { background: var(--red-press); }
+  a.ghost { border: 1px solid var(--hair); color: var(--sub); background: var(--card); }
+  a.ghost:hover { color: var(--red); border-color: rgba(199, 22, 30, .45); }
+</style>
+</head>
+<body>
+  <div class="bar"><b>AI政见·组织部</b></div>
+  <div class="main">
+    <div class="card">
+      <h1>暂时打不开</h1>
+      <p class="reason" id="reason">本机服务没有起来。</p>
+      <p>可以先重试一次；还不行，请把下面的日志发给维护者。</p>
+      <p class="log" id="log"></p>
+      <div class="actions">
+        <a class="btn primary" href="?retry=1">重试</a>
+        <a class="btn ghost" href="?logs=1">打开日志所在文件夹</a>
+      </div>
+    </div>
+  </div>
+<script>
+  (function () {
+    var q = new URLSearchParams(location.search);
+    if (q.get('reason')) document.getElementById('reason').textContent = q.get('reason');
+    if (q.get('log')) document.getElementById('log').textContent = '日志：' + q.get('log');
+  })();
+</script>
+</body>
+</html>

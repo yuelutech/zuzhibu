@@ -1,0 +1,586 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-jerome-h-powell",
+      "line": "cadre",
+      "subject_id": "jerome-h-powell",
+      "title": "杰罗姆·鲍威尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm",
+          "title": "Jerome H. Powell — Federal Reserve",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "chair ... February 5, 2018, to May 22, 2026; term ending January 31, 2028",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.presidency.ucsb.edu/documents/nomination-jerome-h-powell-be-assistant-secretary-the-treasury",
+          "title": "Nomination of Jerome H. Powell To Be an Assistant Secretary of the Treasury",
+          "published_at": "1990-07-24",
+          "checked_at": "2026-10-18",
+          "excerpt": "legislative assistant ... 1975–1976; born February 4, 1953",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "杰罗姆·鲍威尔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1953-02",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "华盛顿哥伦比亚特区",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1975-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1975年本科毕业并任参议员立法助理，月份按毕业后次月6月",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1975",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "乔治敦大学法律中心研究生",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法律博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦储备委员会",
+          "role": "理事",
+          "start": {
+            "value": "2012-05-25",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "理事"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1971",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "1975年本科毕业减4",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1975",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1975",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "普林斯顿大学",
+          "role": "政治学专业学习",
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "政治学专业学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1976",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国参议员理查德·施韦克办公室",
+          "role": "立法助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "立法助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1976",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "1979年JD毕业，按三年制倒推",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1979",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1979",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "乔治敦大学法律中心",
+          "role": "法律专业学习",
+          "program": null,
+          "degree_awarded": {
+            "value": "法律博士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律专业学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1979",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1980",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国第二巡回上诉法院",
+          "role": "埃尔斯沃思·范格拉菲兰德法官助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "埃尔斯沃思·范格拉菲兰德法官助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1981",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1983",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "达维律师事务所",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1983",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1984",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Werbel and McMillin律师事务所",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1984",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "狄龙里德公司",
+          "role": "投资银行业务人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "投资银行业务人员"
+          ],
+          "role_category": {
+            "value": "investment banker",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "1990年官方任命公告原文职业类别，未增设职级",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2005",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "凯雷集团",
+          "role": "合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "合伙人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012-05-25",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国联邦储备委员会",
+          "role": "理事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "理事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-02-05",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2026-05-22",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦储备委员会",
+          "role": "主席",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "主席"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "美联储证实曾任财政部助理部长、副部长和两党政策中心访问学者，已打开来源没有完整起止日期，未补造。",
+        "1980至1981年、1984年后投资银行工作的结束时间、1990年代财政部及银行间转换、2005至2012年经历仍有时间缺口。",
+        "党籍与入党登记或其他合格锚点未取得。",
+        "2026年5月22日卸任主席在本次2026年6月1日事件窗口之外，仍保留为现任理事。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Jerome H. Powell；美国联邦储备委员会",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

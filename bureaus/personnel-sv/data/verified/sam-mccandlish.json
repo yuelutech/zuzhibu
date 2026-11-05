@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "sam-mccandlish-20261018",
+      "line": "cadre",
+      "subject_id": "sam-mccandlish",
+      "title": "萨姆·麦坎德利什简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.anthropic.com/company/leadership",
+          "title": "Leadership at Anthropic",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Sam McCandlish",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.anthropic.com/news/rahul-patil-joins-anthropic",
+          "title": "Rahul Patil joins Anthropic as CTO",
+          "published_at": "2025-10-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "Sam McCandlish",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://brandeisscience.wordpress.com/tag/lawrence-lab/",
+          "title": "Science at Brandeis — Six scientists secure fellowships",
+          "published_at": "2012",
+          "checked_at": "2026-10-18",
+          "excerpt": "Samuel McCandlish ’12 (Physics)",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://physics.stanford.edu/events/physics-phd-dissertation-defense-sam-mccandlish",
+          "title": "PHYSICS Ph.D. DISSERTATION DEFENSE: Sam McCandlish",
+          "published_at": "2017-05-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "Ph.D. Candidate: Sam McCandlish; Tuesday, May 16, 2017",
+          "tier": 1
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "萨姆·麦坎德利什",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1990-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "2012届本科减22年；缺月取7月",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "2012",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": null,
+        "degree": null,
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "Anthropic 公司",
+          "role": "联合创始人、首席架构师",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "联合创始人",
+            "首席架构师"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "2012届本科减4年",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2012",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "布兰迪斯大学",
+          "role": null,
+          "program": "物理学",
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "Anthropic 公司",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：已查本人LinkedIn（打开失败）及大学资料，首份全职岗位及起始日未知。",
+        "最高学位：斯坦福页面为2017-05-16答辩预告，未取得授予记录，未填已获博士。",
+        "现任首席架构师具体到任日未知；2025-10-07公告说已经转任。",
+        "国籍：已查所列来源，未找到可采用依据。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": null,
+      "review_items": [
+        "有来源的无起始日期经历：Anthropic 公司；联合创始人、首席技术官；终点：未找到；来源：s2",
+        "有来源的无起始日期经历：Anthropic 公司；联合创始人、首席架构师；终点：未找到；来源：s1",
+        "来源s1阅读记录：官网列Co-Founder and Chief Architect）。",
+        "来源s2阅读记录：原CTO转为Chief Architect，公告日期2025-10-07）。",
+        "来源s3阅读记录：毕业班；秋季拟赴斯坦福学习理论物理）。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

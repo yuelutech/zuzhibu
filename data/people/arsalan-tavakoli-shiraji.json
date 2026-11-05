@@ -1,0 +1,143 @@
+{
+  "id": "arsalan-tavakoli-shiraji",
+  "name_zh": "阿尔萨兰·塔瓦科利-希拉吉",
+  "name_en": "Arsalan Tavakoli-Shiraji",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Databricks公司 Co-founder and SVP of Field Engineering Databricks Co-founder and SVP of Field Engineering”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/arsalan-tavakoli-shiraji.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.databricks.com/sites/default/files/2021/12/image-portrait-arsalan-tavakoli.jpg",
+    "source": "https://www.databricks.com/company/founders"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Databricks",
+      "role_en": "Co-founder and SVP of Field Engineering"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Databricks公司 Co-founder and SVP of Field Engineering Databricks Co-founder and SVP of Field Engineering”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "arsalan-tavakoli-shiraji-20261018",
+    "line": "cadre",
+    "subject_id": "arsalan-tavakoli-shiraji",
+    "title": "阿尔萨兰·塔瓦科利-希拉吉简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.databricks.com/dataaisummit/speaker/arsalan-tavakoli-shiraji",
+        "title": "Arsalan Tavakoli-Shiraji | Databricks",
+        "excerpt": "Co-founder & SVP of Field Engineering, Databricks",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://cn.weforum.org/people/arsalan-tavakoli/",
+        "title": "Arsalan Tavakoli | World Economic Forum",
+        "excerpt": "PhD in Computer Science from UC Berkeley",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "阿尔萨兰·塔瓦科利-希拉吉"
+    ],
+    "person": {
+      "name": {
+        "value": "阿尔萨兰·塔瓦科利-希拉吉",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "加利福尼亚大学伯克利分校",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "计算机科学博士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "Databricks公司",
+        "role": "联合创始人、现场工程高级副总裁",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "Databricks公司",
+    "conflicts": [],
+    "unknowns": [
+      "性别、国籍、出生年月、首份全职工作年月未从已打开原文核实。",
+      "现职起始年月未知。",
+      "本人世界经济论坛简介明确：弗吉尼亚大学计算机科学与经济学理学学士、加利福尼亚大学伯克利分校计算机科学博士，入学及毕业年份未知；曾任麦肯锡副合伙人，起止时间未知。来源s2。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "表外人名按译音规则拟译，待审。"
+    ]
+  }
+}

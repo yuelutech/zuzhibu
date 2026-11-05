@@ -1,0 +1,199 @@
+{
+  "id": "francis-brooke",
+  "name_zh": "弗朗西斯·布鲁克",
+  "name_en": "Francis Brooke",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "resume": {
+    "id": "cadre-francis-brooke",
+    "line": "cadre",
+    "subject_id": "francis-brooke",
+    "title": "弗朗西斯·布鲁克简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://home.treasury.gov/about/general-information/officials/francis-brooke",
+        "title": "Francis Brooke — Deputy Secretary of the Treasury",
+        "excerpt": "Francis Brooke serves as the Deputy Secretary of the Treasury. He was confirmed by the United States Senate in August 2026.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.usmma.edu/francis-brooke",
+        "title": "Francis Brooke — U.S. Merchant Marine Academy",
+        "excerpt": "He previously worked as a policy advisor for Vice President Mike Pence, Leader Mitch McConnell, and Representative Andy Barr.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://home.treasury.gov/news/press-releases/sb0633",
+        "title": "Remarks by Deputy Secretary of the Treasury Francis Brooke before the Treasury Market Conference",
+        "published_at": "2026-09-22",
+        "checked_at": "2026-10-21",
+        "excerpt": "In my role as the Deputy Secretary of the Treasury, I am the Chief Operating Officer for the Department, and I have a broad portfolio of policy and operational responsibilities.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-neige",
+      "research"
+    ],
+    "person": {
+      "name": {
+        "value": "弗朗西斯·布鲁克",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "西北大学毕业",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国财政部",
+        "role": "常务副部长",
+        "start": {
+          "value": "2026-09-22",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [
+      {
+        "text": "西北大学。起始日期未知。",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "text": "美国众议院多数党领袖史蒂夫·斯卡利斯办公室政策主任。起始日期未知。",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "text": "白宫总统副助理、国家经济委员会副主任。起始日期未知。",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "text": "白宫总统经济政策特别助理。起始日期未知。",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "text": "美国财政部代理国际事务副部长。起始日期未知。",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "text": "美国财政部国际贸易与发展助理部长。起始日期未知。",
+        "source_ids": [
+          "s1"
+        ]
+      }
+    ],
+    "company_tag": "美国政要",
+    "conflicts": [],
+    "unknowns": [
+      "参议院确认月份为2026年8月；财政部现行页面未写准确宣誓或到任日期。",
+      "出生年月、国籍、首份全职工作的开始年月、学位、专业和大学起止年份未取得足够原文。",
+      "各段幕僚工作的具体起止年月、党籍及入党锚点待核。",
+      "西北大学同名运动员页面未用作出生日期依据；未将确认日期替代到任日期。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Deputy Secretary of the Treasury | U.S. Department of the Treasury",
+    "review_items": [
+      "表外译名待审：弗朗西斯·布鲁克",
+      "完整简历卡缺项：nationality、birth_date、work_start。保留seed级事实包。"
+    ]
+  },
+  "data_cutoff": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "events": [
+    "2026-08-07-francis-brooke-confirm",
+    "2026-09-22-francis-brooke-appoint"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-08-07",
+      "event": "2026-08-07-francis-brooke-confirm",
+      "reason": ""
+    }
+  ],
+  "origin": "一局动态新建；补采简历 bureaus/personnel-whitehouse/data/verified/francis-brooke.json（sanju-neige，程序检查通过，待独立核查）",
+  "name_zh_pending": true,
+  "portrait": {
+    "file": "francis-brooke.jpg",
+    "source": "https://home.treasury.gov/about/general-information/officials/francis-brooke",
+    "source_kind": "官方照片（补采）",
+    "license": "美国联邦政府官网标准照；页面未单列许可条款。",
+    "url": "https://home.treasury.gov/system/files/136/Francis-Brooke.jpg"
+  }
+}

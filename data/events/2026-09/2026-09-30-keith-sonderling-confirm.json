@@ -1,0 +1,77 @@
+{
+  "id": "2026-09-30-keith-sonderling-confirm",
+  "date": "2026-09-30",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "keith-sonderling",
+  "person": {
+    "name_zh": "基思·E.桑德林",
+    "name_en": "Keith Sonderling",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-30",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国劳工部",
+      "role": "部长",
+      "organization_en": "Department of Labor",
+      "role_en": "Secretary of Labor",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "参议院确认基思·E.桑德林出任美国劳工部部长",
+  "summary": "参议院于2026-09-30确认Keith Sonderling出任美国劳工部部长（PN1129）。到任日期未由确认记录给出。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Keith Sonderling, of Florida, to be Secretary of Labor.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "新任“美国劳工部部长”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "keith-sonderling"
+  }
+}

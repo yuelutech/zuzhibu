@@ -1,0 +1,143 @@
+{
+  "id": "napoleon-ta",
+  "name_zh": "拿破仑·塔",
+  "name_en": "Napoleon Ta",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“创始人基金 合伙人 Founders Fund Partner”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/napoleon-ta.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://foundersfund.com/wp-content/uploads/2014/05/Napoleon.jpg",
+    "source": "https://foundersfund.com/team/napoleon-ta"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Founders Fund",
+      "role_en": "Partner"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“创始人基金 合伙人 Founders Fund Partner”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "napoleon-ta-20261018",
+    "line": "cadre",
+    "subject_id": "napoleon-ta",
+    "title": "拿破仑·塔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://foundersfund.com/team/napoleon-ta/",
+        "title": "Napoleon Ta – Founders Fund",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Napoleon is a Partner at Founders Fund ... He holds an MBA from Stanford and a BS from the University of Colorado.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "拿破仑·塔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "斯坦福大学工商管理硕士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "创始人基金",
+        "role": "合伙人",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "合伙人"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "创始人基金",
+    "conflicts": [],
+    "unknowns": [
+      "官网未列本科、硕士取得年份、首份全职工作和基金任职起始日期；按本人姓名加学校检索未找到可核年表。",
+      "国籍：已查所列来源，未找到可采用依据。",
+      "出生年月：已查所列来源，未找到可采用依据。",
+      "参加工作时间：已查所列来源，未找到可采用依据。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "表外建议译音拿破仑·塔，未找到本人汉名，待审。"
+    ]
+  }
+}

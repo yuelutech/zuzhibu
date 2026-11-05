@@ -1,0 +1,514 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-philip-n-jefferson",
+      "line": "cadre",
+      "subject_id": "philip-n-jefferson",
+      "title": "菲利普·杰斐逊简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.federalreserve.gov/aboutthefed/bios/board/jefferson.htm",
+          "title": "Philip N. Jefferson — Federal Reserve",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "became Vice Chair on September 13, 2023; first took office ... May 23, 2022",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.vassar.edu/vq/issues/2003/02/connecting/board-elections.html",
+          "title": "AAVC Board Election 2003",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Philip N. Jefferson ’83; assistant professor ... Columbia ... 1990–96",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.davidson.edu/news/2019/05/16/college-names-philip-jefferson-vice-president-academic-affairs-and-dean-faculty",
+          "title": "Davidson names Philip Jefferson vice president and dean",
+          "published_at": "2019-05-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "will start Aug. 1",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.bankingdive.com/news/senate-confirms-jefferson-to-fed-board-in-91-7-vote/623657/",
+          "title": "Senate confirms Jefferson to Fed board in 91-7 vote",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "began his career as a research assistant ... from 1983 to 1985",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://www.vassar.edu/vq/issues/2004/01/features/economic-lessons.html",
+          "title": "Economic Lessons — Philip Jefferson",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "When I arrived at Vassar in the fall of 1979",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "菲利普·杰斐逊",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1961-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "本科毕业于1983年，按22岁毕业倒推1961年；无月份按7月",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "1983",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1983-06",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "本科1983年毕业后任美联储研究助理；毕业月按5月，首职按次月",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1983",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "弗吉尼亚大学经济学专业研究生",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "经济学博士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦储备委员会",
+          "role": "副主席",
+          "start": {
+            "value": "2023-09-13",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "副主席"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国联邦储备委员会",
+          "role": "理事",
+          "start": {
+            "value": "2022-05-23",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "理事"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1979",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1983",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "瓦萨学院",
+          "role": "经济学专业学习",
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学专业学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1983",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1985",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦储备委员会",
+          "role": "研究助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "研究助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1990",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "哥伦比亚大学",
+          "role": "经济学助理教授",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学助理教授"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1997",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦储备委员会货币事务部门",
+          "role": "经济学家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学家"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "斯沃斯莫尔学院",
+          "role": "经济学副教授",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学副教授"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-08-01",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "戴维森学院",
+          "role": "学术副院长兼教务长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "学术副院长兼教务长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2022-05-23",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国联邦储备委员会",
+          "role": "理事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "理事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-09-13",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国联邦储备委员会",
+          "role": "副主席",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "副主席"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "出生年月为规则推算；出生地、党籍和入党时间未查到。",
+        "弗吉尼亚大学硕士、博士已由美联储证实，入学和毕业年份未取得可打开的原始证明，未补造学习日期。",
+        "斯沃斯莫尔晋升教授、系主任等职务见美联储简历，起止年月未查清；旧校PDF访问遇到验证页。",
+        "戴维森离任具体日期、此前兼职终止日期未查清。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Philip N. Jefferson；美国联邦储备委员会",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

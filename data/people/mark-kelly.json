@@ -1,0 +1,799 @@
+{
+  "id": "mark-kelly",
+  "name_zh": "马克·凯利",
+  "name_en": "Mark Kelly",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "K000377"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "mark-kelly.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mark_Kelly_Official_Portrait_119th.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（John Shinkle, U.S. Senate Photographic Services；https://www.kelly.senate.gov/wp-content/uploads/2026/04/Kelly_PressKit_OfficialPortrait_new.jpg），File:Mark Kelly Official Portrait 119th.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mark_Kelly_Official_Portrait_119th.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-k000377",
+    "line": "cadre",
+    "subject_id": "k000377",
+    "title": "马克·凯利简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2020-12-02~ AZ Democrat (special-election)",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Mark Edward Kelly (born February 21, 1964) in Orange, New Jersey",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Mark_Kelly",
+        "title": "维基百科：Mark_Kelly",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Mark Edward Kelly (born February 21, 1964) in Orange, New Jersey",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Mark_Kelly",
+        "title": "维基百科：Mark_Kelly",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "born February 21, 1964 in Orange, New Jersey",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://www.congress.gov/member/mark-kelly/K000377/committees",
+        "title": "www.congress.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Armed Services; Commerce, Science, and Transportation; Environment and Public Works; Special Committee on Aging",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Mark_Kelly",
+        "title": "维基百科：Mark_Kelly",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "US Merchant Marine Academy: BSc in marine engineering and nautical science (1986)",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Mark_Kelly",
+        "title": "维基百科：Mark_Kelly",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Naval Postgraduate School: MSc in aeronautical engineering (1994)",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Mark_Kelly",
+        "title": "维基百科：Mark_Kelly",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "US Navy 1986–2011; NASA astronaut 1996–2011",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Mark_Kelly",
+        "title": "维基百科：Mark_Kelly",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "retired NASA October 2011; author and speaker",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Mark_Kelly",
+        "title": "维基百科：Mark_Kelly",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "World View Enterprises co-founder, Director of Flight Crew Operations from 2013; Americans for Responsible Solutions Jan 2013",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://www.fec.gov/data/candidates/?q=Mark+Kelly",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "FEC S0AZ00350",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "December 2, 2020 special election victory, sworn in as senator from Arizona",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Mark_Kelly",
+        "title": "维基百科：Mark_Kelly",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "December 2, 2020 special election victory, sworn in as senator from Arizona",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://en.wikipedia.org/wiki/Mark_Kelly",
+        "title": "维基百科：Mark_Kelly",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "US Navy: 1986–2011, Captain, naval aviator and test pilot",
+        "tier": 3
+      },
+      {
+        "id": "s16",
+        "url": "https://www.fec.gov/data/candidates/?q=Mark+Kelly",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "FEC candidate S0AZ00350 (2020 AZ Senate special)",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:AZ"
+    ],
+    "person": {
+      "name": {
+        "value": "马克·凯利",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1964-02-21",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "新泽西州奥兰治",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1986",
+        "source_ids": [
+          "s15"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：入美国海军任军官、飞行员；底稿备注：1986年商船学院毕业受命入海军；月份按毕业次月推定",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1986",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "美国海军研究生院航空工程理学硕士学位",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2019-02",
+        "source_ids": [
+          "s16"
+        ],
+        "inferred": true,
+        "basis": "第3级锚点：首次以民主党身份参选联邦参议员：2019年2月启动马克·凯利参议员竞选委员会（FEC ID S0AZ00350）；来源：https://www.fec.gov/data/candidates/?q=Mark+Kelly；底稿备注：2019年2月宣布竞选；取该最早以民主党参选节点",
+        "inference": {
+          "rule": "party_anchor_candidacy_filing",
+          "from_date": "2019-02",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（亚利桑那州）",
+        "role": "",
+        "start": {
+          "value": "2020-12-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院军事委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院商业、科学与运输委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院环境与公共工程委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院老龄问题特别委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1982",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1986倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1986",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1986",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国商船学院",
+        "role": null,
+        "program": "海洋工程与航海科学",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1986",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国海军、美国国家航空航天局",
+        "role": "海军军官、飞行员、试飞员，海军上校军衔；国家航空航天局宇航员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "海军军官",
+          "飞行员",
+          "试飞员，海军上校军衔；国家航空航天局宇航员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "study",
+            "start": {
+              "value": "1992",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "1994",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国海军研究生院学习获理学硕士学位",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": {
+              "value": "理学硕士",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "concurrent": true,
+            "source_ids": [
+              "s9"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "1996",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2011",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国国家航空航天局宇航员，历任航天飞机驾驶员、指令长",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s9"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：硕士学制2年自1994倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1994",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1994",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国海军研究生院",
+        "role": null,
+        "program": "航空工程",
+        "degree_awarded": {
+          "value": "理学硕士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "（自由职业）",
+        "role": "作家、演说家",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "作家",
+          "演说家"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "世界视野企业公司",
+        "role": "联合创始人、飞行乘组运行主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联合创始人",
+          "飞行乘组运行主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2013",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2013",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "与加布丽埃勒·吉福兹共同创办负责任解决方案美国人组织（后称吉福兹组织）",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "马克·凯利参议员竞选委员会",
+        "role": "民主党联邦参议员候选人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "民主党联邦参议员候选人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020-12-02",
+          "source_ids": [
+            "s13",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（亚利桑那州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13",
+          "s14"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（亚利桑那州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：商船学院/海军研究生院入学年（按学制倒推）",
+      "底稿缺项：世界视野企业与吉福兹组织各职务精确起止月份",
+      "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1986年6月」：底稿推定（1986年商船学院毕业受命入海军；月份按毕业次月推定），不采用，只写到年",
+      "军旅记录（military）未单独转换，服役经历以履历条目为准",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

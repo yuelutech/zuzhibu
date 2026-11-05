@@ -1,0 +1,676 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001317",
+      "line": "cadre",
+      "subject_id": "b001317",
+      "title": "约什·布雷奇恩简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BRECHEEN,-Josh-(B001317)/",
+          "title": "BRECHEEN, Josh | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Ada, Pontotoc County, Okla., June 19, 1979; ... B.S., Oklahoma State University, Stillwater, Okla., 2002; ... (January 3, 2023-present).",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/B001317",
+          "title": "Office of the Clerk, U.S. House of Representatives — Josh Brecheen",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Josh Brecheen\nOklahoma (OK) – 2nd, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://brecheen.house.gov/about/",
+          "title": "About | U.S. Representative Josh Brecheen",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "From 2010 to 2018, Brecheen served as an Oklahoma State Senator ... Brecheen worked for U.S Senator Tom Coburn for six years.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://oklahoma.gov/careertech/students/organizations/nths/stars-of-excellence.html",
+          "title": "Stars of Excellence",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "he earned a dual degree in agricultural communications and animal science in 2002.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://clerk.house.gov/Committees/HM00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on Homeland Security",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "119th Congress, 2nd Session\nCommittee on Homeland Security\nJosh Brecheen, OK",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://clerk.house.gov/Committees/BU00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on the Budget",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "119th Congress, 2nd Session\nCommittee on the Budget\nJosh Brecheen, OK",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://oklahoma.gov/elections/elections-results/election-results/2010-election-results/10gen.html",
+          "title": "SUMMARY RESULTS: General Election -- November 2, 2010",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "FOR STATE SENATOR, DISTRICT NO. 6\nJOSH BRECHEEN                         REP    11,719   56.77%",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://oksenate.gov/press-releases/senators-take-their-oath-office",
+          "title": "Senators Take Their Oath of Office | Oklahoma Senate",
+          "published_at": "2010-11-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "Newly elected and reelected members of the Oklahoma State Senate took their Oath of Office ... Josh Brecheen, R-Coalgate",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://brecheen.house.gov/news/documentsingle.aspx?DocumentID=29",
+          "title": "Congressman Josh Brecheen (OK-02) Sworn In To 118th Congress",
+          "published_at": "2023-01-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "Congressman Josh Brecheen was sworn in to the 118th Congress ... United States Representative from Oklahoma’s Second Congressional District.",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://ivoterguide.com/candidate/67471/race/4292/election/911",
+          "title": "Voter Guide Profile for OK U.S. Rep., Dist. 2 candidate - Josh Brecheen",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Motivational Speaking Small Business, Owner, 1999 - 2004\nRancher, Owner, 2002-Present\nOwner/Operator, 2018-2022",
+          "tier": 2
+        },
+        {
+          "id": "s12",
+          "url": "https://brecheen.house.gov/about/committees.htm",
+          "title": "Committees | U.S. Representative Josh Brecheen",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Brecheen serves as a Member ... Chairman of the Oversight, Investigations, and Accountability (OIA) Subcommittee.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:OK"
+      ],
+      "person": {
+        "name": {
+          "value": "约什·布雷奇恩",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1979-06-19",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "俄克拉何马州艾达",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "俄克拉何马州立大学动物科学和农业传播理学学士学位",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2010-11",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以共和党候选人身份参加俄克拉何马州参议院第6选区大选，2010-11-02；来源：https://oklahoma.gov/elections/elections-results/election-results/2010-election-results/10gen.html。已检索选民登记、本人公开宣布加入共和党、党组织任职及州级参选登记，未取得可读且载明更早合格日期的原文。州选举委员会2010年候选人登记名册仅读到登记期封面，未读到本人条目，不作第3级锚点；个人政治博客关于2010年6月登记的报道不作权威证据。未取得本人实际出现在2010年共和党初选选票上的原文，不采用底稿2010年7月。2010-11-16以共和党身份宣誓就任为较低的第5级锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2010-11-02",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（俄克拉何马州第2选区）",
+          "role": "",
+          "start": {
+            "value": "2023-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院国土安全委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s6",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院预算委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s7",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1998",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "官方履历及州政府页面记载2002年毕业；按允许的本科标准学制推算：2002－4＝1998。此前曾就读俄克拉何马东南州立大学，转学的确切时间未取得可读原文。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2002",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄克拉何马州立大学",
+          "role": null,
+          "program": "动物科学和农业传播",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2004",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Brecheen Keynotes and Seminars 公司",
+          "role": "业主",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "业主"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "私人经营",
+          "role": "牧场经营者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s11"
+          ],
+          "ongoing": true,
+          "roles": [
+            "牧场经营者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s1",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦参议员汤姆·科伯恩办公室",
+          "role": "地区代表",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s10",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "地区代表"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010-11-16",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄克拉何马州参议院",
+          "role": "州参议员（第6选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员（第6选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2010",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2017",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "私人经营",
+              "role": "马匹训练及销售业务业主",
+              "roles": [
+                "马匹训练及销售业务业主"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2022",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "运输及土方工程企业",
+          "role": "业主、经营者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "业主",
+            "经营者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（俄克拉何马州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（俄克拉何马州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.美国联邦参议员汤姆·科伯恩办公室.start",
+          "alternatives": [
+            {
+              "value": "2005",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2004",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2005",
+          "reason": "采用众议院现行官方人物履历明确列出的2005—2010年；iVoterGuide候选人资料列2004—2010年。议员官网只写六年、州政府页面只写近六年，均未明确给出起年。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过众议院官方人物履历、议员官网、州政府Stars of Excellence及iVoterGuide候选人资料。1999年演讲企业经营与本科就读重叠；2002年牧场经营及科伯恩办公室任职均未明确说明全职起点，无法确定第一份全职工作，work_start留空。",
+        "俄克拉何马东南州立大学学习起止：众议院官方人物履历确认曾就读，未列年月；州参议院旧传记PDF未取得可持续读取的本人段落，未编入有起止时间的学习条目。",
+        "出生日期及出生地第二份原文：国会名录PDF和Congress.gov人物页打开失败，现以众议院历史人物页为依据。",
+        "族裔：众议院人物页记载其为乔克托民族登记成员；本次未取得符合本人自述或官方统计要求的族裔分类原文，ethnicity留空。",
+        "众议院国土安全委员会及预算委员会任职开始日期：书记官成员页及议员委员会页确认现职，未记载本届具体生效日期，start留空。",
+        "国土安全委员会监督、调查和问责小组委员会主席起始日期：议员委员会页确认主席职务，未取得明确生效日期，未编入履历括注。",
+        "共和党更高级锚点：检索了选民登记、公开加入声明、党组织任职、州伦理委员会公开披露、州选举委员会候选人档案及FEC线索；未取得可读且日期明确、早于2010年11月大选的合格原文。",
+        "企业全称：议员官网及候选人资料未列运输及土方工程企业、牧场、马匹训练销售企业的法定名称。",
+        "州参议员离任月份：官方人物履历及议员官网只明确到2018年，未补月份。"
+      ],
+      "excluded": [
+        "底稿『1997—2003年俄克拉何马州立大学学习』：官方毕业年为2002年；起年按毕业年减4推为1998年，另记此前曾就读俄克拉何马东南州立大学的日期缺口。",
+        "底稿『2004年参加工作』：没有第一份全职工作的证据，且已有更早演讲企业和牧场经营记录，不采用。",
+        "底稿『2004—2010年科伯恩办公室地区代表』：与现行众议院官方履历的2005—2010年冲突，采用官方明确年份。",
+        "底稿『2018—2022年布雷奇恩主题演讲与研讨公司负责人、运输和土方工程企业负责人』：演讲企业与运输土方企业分属不同经历；2018—2022年只用于候选人资料明确列出的运输土方企业。",
+        "底稿『2025年1月开始担任联邦众议员』：这是本届任期起点，连续担任现选区议员始于2023年1月3日。",
+        "底稿『2010年7月加入美国共和党』：未取得该月的有效锚点，改用2010年11月2日共和党候选人大选记录。",
+        "底稿『2004年7月参加工作』：年份及月份均缺第一份全职工作依据。",
+        "底稿小组委员会单列现任职务：按本批规则，小组委员会不单列current_roles。",
+        "查到的2023年1月7日宣誓报道：记录的是宣誓日期；连续议员任职起点采用官方人物履历的2023年1月3日。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（俄克拉何马州第2选区），美国国会众议院；Bioguide B001317",
+      "review_items": [
+        "work_start缺证，完整简历卡所需五项尚未齐全，保留seed级。",
+        "复核iVoterGuide传记栏的候选人填报属性及企业起止年份；该页包含本人问卷回答，来源按二级公开自述登记。",
+        "继续取得2010年州参选登记本人条目及受理日期；取得后按第3级锚点替换现用第4级锚点。",
+        "官方人物履历将科伯恩办公室任职起年列为2005，候选人资料列为2004，冲突已并列并选用官方值。",
+        "俄克拉何马东南州立大学及Brecheen Keynotes and Seminars公司译名需由译名表维护者复核。"
+      ]
+    }
+  ]
+}

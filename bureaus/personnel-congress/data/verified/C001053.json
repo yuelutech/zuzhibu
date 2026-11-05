@@ -1,0 +1,718 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001053",
+      "line": "cadre",
+      "subject_id": "c001053",
+      "title": "汤姆·科尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/11774/",
+          "title": "COLE, Tom | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Shreveport, Caddo Parish, La., on April 28, 1949",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/Members/C001053",
+          "title": "Office of the Clerk, U.S. House of Representatives — Tom Cole",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Tom Cole\nOklahoma (OK) – 4th, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.okhistory.org/publications/enc/entry?entry=CO084",
+          "title": "Cole, Thomas Jeffery | The Encyclopedia of Oklahoma History and Culture",
+          "published_at": "2014-03-02",
+          "checked_at": "2026-10-19",
+          "excerpt": "In 1984 he received a doctorate in British history from the University of Oklahoma.",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://rollcall.com/2015/06/11/pragmatist-tom-cole-on-legislative-success-working-the-press/",
+          "title": "Pragmatist Tom Cole on Legislative Success, Working the Press – Roll Call",
+          "published_at": "2015-06-11",
+          "checked_at": "2026-10-19",
+          "excerpt": "a history degree from Grinnell College, an M.A. in British History from Yale and a Ph.D. in that same topic",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://appropriations.house.gov/about/membership",
+          "title": "Membership | House Committee on Appropriations - Republicans",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Chairman\nTom Cole\nOK - 04",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://clerk.house.gov/Committees/AP00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on Appropriations",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Tom Cole, OK\nChair",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt966/html/CRPT-118hrpt966.htm",
+          "title": "House Report 118-966 — Committee on Appropriations House of Representatives Annual Report",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Elected chairman April 10, 2024.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://journalrecord.com/2014/11/04/cole-a-proud-heritage-opinion/",
+          "title": "Cole: A proud heritage - The Journal Record",
+          "published_at": "2014-11-04",
+          "checked_at": "2026-10-19",
+          "excerpt": "At an early age, I learned from my mother about the importance of my Native American heritage.",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://www.congress.gov/118/meeting/house/115340/witnesses/HHRG-118-HA00-Bio-ColeT-20230228.pdf",
+          "title": "Chairman Tom Cole — Biography",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Cole is a fifth generation Oklahoman and an enrolled member of the Chickasaw Nation.",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://news.yale.edu/2014/11/05/seventeen-yale-alumni-won-congressional-governors-races-election-day-2014",
+          "title": "Seventeen Yale alumni won congressional, governor's races on Election Day 2014 | Yale News",
+          "published_at": "2014-11-05",
+          "checked_at": "2026-10-19",
+          "excerpt": "Tom Cole (M.A. 1974), U.S. representative (R-Oklahoma, 2003-present)",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:OK"
+      ],
+      "person": {
+        "name": {
+          "value": "汤姆·科尔",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1949-04-28",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "路易斯安那州什里夫波特",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "俄克拉何马大学英国历史学哲学博士学位",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": {
+          "value": "原住民",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（俄克拉何马州第4选区）",
+          "role": "",
+          "start": {
+            "value": "2003-01-03",
+            "source_ids": [
+              "s1",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "主席",
+          "start": {
+            "value": "2024-04-10",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1967",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "众议院官方传记和俄克拉何马历史文化百科记载1971年取得格林内尔学院文学学士学位；按美国本科标准学制4年倒推：1971－4＝1967。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1971",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1971",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "格林内尔学院",
+          "role": null,
+          "program": "历史学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1982",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1984",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦众议员米奇·爱德华兹办公室",
+          "role": "工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员"
+          ],
+          "role_category": {
+            "value": "staff",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "众议院官方传记记为staff，译为工作人员。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1989",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄克拉何马州共和党",
+          "role": "主席",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "主席"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1988",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1991",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄克拉何马州参议院",
+          "role": "州参议员（第45选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员（第45选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1991",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "全国共和党国会委员会",
+          "role": "执行主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "执行主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄克拉何马州政府",
+          "role": "国务卿",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "国务卿"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2001",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "共和党全国委员会",
+          "role": "幕僚长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "幕僚长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（俄克拉何马州第4选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（俄克拉何马州第4选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2006",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2008",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "全国共和党国会委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s4"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2024-04-10",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "众议院拨款委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s6",
+                "s7",
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：查阅众议院历史人物页、国会官网传记PDF、俄克拉何马历史文化百科及早期经历检索，确认在1982年国会幕僚经历之前已有教学和党务经历，但没有找到第一份全职工作的开始时间及全职性质依据，work_start留null。",
+        "耶鲁大学学习起始时间：众议院官方传记、耶鲁大学校友报道确认1974年取得文学硕士学位，Roll Call确认英国历史学专业；没有找到入学日期。本批不按硕士标准学制推算，未生成缺起始日期的学习条目。",
+        "俄克拉何马大学博士学习起始时间及学习形式：众议院官方传记和俄克拉何马历史文化百科确认1984年取得博士学位，百科确认英国历史学专业；没有找到入学日期、学习年限或在职性质依据，未生成缺起始日期的学习条目。",
+        "早期教学履历：众议院官方传记记载俄克拉何马大学研究生助教、俄克拉何马浸会大学教师，百科记载在两校教授历史和政治；没有找到可采用来源中的任职起止日期，未列入careers。",
+        "入党时间：已检索选民登记、本人宣布加入共和党及早期党职资料。s1、s4确认1985—1989年任俄克拉何马州共和党主席；s11另确认1980年已任该党执行主任，但未交代该职就任日期。1985年主席锚点晚于更早的同级党职记录；1980年在职记录也未给出就任日期，party_joined_at留null，待补最早党职就任依据。",
+        "俄克拉何马州共和党执行主任履历：s11证明1980年在职，没有找到就任和离任日期，未把1980年直接写成起始日期。",
+        "政治咨询公司履历：s4确认曾为Cole, Hargrave, Snodgrass and Associates创始合伙人、总裁；没有找到可采用来源中的任职起止日期，未列入careers。",
+        "众议院规则委员会主席履历：s1确认在第118届国会担任主席；本次未取得能完整支持就任、生效和终止日期的已打开原始文件，未生成该兼职条目。",
+        "其他履历缺口：1971年本科毕业后至1982年、1993—1995年、2001—2003年的连续任职安排，已查上述官方传记和百科，未找到足以补齐时间线的起止依据。",
+        "日期月份：早期学习和任职来源多只到年，按本批规则保留原精度，没有补月份。"
+      ],
+      "excluded": [
+        "底稿『耶鲁大学历史学文学硕士学位』作为最高学位：官方传记确认1984年取得俄克拉何马大学博士学位，最高学位已更正。",
+        "底稿『1971—1974年耶鲁大学学习』：1974年获学位有依据，1971年入学没有依据。",
+        "底稿『1974—1982年俄克拉荷马大学历史学博士课程学习、俄克拉荷马州高校教师』：混合学校和任职单位，起始日期无依据；官方确认博士学位取得年份为1984年。",
+        "底稿『1982年参加工作』及发布稿『1982年7月参加工作』：存在更早教学和党务经历，1982年未证实为第一份全职工作的开始年份，7月也无依据。",
+        "底稿『1985年1月加入美国共和党』：1月没有来源，且查到1980年更早党职记录。",
+        "底稿现职起始时间『2025-01』：这是第119届国会本届宣誓时间；首次代表现选区的日期为2003-01-03。",
+        "底稿格林内尔学院入学年『1967』标为非推算：本次按1971年毕业减4年记录为推算。",
+        "底稿无来源的履历、出生地和学位字段：全部重新取证，未作为证据使用。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（俄克拉何马州第4选区）；美国国会众议院；Bioguide C001053",
+      "review_items": [
+        "参加工作时间缺少第一份全职工作起始依据，完整简历卡五项必备字段未齐。",
+        "补查1980年及更早俄克拉何马州共和党党职的就任记录，再确定第2级入党锚点。",
+        "补查硕士、博士入学记录和早期教学任职日期。",
+        "补查众议院规则委员会主席的正式就任及终止文件。",
+        "本事实包为研究候选稿，交下一会话逐字段独立核查。"
+      ]
+    }
+  ]
+}

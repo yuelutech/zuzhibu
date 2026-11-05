@@ -1,0 +1,489 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "mike-sicilia-20261018",
+      "line": "cadre",
+      "subject_id": "mike-sicilia",
+      "title": "迈克·西西利亚简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.oracle.com/corporate/executives/mike-sicilia/",
+          "title": "Mike Sicilia — Oracle Executive Biography",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Since joining Oracle from Primavera Systems in 2008",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526402816/orcl-20260925.htm",
+          "title": "Oracle 2026 Proxy Statement",
+          "published_at": "2026-09-25",
+          "checked_at": "2026-10-18",
+          "excerpt": "MICHAEL D. SICILIA; Age: 55",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://docs.house.gov/meetings/AP/AP18/20230913/116331/HHRG-118-AP18-Bio-SiciliaM-20230913.pdf",
+          "title": "Mike Sicilia — Congressional witness biography",
+          "published_at": "2023-09-13",
+          "checked_at": "2026-10-18",
+          "excerpt": "He was named Primavera’s chief technology officer in 2006.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.livemint.com/companies/news/five-facts-about-oracles-co-ceos-clay-magouyrk-and-mike-sicilia-11758557025993.html",
+          "title": "Reuters: Five facts about Oracle's co-CEOs",
+          "published_at": "2025-09-22",
+          "checked_at": "2026-10-18",
+          "excerpt": "He began his career as a software engineer in 1993.",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "迈克·西西利亚"
+      ],
+      "person": {
+        "name": {
+          "value": "迈克·西西利亚",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1971-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "申报日2026-09-25列55岁，出生区间1970-09-26至1971-09-25，取中间月份",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2026-09-25",
+            "duration_years": 55
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1993-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "路透明确职业生涯开始于1993年；月份未载取7月",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "圣约瑟夫大学计算机科学专业",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "甲骨文公司",
+          "role": "首席执行官、董事",
+          "roles": [
+            "首席执行官",
+            "董事"
+          ],
+          "start": {
+            "value": "2025-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "首份全职工作年份1993，缺月取7月",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1993",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Primavera Systems 公司",
+          "role": "软件工程师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "软件工程师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2008",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Primavera Systems 公司",
+          "role": "首席技术官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席技术官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "甲骨文公司 Primavera 业务部",
+          "role": "高级副总裁、总经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "高级副总裁",
+            "总经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019-10",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "甲骨文公司建设与工程业务部",
+          "role": "高级副总裁、总经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "高级副总裁",
+            "总经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-10",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "甲骨文公司",
+          "role": "全球业务部门执行副总裁、行业业务执行副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "全球业务部门执行副总裁",
+            "行业业务执行副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "甲骨文公司",
+          "role": "行业业务总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "行业业务总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "甲骨文公司",
+          "role": "首席执行官、董事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "首席执行官",
+            "董事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "甲骨文公司",
+      "conflicts": [
+        {
+          "field": "Oracle join year",
+          "alternatives": [
+            {
+              "value": "2008",
+              "source_ids": [
+                "s1",
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2009",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2008",
+          "reason": "用户确认采用公司现行个人页2008年。"
+        }
+      ],
+      "unknowns": [
+        "未找到直接证明国籍的一级或合格二级来源，国籍留空。",
+        "圣约瑟夫大学本科入学和毕业年份未核到。",
+        "2008年进入甲骨文至2011年之间具体职务未载；不编岗位。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Mike Sicilia；甲骨文公司；首席执行官、董事",
+      "review_items": [
+        "中文音译按Mike、Sicilia译音另报names.csv。",
+        "2008年并入甲骨文已按用户选择采用现行公司简介，旧公司的CTO职务不自动延续。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-2"
+}

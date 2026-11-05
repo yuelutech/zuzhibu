@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "samir-kaul-20261018",
+      "line": "cadre",
+      "subject_id": "samir-kaul",
+      "title": "萨米尔·考尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.khoslaventures.com/team/samir-kaul",
+          "title": "Samir Kaul — Khosla Ventures",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Samir is a Founding Partner and Managing Director at Khosla Ventures",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1841873/000119312523087377/d484343d10k.htm",
+          "title": "Khosla Ventures Acquisition Co. 2022 Form 10-K",
+          "published_at": "2023-03-31",
+          "checked_at": "2026-10-18",
+          "excerpt": "Samir Kaul; 49",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.sec.gov/Archives/edgar/data/1365916/000119312511091489/ddef14a.htm",
+          "title": "Amyris 2011 Proxy Statement",
+          "published_at": "2011-04-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "from 2002 to May 2006",
+          "tier": 1
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "萨米尔·考尔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1973-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2023-03-31年龄49岁，出生区间1973-04-01至1974-03-31，中间月份1973-09",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2023-03-31",
+            "duration_years": 49
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "硕士研究生",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "马里兰大学生物化学理学硕士、哈佛商学院工商管理硕士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "科斯拉风险投资公司",
+          "role": "创始合伙人、董事总经理",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "创始合伙人",
+            "董事总经理"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002-07",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "来源仅载2002年；按 cadre.md 3.3 的缺月份取7月规则补齐。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2002",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2006-05",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Flagship Ventures 公司",
+          "role": "投资人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "投资人"
+          ],
+          "role_category": {
+            "value": "started and invested in early-stage biotech companies",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "据创办及投资企业的明确类别概括为投资人",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006-02",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "科斯拉风险投资公司",
+          "role": "合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "合伙人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "科斯拉风险投资公司",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：TIGR经历早于Flagship，首份全职工作起年未知。",
+        "各学位取得年、Codon创始CEO任职时间未知；董事总经理具体起始日未知。",
+        "国籍：已查所列来源，未找到可采用依据。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": null,
+      "review_items": [
+        "官网五年Flagship表述为概述；逐段年月采用SEC记录。",
+        "有来源的无起始日期经历：基因组研究所；拟南芥基因组计划负责人；终点：未找到；来源：s1",
+        "有来源的无起始日期经历：科斯拉风险投资公司；创始合伙人、董事总经理；终点：未找到；来源：s1",
+        "来源s2阅读记录：年龄截至报告签署日2023-03-31；本科、硕士及MBA见高管履历）。",
+        "来源s3阅读记录：Flagship经历）；since February 2006（Khosla合伙人）。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

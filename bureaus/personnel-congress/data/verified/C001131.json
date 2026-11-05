@@ -1,0 +1,541 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001131",
+      "line": "cadre",
+      "subject_id": "c001131",
+      "title": "格雷戈里奥·卡萨简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/Members/C001131",
+          "title": "Office of the Clerk, U.S. House of Representatives — Greg Casar",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Texas (TX) – 35th, Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://casar.house.gov/about",
+          "title": "About | Representative Casar",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Congressman Casar was sworn into office in January 2023",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2026-02-20/text/CDIR-2026-02-20.txt",
+          "title": "Congressional Directory for the 119th Congress (2025-2026), February 20, 2026",
+          "published_at": "2026-02-20",
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Houston, TX, May 4, 1989;\neducation: B.A., political science and social thought, University of\nVirginia, Charlottesville, VA, 2011",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.fec.gov/data/committee/C00791897/?cycle=2022&tab=about-committee",
+          "title": "GREG CASAR FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Registration date: October 19, 2021",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.fec.gov/data/candidate/H2TX35144/?cycle=2022",
+          "title": "CASAR, GREG - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Candidate for House Texas - 35 ID: H2TX35144 DEMOCRATIC PARTY",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://progressives.house.gov/caucus-members",
+          "title": "Caucus Members | Congressional Progressive Caucus",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Chair\n\nGreg Casar\n\n35th District of Texas",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://casar.house.gov/issues/congressional-progressive-caucus",
+          "title": "Congressional Progressive Caucus | Representative Casar",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "The new leadership will begin their terms on Jan. 3, 2025.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.austintexas.gov/clerk/programs/history-council",
+          "title": "History of Council | Austin City Clerk's Office | AustinTexas.gov",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "2015 - 2022  | Greg Casar",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.texasobserver.org/greg-casar-progressive-congress-star/",
+          "title": "Greg Casar Superstar?",
+          "published_at": "2022-06-06",
+          "checked_at": "2026-10-19",
+          "excerpt": "In the summer of 2010, Casar, then 21\n\nThe following year, Casar came back full-time for Workers Defense",
+          "tier": 2
+        },
+        {
+          "id": "s11",
+          "url": "https://uvamagazine.org/articles/wahoos_in_office",
+          "title": "Wahoos in Office—VIRGINIA Magazine",
+          "published_at": "2026-05-19",
+          "checked_at": "2026-10-19",
+          "excerpt": "Greg Casar (Col (College of Arts & Sciences) ’11)",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://www.sos.state.tx.us/elections/laws/advisory2020-05.shtml",
+          "title": "Party Affiliation Questions and Answers",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "when a person registers to vote in Texas, they do not register with any kind of party affiliation.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:TX"
+      ],
+      "person": {
+        "name": {
+          "value": "格雷戈里奥·卡萨",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1989-05-04",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "得克萨斯州休斯敦",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2011",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "《Texas Observer》报道其2010年夏在 Workers Defense Project 实习，次年返回该机构全职任职；以2011年首份全职工作的开始年份作为参加工作年份。来源：https://www.texasobserver.org/greg-casar-progressive-congress-star/；原文未给月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s4",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "弗吉尼亚大学政治学与社会思想文学学士学位",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2021-10",
+          "source_ids": [
+            "s5",
+            "s6",
+            "s12"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：民主党联邦众议员参选人 Greg Casar 的主要竞选委员会 GREG CASAR FOR CONGRESS（C00791897）在联邦选举委员会登记，2021-10-19；来源：https://www.fec.gov/data/committee/C00791897/?cycle=2022&tab=about-committee；候选人党籍及授权委员会来源：https://www.fec.gov/data/candidate/H2TX35144/?cycle=2022。检索国会官方传记、FEC候选人与委员会页面及得克萨斯州选务说明，未找到更高优先级的本人党籍登记、公开宣布加入民主党或民主党组织任职锚点。得克萨斯州选民登记不登记党籍，来源：https://www.sos.state.tx.us/elections/laws/advisory2020-05.shtml。排除2014年奥斯汀市议会选举：无党派市政选举；美国民主社会主义者组织经历不作加入美国民主党的锚点。FEC页面显示的2025年参选声明为当前版本，不作为首次登记日期。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2021-10-19",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（得克萨斯州第35选区）",
+          "role": "",
+          "start": {
+            "value": "2023-01",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国国会进步党团",
+          "role": "主席",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s7",
+            "s8"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院教育与劳动力委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院监督与政府改革委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s4",
+              "s11"
+            ],
+            "inferred": true,
+            "basis": "国会名录记载2011年取得弗吉尼亚大学文学学士学位，校友会刊确认2011届；按美国本科标准四年学制，2011－4＝2007。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2011",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2011",
+            "source_ids": [
+              "s4",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "弗吉尼亚大学",
+          "role": null,
+          "program": "政治学与社会思想",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "工人防卫项目",
+          "role": "政策主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "政策主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-01",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2022",
+            "source_ids": [
+              "s4",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "得克萨斯州奥斯汀市议会",
+          "role": "第4选区市议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "第4选区市议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-01",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（得克萨斯州第35选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（得克萨斯州第35选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025-01-03",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "美国国会进步党团",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s7",
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "出生日期第二来源：检索并尝试打开 Bioguide、众议院历史人物页和2024年国会名录，未取得可读取的第二份原文；采用已打开的2026年国会名录。",
+        "本科入学日期：查过国会名录、弗吉尼亚大学校友材料，没有找到直接记载；入学年按2011年毕业减四年推算，月份留缺。",
+        "参加工作月份：查过国会名录、议员官方传记及 Texas Observer 报道，只找到2011年开始全职任职，没有找到月份。",
+        "工人防卫项目任职结束日期：查过国会名录及 Texas Observer 报道，没有找到明确结束日期；end=null，ongoing=false。",
+        "工人防卫项目职务衔接：国会名录记载政策主任，报道记载2011年开始全职任职；没有找到政策主任职务单独生效日期。",
+        "奥斯汀市议员离任月份：已打开的市书记官历史名册和国会名录只写2022年，未取得记载离任月份的官方原文。",
+        "委员会任职起点：众议院书记官第119届国会页面确认教育与劳动力委员会、监督与政府改革委员会成员身份，没有记载各项任职生效日期。",
+        "进步党团党鞭任期：议员官网确认此前任党鞭一届，未找到明确生效日期，不添加履历括注。",
+        "族裔：检索议员官网、国会名录和公开报道，未找到符合本人自述或官方统计要求的直接依据，ethnicity=null。",
+        "履历衔接：奥斯汀市议员任期于2022年结束、联邦众议员于2023年1月就职，两者之间没有找到可确定起止日期的全职任职记录。"
+      ],
+      "excluded": [
+        "底稿『2025年1月开始担任得克萨斯州第35选区联邦众议员』：书记官页面日期为第119届国会宣誓日期；议员官方传记明确首次于2023年1月就职，改用2023-01。",
+        "底稿『2011年6月参加工作』：重新取证确认2011年开始全职任职，没有月份依据，不采用6月。",
+        "底稿『2014年11月加入美国民主党』：奥斯汀市议会为无党派市政选举，不作入党锚点；改用2021年10月竞选委员会首次登记锚点。",
+        "底稿『2007年本科入学』：未找到直接入学记录，保留2007年并改为毕业年减四年的有记录推算。",
+        "底稿『工人防卫项目任职止于2014年』：未找到明确离职年份，结束日期改为null。",
+        "2010年工人防卫项目实习：报道明确为暑期实习，不计参加工作时间。",
+        "美国民主社会主义者组织经历：不作为加入美国民主党的时间依据。",
+        "小组委员会职务：按本批规则不单列。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（得克萨斯州第35选区）＋美国国会众议院",
+      "review_items": [
+        "本事实包为研究候选稿，交下一会话逐字段重新联网核验。",
+        "参加工作时间只取到年，按本批规则不补月份。",
+        "工人防卫项目政策主任职务的具体起任日期及结束日期仍缺直接记录。"
+      ]
+    }
+  ]
+}

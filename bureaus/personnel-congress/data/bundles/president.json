@@ -1,0 +1,658 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-president",
+      "line": "cadre",
+      "subject_id": "president",
+      "title": "唐纳德·特朗普简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/",
+          "title": "www.whitehouse.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "January 20, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.whitehouse.gov/administration/donald-j-trump/",
+          "title": "www.whitehouse.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "President Trump followed in his father's footsteps into the world of real estate development",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.britannica.com/biography/Donald-Trump",
+          "title": "www.britannica.com",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Donald Trump (born June 14, 1946, New York, New York, U.S.)",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "title": "维基百科：Donald_Trump",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "born on June 14, 1946, at Jamaica Hospital in the New York City borough of Queens",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://www.britannica.com/biography/Donald-Trump",
+          "title": "www.britannica.com",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Fordham University in the Bronx (1964–66)",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://www.britannica.com/biography/Donald-Trump",
+          "title": "www.britannica.com",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Wharton School of Finance and Commerce (1966–68), where he graduated with a bachelor's degree in economics",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "title": "维基百科：Donald_Trump",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Starting in 1968, Trump was employed at Trump Management",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/The_Trump_Organization",
+          "title": "维基百科：The_Trump_Organization",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Donald Trump joined the organization in 1968, began leading it in 1971. / On January 11, 2017 ... Trump announced that he and his daughter Ivanka would fully resign",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "title": "维基百科：Donald_Trump",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "In office January 20, 2017 – January 20, 2021",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+          "title": "extapps2.oge.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Mar-A-Lago Club, L.L.C. | President | 01/24/2021 | Present / CIC Ventures LLC | 02/2021 | 01/09/2025",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/",
+          "title": "www.whitehouse.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "The Inaugural Address — January 20, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "title": "维基百科：Donald_Trump",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Starting in 1968, Trump was employed at Trump Management, his father's real estate company.",
+          "tier": 3
+        },
+        {
+          "id": "s13",
+          "url": "https://www.politifact.com/factchecks/2015/aug/24/jeb-bush/bush-says-trump-was-democrat-longer-republican-las/",
+          "title": "www.politifact.com",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "",
+          "tier": null
+        }
+      ],
+      "tags": [
+        "gold",
+        "whitehouse"
+      ],
+      "person": {
+        "name": {
+          "value": "唐纳德·特朗普",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1946-06-14",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "纽约州纽约市",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1968",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：毕业后全职加入其父房地产公司特朗普管理公司（Trump Management）",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1968",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "宾夕法尼亚大学沃顿商学院经济学理学学士学位",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2012-04",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": true,
+          "basis": "第1级锚点：采现党籍（共和党）最近一次登记时间；完整沿革如下（纽约市选举委员会选民登记记录，PolitiFact 整理）；来源：https://www.politifact.com/factchecks/2015/aug/24/jeb-bush/bush-says-trump-was-democrat-longer-republican-las/；党籍沿革：1987年7月 共和党（曼哈顿首次登记）；1999年10月 独立党（Independence Party，改革党纽约州关联党）；2001年8月 民主党；2009年9月 共和党；2011年12月 无党派登记；2012年4月 共和党（至今）",
+          "inference": {
+            "rule": "party_anchor_registration",
+            "from_date": "2012-04",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国总统",
+          "role": "",
+          "start": {
+            "value": "2025-01-20",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1964",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1966",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "福坦莫大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1966",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1968",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "宾夕法尼亚大学沃顿商学院",
+          "role": null,
+          "program": "经济学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1968",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1971",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "特朗普管理公司",
+          "role": "任职",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "任职"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1971",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017-01",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "特朗普集团",
+          "role": "总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-01",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021-01",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦政府",
+          "role": "第45任美国总统",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "第45任美国总统"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-01",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-01",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "马阿拉歌俱乐部等家族企业",
+          "role": "总裁等职务",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总裁等职务"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2024-11",
+                "source_ids": [
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2024-11",
+                "source_ids": [
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "当选第47任美国总统",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s10"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国联邦政府",
+          "role": "第47任美国总统",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11"
+          ],
+          "ongoing": true,
+          "roles": [
+            "第47任美国总统"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国白宫",
+      "conflicts": [
+        {
+          "field": "出任集团总裁年份",
+          "alternatives": [
+            {
+              "value": "维基百科：1971",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "大英百科：1974",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1971",
+          "reason": "底稿（Care 2026-06）记录的取舍，官方来源优先；待本机复核"
+        },
+        {
+          "field": "1999年登记党派名称",
+          "alternatives": [
+            {
+              "value": "PolitiFact/纽约市选举委员会：Independence Party",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "维基信息框：Reform Party（同源异名）",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "独立党（Independence Party）",
+          "reason": "底稿（Care 2026-06）记录的取舍，官方来源优先；待本机复核"
+        },
+        {
+          "field": "World Liberty Financial收入口径",
+          "alternatives": [
+            {
+              "value": "家族累计逾4亿美元（路透）",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "本人278e申报代币销售5,735万美元",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "两个口径并列披露",
+          "reason": "底稿（Care 2026-06）记录的取舍，官方来源优先；待本机复核"
+        }
+      ],
+      "unknowns": [
+        "底稿缺项：福坦莫大学就读专业（各来源未载，学习段不写专业）",
+        "底稿缺项：1968年参加工作的月份",
+        "底稿缺项：Trump Management任职段与集团总裁段的精确衔接月份"
+      ],
+      "excluded": [
+        "参加工作月份「1968年6月」：底稿推定（按旧规则推定），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

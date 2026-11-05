@@ -1,0 +1,738 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001282",
+      "line": "cadre",
+      "subject_id": "b001282",
+      "title": "安迪·巴尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/15032386868",
+          "title": "BARR, Garland H. (Andy), IV | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Lexington, Fayette County, Ky., July 24, 1973",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://barr.house.gov/about-andy-bio",
+          "title": "About Andy | Congressman Andy Barr",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Andy Barr has served as the United States Representative for Kentucky’s Sixth Congressional District since 2013.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://clerk.house.gov/members/B001282",
+          "title": "Office of the Clerk, U.S. House of Representatives — Andy Barr",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Kentucky (KY) – 6th, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://law.uky.edu/news/congressman-andy-barr-speaks-college-law",
+          "title": "Congressman Andy Barr Speaks at College of Law",
+          "published_at": "2014-11-20",
+          "checked_at": "2026-10-18",
+          "excerpt": "From 1996 through 1998, Barr entered public service for the first time as a Legislative Assistant to U.S. Congressman Jim Talent (R-MO)",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://rollcall.com/2018/12/07/andy-barr-started-out-as-mitch-mcconnells-intern/",
+          "title": "Andy Barr Started Out as Mitch McConnell’s Intern – Roll Call",
+          "published_at": "2018-12-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "Then in the summer of 1996, I finished college and I went to work for the Heritage Foundation.",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://clerk.house.gov/Committees/BA00",
+          "title": "Office of the Clerk — Committee on Financial Services",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Committee on Financial Services; Andy Barr, KY",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://clerk.house.gov/Committees/FA00",
+          "title": "Office of the Clerk — Committee on Foreign Affairs",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Committee on Foreign Affairs; Andy Barr, KY",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://clerk.house.gov/Committees/ZS00",
+          "title": "Office of the Clerk — Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party; Andy Barr, KY",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.fec.gov/data/committee/C00467571/?cycle=2024&tab=about-committee",
+          "title": "ANDY BARR FOR CONGRESS, INC. - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Registration date: September 28, 2009; House candidate Kentucky - 06 Republican Party",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.fcps.net/post-details/~board/fayette-county-public-schools-news/post/alumni-spotlight-andy-barr",
+          "title": "Alumni Spotlight: Andy Barr | Fayette County Public Schools",
+          "published_at": "2024-05-22",
+          "checked_at": "2026-10-18",
+          "excerpt": "University of Virginia, BA in Government and Philosophy, 1996; University of Kentucky College of Law, JD, 2001",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://www.kentucky.com/news/politics-government/article315727410.html",
+          "title": "Central Kentucky congressman wins Senate primary to replace Mitch McConnell",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "won the Republican primary May 19",
+          "tier": 2
+        },
+        {
+          "id": "s13",
+          "url": "https://www.govinfo.gov/content/pkg/GPO-PICTDIR-NEW-112/pdf/GPO-PICTDIR-NEW-112-40-1.pdf",
+          "title": "112th Congress New Member Pictorial Directory — page 48",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "July 24, 1973; University of Virginia, B.A., 1996; University of Kentucky, J.D., 2001",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:KY"
+      ],
+      "person": {
+        "name": {
+          "value": "安迪·巴尔",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1973-07-24",
+          "source_ids": [
+            "s1",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "肯塔基州列克星敦",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1996",
+          "source_ids": [
+            "s6",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "本人在 Roll Call 访谈中称，1996年夏本科毕业后到传统基金会任职，随后受聘为吉姆·塔伦特的立法助理；肯塔基大学记载立法助理任期为1996—1998年。按毕业后首份工作的开始年份取1996年；1993年和1994年的在校实习不计入。来源：https://rollcall.com/2018/12/07/andy-barr-started-out-as-mitch-mcconnells-intern/；https://law.uky.edu/news/congressman-andy-barr-speaks-college-law",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1996",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s11",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "肯塔基大学法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s11",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2009-09",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：共和党众议员参选人 Garland Andy Barr 的主要竞选委员会 ANDY BARR FOR CONGRESS, INC.（C00467571）在联邦选举委员会登记，2009-09-28；来源：https://www.fec.gov/data/committee/C00467571/?cycle=2024&tab=about-committee。第1级：未找到本人选民党籍登记日期或公开宣布加入共和党的日期。第2级：查到曾任 Fayette County Young Republicans 主席的媒体记载，但未载任职年份或就任日期，未作日期锚点；来源：https://www.kentucky.com/news/politics-government/article305263071.html。地方共和党副职及2008年全国代表大会候补代表的检索线索未取得带就任日期的原始证据。1993年、1994年的实习及政府幕僚经历不作入党锚点。底稿2010年5月和2013年共和党公职就任均晚于已核实的2009年9月委员会登记，不采用。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2009-09-28",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（肯塔基州第6选区）",
+          "role": "",
+          "start": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院金融服务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院外交事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院美国与中国共产党战略竞争特设委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1992",
+            "source_ids": [
+              "s2",
+              "s5",
+              "s11"
+            ],
+            "inferred": true,
+            "basis": "官方传记及本人学校访谈记载1996年取得弗吉尼亚大学文学学士学位，按美国本科标准学制4年倒推：1996－4＝1992。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1996",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s2",
+              "s5",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "弗吉尼亚大学",
+          "role": null,
+          "program": "政府与哲学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2",
+              "s5",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "传统基金会",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1998",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦众议员吉姆·塔伦特办公室",
+          "role": "立法助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "立法助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1998",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2001",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s11",
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "肯塔基大学法学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s1",
+              "s11",
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s6",
+            "s11",
+            "s13"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2001",
+            "source_ids": [
+              "s6",
+              "s1",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "私人执业",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2004",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "肯塔基州州长办公室",
+          "role": "副总法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "副总法律顾问"
+          ],
+          "role_category": {
+            "value": "joined the administration ... ultimately rising to the position of Deputy General Counsel to the Governor",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "来源记载2004年加入州长班子，最终升任州长副总法律顾问，2007年返回私人执业；本条起止为州长班子任职期间，副总法律顾问的具体就任日期未载。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "私人执业",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（肯塔基州第6选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（肯塔基州第6选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2026-05-19",
+                "source_ids": [
+                  "s12"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "美国共和党",
+              "role": "肯塔基州联邦参议员候选人",
+              "roles": [
+                "肯塔基州联邦参议员候选人"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s12"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "族裔：查阅国会历史人物页、议员官方传记及学校访谈，未找到本人自述或官方族裔统计，留空。",
+        "传统基金会任职：本人访谈确认1996年本科毕业后任职，但未写职务、全职性质及结束日期；不将此前在校实习计入参加工作。",
+        "学习日期：官方传记和学校页面未载本科实际入学年，按1996年毕业减4推算；法学院1998年入学依据本人访谈，学习起止月份和全日制性质未找到。",
+        "法学院专业：国会人物页及学校访谈明确J.D.学位，未单独列专业名称，program留空。",
+        "私人执业：本人访谈记载法学院毕业后进入列克星敦一家区域性律所，学校资料记载2007年返回私人执业；未取得可用的各家律所完整任职起止原文，两段私人执业结束日期留空。",
+        "州长班子任职：学校资料记载2004—2007年及最终职务副总法律顾问；加入班子时职务、地方发展办公室任职期间及副总法律顾问具体就任日期未找到。",
+        "莫尔黑德州立大学讲师：国会历史人物页确认该经历，但未给起止日期，未列入careers或annotations。",
+        "入党第1级锚点：检索本人党籍登记及公开入党声明，未找到可用日期。",
+        "入党第2级锚点：地方媒体确认曾任Fayette County Young Republicans主席，但未载任职年份或就任日期；地方共和党副职及2008年候补代表线索未取得带日期原始证据，留待复核。",
+        "早期竞选履历：国会人物页确认2010年参选落败，未取得完整参选、提名及结束日期的原始材料，未按底稿合并成2007—2012年候选人经历。",
+        "三个现任委员会职务：众议院书记官第119届名单确认在任，未找到本届实际就任或生效日期，start均留空。",
+        "兼职及党团职务：议员官网列有多个党团及小组职务，但未找到其实际就任日期，未列为带起始日期的annotations。"
+      ],
+      "excluded": [
+        "底稿『现职开始2025-01』：这是本届任期时间；现选区连续任职始于2013-01-03，改用国会历史人物页及学校官方记载。",
+        "底稿『1996年6月参加工作』：未找到月份依据，保留1996年。",
+        "底稿『2010年5月加入美国共和党』：没有原始锚点，且晚于FEC确认的2009-09-28竞选委员会登记，改取2009年9月。",
+        "底稿『2003—2007年肯塔基州州长厄尼·弗莱彻办公室地方政府顾问』：学校官方资料记载2004年加入州长班子、最终为副总法律顾问；底稿起始年及职务不采用。",
+        "底稿『2001—2003年列克星敦律师事务所律师』：律所名称不是可核实机构全称，2003年终止时间无证据；改列私人执业，结束日期留空。",
+        "底稿『2007—2012年律师、共和党联邦众议员候选人』：将稳定职业与多次竞选合并，起止和身份阶段无逐项依据，拆除原条目。",
+        "底稿『2025年起兼任众议院金融服务委员会委员』：原条目无就任日期依据；委员会职务移入current_roles，start留空。",
+        "检索所得商业联系人聚合页的精确月份：未取得本人公开履历原文，不采用。",
+        "检索所得维基百科及镜像中的地方党职、律所和教学时间线：只作检索线索，不作事实字段来源。",
+        "肯塔基大学2011年校友简讯及州律师协会刊物：检索工具未稳定返回可读支持原文，不列入sources。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（肯塔基州第6选区）＋美国国会众议院；Bioguide B001282",
+      "review_items": [
+        "优先补查早期地方共和党职务的就任日期；现入党推断采用已取得日期证据的第3级锚点。",
+        "传统基金会条目职务留空，需补职务及全职性质原始依据。",
+        "州长办公室条目记录整个班子任职期间，角色为期间最终职务；需补齐职务组合和各职务交接日期。",
+        "私人执业两段结束日期均未知，ongoing=false不主张持续至今。",
+        "学校文章发布日期为2014-11-20，文中活动叙述涉及早期国会任期；本包只使用其中明确写出的履历日期。",
+        "小组委员会职务未单列；三个全委员会现职已按第119届书记官名单列入。",
+        "本事实包为重新取证形成的候选稿，交下一会话逐字段独立核验。"
+      ]
+    }
+  ]
+}

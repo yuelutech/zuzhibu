@@ -1,0 +1,739 @@
+{
+  "id": "je-yoon-shin",
+  "name_zh": "申齐润",
+  "name_en": "Je-Yoon Shin",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Samsung Chairman of the Board Samsung Chairman of the Board”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/je-yoon-shin.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://images.samsung.com/is/image/samsung/assets/global/ir/imgs/profile009_shinjeyoon01.jpg?$ORIGIN_JPG$",
+    "source": "https://www.samsung.com/global/ir/governance-csr/board-of-directors/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Samsung",
+      "role_en": "Chairman of the Board"
+    }
+  ],
+  "notes": [
+    "SEC field blank: Samsung Electronics is listed in South Korea; no SEC annual report or proxy biography was identified in its official reporting sources."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Samsung Chairman of the Board Samsung Chairman of the Board”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "je-yoon-shin-20261018",
+    "line": "cadre",
+    "subject_id": "je-yoon-shin",
+    "title": "申齐润简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.samsung.com/global/ir/governance-csr/board-of-directors/",
+        "title": "Samsung Electronics — Board of Directors",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Je-Yoon Shin Chairman of the Board & Independent Director ... Age : 68",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.bkl.co.kr/en/law/member/1435-jeyoon-shin",
+        "title": "Jeyoon Shin — Bae, Kim & Lee",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Starting his career as a public official at the Ministry of Finance in 1981",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.bkl.co.kr/zh/law/member/1435-jeyoon-shin",
+        "title": "申齊潤 — 法务法人太平洋",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "申齊潤 资深顾问",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "申齐润"
+    ],
+    "person": {
+      "name": {
+        "value": "申齐润",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "韩国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1958-04",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "2026-10-18核对现行官网年龄68，区间1957-10-19至1958-10-18，取中间月份。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-10-18",
+          "duration_years": 68
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1981-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "律所简介明确1981年在财政部参加工作；月份未载，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1981",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "康奈尔大学经济学专业",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "文学硕士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "三星电子公司",
+        "role": "董事长、独立董事",
+        "roles": [
+          "董事长",
+          "独立董事"
+        ],
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1981-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "原文给1981年，月份取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1981",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "韩国财政部",
+        "role": "公务员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "公务员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国财政经济部金融政策处",
+        "role": "副处长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副处长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2004",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国财政经济部国际金融处、金融政策处",
+        "role": "处长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "处长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国财政经济部",
+        "role": "局长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "局长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国总统府",
+        "role": "国民经济秘书",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "国民经济秘书"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国财政经济部国际金融局",
+        "role": "局长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "局长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国企划财政部",
+        "role": "国际事务次官补",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "国际事务次官补"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国金融委员会",
+        "role": "副委员长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副委员长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国企划财政部",
+        "role": "第一次官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "第一次官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "韩国金融委员会",
+        "role": "委员长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "委员长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "金融行动特别工作组",
+        "role": "主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "法务法人太平洋",
+        "role": "资深顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "资深顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "start": {
+              "value": "2017-02",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2018",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "韩国外交部",
+            "role": "国际金融合作大使",
+            "roles": [
+              "国际金融合作大使"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "source_ids": [
+              "s2"
+            ],
+            "kind": "part_time",
+            "concurrent": true
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "三星电子公司",
+        "role": "独立董事、董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "独立董事",
+          "董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "三星电子公司",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月采用官网现行年龄推算，直接生日来源未成功打开。",
+      "首尔大学1981年本科、康奈尔1992年硕士已核到，但入学时间及在职或脱产状态未核到，暂不列学习起止。",
+      "1981—1995年具体岗位与交接缺失；2004—2006局长所属局未载，按原文职位类别概括。",
+      "三星董事长具体到任日期未核到；2024年3月为独立董事起点。",
+      "既往政府任职未查到党籍记录，入党字段留空。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Je-Yoon Shin；三星电子公司；董事长、独立董事",
+    "review_items": [
+      "汉名取本人所在律所中文页申齊潤，简化字写申齐润；另报names.csv。",
+      "三星为本批企业对象，保留其现任董事长资料。"
+    ]
+  }
+}

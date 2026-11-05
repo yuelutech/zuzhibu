@@ -1,0 +1,454 @@
+{
+  "id": "julien-chaumond",
+  "name_zh": "朱利安·肖蒙",
+  "name_en": "Julien Chaumond",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“抱抱脸公司 联合创始人、首席技术官 Hugging Face Co-founder and Chief Technology Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/julien-chaumond.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/NQtzmrDdbG0H8qkZvRyGk.jpeg",
+    "source": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Hugging Face",
+      "role_en": "Co-founder and Chief Technology Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“抱抱脸公司 联合创始人、首席技术官 Hugging Face Co-founder and Chief Technology Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "julien-chaumond-20261018",
+    "line": "cadre",
+    "subject_id": "julien-chaumond",
+    "title": "朱利安·肖蒙简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
+        "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Founded by Clément Delangue (CEO), Julien Chaumond (CTO), and Thomas Wolf (CSO)",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.pappers.fr/entreprise/hugging-face-822168043/documents/HUGGING%20FACE%20-%20Statuts%20mis%20%C3%A0%20jour%2011-05-2021.pdf",
+        "title": "Hugging Face SAS — Statuts mis à jour le 04/05/2021",
+        "published_at": "2021-05-04",
+        "checked_at": "2026-10-18",
+        "excerpt": "Monsieur Julien Chaumond Né le 08/11/1983 à Dreux (28) De nationalité Française",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://politique.pappers.fr/document/decret-2-septembre-2008-portant-nomination-titularisation-ingenieurs-telecommunications-JORFTEXT000019420692",
+        "title": "Décret du 2 septembre 2008 portant nomination et titularisation (ingénieurs des télécommunications)",
+        "published_at": "2008-09-04",
+        "checked_at": "2026-10-18",
+        "excerpt": "sont nommés et titularisés ingénieurs des télécommunications : ... M. Chaumond (Julien).",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.silicon.fr/Thematique/actualites-1367/Breves/IA-generative-7-entrepreneurs-fran-ais-qui-vont-faire-2024-402719.htm",
+        "title": "IA générative : 7 entrepreneurs français qui vont faire 2024",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "son master en mathématiques appliquées de Polytechnique ... Changement d'univers en 2015, en tant qu'ingénieur logiciel pour Stupeflix",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://www.polytechnique.edu/en/news/hugging-face-joins-nvidia-two-x2003s-heart-open-ai-boom",
+        "title": "Hugging Face Joins Nvidia: Two X2003s at the Heart of the Open AI Boom",
+        "published_at": "2026-09-03",
+        "checked_at": "2026-10-18",
+        "excerpt": "Founded in 2016 by Clément Delangue and two X2003 alumni—Julien Chaumond and Thomas Wolf",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://techcrunch.com/2014/11/13/glose-is-a-new-ebook-reader-to-turn-reading-into-a-social-experience/",
+        "title": "Glose Is A New Ebook Reader That Turns Reading Into A Social Experience",
+        "published_at": "2014-11-13",
+        "checked_at": "2026-10-18",
+        "excerpt": "co-founder and CTO Julien Chaumond",
+        "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://www.linkedin.com/in/julienchaumond",
+        "title": "Julien Chaumond — LinkedIn public profile",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "2006 - 2007 ... 2003 - 2006",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "朱利安·肖蒙"
+    ],
+    "person": {
+      "name": {
+        "value": "朱利安·肖蒙",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "法国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1983-11",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "德勒",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2008-09",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "education": {
+        "value": "巴黎综合理工学院应用数学专业",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "硕士",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "抱抱脸公司",
+        "role": "联合创始人、首席技术官",
+        "roles": [
+          "联合创始人",
+          "首席技术官"
+        ],
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s5",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "巴黎综合理工学院",
+        "role": null,
+        "program": "应用数学",
+        "degree_awarded": {
+          "value": "硕士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s5",
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": null,
+        "program": "电气工程与计算机科学",
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "法国电信工程师序列",
+        "role": "工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Glose 公司",
+        "role": "联合创始人、首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联合创始人",
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Stupeflix 公司",
+        "role": "软件工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "软件工程师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "抱抱脸公司",
+        "role": "联合创始人、首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联合创始人",
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "抱抱脸公司",
+    "conflicts": [],
+    "unknowns": [
+      "斯坦福学位类别未从已打开的学校或本人页面直接核得，首段保留已核得的巴黎综合理工学院应用数学硕士。",
+      "2008年9月为政府任命正式工程师的日期；此前斯坦福研究助理是否属于全职工作未核得。",
+      "法国公务员离开实际岗位、Glose离任及Stupeflix离任年月未核得；曾任数字事务部长顾问，但具体任期未核得。",
+      "领英公开页教育年段可见，学校和学位标题被遮蔽；学校与专业另由校方及媒体交叉确认。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Julien Chaumond；抱抱脸公司；联合创始人、首席技术官",
+    "review_items": [
+      "汉名按法语译音拟作朱利安·肖蒙，另报names.csv。",
+      "政府公报通过Pappers原文镜像读取，Légifrance直链本次无法打开。"
+    ]
+  }
+}

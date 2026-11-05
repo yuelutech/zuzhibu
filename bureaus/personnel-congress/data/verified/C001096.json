@@ -1,0 +1,775 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001096",
+      "line": "cadre",
+      "subject_id": "c001096",
+      "title": "凯文·克拉默简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/C/CRAMER,-Kevin-(C001096)/",
+          "title": "CRAMER, Kevin | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Rolla, Rolette County, N.Dak., January 21, 1961",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.cramer.senate.gov/biography",
+          "title": "About Me | Senator Kevin Cramer of North Dakota",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "a Master’s degree in Management from the University of Mary in Bismarck, North Dakota",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been nine Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Cramer, Kevin",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.senate.gov/states/ND/senators.htm",
+          "title": "U.S. Senate: States in the Senate | North Dakota Senators",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Kevin Cramer (R) | Jan. 3, 2019 | Present",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-ND-S-2.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022.",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Executive Director, Harold Schafer Leadership Foundation, 2000-03",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.psc.nd.gov/webdocs/newsroom/biennialreport/2011%20PSC%20Biennial%20Report.pdf",
+          "title": "Public Service Commission 2009-2011 Biennial Report",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "a B.A. degree from Concordia College in Moorhead, MN in Social Work",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://time.com/archive/6729925/a-guide-to-the-congressional-races-north-dakota/",
+          "title": "A GUIDE TO THE CONGRESSIONAL RACES: NORTH DAKOTA",
+          "published_at": "1996-11-04",
+          "checked_at": "2026-10-19",
+          "excerpt": "North Dakota Republican Party executive director, 1989-93, state chairman, 1991-93",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://web.archive.org/web/20201020135727/https://www.fargomonthly.com/kevin-cramer/",
+          "title": "Person Behind The Politico With Kevin Cramer | Fargo Monthly",
+          "published_at": "2018-09-10",
+          "checked_at": "2026-10-19",
+          "excerpt": "after I graduated from Concordia in 1983, I went to work in the 1984 election",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://www.cramer.senate.gov/news/press-releases/cramer-sworn-in-as-us-senator-for-second-term",
+          "title": "Cramer Sworn In As U.S. Senator For Second Term",
+          "published_at": "2025-01-03",
+          "checked_at": "2026-10-19",
+          "excerpt": "Cramer was sworn in as North Dakota’s 24th U.S. Senator in 2019",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
+          "title": "Voting in North Dakota | Secretary of State | North Dakota",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "North Dakota does not require voter registration",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "senate",
+        "state:ND"
+      ],
+      "person": {
+        "name": {
+          "value": "凯文·克拉默",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s5",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1961-01-21",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "北达科他州罗拉",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "玛丽大学管理学硕士学位",
+          "source_ids": [
+            "s2",
+            "s6",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1989",
+          "source_ids": [
+            "s8",
+            "s11",
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：就任北达科他州共和党执行主任，1989年；来源：https://time.com/archive/6729925/a-guide-to-the-congressional-races-north-dakota/ 。第1级检索：州务卿官网说明北达科他州不实行选民登记，未找到本人公开宣布加入或转入共和党的日期；来源：https://www.sos.nd.gov/elections/voter/voting-north-dakota 。同级另有1991年就任州共和党主席的官方记载，采用较早的1989年执行主任锚点；来源：https://history.house.gov/People/Listing/C/CRAMER,-Kevin-(C001096)/ 。在校参与共和党活动及1984年为共和党候选人竞选的经历，未提供党籍登记、公开入党声明或本人党职，不作更早锚点。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（北达科他州）",
+          "role": "",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s10"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院军事委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院银行、住房和城市事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院环境和公共工程委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院退伍军人事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1979",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "国会官方传记及国会名录记载1983年取得康科迪亚学院学士学位；按美国本科标准四年学制，1983－4＝1979。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1983",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1983",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "康科迪亚学院",
+          "role": null,
+          "program": "社会工作",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s7",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1984",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "北达科他州税务专员候选人竞选团队",
+          "role": "竞选工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "竞选工作人员"
+          ],
+          "role_category": {
+            "value": "went to work in the 1984 election",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "本人访谈说明毕业后为一名竞选州税务专员的康科迪亚学院毕业生参加1984年竞选工作，概括为竞选工作人员；未补具体职位。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北达科他州共和党",
+          "role": "执行主任、主席",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "执行主任",
+            "主席"
+          ],
+          "role_category": null,
+          "role_basis": "《时代》记载1989—1993年任执行主任，国会官方传记记载1991—1993年任主席；同一机构合并列示，未推定交接日期。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1997",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北达科他州旅游厅",
+          "role": "厅长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "厅长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2000",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北达科他州经济发展和金融厅",
+          "role": "厅长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "厅长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2000",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2003",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Harold Schafer Leadership Foundation",
+          "role": "执行主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "执行主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北达科他州公共服务委员会",
+          "role": "委员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "委员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（北达科他州单一选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（北达科他州单一选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（北达科他州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s10",
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（北达科他州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "person.birth_place",
+          "alternatives": [
+            {
+              "value": "北达科他州罗拉",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "北达科他州罗莱特",
+              "source_ids": [
+                "s6",
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "北达科他州罗拉",
+          "reason": "众议院历史办公室现行人物专页写Rolla, Rolette County；2022年国会名录及1996年《时代》报道写Rolette。候选值采用现行官方人物专页的罗拉；一级来源之间的差异交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查阅国会官方传记、参议员官网传记、州公共服务委员会年报、本人2018年Fargo Monthly访谈，并检索1983、1984及full-time等关键词。本人称毕业后参加1984年竞选工作，未找到该工作是否全职及实际开始日期的依据，work_start留空。",
+        "早期履历：1984年竞选工作的结束时间、1984年至1989年之间的连续任职单位和正式职务未查实；Williston Herald相关报道打开失败，未采用搜索摘要补写。",
+        "硕士学习：国会官方传记和国会名录确认2003年获得玛丽大学硕士学位，官网传记及州公共服务委员会年报确认管理学专业；未找到入学时间、学习年限或在职学习性质的依据，未沿用2001年入学，也未生成缺少起始日期的学习条目。",
+        "委员会任职起始日期：参议院第119届委员会名单和本人官网确认四个委员会现职，未找到逐个委员会的实际就任日期，current_roles.start均留空。",
+        "兼职：州公共服务委员会2009—2011年报记载玛丽大学董事、市场营销和管理兼职教师等身份，未找到实际起始日期及截至2026-10-19的持续任职证据，未生成兼职括注。",
+        "族裔：所查国会、参议员和州公共服务委员会官方资料中，未找到本人族裔自述或官方统计分类，留空。",
+        "竞选经历：国会官方传记提及1996、1998年众议院竞选落选，但未给出参选起始日期；底稿2012、2018年候选人阶段亦未取得完整起止依据，未生成独立履历条目。"
+      ],
+      "excluded": [
+        "底稿『1983年参加工作』：未找到第一份全职工作始于1983年的依据；本人访谈仅确认毕业后参加1984年竞选工作。",
+        "底稿『1983年6月参加工作』：年份和月份均无合格全职工作证据。",
+        "底稿『康科迪亚学院社会工作文学学士学位』作为最高学位：官方资料确认2003年另获玛丽大学管理学硕士学位，最高学位改为硕士。",
+        "底稿『1983—1991年北达科他州共和党工作人员、政治顾问』：未找到覆盖该完整时间段及政治顾问职务的依据，改录有来源的1984年竞选工作及1989—1993年州党组织职务。",
+        "底稿『2000—2003年克拉默咨询公司创办人、总裁』：未找到该公司及职务依据；官方国会名录记载同期任Harold Schafer Leadership Foundation执行主任。",
+        "底稿『2001—2003年玛丽大学在职学习』：2003年学位有据，2001年入学及在职性质无据。",
+        "底稿『2025年1月开始担任联邦参议员』：2025年1月3日为第二任期开始；首次就任为2019年1月3日。",
+        "底稿『1991年7月加入美国共和党』：月份未取得合格原文依据；另查到1989年州共和党执行主任这一更早的第二级锚点，改取1989年。",
+        "底稿『2012—2013年共和党联邦众议员候选人』『2018—2019年共和党联邦参议员候选人』：未区分提名、当选和就职阶段，且起止日期缺证，未沿用。",
+        "参议员官网所列2013年荣誉领导力博士：属于荣誉学位，不作为最高已取得学位。",
+        "2022年国会名录列出的参议院预算委员会职务：第119届现行委员会名单未列该职，不计入现任。",
+        "参议院航空陆军小组委员会、交通和基础设施小组委员会主席：属于小组委员会职务，本批不单列。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（北达科他州）；美国国会人物编号C001096",
+      "review_items": [
+        "参加工作时间缺少第一份全职工作依据，完整简历卡必填字段未齐。",
+        "出生地存在一级来源之间的罗拉与罗莱特差异，交AI政见确认。",
+        "1989年入党推断采用《时代》所载州共和党执行主任任职起年，来源精度只到年。",
+        "玛丽大学管理学硕士学位已取证，学习起始时间及在职性质待补。",
+        "本事实包为研究候选稿，独立核查由下一会话逐字段重新联网进行。"
+      ]
+    }
+  ]
+}

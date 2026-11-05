@@ -1,0 +1,597 @@
+{
+  "id": "mark-papermaster",
+  "name_zh": "马克·佩珀马斯特",
+  "name_en": "Mark Papermaster",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“超威半导体公司（AMD） 执行副总裁、首席技术官 AMD Executive Vice President and Chief Technology Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/mark-papermaster.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.amd.com/content/dam/amd/en/images/photography/corporate/mark-papermaster-executive-banner.jpg",
+    "source": "https://www.amd.com/en/corporate/leadership/mark-papermaster.html"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "AMD",
+      "role_en": "Executive Vice President and Chief Technology Officer"
+    }
+  ],
+  "notes": [
+    "since refers to the Executive Vice President and CTO roles; joined as CTO and Senior Vice President in 2011-10."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“超威半导体公司（AMD） 执行副总裁、首席技术官 AMD Executive Vice President and Chief Technology Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "mark-papermaster-20261018",
+    "line": "cadre",
+    "subject_id": "mark-papermaster",
+    "title": "马克·佩珀马斯特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.amd.com/en/corporate/leadership/mark-papermaster.html",
+        "title": "Mark Papermaster — AMD Executive Team",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Executive Vice President, Chief Technology Officer",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312526129057/d85856ddef14a.htm",
+        "title": "AMD 2026 Proxy Statement",
+        "published_at": "2026-03-27",
+        "checked_at": "2026-10-18",
+        "excerpt": "Mark D. Papermaster; Age: 64",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://ece.utexas.edu/news/mark-papermaster-named-ece-fellow",
+        "title": "Mark Papermaster Named ECE Fellow",
+        "published_at": "2009-04-19",
+        "checked_at": "2026-10-18",
+        "excerpt": "Papermaster worked at IBM from 1982-2008.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://ece.utexas.edu/news/five-inducted-texas-ece-academy-distinguished-alumni",
+        "title": "Five Inducted into Texas ECE Academy of Distinguished Alumni",
+        "published_at": "2024-06-27",
+        "checked_at": "2026-10-18",
+        "excerpt": "Mark Papermaster B.S. in electrical engineering, 1982",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.apple.com/newsroom/2009/01/27Mark-Papermaster-to-Begin-at-Apple-as-Senior-Vice-President-of-Devices-Hardware-Engineering-on-April-24/",
+        "title": "Mark Papermaster to Begin at Apple on April 24",
+        "published_at": "2009-01-27",
+        "checked_at": "2026-10-18",
+        "excerpt": "a Master of Science in Electrical Engineering from the University of Vermont in 1988",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.penguinsolutions.com/en-us/company/leadership",
+        "title": "Penguin Solutions Leadership Team and Board of Directors",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Mark Papermaster joined our board of directors in August 2022.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://ir.amd.com/news-events/press-releases/detail/875/amd-strengthens-senior-leadership-team",
+        "title": "AMD Strengthens Senior Leadership Team",
+        "published_at": "2019-01-25",
+        "checked_at": "2026-10-18",
+        "excerpt": "AMD is promoting Mark Papermaster to executive vice president and CTO",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.macrumors.com/2010/11/15/cisco-hires-former-apple-executive-mark-papermaster/",
+        "title": "Cisco Hires Former Apple Executive Mark Papermaster",
+        "published_at": "2010-11-15",
+        "checked_at": "2026-10-18",
+        "excerpt": "Cisco has hired former Apple executive Mark Papermaster",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "马克·佩珀马斯特"
+    ],
+    "person": {
+      "name": {
+        "value": "马克·佩珀马斯特",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1961-11",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "代理声明说明高管年龄以2026-05-13股东大会为准；64岁对应1961-05-14至1962-05-13，取中间月份1961-11。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-05-13",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1982-06",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "1982年本科毕业同年在IBM开始全职职业；按美国毕业月5月次月取6月。",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "1982-05",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "佛蒙特大学",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "电气工程专业理学硕士学位",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [
+        {
+          "value": "美国国家工程院院士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        }
+      ],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "超威半导体公司（AMD）",
+        "role": "执行副总裁、首席技术官",
+        "roles": [
+          "执行副总裁",
+          "首席技术官"
+        ],
+        "start": {
+          "value": "2019-01",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s7"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "Penguin Solutions 公司",
+        "role": "董事",
+        "roles": [
+          "董事"
+        ],
+        "start": {
+          "value": "2022-08",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1978-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "1982年毕业减4年，入学月按9月。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1982",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1982-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "毕业月按美国学年5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1982",
+            "duration_years": null
+          }
+        },
+        "organization": "得克萨斯大学奥斯汀分校",
+        "role": null,
+        "program": "电气工程",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1982-06",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "本科毕业同年开始全职工作，月份取毕业次月6月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1982-05",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2008-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "IBM离任年为2008；未核到月份，按履历缺月默认7月",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2008-07",
+            "duration_years": null
+          }
+        },
+        "organization": "国际商业机器公司（IBM）",
+        "role": "工程师、刀片服务器部门副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程师",
+          "刀片服务器部门副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1988-05",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "仅获学位年份有来源，采用美国学年毕业月5月；不表示入学月",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1988-05",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1988-05",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "美国学年毕业月取5月",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1988-05",
+            "duration_years": null
+          }
+        },
+        "organization": "佛蒙特大学",
+        "role": null,
+        "program": "电气工程",
+        "degree_awarded": {
+          "value": "理学硕士学位",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009-04",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010-08",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "苹果公司",
+        "role": "设备硬件工程高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "设备硬件工程高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010-11",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "思科公司",
+        "role": "芯片工程部门副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "芯片工程部门副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019-01",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "超威半导体公司（AMD）",
+        "role": "高级副总裁、首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁",
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-01",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "超威半导体公司（AMD）",
+        "role": "执行副总裁、首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s7"
+        ],
+        "ongoing": true,
+        "roles": [
+          "执行副总裁",
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "超威半导体公司（AMD）",
+    "conflicts": [],
+    "unknowns": [
+      "国籍、出生地未核到直接来源；公司和学校履历未载国籍。",
+      "硕士入学年份和是否正式在职培养未知，仅记录1988年取得学位。",
+      "IBM内部工程岗位与副总裁交接日期未知，合并列示。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Mark Papermaster；超威半导体公司（AMD）；执行副总裁、首席技术官",
+    "review_items": [
+      "表外译名按译音规则暂用，另报names.csv。",
+      "首段国籍缺项，事实包待补。",
+      "Apple 2009年公告明确4月24日实际到任，2008年11月为先前宣布时间。"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "2026-09-30-charles-baldis-appoint",
+  "date": "2026-09-30",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "charles-baldis",
+  "person": {
+    "name_zh": "查尔斯·鲍尔迪斯",
+    "name_en": "Charles Baldis",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-30",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国特别检察官办公室",
+      "role": "特别检察官",
+      "organization_en": "Office of Special Counsel",
+      "role_en": "Special Counsel",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "查尔斯·鲍尔迪斯就任美国特别检察官办公室特别检察官",
+  "summary": "特别检察官办公室9月30日公告确认，Baldis在8月7日获参议院确认后已获总统任职委任状，并于9月28日举行就职仪式；正式任职起始日未列明。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://osc.gov/news/2026-09-30/osc-holds-investiture-ceremony-for-special-counsel-charles-baldis/",
+      "title": "OSC Holds Investiture Ceremony for Special Counsel Charles Baldis",
+      "publisher": "U.S. Office of Special Counsel",
+      "published_at": "2026-09-30",
+      "excerpt": "Mr. Baldis was confirmed by the U.S. Senate on August 7, 2026, and subsequently received his presidential commission.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 charles-baldis（库里没有此人）",
+      "现任职务新增：美国特别检察官办公室特别检察官",
+      "履历新增：2026-09 美国特别检察官办公室特别检察官"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "charles-baldis",
+    "reason": "新任职务不在各局范围（主要职务“美国特别检察官办公室 特别检察官”：不在各局范围），暂留原局"
+  }
+}

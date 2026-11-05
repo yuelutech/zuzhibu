@@ -1,0 +1,458 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-m001211",
+      "line": "cadre",
+      "subject_id": "m001211",
+      "title": "玛丽·米勒简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "rep 2021-01-03~ IL-15 Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: F",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.birthday 1959-08-27",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)",
+          "title": "维基百科：Mary_Miller_(politician)",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Born in Oak Park, Illinois",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)",
+          "title": "维基百科：Mary_Miller_(politician)",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Committee on Agriculture; Committee on Education and Workforce; Committee on House Administration",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)",
+          "title": "维基百科：Mary_Miller_(politician)",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Bachelor of Science in business management...plus graduate coursework in education",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)",
+          "title": "维基百科：Mary_Miller_(politician)",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "a farmer who, with her husband, operates a farm where they grow grain and raise cattle",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Member of the U.S. House of Representatives from Illinois's 15th district...since 2021",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)",
+          "title": "维基百科：Mary_Miller_(politician)",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Member of the U.S. House of Representatives from Illinois's 15th district...since 2021",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)",
+          "title": "维基百科：Mary_Miller_(politician)",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "She is a farmer who, with her husband, operates a farm where they grow grain and raise cattle",
+          "tier": 3
+        },
+        {
+          "id": "s11",
+          "url": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)",
+          "title": "维基百科：Mary_Miller_(politician)",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "first elected in 2020 (IL-15)",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "house",
+        "state:IL"
+      ],
+      "person": {
+        "name": {
+          "value": "玛丽·米勒",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1959-08-27",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "伊利诺伊州奥克帕克",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1981",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：经营家庭农场、从事家庭教育；底稿备注：规则①：1981年本科毕业衔接农场经营与家庭教育",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1981",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "东伊利诺伊大学工商管理理学学士学位",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2020-03",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以共和党身份参选并胜出党内初选：2020年3月伊利诺伊州第15选区联邦众议员共和党初选；来源：https://en.wikipedia.org/wiki/Mary_Miller_(politician)；底稿备注：首次自身竞选；安全共和党选区(IL-15)中3月初选(伊利诺伊州初选3月)为决定性一役；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2020-03",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（伊利诺伊州第15选区）",
+          "role": "",
+          "start": {
+            "value": "2021-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院农业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院教育和劳动力委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院行政委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1977",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1981倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1981",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1981",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "东伊利诺伊大学",
+          "role": null,
+          "program": "工商管理",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1981",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2020",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "（伊利诺伊州家庭农场）",
+          "role": "农场经营者、家庭教育工作者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "农场经营者",
+            "家庭教育工作者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021",
+            "source_ids": [
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（伊利诺伊州第15选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（伊利诺伊州第15选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "出生日",
+          "alternatives": [
+            {
+              "value": "congress-legislators: 1959-08-27",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "en.wikipedia: 1959-08-07",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1959-08-27（官方Bioguide）；首段仅用'1959年8月'不受影响",
+          "reason": "底稿（Care 2026-06）记录的取舍，官方来源优先；待本机复核"
+        }
+      ],
+      "unknowns": [
+        "底稿缺项：东伊利诺伊大学入学年（按学制倒推）",
+        "底稿缺项：教育学研究生课程（未获学位，不入发布稿）",
+        "底稿缺项：众议院 PTR 明细（须人工到书记官入口核取）"
+      ],
+      "excluded": [
+        "参加工作月份「1981年6月」：底稿推定（规则①：1981年本科毕业衔接农场经营与家庭教育），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

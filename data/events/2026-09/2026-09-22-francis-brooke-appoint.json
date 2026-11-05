@@ -1,0 +1,78 @@
+{
+  "id": "2026-09-22-francis-brooke-appoint",
+  "date": "2026-09-22",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "francis-brooke",
+  "person": {
+    "name_zh": "弗朗西斯·布鲁克",
+    "name_en": "Francis Brooke",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-22",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国财政部",
+      "organization_en": "U.S. Department of the Treasury",
+      "role": "常务副部长",
+      "role_en": "Deputy Secretary of the Treasury",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "弗朗西斯·布鲁克已履任美国财政部常务副部长",
+  "summary": "财政部9月22日会议讲话稿确认Brooke已以常务副部长身份履职；实际开始履职日未载明。8月7日参议院确认动态已在库。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://home.treasury.gov/news/press-releases/sb0633",
+      "title": "Remarks by Deputy Secretary of the Treasury Francis Brooke before the Treasury Market Conference",
+      "publisher": "U.S. Department of the Treasury",
+      "published_at": "2026-09-22",
+      "excerpt": "In my role as the Deputy Secretary of the Treasury, I am the Chief Operating Officer for the Department, and I have a broad portfolio of policy and operational responsibilities.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "类别：核实来源的摘录和网页标题里没有表示“任命”的字样"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "新任“美国财政部常务副部长”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "francis-brooke",
+    "reason": "主要职务“美国财政部 常务副部长”：总统、白宫、内阁与独立机构"
+  }
+}

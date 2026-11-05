@@ -1,0 +1,602 @@
+{
+  "id": "keith-sonderling",
+  "name_zh": "基思·E.桑德林",
+  "name_en": "Keith Sonderling",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Department of Labor Secretary of Labor U.S. Department of Labor Secretary of Labor”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/keith-sonderling.json（sanju-neige，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2026/04/Keith-Sonderling.jpg",
+    "source": "https://www.whitehouse.gov/administration/cabinet/",
+    "file": "keith-sonderling.jpg",
+    "source_kind": "官方照片（补采）",
+    "license": "公有领域：劳工部官方照片（原图 EXIF 记 Official Department of Labor），发在白宫网站；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Department of Labor",
+      "role_en": "Secretary of Labor"
+    }
+  ],
+  "notes": [
+    "补采任务 sanju-neige（2026-10-20）"
+  ],
+  "events": [
+    "2026-09-30-keith-sonderling-confirm"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Department of Labor Secretary of Labor U.S. Department of Labor Secretary of Labor”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/keith-sonderling.json（sanju-neige，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-keith-sonderling",
+    "line": "cadre",
+    "subject_id": "keith-sonderling",
+    "title": "基思·E.桑德林简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.dol.gov/index.php/newsroom/releases/osec/osec20261009",
+        "title": "Keith Sonderling sworn in as 31st US Secretary of Labor",
+        "excerpt": "officially sworn into office on Oct. 2; Acting Secretary since April 2026; Acting Director of OGE since June 2026.",
+        "published_at": "2026-10-09",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.eeoc.gov/newsroom/keith-e-sonderling-sworn-eeoc-commissioner-and-vice-chair",
+        "title": "Keith E. Sonderling Sworn in as EEOC Commissioner and Vice Chair",
+        "excerpt": "sworn in today; Gunster Law Firm; B.S. University of Florida; J.D. Nova Southeastern University.",
+        "published_at": "2020-09-30",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://myemail.constantcontact.com/July-26--2026---Anniversary-of-Signing-of-the-American-Disabilities-Act.html?aid=DJ5htXTBRlo&soid=1129998786725",
+        "title": "Florida Senate District 19 — July 26, 2026 newsletter",
+        "excerpt": "Born in New York City in 1982; Juris Doctor in 2008; after law school joined Gunster as an associate.",
+        "published_at": "2026-07-26",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.senate.gov/legislative/nom_confc.htm",
+        "title": "Nominations Confirmed (Civilian)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Keith Sonderling, of Florida, to be Secretary of Labor.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-neige",
+      "research"
+    ],
+    "person": {
+      "name": {
+        "value": "基思·E.桑德林",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1982-07",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：来源明确出生年份；生日月份未取得原始来源，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1982",
+          "duration_years": null
+        }
+      },
+      "birth_place": {
+        "value": "纽约",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2008-06",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：2008年法学院毕业后入职；毕业月取5月，工作月取次月。",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "2008-05",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法学博士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国劳工部",
+        "role": "部长",
+        "start": {
+          "value": "2026-10-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国政府道德办公室",
+        "role": "主任",
+        "start": {
+          "value": "2026-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "代理"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2005-09",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2008",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "2008-05",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2008",
+            "duration_years": null
+          }
+        },
+        "organization": "诺瓦东南大学",
+        "role": null,
+        "program": "法学",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008-06",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：2008年法学院毕业后入职；毕业月取5月，工作月取次月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2008-05",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2017",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Gunster律师事务所",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国劳工部工资工时司",
+        "role": "高级政策顾问、副司长、代理司长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国平等就业机会委员会",
+        "role": "副主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020-09-30",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2024-08",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国平等就业机会委员会",
+        "role": "委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-10-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国劳工部",
+        "role": "常务副部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-10-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国劳工部",
+        "role": "部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "代理",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国政府道德办公室",
+        "role": "主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "代理",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-10-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国劳工部",
+        "role": "部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [
+      {
+        "text": "佛罗里达大学；理学学士。起始日期未知。",
+        "source_ids": [
+          "s2"
+        ]
+      }
+    ],
+    "company_tag": "美国政要",
+    "conflicts": [],
+    "unknowns": [
+      "国籍直接申报、族裔、党籍和入党锚点未找到；nationality留空。",
+      "2008年首次就业月份和出生月份按规则推算；各次职务内部交接月份未补造。",
+      "2025年代理博物馆和图书馆服务局、商务部少数族裔企业发展事务职务的完整起止尚未补证。",
+      "佛罗里达大学本科入学、毕业年份和专业未取得可复核原文，留空。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Secretary of Labor | U.S. Department of Labor",
+    "review_items": [
+      "人名译名表状态为待核：Keith E. Sonderling／基思·E.桑德林",
+      "完整简历卡缺项：nationality。保留seed级事实包。"
+    ]
+  }
+}

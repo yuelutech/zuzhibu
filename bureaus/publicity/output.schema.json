@@ -1,0 +1,155 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "宣传教育局新闻稿草稿",
+  "description": "codex exec --output-schema 用的最终回复形状。正文字段按 shared/skills/soe-newswire/SKILL.md 的结构；对照字段供复核清单。所有字段必填，没有内容的填空字符串或空数组。",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "genre": {
+      "type": "string",
+      "enum": ["newswire"]
+    },
+    "title": {
+      "type": "string",
+      "description": "主标题，不超过 25 字，无句末标点"
+    },
+    "subtitle": {
+      "type": "string",
+      "description": "副标题，不要时为空字符串"
+    },
+    "dateline": {
+      "type": "string",
+      "description": "电头：社名＋发电地＋M月D日电，如“政见社旧金山10月15日电”"
+    },
+    "lead": {
+      "type": "string",
+      "description": "导语（不含电头），1 至 2 句，不超过 120 字"
+    },
+    "paragraphs": {
+      "type": "array",
+      "description": "导语之后的正文段落，按重要性递减，一段一件事",
+      "items": {
+        "type": "string"
+      }
+    },
+    "glossary_used": {
+      "type": "array",
+      "description": "成稿用到的译名表条目",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "english": {
+            "type": "string"
+          },
+          "zh": {
+            "type": "string",
+            "description": "成稿首次提及写法"
+          }
+        },
+        "required": ["english", "zh"]
+      }
+    },
+    "glossary_misses": {
+      "type": "array",
+      "description": "译名表没有的专名及处理",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "english": {
+            "type": "string"
+          },
+          "zh": {
+            "type": "string",
+            "description": "成稿写法"
+          },
+          "reason": {
+            "type": "string",
+            "description": "依据：通行中文名、保留英文、音译待核等"
+          }
+        },
+        "required": ["english", "zh", "reason"]
+      }
+    },
+    "numbers": {
+      "type": "array",
+      "description": "成稿里每个数字与原文的对应",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "zh": {
+            "type": "string",
+            "description": "成稿写法，如“约25亿美元”"
+          },
+          "source": {
+            "type": "string",
+            "description": "原文片段，如“about $2.5 billion”"
+          }
+        },
+        "required": ["zh", "source"]
+      }
+    },
+    "quotes": {
+      "type": "array",
+      "description": "每处直接引语与原文原句的对应",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "zh": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          }
+        },
+        "required": ["zh", "source"]
+      }
+    },
+    "attributions": {
+      "type": "array",
+      "description": "消息来源的交代方式，如“据美国《××报》报道”，以及对应的原文",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "zh": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          }
+        },
+        "required": ["zh", "source"]
+      }
+    },
+    "dropped": {
+      "type": "array",
+      "description": "删去的原文内容概述：分析、评论、推测、背景",
+      "items": {
+        "type": "string"
+      }
+    },
+    "review_notes": {
+      "type": "string",
+      "description": "给人工复核的说明：原文含糊处、待定项、取舍理由"
+    }
+  },
+  "required": [
+    "genre",
+    "title",
+    "subtitle",
+    "dateline",
+    "lead",
+    "paragraphs",
+    "glossary_used",
+    "glossary_misses",
+    "numbers",
+    "quotes",
+    "attributions",
+    "dropped",
+    "review_notes"
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b000740",
+      "line": "cadre",
+      "subject_id": "b000740",
+      "title": "斯蒂芬妮·拜斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/members/B000740",
+          "title": "Office of the Clerk, U.S. House of Representatives — Stephanie I. Bice",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Stephanie I. Bice\nOklahoma (OK) – 5th, Republican\nCommittee on Appropriations\nCommittee on House Administration",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://history.house.gov/People/Listing/B/BICE,-Stephanie-I--(B000740)/",
+          "title": "BICE, Stephanie I. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Oklahoma City, Oklahoma County, Okla., November 11, 1973;\nB.A., Oklahoma State University, Stillwater, Okla., 1995;\nJanuary 3, 2021–present",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://bice.house.gov/about",
+          "title": "About | Representative Stephanie Bice",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "She was elected to Congress in 2020\nBice served in the Oklahoma State Senate from 2014 to 2020.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://news.okstate.edu/articles/communications/2024/rep_bice_set_to_speak_at_osu_spring_commencement",
+          "title": "Rep. Bice set to speak at OSU spring commencement | Oklahoma State University",
+          "published_at": "2024-04-24",
+          "checked_at": "2026-10-18",
+          "excerpt": "Congresswoman Bice graduated from OSU with a Bachelor of Science in Marketing in 1995.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://registrar.okstate.edu/site-files/documents/commencement-program-web-spring-2024.pdf",
+          "title": "Oklahoma State University Spring 2024 Commencement Program",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "She graduated from Oklahoma State University with a Bachelor of Science in Marketing.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.okhistory.org/publications/enc/entry?entry=BI017",
+          "title": "Bice, Stephanie Irene Asady | The Encyclopedia of Oklahoma History and Culture",
+          "published_at": "2022-04-04",
+          "checked_at": "2026-10-18",
+          "excerpt": "After graduating from the university in 1995, she worked eight years in the financial and marketing aspects of her father’s technology company in Oklahoma City.",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-OK.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Oklahoma",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "B.S., marketing, Oklahoma State University, Stillwater, OK, 1995;\nOklahoma State Senator, 2015-20, served as Assistant Majority Floor Leader, 2017-20",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.oksenate.gov/press-releases/senate-republicans-elect-leadership-team",
+          "title": "Senate Republicans elect leadership team | Oklahoma Senate",
+          "published_at": "2014-11-18",
+          "checked_at": "2026-10-18",
+          "excerpt": "Following the swearing-in of new and returning Senators on Tuesday\nSenators Stephanie Bice (District 22)",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://oksenate.gov/sites/default/files/2021-01/sj20210105(1).pdf",
+          "title": "Oklahoma Senate Journal — January 5, 2021",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "shall become effective at 11:59 p.m. on Thursday, December 31st, 2020.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:OK"
+      ],
+      "person": {
+        "name": {
+          "value": "斯蒂芬妮·拜斯",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1973-11-11",
+          "source_ids": [
+            "s2",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "俄克拉何马州俄克拉何马城",
+          "source_ids": [
+            "s2",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "俄克拉何马州立大学市场营销理学学士学位",
+          "source_ids": [
+            "s5",
+            "s6",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（俄克拉何马州第5选区）",
+          "role": "",
+          "start": {
+            "value": "2021-01-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院行政委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1991",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "母校明确记载1995年取得市场营销理学学士学位；按美国本科标准学制4年倒推：1995－4＝1991。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1995",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1995",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄克拉何马州立大学",
+          "role": null,
+          "program": "市场营销",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s5",
+              "s6",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s6",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014",
+            "source_ids": [
+              "s2",
+              "s4",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2020-12-31",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄克拉何马州参议院",
+          "role": "州参议员（第22选区）、多数党助理领袖、财政委员会主席",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s7",
+            "s8",
+            "s10",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员（第22选区）",
+            "多数党助理领袖",
+            "财政委员会主席"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-01-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（俄克拉何马州第5选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（俄克拉何马州第5选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.degree；careers[0].degree_awarded",
+          "alternatives": [
+            {
+              "value": "俄克拉何马州立大学文学学士学位（B.A.）",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "俄克拉何马州立大学市场营销理学学士学位（B.S.）",
+              "source_ids": [
+                "s5",
+                "s6",
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "俄克拉何马州立大学市场营销理学学士学位",
+          "reason": "采用学位授予学校两项官方材料明确记载的学位，国会名录亦记为B.S.；众议院历史页的B.A.并列保留。一级来源之间的差异交AI政见确认。"
+        },
+        {
+          "field": "careers[1].start",
+          "alternatives": [
+            {
+              "value": "2014",
+              "source_ids": [
+                "s2",
+                "s4",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2015",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2014",
+          "reason": "采用现行众议院官方传记和2014年州参议院同期宣誓报道支持的2014年。国会名录记为2015年，与同期任职记录不符；差异交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查阅议员官网、竞选官网、母校履历及俄克拉何马历史文化百科。百科只说1995年毕业后在父亲技术公司任职八年，没有明确首份全职工作的起始年份或月份；work_start留null。",
+        "早期企业履历：已确认家族技术公司财务及营销经历、本人营销公司经历，以及Smirk New Media合伙人兼业务发展总监经历；已打开的可靠来源未给各段完整起止日期，未生成日期不明的履历条目。",
+        "入党时间：The Frontier报道其18岁登记为共和党，但没有登记日期；结合出生日期只能得到跨1991至1992年的区间，不能形成符合规则的单一年月。未找到可公开打开的原始选民登记记录。",
+        "入党锚点逐级检索：未找到早于首次参选的党组织职务或本人公开宣布加入共和党的确切日期。州伦理委员会公开页确认2014竞选委员会及共和党身份，但没有登记受理日期；FEC确认联邦竞选委员会于2019-04-24登记。2014州初选结果入口已打开，具体结果链接和原始候选人登记名单未能打开。2019联邦登记晚于已有共和党参选和登记线索，未用作加入时间。",
+        "州参议员首次就任月份：州参议院2014-11-18报道新旧议员宣誓并列出拜斯；另一篇个人宣誓报道标注2014-12-18。两文日期关系未核清，履历起点保留到2014年。",
+        "委员会起任日期：众议院书记官现行名单和议员官网确认现任两个委员会委员；众议院历史页列其自第118届起任职，但未明确个人生效日期，current_roles.start留null。",
+        "小组委员会及其他兼职：议员官网确认现代化与创新小组委员会主席、交通住房与城市发展小组委员会副主席，并提及西点军校访问委员会任命；未查到可采用的准确生效日期，未写入annotations。",
+        "族裔：查阅国会及议员官方传记、母校材料和历史文化百科，未找到满足本人自述或官方统计要求的五类族裔认定，留null。",
+        "本科全日制状态：母校材料未明确标注，full_time留null。",
+        "完整简历卡门槛：参加工作时间缺少可采用依据，card_type留null。"
+      ],
+      "excluded": [
+        "底稿『现职始于2025年1月』：该日期是第119届任期起点；连续担任现选区议员始于2021-01-03。",
+        "底稿『1995年7月参加工作』：未找到首份全职工作明确开始时间，月份不采用。",
+        "底稿『1995－2003年家族技术公司岗位负责人』：可靠来源未明确该起止区间及负责人职衔，不采用。",
+        "底稿『2003－2014年数字营销机构业务发展副总裁』：已打开来源未支持该起止区间，州参议院同期材料另明确单位为Smirk New Media、职务为合伙人兼业务发展总监。",
+        "底稿『2014年6月加入美国共和党』：未取得符合本次逐级锚点规则的日期证据，不沿用。",
+        "底稿『2025年起任拨款委员会委员、现代化小组委员会主席』：官方历史页显示相关委员会及小组委员会经历始于第118届，且第119届小组委员会名称为Modernization and Innovation；未采用底稿起始年份。",
+        "底稿来源『congress-legislators仓库首页』：本次身份、党籍和现职改用国会官方人物页及书记官名单。",
+        "检索所得第三方名录中的Netfast Technology Solutions任职年份及Smirk New Media的2013－2015年区间：未取得本次来源等级要求下的原始任职日期证据，不写入履历。",
+        "The Frontier『18岁登记为共和党』：保留为最高优先级锚点线索，不将年龄区间压成1991年或1992年的单一加入日期。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "美国联邦众议员（俄克拉何马州第5选区）；美国国会众议院；Bioguide B000740",
+      "review_items": [
+        "AI政见确认：母校及国会名录的B.S.与众议院历史页B.A.冲突，候选事实采用母校记录。",
+        "AI政见确认：州参议院任期起始年份2014与国会名录2015冲突，候选事实采用2014年。",
+        "补核首份全职工作的开始时间后再判断完整简历卡资格。",
+        "补核原始选民登记日期及2014州候选人登记受理记录后再填写party_joined_at。",
+        "本事实包为研究候选稿，待另一次会话逐字段独立核查。"
+      ]
+    }
+  ]
+}

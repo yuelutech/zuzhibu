@@ -1,0 +1,772 @@
+{
+  "id": "lisa-blunt-rochester",
+  "name_zh": "莉萨·布伦特·罗切斯特",
+  "name_en": "Lisa Blunt Rochester",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "B001303"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "lisa-blunt-rochester.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Senator_Blunt_Rochester_Official_Portrait.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Senate Photographic Studio；https://www.bluntrochester.senate.gov/about/），File:Senator Blunt Rochester Official Portrait.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Senator_Blunt_Rochester_Official_Portrait.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-b001303",
+    "line": "cadre",
+    "subject_id": "b001303",
+    "title": "莉萨·布伦特·罗切斯特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2025-01-03~2031-01-03 DE Democrat",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: F",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "born February 10, 1962 in Philadelphia, Pennsylvania",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "born February 10, 1962 in Philadelphia, Pennsylvania",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Born February 10, 1962 in Philadelphia, Pennsylvania",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Banking; Commerce; Environment and Public Works; HELP (Ranking Member, Education and the American Family Subcommittee)",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Bachelor of Arts in international relations from Fairleigh Dickinson University",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Master of Arts in urban affairs and public policy from University of Delaware",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "1989: Intern for Carper; constituent relations caseworker",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "1993: Appointed Deputy Secretary, Delaware Department of Health and Social Services",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "1998: Secretary of the Department of Labor",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "2001: State Personnel Director under Governor Ruth Ann Minner",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "2004: CEO of Metropolitan Wilmington Urban League",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "rep 2017-01-03~2025-01-03 DE Democrat (at-large)",
+        "tier": 1
+      },
+      {
+        "id": "s15",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "1989: Intern for Representative Tom Carper",
+        "tier": 3
+      },
+      {
+        "id": "s16",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+        "title": "维基百科：Lisa_Blunt_Rochester",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "2017–2025: U.S. House Representative (Delaware at-large)",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:DE"
+    ],
+    "person": {
+      "name": {
+        "value": "莉萨·布伦特·罗切斯特",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1962-02-10",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "宾夕法尼亚州费城",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1985",
+        "source_ids": [
+          "s15"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：完成硕士学业进入特拉华州公共服务领域；底稿备注：硕士约1985年毕业；最早可文证的具体职务为1989年起任卡珀办公室工作人员，1985-1989具体任职待考，参加工作节点取硕士毕业",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1985",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "特拉华大学都市事务与公共政策文学硕士学位",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2016",
+        "source_ids": [
+          "s16"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次以民主党身份参选联邦众议员（2016年特拉华州民主党初选）；来源：https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester；底稿备注：2016年为其首次竞选公职，取特拉华州民主党初选(9月)为首次以民主党参选节点；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2016",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（特拉华州）",
+        "role": "",
+        "start": {
+          "value": "2025-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院银行、住房与城市事务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院商业、科学与运输委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院环境与公共工程委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院卫生、教育、劳工与养老金委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1980",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：学士学制4年自约1983倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1983",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1983",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "费尔莱迪金森大学",
+        "role": null,
+        "program": "国际关系",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1983",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：硕士学制约2年自约1985倒推、与本科衔接",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1985",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1985",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "特拉华大学",
+        "role": null,
+        "program": "都市事务与公共政策",
+        "degree_awarded": {
+          "value": "文学硕士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1989",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦众议员汤姆·卡珀办公室",
+        "role": "实习生、选民服务工作人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "实习生",
+          "选民服务工作人员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "特拉华州卫生与社会服务部",
+        "role": "副部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副部长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "特拉华州劳工部",
+        "role": "部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "部长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2004",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "特拉华州",
+        "role": "人事局局长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "人事局局长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "威尔明顿都市城市联盟",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-01",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（特拉华州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联邦众议员（特拉华州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（特拉华州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（特拉华州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：费尔莱迪金森/特拉华大学入学年（按学制倒推）",
+      "底稿缺项：1985-1989具体任职（硕士毕业至卡珀办公室之间）",
+      "底稿缺项：2004-2016都市城市联盟及其他机构职务的精确分拆",
+      "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1985年6月」：底稿推定（硕士约1985年毕业；最早可文证的具体职务为1989年起任卡珀办公室工作人员，1985-1989具体任职待考，参加工作节点取硕士毕业），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包",
+      "入党月份「2016年9月」：底稿推定（2016年为其首次竞选公职，取特拉华州民主党初选(9月)为首次以民主党参选节点），不采用，只写到年"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

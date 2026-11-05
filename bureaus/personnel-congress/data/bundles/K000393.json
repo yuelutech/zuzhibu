@@ -1,0 +1,554 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-k000393",
+      "line": "cadre",
+      "subject_id": "k000393",
+      "title": "约翰·肯尼迪简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "draft",
+        "senate",
+        "state:LA"
+      ],
+      "person": {
+        "name": {
+          "value": "约翰·肯尼迪",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1951-11-21",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1979",
+          "source_ids": [],
+          "inferred": true,
+          "basis": "按履历首个非学习条目的开始年份推算：查菲麦考尔律师事务所律师、合伙人（T2 Codex 初稿时间线，无来源）；发布稿作「1979年6月参加工作」，月份为旧规则推定，不采用",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1979",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "弗吉尼亚大学法学院法学博士学位",
+          "source_ids": [],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（路易斯安那州）",
+          "role": "",
+          "start": {
+            "value": "2023-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1969",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1973",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "范德堡大学",
+          "role": null,
+          "program": "政治学、哲学和经济学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1973",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1977",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "弗吉尼亚大学法学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1977",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1979",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "牛津大学莫德林学院",
+          "role": null,
+          "program": "民法",
+          "degree_awarded": {
+            "value": "民法学士",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1979",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1988",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "查菲麦考尔律师事务所律师、合伙人",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1988",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1992",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "路易斯安那州州长巴迪·罗默办公室特别法律顾问、州长内阁秘书",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1992",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "查菲麦考尔律师事务所合伙人",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "路易斯安那州税务厅厅长",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2000",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "路易斯安那州财政部长",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2002",
+                "source_ids": [],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2016",
+                "source_ids": [],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "路易斯安那州立大学保罗·M·赫伯特法律中心兼职教授",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": []
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2007",
+                "source_ids": [],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2007",
+                "source_ids": [],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "转为美国共和党籍",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": []
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2008",
+                "source_ids": [],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2008",
+                "source_ids": [],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "约翰·肯尼迪参议员竞选委员会共和党联邦参议员候选人",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": []
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2016",
+                "source_ids": [],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2016",
+                "source_ids": [],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "约翰·肯尼迪参议员竞选委员会共和党联邦参议员候选人",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": []
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "路易斯安那州联邦参议员",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [],
+      "unknowns": [
+        "履历：T2 Codex 初稿时间线，逐条无来源，待重新取证",
+        "出生地：无来源（底稿首段作「密西西比州森特维尔市人」）",
+        "入党时间：底稿无锚点，按 party_join.md 重新取锚点"
+      ],
+      "excluded": [
+        "发布稿「1979年6月参加工作」：月份为旧规则推定，只写到年",
+        "发布稿入党句「2007年8月加入美国共和党」：底稿无锚点、无来源，不采用"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

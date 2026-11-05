@@ -1,0 +1,628 @@
+{
+  "id": "sergio-gor",
+  "name_zh": "塞尔吉奥·戈尔",
+  "name_en": "Sergio Gor",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Embassy New Delhi Ambassador to India U.S. Embassy New Delhi Ambassador to India”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/sergio-gor.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Embassy New Delhi",
+      "role_en": "Ambassador to India"
+    },
+    {
+      "organization_en": "U.S. Embassy New Delhi",
+      "role_en": "Special Envoy to South and Central Asia"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Embassy New Delhi Ambassador to India U.S. Embassy New Delhi Ambassador to India”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/sergio-gor.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-sergio-gor",
+    "line": "cadre",
+    "subject_id": "sergio-gor",
+    "title": "塞尔吉奥·戈尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202501109/html/DCPD-202501109.htm",
+        "title": "Sergio Gor swearing-in ceremony",
+        "published_at": "2025-11-10",
+        "checked_at": "2026-10-18",
+        "excerpt": "United States Ambassador to India and Special Envoy to South and Central Asia",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2214454&lang=1&reg=1",
+        "title": "Envoys of Three Nations Present Credentials to the President of India",
+        "published_at": "2026-01-14",
+        "checked_at": "2026-10-18",
+        "excerpt": "January 14, 2026: Mr Sergio Gor, Ambassador of the United States of America.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.occrp.org/en/news/exclusive-top-trump-advisor-sergio-gor-was-born-in-the-soviet-union",
+        "title": "Exclusive: Top Trump Adviser Sergio Gor Was Born in the Soviet Union",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "November 30, 1986, in Tashkent, Uzbekistan; became a citizen; Trump Victory Finance Committee chief of staff in 2020.",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.ndtv.com/world-news/who-is-sergio-gor-us-ambassador-pushing-india-us-trade-talks-10728766/amp/1",
+        "title": "Who Is Sergio Gor, US Ambassador Pushing India-US Trade Talks",
+        "published_at": "2026-01-12",
+        "checked_at": "2026-10-18",
+        "excerpt": "2008: GWU bachelor’s degree, RNC; 2013: Rand Paul team; 2020: Trump Victory Finance Committee; 2022: MAGA Inc adviser.",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-115shrg31266/html/CHRG-115shrg31266.htm",
+        "title": "Afghanistan in Review: Oversight of U.S. Spending in Afghanistan",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Gor: Deputy Chief of Staff for Communications; prior Fox producer and House Communications Director; GWU international affairs and political science.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://45books.com/pages/about-us",
+        "title": "About Winning Team Publishing",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Launched in 2021; Sergio Gor is a Co-Founder of Winning Team Publishing.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://yuz.uz/index.php/en/news/zbekiston-prezidenti-aqs-prezidentining-maxsus-vakili-bilan",
+        "title": "President of Uzbekistan Discusses Agenda of Upcoming Events with U.S. Presidential Special Envoy",
+        "published_at": "2026-10-16",
+        "checked_at": "2026-10-18",
+        "excerpt": "October 16: Sergio Gor, U.S. Special Envoy for South and Central Asia.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "塞尔吉奥·戈尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1986-11",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "乌兹别克斯坦塔什干",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2008-06",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "2008年大学毕业并开始在共和党全国委员会任职；按美国本科5月毕业、次月参加工作规则推月份。",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "2008-05",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "大学",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "学士",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国驻印度大使馆",
+        "role": "大使",
+        "start": {
+          "value": "2026-01-14",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [
+          "大使"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "白宫",
+        "role": "南亚及中亚事务特使",
+        "start": {
+          "value": "2025-11-10",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s7"
+        ],
+        "roles": [
+          "南亚及中亚事务特使"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2004",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "2008年本科毕业，减4年。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2008",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "乔治·华盛顿大学",
+        "role": null,
+        "program": "政治学、国际事务",
+        "degree_awarded": {
+          "value": "学士",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008-06",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "2008年大学毕业并开始在共和党全国委员会任职；按美国本科5月毕业、次月参加工作规则推月份。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2008-05",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "美国共和党全国委员会",
+        "role": "工作人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工作人员"
+        ],
+        "role_category": {
+          "value": "began working with the Republican National Committee",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "原文未给具体职称，按工作人员概括。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020",
+          "source_ids": [
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "兰德·保罗政治团队及参议员办公室",
+        "role": "发言人、通讯主任、副幕僚长、外交政策顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "发言人、通讯主任、副幕僚长、外交政策顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "特朗普胜利筹款委员会",
+        "role": "幕僚长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "幕僚长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Winning Team Publishing",
+        "role": "联合创始人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联合创始人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": true
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "MAGA Inc",
+        "role": "高级顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "白宫总统人事办公室",
+        "role": "主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-11-10",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "白宫",
+        "role": "南亚及中亚事务特使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s7"
+        ],
+        "ongoing": true,
+        "roles": [
+          "南亚及中亚事务特使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-01-14",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国驻印度大使馆",
+        "role": "大使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "大使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "众议院斯蒂夫·金、米歇尔·巴赫曼、兰迪·福布斯办公室通讯岗位及新闻频道制作人岗位起止年月未知。",
+      "出版公司官网注明2021年推出；NDTV写2020年共同创办，可能分别指筹办与推出，具体创立日未知。",
+      "MAGA Inc顾问及Right for America职务终止时间未取得来源，未列为现职。",
+      "首份工作的准确月份未知，按规则推定；入党锚点未找到。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Sergio Gor；美国驻印度大使馆",
+    "review_items": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "2026-09-03-adam-telle-acting",
+  "date": "2026-09-03",
+  "kind": "acting",
+  "kind_label": "代理",
+  "person_id": "adam-telle",
+  "person": {
+    "name_zh": "亚当·特尔",
+    "name_en": "Adam Telle",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-09-03",
+  "effective_at": "2026-09-03",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国陆军部",
+      "role": "代理部长",
+      "organization_en": "Department of the Army",
+      "role_en": "acting secretary of the Army",
+      "start": "2026-09-03",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "亚当·特尔任美国代理陆军部长",
+  "summary": "特朗普9月3日任命特尔为代理陆军部长，即日生效。特尔此前担任主管土木工程的陆军助理部长。",
+  "bureaus": [
+    "military"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.hagerty.senate.gov/press-releases/2026/09/04/hagerty-applauds-appointment-of-former-chief-of-staff-as-acting-army-secretary/",
+      "title": "Hagerty Applauds Appointment of Former Chief of Staff as Acting Army Secretary",
+      "publisher": "美国参议员比尔·哈格蒂办公室",
+      "published_at": "2026-09-04",
+      "excerpt": "Adam Telle, as acting secretary of the Army.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    },
+    {
+      "id": "e2",
+      "url": "https://breakingdefense.com/2026/09/trump-taps-adam-telle-as-acting-army-secretary/",
+      "title": "Trump taps Adam Telle as acting Army secretary",
+      "publisher": "Breaking Defense",
+      "published_at": "2026-09-03",
+      "excerpt": "Adam Telle will step in as the acting Army secretary, “effective immediately.”",
+      "checked_at": "2026-10-17",
+      "excerpt_check": false
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 adam-telle（库里没有此人）",
+      "现任职务新增：美国陆军部代理部长",
+      "履历新增：2026-09 美国陆军部代理部长",
+      "所属局：定为五局·美军干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "military",
+    "person_id": "adam-telle",
+    "reason": "主要职务“美国陆军部 代理部长”：国防部与军队"
+  }
+}

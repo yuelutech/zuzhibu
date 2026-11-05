@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "jeff-dean-20261018",
+      "line": "cadre",
+      "subject_id": "jeff-dean",
+      "title": "杰夫·迪恩简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.discoveryloop.com/",
+          "title": "Discovery Loop — Continuous Exploration",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Our founding team — Jeff Dean, Sanjay Ghemawat, Quoc Le, and Oriol Vinyals",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+          "title": "4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup",
+          "published_at": "2026-08-05",
+          "checked_at": "2026-10-18",
+          "excerpt": "“I think I’m the CEO,” says Dean, sheepishly. “Everyone pointed at me.”",
+          "tier": 2
+        },
+        {
+          "id": "s3",
+          "url": "https://uawards.umn.edu/recipients-outstanding-achievement-award/jeffrey-dean",
+          "title": "Jeffrey A. Dean — University of Minnesota",
+          "published_at": "2013-11-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "a bachelor of science degree in computer science and economics ... in 1990 ... Ph.D. from the University of Washington (1996)",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.infosys.com/newsroom/press-releases/documents/2013/infosys-foundation-acm-science-award2012.pdf",
+          "title": "ACM and Infosys Foundation Honor Google Developers",
+          "published_at": "2013-03-26",
+          "checked_at": "2026-10-18",
+          "excerpt": "In 1990 and 1991, Dean worked for the World Health Organization’s Global Programme on AIDS",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.hindustantimes.com/world-news/google-built-chatgpt-style-ai-chatbot-before-openai-didnt-release-because-101786034829638.html",
+          "title": "Google built ChatGPT-style chatbot before OpenAI",
+          "published_at": "2026-08-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "Jeff Dean is a renowned American computer scientist and software engineer",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://news.cs.washington.edu/2016/04/20/uw-cses-anna-karlin-and-jeff-dean-elected-to-the-american-academy-of-arts-sciences/",
+          "title": "UW CSE’s Anna Karlin and Jeff Dean elected to the American Academy of Arts & Sciences",
+          "published_at": "2016-04-20",
+          "checked_at": "2026-10-18",
+          "excerpt": "Dean earned his Ph.D. from UW CSE in 1996",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "title": "Next chapter of our AI momentum — Sundar Pichai and Demis Hassabis",
+          "published_at": "2026-08-05",
+          "checked_at": "2026-10-18",
+          "excerpt": "Jeff and Google Senior Fellow Sanjay Ghemawat are launching",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "杰夫·迪恩"
+      ],
+      "person": {
+        "name": {
+          "value": "杰夫·迪恩",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1968-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre 3.3：未获直接出生记录或合格年龄记录，1990年本科毕业减22＝1968，月份默认7月。",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "1990",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1990-06",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "1990年本科毕业并在WHO全职开发软件，毕业默认5月，工作取6月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1990-05",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "华盛顿大学计算机科学专业",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "博士",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [
+          {
+            "value": "美国国家工程院院士",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "美国艺术与科学院院士",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "探索循环公司",
+          "role": "联合创始人、首席执行官",
+          "roles": [
+            "联合创始人",
+            "首席执行官"
+          ],
+          "start": {
+            "value": "2026-08",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1986-09",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "本科毕业1990减4年，9月入学。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1990",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1990-05",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "美国毕业默认5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1990",
+              "duration_years": null
+            }
+          },
+          "organization": "明尼苏达大学",
+          "role": null,
+          "program": "计算机科学与经济学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1990-06",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "毕业年1990，工作取毕业默认5月的次月6月。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "1990-05",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1991-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "终止年份1991，月未载取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1991",
+              "duration_years": null
+            }
+          },
+          "organization": "世界卫生组织全球艾滋病规划署",
+          "role": "软件开发人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "软件开发人员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "1999年入职，月份默认7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1999",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2026-08",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "谷歌公司",
+          "role": "工程师、研究员、高级研究员、首席科学家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s4",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工程师",
+            "研究员",
+            "高级研究员",
+            "首席科学家"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-08",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "探索循环公司",
+          "role": "联合创始人、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联合创始人",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "探索循环公司",
+      "conflicts": [],
+      "unknowns": [
+        "出生年月为本科毕业年推算；博士入学年月、DEC及mySimon的可用起止来源未核到。",
+        "Discovery Loop官网确认联合创始人；首席执行官职务依据本人向Wired的直接表述，官网未单列CEO。",
+        "谷歌各职务内部交接日期没有全部闭合，按规则合并；2026年8月离职创业已在人物库事件中记录，本包不重复报。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Jeff Dean；探索循环公司；联合创始人、首席执行官",
+      "review_items": [
+        "ACM/Infosys新闻稿误写明尼苏达MS，学历采用授予学校本人校友记录BS；最高博士学位无此差异。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-2"
+}

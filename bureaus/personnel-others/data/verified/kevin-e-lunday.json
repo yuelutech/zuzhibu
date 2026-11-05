@@ -1,0 +1,438 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-kevin-e-lunday",
+      "line": "cadre",
+      "subject_id": "kevin-e-lunday",
+      "title": "凯文·伦迪简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.commerce.senate.gov/services/files/DE186F6A-AFD8-47E8-A595-D43F62030A1B",
+          "title": "Kevin E. Lunday — Senate Commerce Committee nomination questionnaire",
+          "excerpt": "10/12/1965; Columbia (Ft. Jackson), South Carolina; I have served as a Coast Guard officer since 5/27/1987.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://docs.house.gov/meetings/AP/AP15/20250514/118241/HHRG-119-AP15-Bio-LundayK-20250514.pdf",
+          "title": "Admiral Kevin E. Lunday — Acting Commandant biography",
+          "excerpt": "Admiral Kevin E. Lunday assumed the duties of Acting Commandant on January 21, 2025.",
+          "published_at": "2025-05-14",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.dvidshub.net/image/9481613/adm-kevin-e-lunday-swears-28th-commandant-coast-guard",
+          "title": "Adm. Kevin E. Lunday swears in as the 28th Commandant of the Coast Guard",
+          "excerpt": "Lunday takes command as the Coast Guard evolves under Force Design 2028",
+          "published_at": "2026-01-15",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.dvidshub.net/news/421498/us-coast-guard-atlantic-area-holds-change-command-ceremony",
+          "title": "U.S. Coast Guard Atlantic Area holds change of command ceremony",
+          "excerpt": "Vice Adm. Kevin Lunday relieved Vice Adm. Steven Poulin as the Coast Guard Atlantic Area commander",
+          "published_at": "2022-05-25",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "name_zh",
+          "url": "https://www.news.cn/milpro/20260205/ea860e083a794860ae5256dc9e923591/c.html",
+          "title": "中文译名用例：凯文·伦迪",
+          "excerpt": "凯文·伦迪",
+          "published_at": "2026-02-05",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "凯文·伦迪",
+          "source_ids": [
+            "name_zh"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国籍",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1965-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "南卡罗来纳哥伦比亚",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1987-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "乔治·华盛顿大学法学博士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": {
+          "value": "海岸警卫队上将",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国海岸警卫队",
+          "role": "司令",
+          "start": {
+            "value": "2026-01-15",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1983-09",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "按毕业年减四年及美国学年9月推算本科入学。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1987",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1987-05",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "毕业月份未载，按美国学年默认5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1987",
+              "duration_years": null
+            }
+          },
+          "organization": "美国海岸警卫队学院",
+          "role": null,
+          "program": "轮机工程",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1987-05",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国海岸警卫队",
+          "role": "军官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2022-05-24",
+            "source_ids": [
+              "s2",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "卸任月份按下一条副司令任期衔接。",
+            "inference": {
+              "rule": "adjacent_entry",
+              "from_date": "2024-06",
+              "duration_years": null
+            }
+          },
+          "organization": "美国海岸警卫队大西洋区",
+          "role": "司令",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2024-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-01",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "按接任代理司令的月份衔接。",
+            "inference": {
+              "rule": "adjacent_entry",
+              "from_date": "2025-01",
+              "duration_years": null
+            }
+          },
+          "organization": "美国海岸警卫队",
+          "role": "副司令",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-21",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2026-01",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "按正式接任司令的月份衔接。",
+            "inference": {
+              "rule": "adjacent_entry",
+              "from_date": "2026-01",
+              "duration_years": null
+            }
+          },
+          "organization": "美国海岸警卫队",
+          "role": "代理司令",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "代理",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-01-15",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国海岸警卫队",
+          "role": "司令",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "问卷记载1997年法学博士、2008年国家战争学院国家安全战略理学硕士；具体学习起止月未核实。",
+        "早期军职及第14警卫区、网络司令部、装备战备副主管的任期未在已打开资料中完整列出。",
+        "大西洋区司令到任采用2022年5月24日官方交接新闻；部分搜索索引出现7月说法但原页未能打开，未作为事实采用。",
+        "国籍依据官方美国军官身份记录；未见独立国籍声明。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "wuju"
+}

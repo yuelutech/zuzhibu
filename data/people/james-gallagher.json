@@ -1,0 +1,563 @@
+{
+  "id": "james-gallagher",
+  "name_zh": "詹姆斯·加拉格尔",
+  "name_en": "James Gallagher",
+  "name_zh_pending": true,
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {
+    "bioguide": "G000607"
+  },
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/congress.json（众议院书记官网 2026-10-01 名录有、名单漏列）；简历按官方来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "james-gallagher.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:California_Assemblymember_James_Gallagher_2024.webp",
+    "source_kind": "维基共享资源（国会议员官方照）",
+    "license": "公有领域：维基共享资源标为公有领域（California State Assembly），File:California Assemblymember James Gallagher 2024.webp；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/California_Assemblymember_James_Gallagher_2024.webp"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "U.S. House of Representatives",
+      "role_en": "U.S. Representative, California's 1st Congressional District"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/congress.json（众议院书记官网 2026-10-01 名录有、名单漏列）；简历按官方来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-james-gallagher",
+    "line": "cadre",
+    "subject_id": "james-gallagher",
+    "title": "詹姆斯·加拉格尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://clerk.house.gov/members/G000607",
+        "title": "Office of the Clerk, U.S. House of Representatives（James Gallagher 成员页）",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "California (CA) – 1st, Republican",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://clerk.house.gov/members/G000607",
+        "title": "Office of the Clerk, U.S. House of Representatives（James Gallagher 成员页）",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Oath of Office: Jun. 10, 2026",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://clerk.house.gov/Members/ViewVacancies",
+        "title": "Office of the Clerk, U.S. House of Representatives（Vacancies of the 119th Congress）",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Passed Away January 06, 2026 Rep. Doug LaMalfa Succeeded June 02, 2026 Rep. James Gallagher Oath of Office on June 10, 2026",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://clerk.house.gov/xml/lists/MemberData.xml",
+        "title": "House Clerk MemberData.xml（publish-date October 1, 2026）",
+        "published_at": "2026-10-01",
+        "checked_at": "2026-10-21",
+        "excerpt": "Elected June 2, 2026, to fill the vacancy due to the death of Doug LaMalfa, January 6, 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://gallagher.house.gov/biography",
+        "title": "Biography | Congressman James Gallagher",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "James was elected in June to the 119th Congress, by special election, to fill the vacancy caused by the death of CA District 1 Representative Doug LaMalfa.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://gallagher.house.gov/biography",
+        "title": "Biography | Congressman James Gallagher",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Prior to being elected to Congress, James served in the California State Assembly from December 2014 - May 2026, where he served as Assembly Minority Leader for 4 years.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://gallagher.house.gov/biography",
+        "title": "Biography | Congressman James Gallagher",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Before being election to the State Assembly, he proudly served his community for 6 years as a member of the Sutter County Board of Supervisors.",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://gallagher.house.gov/biography",
+        "title": "Biography | Congressman James Gallagher",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "James earned his Bachelor of Arts Degree at UC Berkeley, where he was Editor-in-Chief of The Patriot, a nationally recognized conservative news magazine, and was elected to the student senate. Upon graduation, he served in the prestigious Assembly Fellowship Program in Sacramento.",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://gallagher.house.gov/biography",
+        "title": "Biography | Congressman James Gallagher",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Upon completion of the fellowship, he obtained his law degree from UC Davis, graduating at the top of his class. Gallagher is a partner in his family’s farming business as well as a practicing attorney, focusing on agricultural law.",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.sos.ca.gov/elections/prior-elections/special-elections/2026-cd1",
+        "title": "Congressional District 1* - Special Election :: California Secretary of State",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "One candidate received a majority (over 50%) of the votes cast in the primary; therefore, no special general election will be held.",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.sos.ca.gov/elections/prior-elections/special-elections/2026-cd1/official-canvass",
+        "title": "Final Official Election Results - Congressional District 1 :: California Secretary of State",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "James Gallagher, REP 32,090 2,861 4,514 5,269 1,990 35,434 7,917 14,661 11,514 7,301 123,551 62.1%",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.sos.ca.gov/elections/prior-elections/special-elections/2026-cd1/official-canvass",
+        "title": "Final Official Election Results - Congressional District 1 :: California Secretary of State",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Vacancy resulting from the death of Doug LaMalfa.",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://elections.cdn.sos.ca.gov/special-elections/2026-cd1/governors-proclamation.pdf",
+        "title": "Special Election Proclamation by the Governor of the State of California（1st Congressional District）",
+        "published_at": "2026-01-16",
+        "checked_at": "2026-10-21",
+        "excerpt": "I, GAVIN NEWSOM, Governor of the State of California, do hereby proclaim and order that a special election shall be held on the 4th day of August 2026, within the 1st Congressional District of the State, to fill the vacancy in the office of the U.S. House of Representatives from said district resulting from the death of Representative Doug LaMalfa.",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://elections.cdn.sos.ca.gov/special-elections/2026-cd1/cert-list-primary.pdf",
+        "title": "Certified List of Candidates, Special Primary Election, First Congressional District, June 2, 2026",
+        "published_at": "2026-04-15",
+        "checked_at": "2026-10-21",
+        "excerpt": "James Gallagher Republican Farmer/State Assemblyman",
+        "tier": 1
+      },
+      {
+        "id": "s15",
+        "url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/adj061026.pdf",
+        "title": "Assembly Journal, June 10, 2026（California State Assembly）",
+        "published_at": "2026-06-10",
+        "checked_at": "2026-10-21",
+        "excerpt": "I am forwarding a letter of resignation from Assembly Member James Gallagher, Assembly District 3, effective June 9, 2026, upon close of business.",
+        "tier": 1
+      },
+      {
+        "id": "s16",
+        "url": "https://facultyblog.law.ucdavis.edu/news/james-gallagher-07-elected-congress",
+        "title": "James Gallagher '07 Elected to Congress | School of Law（UC Davis）",
+        "published_at": "2026-06-15",
+        "checked_at": "2026-10-21",
+        "excerpt": "James Gallagher ’07 has been elected to the U.S. House of Representatives, filling the Northern California District 1 seat long held by Rep. Doug LaMalfa, who died in January 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s17",
+        "url": "https://facultyblog.law.ucdavis.edu/news/james-gallagher-07-elected-congress",
+        "title": "James Gallagher '07 Elected to Congress | School of Law（UC Davis）",
+        "published_at": "2026-06-15",
+        "checked_at": "2026-10-21",
+        "excerpt": "A state Assembly member for 12 years, Gallagher served as Assembly Republican Minority Leader from 2022-25. Before the Assembly, Gallagher served on the Sutter County Board of Supervisors.",
+        "tier": 1
+      },
+      {
+        "id": "s18",
+        "url": "https://rollcall.com/2026/06/10/james-gallagher-sworn-in-to-finish-lamalfas-term-in-the-house/",
+        "title": "James Gallagher sworn in to finish LaMalfa’s term in the House – Roll Call",
+        "published_at": "2026-06-10",
+        "checked_at": "2026-10-21",
+        "excerpt": "Born in Yuba City, Gallagher earned a bachelor’s degree from the University of California, Berkeley. He got his law degree from UC Davis before he signed on to a practice centered on business and agriculture.",
+        "tier": 2
+      },
+      {
+        "id": "s19",
+        "url": "https://rollcall.com/2026/06/10/james-gallagher-sworn-in-to-finish-lamalfas-term-in-the-house/",
+        "title": "James Gallagher sworn in to finish LaMalfa’s term in the House – Roll Call",
+        "published_at": "2026-06-10",
+        "checked_at": "2026-10-21",
+        "excerpt": "First elected to the California State Assembly in 2014, Gallagher represented an inland district centered on the city of Chico. He was appointed GOP leader in 2022. He also spent six years on the Board of Supervisors for Sutter County, where he lives.",
+        "tier": 2
+      },
+      {
+        "id": "s20",
+        "url": "https://rollcall.com/2026/06/10/james-gallagher-sworn-in-to-finish-lamalfas-term-in-the-house/",
+        "title": "James Gallagher sworn in to finish LaMalfa’s term in the House – Roll Call",
+        "published_at": "2026-06-10",
+        "checked_at": "2026-10-21",
+        "excerpt": "He stepped down as caucus leader in September, according to ABC News affiliate KRCR.",
+        "tier": 2
+      },
+      {
+        "id": "s21",
+        "url": "https://news.bgov.com/bloomberg-government-news/speakers-majority-grows-as-california-republican-joins-ranks",
+        "title": "Speaker’s Majority Grows as California Republican Joins Ranks（Bloomberg Government）",
+        "published_at": "2026-06-10",
+        "checked_at": "2026-10-21",
+        "excerpt": "“It will be the first time ever that I’ve been in the majority,” Gallagher, 45, said in a farewell speech Monday to the Democratic-led California Assembly.",
+        "tier": 2
+      },
+      {
+        "id": "s22",
+        "url": "https://rollcall.com/2026/06/10/james-gallagher-sworn-in-to-finish-lamalfas-term-in-the-house/",
+        "title": "James Gallagher sworn in to finish LaMalfa’s term in the House – Roll Call",
+        "published_at": "2026-06-10",
+        "checked_at": "2026-10-21",
+        "excerpt": "Gallagher is also a partner in his family’s rice farm.",
+        "tier": 2
+      },
+      {
+        "id": "leg",
+        "url": "https://unitedstates.github.io/congress-legislators/legislators-current.json",
+        "title": "congress-legislators: legislators-current.json",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "\"official_full\": \"James Gallagher\" }, \"bio\": { \"gender\": \"M\", \"birthday\": \"1981-03-07\"",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": "众议员官网简历以 he 指称",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s18",
+          "s1"
+        ],
+        "inferred": false,
+        "basis": "出生于美国加利福尼亚州尤巴城；现任须具美国公民身份的联邦众议员",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1981-03-07",
+        "source_ids": [
+          "leg"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "加利福尼亚州尤巴城",
+        "source_ids": [
+          "s18"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "大学本科",
+        "source_ids": [
+          "s8",
+          "s18"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "加利福尼亚大学戴维斯分校法学院法律学位",
+        "source_ids": [
+          "s9",
+          "s16"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "共和党",
+        "source_ids": [
+          "s1",
+          "s14"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "name": {
+        "value": "詹姆斯·加拉格尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（加利福尼亚州第1选区）",
+        "role": "",
+        "start": {
+          "value": "2026-06-10",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2014-12",
+          "source_ids": [
+            "s6",
+            "s15",
+            "s19"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-06-09",
+          "source_ids": [
+            "s6",
+            "s15",
+            "s19"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "加利福尼亚州众议院",
+        "role": "议员（第3选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s15",
+          "s19"
+        ],
+        "ongoing": false,
+        "roles": [
+          "议员（第3选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-07",
+          "source_ids": [
+            "s17",
+            "s19",
+            "s20",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "履历缺月份，取 7 月（cadre.md 第 3 节第 3 条）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2022",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2025-07",
+          "source_ids": [
+            "s17",
+            "s19",
+            "s20",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "履历缺月份，取 7 月（cadre.md 第 3 节第 3 条）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2025",
+            "duration_years": null
+          }
+        },
+        "organization": "加利福尼亚州众议院",
+        "role": "少数党领袖（共和党领袖）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s17",
+          "s19",
+          "s20",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "少数党领袖（共和党领袖）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-06-10",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国联邦众议员（加利福尼亚州第1选区）",
+        "role": "",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3",
+          "s5"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [
+      {
+        "field": "加利福尼亚州众议院议员任职止期",
+        "alternatives": [
+          {
+            "value": "2026-05（众议员官网：December 2014 - May 2026）",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2026-06-09（加州众议院公报：辞职 effective June 9, 2026, upon close of business）",
+            "source_ids": [
+              "s15"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2026-05（众议员官网：December 2014 - May 2026）",
+        "reason": "草稿取州众议院公报的 2026-06-09（正式记录，且与 6 月 10 日宣誓就任联邦众议员衔接）"
+      }
+    ],
+    "unknowns": [
+      "伯克利本科：专业和毕业年份未检得一级或二级来源（维基百科作政治学，只作线索）",
+      "戴维斯法学学位名称：一级来源只写 law degree；维基百科、VoteSmart 作 J.D.（线索）。届别据加州大学戴维斯分校法学院网页 ’07 写 2007，入学年份未检得",
+      "参加工作：众议院研究员项目的起止年份未检得",
+      "律师执业起始年份、所在律所未检得（维基百科称 2007 年起执业，线索）",
+      "萨特县监事会：官网和 Roll Call 都说任职 6 年，起止年月未检得一级或二级来源（维基百科作 2009-01-13 至 2014-12-01、第5选区，线索）",
+      "州众议院就职日：众议员官网只写 2014 年 12 月",
+      "少数党领袖起止的具体日期未检得（加州大学戴维斯分校法学院网页写 2022-25；Roll Call 称 2022 年出任、9 月卸任）"
+    ],
+    "excluded": [
+      "加利福尼亚大学伯克利分校学习：起止时间无来源，履历不单列，学位见首段",
+      "加利福尼亚州众议院研究员（众议院研究员项目）：起始时间无来源，履历不单列",
+      "加利福尼亚大学戴维斯分校法学院法律学习（2007年毕业）：入学时间无来源、不能按学制推，履历不单列，学位见首段",
+      "律师执业（主要从事农业法）律师：起始时间无来源，履历不单列",
+      "家族农业企业（稻米种植）合伙人：起始时间无来源，履历不单列",
+      "加利福尼亚州萨特县监事会监事：起始时间无来源，履历不单列"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "James Gallagher；美国联邦众议员（加利福尼亚州第1选区）",
+    "review_items": []
+  }
+}

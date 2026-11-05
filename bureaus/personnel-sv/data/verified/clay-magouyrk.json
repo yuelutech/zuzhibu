@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "clay-magouyrk-20261018",
+      "line": "cadre",
+      "subject_id": "clay-magouyrk",
+      "title": "克莱·马古伊尔克简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.oracle.com/corporate/executives/clay-magouyrk/",
+          "title": "Oracle：Clay Magouyrk",
+          "excerpt": "Chief Executive Officer Clay Magouyrk heads Oracle Cloud Infrastructure",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.boursorama.com/bourse/actualites/cinq-faits-sur-les-co-pdg-d-oracle-clay-magouyrk-et-mike-sicilia-47cc115763a4d7b3b94b37243805db5b",
+          "title": "Reuters：Five facts about Oracle's new co-CEOs",
+          "excerpt": "M. Magouyrk, 39 ans",
+          "published_at": "2025-09-22",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "克莱·马古伊尔克"
+      ],
+      "person": {
+        "name": {
+          "value": "克莱·马古伊尔克",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1986-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2025年9月22日路透报道39岁，区间1985-09-23至1986-09-22，取中间月份1986年3月。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2025-09-22",
+            "duration_years": null
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "孟菲斯大学电气工程专业",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "理学学士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "甲骨文公司",
+          "role": "首席执行官",
+          "start": {
+            "value": "2025-09-22",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014-07",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2014",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2025-09-22",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "甲骨文公司",
+          "role": "云基础设施工程管理人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-09-22",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "甲骨文公司",
+          "role": "首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "甲骨文公司",
+      "conflicts": [],
+      "unknowns": [
+        "国籍、希尔顿酒店首份全职工作起始年月和本科学习日期未查明。",
+        "甲骨文2014年至2025年的历次具体职务及衔接日期未查明。",
+        "已核实经历，开始时间未知：孟菲斯大学；电气工程专业学习；已获理学学士。来源：s1。",
+        "已核实经历，开始时间未知：希尔顿酒店集团；工程师。来源：s2。",
+        "已核实经历，开始时间未知：亚马逊公司及亚马逊云科技；工程师；结束2014-07。来源：s1、s2。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

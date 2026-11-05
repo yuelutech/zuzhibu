@@ -1,0 +1,96 @@
+{
+  "id": "2026-10-15-paolo-zampolli-leave",
+  "date": "2026-10-15",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "paolo-zampolli",
+  "person": {
+    "name_zh": "保罗·赞波利",
+    "name_en": "Paolo Zampolli",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-10-15",
+  "effective_at": "2026-10-15",
+  "ended_roles": [
+    {
+      "organization": "美国国务院",
+      "role": "全球伙伴关系特使",
+      "organization_en": "United States Department of State",
+      "role_en": "Special Envoy for Global Partnerships",
+      "start": "2025-03",
+      "end": "2026-10-15",
+      "source_ids": [
+        "s1",
+        "s2"
+      ],
+      "sector": "politics",
+      "concurrent": false
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "赞波利于10月15日离任全球伙伴关系特使",
+  "summary": "赞波利于10月15日离任全球伙伴关系特使。他表示将重返商界；具体企业职务及其他现职未查清。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://keyt.com/politics/cnn-us-politics/2026/10/15/trump-ally-removed-from-role-after-report-of-state-department-feud/",
+      "title": "Trump ally removed from role after report of State Department feud",
+      "publisher": "CNN",
+      "published_at": "2026-10-15",
+      "excerpt": "his status as an envoy has been terminated and he is no longer a government employee",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "s2",
+      "url": "https://www.mediaite.com/media/news/trump-pal-and-special-envoy-paolo-zampolli-out-at-state-department-after-year-long-war-over-email-leaks/",
+      "title": "Paolo Zampolli Out at State Department",
+      "publisher": "Mediaite",
+      "published_at": "2026-10-16",
+      "excerpt": "Now it is time for the next chapter – back to business, building relationships and closing deals.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-103425",
+    "corrections": [
+      "ended_roles[0].organization → 美国国务院",
+      "ended_roles[0].organization_en → United States Department of State",
+      "核查只因来源记录问题搁置：删去未核实的来源，其余字段已核实"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（s1：不是一级来源；s2：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 paolo-zampolli（库里没有此人）"
+    ],
+    "notes": [
+      "原任“美国国务院 全球伙伴关系特使 United States Department of State Special Envoy for Global Partnerships”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "paolo-zampolli",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

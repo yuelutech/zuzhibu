@@ -1,0 +1,460 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-sean-duffy",
+      "line": "cadre",
+      "subject_id": "sean-duffy",
+      "title": "肖恩·达菲简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.transportation.gov/office-of-secretary",
+          "title": "Sean Duffy, U.S. Secretary of Transportation",
+          "excerpt": "Secretary of Transportation; marketing degree; J.D.; former district attorney and Congressman.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://history.house.gov/People/Detail/12601",
+          "title": "DUFFY, Sean",
+          "excerpt": "born October 3, 1971; B.A. 1994; J.D. 1999; district attorney 2002–2010; Congress January 3, 2011–September 23, 2019.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://millercenter.org/sean-duffy-2025",
+          "title": "Sean Duffy (2025–)",
+          "excerpt": "media career began in 1997; January 2023 Fox Business co-host; sworn January 28, 2025.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "sanju-neige",
+        "research"
+      ],
+      "person": {
+        "name": {
+          "value": "肖恩·达菲",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1971-10-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "威斯康星海沃德",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法学博士",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国运输部",
+          "role": "部长",
+          "start": {
+            "value": "2025-01-28",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1990-09",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1994",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1994-05",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1994",
+              "duration_years": null
+            }
+          },
+          "organization": "明尼苏达圣玛丽学院",
+          "role": null,
+          "program": "市场营销",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1996-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1999",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1999-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1999",
+              "duration_years": null
+            }
+          },
+          "organization": "威廉·米切尔法学院",
+          "role": null,
+          "program": "法学",
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：来源将1997年列为媒体职业起点；月份未公开，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1997",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "MTV电视台",
+          "role": "真人秀出演者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2002",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2010-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2010",
+              "duration_years": null
+            }
+          },
+          "organization": "威斯康星州阿什兰县",
+          "role": "代理助理地区检察官、地区检察官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-01-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019-09-23",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦众议院",
+          "role": "众议员（威斯康星州第7选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-01",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "福克斯商业频道",
+          "role": "联合主持人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-28",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国运输部",
+          "role": "部长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国政要",
+      "conflicts": [],
+      "unknowns": [
+        "1997年参加MTV节目的全职属性未知，未将其作为首次全职工作，work_start留空。",
+        "NASA代理局长兼任的截至日现状尚未核清；未沿用2025年的旧简介。",
+        "国籍直接陈述、最早入党锚点、CNN和BGR任期未补证。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": "Secretary of Transportation | U.S. Department of Transportation",
+      "review_items": [
+        "完整简历卡缺项：nationality、work_start。保留seed级事实包。"
+      ]
+    }
+  ],
+  "source_task": "sanju-neige"
+}

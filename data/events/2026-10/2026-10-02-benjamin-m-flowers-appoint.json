@@ -1,0 +1,77 @@
+{
+  "id": "2026-10-02-benjamin-m-flowers-appoint",
+  "date": "2026-10-02",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "benjamin-m-flowers",
+  "person": {
+    "name_zh": "本杰明·M.弗劳尔斯",
+    "name_en": "Benjamin M. Flowers",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": null,
+  "effective_at": "2026-10-02",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国联邦第六巡回上诉法院",
+      "role": "法官",
+      "organization_en": "United States Court of Appeals for the Sixth Circuit",
+      "role_en": "Judge",
+      "start": "2026-10-02",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "本杰明·M.弗劳尔斯获任美国联邦第六巡回上诉法院法官",
+  "summary": "法院官方名册列明，弗劳尔斯的任命状日期为10月2日。",
+  "bureaus": [
+    "justice"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.ca6.uscourts.gov/judges",
+      "title": "Judges",
+      "publisher": "美国联邦第六巡回上诉法院",
+      "published_at": null,
+      "excerpt": "Judge Benjamin M. Flowers",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 benjamin-m-flowers（库里没有此人）",
+      "现任职务新增：美国联邦第六巡回上诉法院法官",
+      "履历新增：2026-10 美国联邦第六巡回上诉法院法官",
+      "所属局：定为六局·公检法干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "justice",
+    "person_id": "benjamin-m-flowers",
+    "reason": "主要职务“美国联邦第六巡回上诉法院 法官”：法院、司法部与执法机构"
+  }
+}

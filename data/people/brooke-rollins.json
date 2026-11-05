@@ -1,0 +1,444 @@
+{
+  "id": "brooke-rollins",
+  "name_zh": "布鲁克·罗林斯",
+  "name_en": "Brooke Rollins",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Department of Agriculture 美国农业部长 U.S. Department of Agriculture Secretary of Agriculture”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/brooke-rollins.json（sanju-neige，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2026/02/Brooke-Rollins.jpeg?w=960",
+    "source": "https://www.whitehouse.gov/administration/cabinet/",
+    "file": "brooke-rollins.jpg",
+    "source_kind": "官方照片（补采）",
+    "license": "公有领域或 CC BY 3.0：白宫网站版权页称政府制作的材料不受版权保护，第三方内容按 CC BY 3.0 授权；署“白宫”；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Department of Agriculture",
+      "role_en": "Secretary of Agriculture"
+    }
+  ],
+  "notes": [
+    "补采任务 sanju-neige（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Department of Agriculture 美国农业部长 U.S. Department of Agriculture Secretary of Agriculture”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/brooke-rollins.json（sanju-neige，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-brooke-rollins",
+    "line": "cadre",
+    "subject_id": "brooke-rollins",
+    "title": "布鲁克·罗林斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.usda.gov/our-agency/about-usda/our-secretary",
+        "title": "Secretary of Agriculture — Brooke L. Rollins",
+        "excerpt": "Brooke L. Rollins was sworn in as the 33rd U.S. Secretary of Agriculture.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://today.tamu.edu/news/2025/02/13/former-student-sworn-in-as-us-secretary-of-agriculture/",
+        "title": "Brooke Rollins ’94 To Lead U.S. Department Of Agriculture",
+        "excerpt": "Brooke Rollins, a 1994 Texas A&M graduate, was confirmed Thursday as the U.S. Secretary of Agriculture.",
+        "published_at": "2025-02-13",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://law.utexas.edu/wp-content/uploads/sites/50/2025/05/TLM2025_Spring_WEB.pdf",
+        "title": "Texas Law Magazine, Spring 2025",
+        "excerpt": "Brooke Rollins ’98",
+        "published_at": "2025",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.texaspolicy.com/press/tppf-announces-new-president",
+        "title": "TPPF Announces New President",
+        "excerpt": "She will take office on January 1, 2003.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.texaspolicy.com/press/brooke-rollins-returns-to-tppf-as-senior-advisor-roberts-and-sindelar-promoted",
+        "title": "Brooke Rollins Returns to TPPF as Senior Advisor",
+        "excerpt": "After 15 years at the helm, Rollins left TPPF in 2018 to be an assistant to the president",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://millercenter.org/brooke-l-rollins-2024",
+        "title": "Brooke L. Rollins (2024- ) | Miller Center",
+        "published_at": "2025-02-26",
+        "checked_at": "2026-10-22",
+        "excerpt": "Brooke Leslie Rollins was born on April 10, 1972, in Glen Rose, Texas, a small agricultural community.",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-neige",
+      "research"
+    ],
+    "person": {
+      "name": {
+        "value": "布鲁克·罗林斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s6",
+          "s1",
+          "s2"
+        ],
+        "basis": "出生于美国得克萨斯州格伦罗斯（米勒中心）（按美国宪法第十四修正案为美国公民）",
+        "inferred": false,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1972-04-10",
+        "source_ids": [
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "得克萨斯州格伦罗斯",
+        "source_ids": [
+          "s6",
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": null,
+      "degree": {
+        "value": "得克萨斯大学奥斯汀分校法学博士学位",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国农业部",
+        "role": "部长",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1990-09",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1994",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1994-05",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1994",
+            "duration_years": null
+          }
+        },
+        "organization": "得克萨斯农工大学",
+        "role": null,
+        "program": "农业发展",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1995-09",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1998",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1998-05",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1998",
+            "duration_years": null
+          }
+        },
+        "organization": "得克萨斯大学奥斯汀分校",
+        "role": null,
+        "program": "法学",
+        "degree_awarded": {
+          "value": "法学博士学位",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003-01-01",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "得克萨斯公共政策基金会",
+        "role": "总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "白宫",
+        "role": "总统战略倡议助理、美国创新办公室主任、国内政策委员会主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国农业部",
+        "role": "部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国政要",
+    "conflicts": [],
+    "unknowns": [
+      "首份全职联邦法官书记员工作的开始时间未查到，work_start留空；未把律师执照日或毕业年直接当成开始工作日。",
+      "2025-02-13确认由母校原文支持；载有同日宣誓的农业部新闻稿本次打开失败，since只保留已确认年份。",
+      "出生年月为本科毕业年规则推算；公开百科所载1972-04-10未取得所引出生登记原件，不作事实采用。",
+      "州长办公室、早期律师、AFPI职务完整起止及有效入党锚点未查到。",
+      "未取得国籍的直接来源，nationality留空。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Secretary of Agriculture | U.S. Department of Agriculture",
+    "review_items": [
+      "完整简历卡缺项：nationality、work_start。保留seed级事实包。"
+    ]
+  }
+}

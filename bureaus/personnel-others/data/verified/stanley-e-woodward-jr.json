@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-stanley-e-woodward-jr",
+      "line": "cadre",
+      "subject_id": "stanley-e-woodward-jr",
+      "title": "斯坦利·E.伍德沃德简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.justice.gov/asg/staff-profile/meet-associate-attorney-general",
+          "title": "Meet the Associate Attorney General",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Stanley E. Woodward, Jr. was nominated by President Donald J. Trump and confirmed by the U.S. Senate to serve as the Associate Attorney General of the United States in October 2025.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://jnc.dc.gov/biography/stanley-woodward-jr",
+          "title": "Stanley Woodward, Jr",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Mr. Woodward earned his Bachelor of Arts degree, cum laude, from the American University and his Juris Doctor, cum laude, from the Catholic University of America Columbus School of Law.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://profiles.superlawyers.com/washington-dc/washington/lawyer/stanley-woodward-jr/033937f3-65e2-43c5-b433-845c0c80bc9a.html",
+          "title": "Stanley Woodward, Jr. | Super Lawyers",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Stanley Woodward, Jr. began practicing law in 2008.",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "inbox",
+        "liuju",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "斯坦利·E.伍德沃德",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": null,
+        "birth_place": null,
+        "work_start": {
+          "value": "2008-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3.3、9.6条：已核首份全职岗位始于2008年；来源未给月份，美国毕业后首份工作按6月记录。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2008",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "美国天主教大学哥伦布法学院法学博士",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国司法部",
+          "role": "副部长",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2005-09",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3.3、9.6条：毕业年减标准学制3年。 cadre.md 第9.6条：美国学年入学9月、毕业5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2005",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2008-05",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": " cadre.md 第9.6条：美国学年入学9月、毕业5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2008",
+              "duration_years": null
+            }
+          },
+          "organization": "美国天主教大学哥伦布法学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008-06",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3.3、9.6条：已核首份全职岗位始于2008年；来源未给月份，美国毕业后首份工作按6月记录。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "2008",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "华盛顿哥伦比亚特区法院",
+          "role": "法官助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "履历缺月份，取 7 月（cadre.md 第 3 节第 3 条）",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2025",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "美国司法部",
+          "role": "副部长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "国籍与出生年月未取得明确来源，留空。",
+        "司法部页只明确2025-10获确认，到任日期未载，现任起年仅记2025，未把确认日当宣誓日。",
+        "本科、理学硕士均为美利坚大学，毕业年未核；无法构造有日期的学习条目。",
+        "已核任Brand Woodward联合创始人、白宫总统助理兼高级顾问、司法部长顾问、大学兼职教授，完整起止年月未知。",
+        "党籍及加入时间没有合格锚点。",
+        "首份法律工作不等于已查明的首份全职工作，未用2008年倒推出生年；出生年月留空。"
+      ],
+      "excluded": [
+        "不从任命总统党籍、投票倾向或政治捐款推断本人党籍及入党时间。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": "斯坦利·E.伍德沃德；美国司法部副部长",
+      "review_items": [
+        "表外人名建议译法见 names.csv，待人工复核；未标作新华社已核译名。",
+        "译名表内标为待核的机构、职务按现有写法保留；逐项清单见README检查提示。"
+      ]
+    }
+  ],
+  "source_task": "liuju"
+}

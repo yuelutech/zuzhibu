@@ -1,0 +1,139 @@
+{
+  "id": "2026-09-02-ben-moss-transfer",
+  "date": "2026-09-02",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "ben-moss",
+  "person": {
+    "name_zh": "本·莫斯",
+    "name_en": "Ben Moss",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-27",
+  "effective_at": "2026-09-02",
+  "ended_roles": [
+    {
+      "organization": "美国白宫",
+      "role": "副秘书",
+      "organization_en": "The White House",
+      "role_en": "Deputy Staff Secretary",
+      "start": null,
+      "end": "2026-09-02",
+      "source_ids": [
+        "s1"
+      ],
+      "sector": "politics",
+      "concurrent": false
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "美国白宫",
+      "role": "总统助理、秘书",
+      "organization_en": "The White House",
+      "role_en": "Assistant to the President and White House Staff Secretary",
+      "start": "2026-09-02",
+      "end": null,
+      "source_ids": [
+        "s1"
+      ],
+      "sector": "politics",
+      "concurrent": false
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "莫斯自9月2日起由白宫副秘书转任总统助理、白宫秘书",
+  "summary": "莫斯自9月2日起由白宫副秘书转任总统助理、白宫秘书。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-27-2026",
+      "title": "Truth Social Posts of August 27, 2026",
+      "publisher": "美国总统声明；The American Presidency Project 存档",
+      "published_at": "2026-08-27",
+      "excerpt": "effective September 2nd, Ben Moss will become Assistant to the President and White House Staff Secretary",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "m1",
+      "url": "https://www.trumpstruth.org/statuses/41290",
+      "title": "Donald J. Trump statement on Ben Moss appointment",
+      "publisher": "Presidential statement archive",
+      "published_at": "2026-08-27",
+      "excerpt": "I am pleased to announce that, effective September 2nd, Ben Moss will become Assistant to the President and White House Staff Secretary, replacing our new White House Counsel, Will Scharf.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true,
+      "merged_from": "2026-09-02-ben-moss-announce"
+    },
+    {
+      "id": "m2",
+      "url": "https://www.trumpstruth.org/statuses/41290",
+      "title": "Trump’s Truth: August 27, 2026",
+      "publisher": "",
+      "published_at": "2026-08-27",
+      "excerpt": "I am pleased to announce that, effective September 2nd, Ben Moss will become Assistant to the President and White House Staff Secretary",
+      "supports": [
+        "effective_at",
+        "new_roles[0].start"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true,
+      "merged_from": "2026-09-02-ben-moss-announce"
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-103425",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "类别：核实来源的摘录和网页标题里没有表示“调任”的字样"
+    ],
+    "merged": [
+      {
+        "id": "2026-09-02-ben-moss-announce",
+        "kind": "announce",
+        "headline": "本·莫斯获任命为总统助理兼白宫幕僚秘书",
+        "announced_at": "2026-08-27",
+        "effective_at": "2026-09-02",
+        "verification": {
+          "method": "codex",
+          "by": "本机 Codex 核查会话（补采动态，一次一条）",
+          "run": "20261021-090516"
+        },
+        "sources": [
+          "m1",
+          "m2"
+        ],
+        "at": "2026-10-21",
+        "reason": "同一人、同一天、同一机构，类别不同的同一件事，合成一条"
+      }
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "原任“美国白宫 副秘书 The White House Deputy Staff Secretary”在记录的现任职务里找不到对应项，未移出",
+      "新任“美国白宫总统助理、秘书”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "ben-moss",
+    "reason": "主要职务“白宫 总统助理、秘书”：总统、白宫、内阁与独立机构"
+  }
+}

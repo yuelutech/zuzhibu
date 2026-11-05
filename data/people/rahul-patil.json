@@ -1,0 +1,357 @@
+{
+  "id": "rahul-patil",
+  "name_zh": "拉胡尔·帕蒂尔",
+  "name_en": "Rahul Patil",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Anthropic公司 首席技术官 Anthropic Chief Technology Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/rahul-patil.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/672848814bf2e959b874c8533335844657f828c0-640x800.jpg",
+    "source": "https://www.anthropic.com/company/leadership"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Anthropic",
+      "role_en": "Chief Technology Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Anthropic公司 首席技术官 Anthropic Chief Technology Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "rahul-patil-20261018",
+    "line": "cadre",
+    "subject_id": "rahul-patil",
+    "title": "拉胡尔·帕蒂尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.anthropic.com/company/leadership",
+        "title": "Leadership at Anthropic",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Rahul Patil; Chief Technology Officer",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.anthropic.com/news/rahul-patil-joins-anthropic",
+        "title": "Rahul Patil joins Anthropic as Chief Technology Officer",
+        "published_at": "2025-10-07",
+        "checked_at": "2026-10-18",
+        "excerpt": "Rahul Patil has joined Anthropic as our Chief Technology Officer.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.ndtv.com/feature/who-is-rahul-patil-new-anthropic-cto-who-graduated-from-non-iit-college-9391439",
+        "title": "Who Is Rahul Patil?",
+        "published_at": "2025-10-03",
+        "checked_at": "2026-10-18",
+        "excerpt": "Patil started his career with Microsoft",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "拉胡尔·帕蒂尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1980-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "本科2002年毕业减22年；缺月取7月",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "2002",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2004-06",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "2013年转AWS前微软九年，起年2004；美国首份工作取6月",
+        "inference": {
+          "rule": "standard_duration",
+          "from_date": "2013",
+          "duration_years": 9
+        }
+      },
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "华盛顿大学工商管理硕士学位",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "Anthropic 公司",
+        "role": "首席技术官",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "首席技术官"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "PES 理工学院",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2004",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "亚利桑那州立大学",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": {
+          "value": "硕士学位",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "2013年转AWS之前微软九年，2013-9=2004；美国毕业同年首份工作取6月",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2013",
+            "duration_years": 9
+          }
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "微软公司",
+        "role": "工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程师"
+        ],
+        "role_category": {
+          "value": "various engineering roles",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "按来源工程岗位类别概括",
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "亚马逊云科技",
+        "role": "经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "Anthropic 公司",
+    "conflicts": [],
+    "unknowns": [
+      "Anthropic到任具体日期未知；2025-10-07公告说已经到任，未把公告日作到任日。",
+      "AWS、甲骨文、Stripe之间的交接年月未知。",
+      "2011—2013年MBA与微软任职重叠，学习方式未知，未作脱产履历。",
+      "国籍：已查所列来源，未找到可采用依据。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": [
+      "有来源的无起始日期经历：甲骨文公司；云基础设施高级副总裁；终点：未找到；来源：s3",
+      "有来源的无起始日期经历：Stripe 公司；副首席技术官、首席技术官；终点：未找到；来源：s2、s3",
+      "有来源的无起始日期经历：Anthropic 公司；首席技术官；终点：未找到；来源：s1",
+      "来源s3阅读记录：正文列本科1998—2002、硕士2003—2004、MBA 2011—2013及微软九年经历）。"
+    ]
+  }
+}

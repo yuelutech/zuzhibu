@@ -1,0 +1,96 @@
+{
+  "id": "2026-08-19-tim-ryan-appoint",
+  "date": "2026-08-19",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "tim-ryan",
+  "person": {
+    "name_zh": "蒂姆·瑞安",
+    "name_en": "Tim Ryan",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-19",
+  "effective_at": "2026-08-19",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "超威半导体公司（AMD）",
+      "role": "董事",
+      "organization_en": "AMD",
+      "role_en": "Director",
+      "start": "2026-08-19",
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "amd-ryan"
+      ]
+    }
+  ],
+  "other_current_roles": [
+    {
+      "organization": "花旗集团",
+      "role": "技术与业务赋能主管",
+      "organization_en": "Citi",
+      "role_en": "Head of Technology and Business Enablement",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "amd-ryan"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "蒂姆·瑞安获任超威半导体公司董事",
+  "summary": "超威半导体公司8月19日宣布任命蒂姆·瑞安为董事，当日生效。他现任花旗集团技术与业务赋能主管。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "amd-ryan",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1297/amd-appoints-tim-ryan-to-board-of-directors",
+      "title": "AMD Appoints Tim Ryan to Board of Directors",
+      "publisher": "AMD",
+      "published_at": "2026-08-19",
+      "excerpt": "appointment of Tim Ryan to its board of directors, effective Aug. 19, 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-094711",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：amd-ryan"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-aug-tim-ryan",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 tim-ryan（库里没有此人）",
+      "现任职务新增：超威半导体公司（AMD）董事",
+      "履历新增：2026-08 超威半导体公司（AMD）董事",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "tim-ryan",
+    "reason": "主要职务“超威半导体公司（AMD） 董事”：AI 与科技机构名单"
+  }
+}

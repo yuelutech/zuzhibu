@@ -1,0 +1,731 @@
+{
+  "id": "arthur-levinson",
+  "name_zh": "亚瑟·莱文森",
+  "name_en": "Arthur Levinson",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "resume": {
+    "id": "arthur-levinson-20261018",
+    "line": "cadre",
+    "subject_id": "arthur-levinson",
+    "title": "亚瑟·莱文森简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.calicolabs.com/people/arthur-d-levinson/",
+        "title": "Arthur D. Levinson, Ph.D. — Calico",
+        "excerpt": "In September 2013, Art was named chief executive officer of Calico.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.apple.com/leadership/",
+        "title": "Apple Leadership",
+        "excerpt": "Arthur Levinson Lead Independent Director",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "title": "Apple leadership transition",
+        "excerpt": "will become its lead independent director on September 1, 2026.",
+        "published_at": "2026-04-20",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.encyclopedia.com/economics/news-wires-white-papers-and-books/levinson-arthur-1950",
+        "title": "International Directory of Business Biographies: Arthur Levinson",
+        "excerpt": "Nationality: American. Born: March 31, 1950, in Seattle, Washington.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "亚瑟·莱文森"
+    ],
+    "person": {
+      "name": {
+        "value": "亚瑟·莱文森",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1950-03",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1977-06",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1977",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "普林斯顿大学",
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "生物化学博士",
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "Calico公司",
+        "role": "创始人、首席执行官",
+        "start": {
+          "value": "2013-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "苹果公司",
+        "role": "首席独立董事",
+        "start": {
+          "value": "2026-09-01",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1968-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1972减标准学制4年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1972",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1972-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1972",
+            "duration_years": null
+          }
+        },
+        "organization": "华盛顿大学",
+        "role": null,
+        "program": "分子生物学",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1972-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1972",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1977-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1977",
+            "duration_years": null
+          }
+        },
+        "organization": "普林斯顿大学",
+        "role": null,
+        "program": "生物化学",
+        "degree_awarded": {
+          "value": "博士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1977-06",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1977",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1980-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1980",
+            "duration_years": null
+          }
+        },
+        "organization": "加利福尼亚大学旧金山分校",
+        "role": "博士后研究员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1980-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1980",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1987-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1987",
+            "duration_years": null
+          }
+        },
+        "organization": "基因泰克公司",
+        "role": "高级研究员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1987-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1987",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1989-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "organization": "基因泰克公司",
+        "role": "细胞遗传学部主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1989-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1990-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1990",
+            "duration_years": null
+          }
+        },
+        "organization": "基因泰克公司",
+        "role": "研究技术副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1990-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1990",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1993-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "organization": "基因泰克公司",
+        "role": "研究副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1995-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1995",
+            "duration_years": null
+          }
+        },
+        "organization": "基因泰克公司",
+        "role": "高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "基因泰克公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Calico公司",
+        "role": "创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-09-01",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "苹果公司",
+        "role": "首席独立董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "Calico公司",
+    "conflicts": [
+      {
+        "field": "苹果公司现任职务",
+        "alternatives": [
+          {
+            "value": "首席独立董事",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "董事长",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "首席独立董事",
+        "reason": "苹果现行领导页与2026年4月20日公告明确9月1日转任；用户确认采用苹果现行职务，保留Calico页面差异。"
+      }
+    ],
+    "unknowns": [
+      "博士阶段入学月份、早期各职务月份未公开，按规则取月；2009年至2013年主职衔接及苹果历史董事长起始月未补造。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-18",
+  "events": [
+    "2026-09-01-arthur-levinson-transfer"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-09-01",
+      "event": "2026-09-01-arthur-levinson-transfer",
+      "reason": "主要职务“苹果公司 首席独立董事”：AI 与科技机构名单"
+    }
+  ],
+  "origin": "一局动态新建；补采简历 bureaus/personnel-sv/data/verified/arthur-levinson.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "source": "https://www.calicolabs.com/people/arthur-d-levinson/",
+    "url": "https://www.calicolabs.com/wp-content/uploads/2020/02/Art_Levinson-scaled-e1755791180311-1335x2000.jpg"
+  }
+}

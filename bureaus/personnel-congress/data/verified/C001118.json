@@ -1,0 +1,653 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001118",
+      "line": "cadre",
+      "subject_id": "c001118",
+      "title": "本·克莱因简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/members/C001118/",
+          "title": "Office of the Clerk, U.S. House of Representatives — Ben Cline",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Ben Cline\nVirginia (VA) – 6th, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://cline.house.gov/about/",
+          "title": "About | U.S. Representative Ben Cline",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "beginning as a member of his legislative staff in 1994 and ultimately serving as the Congressman’s Chief of Staff.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://history.house.virginia.gov/members/8665",
+          "title": "House of Delegates History (DOME) — Benjamin Lee \"Ben\" Cline",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Sessions Served: November 26, 2002 - December 18, 2018\nGender: Male Race: Caucasian\nUniversity of Richmond School of Law (J.D., 2007)",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-VA-H-6.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Ben Cline",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Stillwater, Payne County, OK, February 29, 1972;\nJ.D., University of Richmond Law School, Richmond, VA, 2007;",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.bates.edu/news/2019/06/26/similar-but-different-congressmen-ben-cline-94-and-jared-golden-11-return-for-reunion/",
+          "title": "Similar but different, Congressmen Ben Cline ’94 and Jared Golden ’11 return for Reunion",
+          "published_at": "2019-06-26",
+          "checked_at": "2026-10-19",
+          "excerpt": "Both majored in politics\nCline worked for Goodlatte for eight years, becoming chief of staff.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://clerk.house.gov/member_info/Terms_of_Service.pdf",
+          "title": "U.S. House of Representatives — Terms of Service",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Cline Ben4 VA Republican 116th to 119th January 3, 2019",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://cline.house.gov/news/documentsingle.aspx?DocumentID=1002",
+          "title": "Rep. Cline Named to Education and Labor, Judiciary Committees",
+          "published_at": "2019-01-17",
+          "checked_at": "2026-10-19",
+          "excerpt": "Cline was an Assistant Commonwealth's Attorney for Harrisonburg and Rockingham County from 2007 to 2013, then opened his own law practice.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://scholar.lib.vt.edu/VA-news/WDBJ-7/script_archives/02/1102/110602/110602.6.htm",
+          "title": "WDBJ 7 news at 6 for 11/06/02",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Cline won all but a handful of precincts in the 24th House District\n[SUPER=401-Ben Cline/(R) Delegate-Elect]",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://www.elections.virginia.gov/resultsreports/registrationturnout-statistics/",
+          "title": "Virginia Dept. of Elections: Registration/Turnout Reports",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "November General Elections: 1976 – Present\n2002 | 4,219,957 | 2.7% | 1,331,915 | 31.56% | 44,493",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.fec.gov/data/committee/C00661561/",
+          "title": "BEN CLINE FOR CONGRESS, INC. - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Principal campaign committee ID: C00661561 Registration date: November 27, 2017",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://cline.house.gov/about/committees-and-caucuses.htm",
+          "title": "Committees and Caucuses | U.S. Representative Ben Cline",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "House Committee on the Judiciary\nHouse Committee on Appropriations\nHouse Permanent Select Committee on Intelligence\nHouse Committee on the Budget",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:VA"
+      ],
+      "person": {
+        "name": {
+          "value": "本·克莱因",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1972-02-29",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "俄克拉荷马州斯蒂尔沃特",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1994",
+          "source_ids": [
+            "s2",
+            "s5",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作起始年取1994年。议员官网明确其1994年进入鲍勃·古德拉特办公室任立法工作人员；国会名录列任职期为1994—2002年；贝茨学院报道记述其毕业时申请该办公室入门级通信职位并任职八年。来源：https://cline.house.gov/about/ ；https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-VA-H-6.htm ；https://www.bates.edu/news/2019/06/26/similar-but-different-congressmen-ben-cline-94-and-jared-golden-11-return-for-reunion/ 。月份无公开依据，保留年精度。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1994",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "里士满大学法学院法学博士学位",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2002-11",
+          "source_ids": [
+            "s9",
+            "s10",
+            "s4",
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以共和党候选人身份参加弗吉尼亚州众议院第24选区2002年11月特别选举。WDBJ于2002年11月6日播出的报道记载其在前一日特别选举中获胜，并明确标注共和党当选人身份；州选务机构官方统计列明2002年11月大选。本字段保留年月，不录入未从州选务机构原文核实的具体选举日。来源：https://scholar.lib.vt.edu/VA-news/WDBJ-7/script_archives/02/1102/110602/110602.6.htm ；https://www.elections.virginia.gov/resultsreports/registrationturnout-statistics/ 。已检索个人党籍登记、本人宣布加入共和党、早期党组织职务及州级参选登记，未找到可打开并支持更早日期的记录。FEC委员会登记日2017-11-27虽属第3级类型，但晚于已证实的2002年共和党参选经历，按禁止晚于更早有效锚点的规定排除，来源：https://www.fec.gov/data/committee/C00661561/ 。第5级就任锚点2002-11-26不优于本次参选锚点，来源：https://history.house.virginia.gov/members/8665 。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2002-11",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": {
+          "value": "白人",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（弗吉尼亚州第6选区）",
+          "role": "",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院预算委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院情报常设特别委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1990",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "州议会官方档案和国会名录均记载1994年获贝茨学院文学学士学位；按美国本科标准学制四年推算，1994－4＝1990。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1994",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "贝茨学院",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦众议员鲍勃·古德拉特办公室",
+          "role": "立法通信助理、立法主任、办公室主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "立法通信助理",
+            "立法主任",
+            "办公室主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002-11-26",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018-12-18",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "弗吉尼亚州众议院",
+          "role": "众议员（第24选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "众议员（第24选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2007",
+                "source_ids": [
+                  "s2",
+                  "s5",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2013",
+                "source_ids": [
+                  "s2",
+                  "s5",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "罗金厄姆县及哈里森堡市检察官办公室",
+              "role": "助理检察官",
+              "roles": [
+                "助理检察官"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s5",
+                "s8"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2013",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": false,
+              "organization": "私人执业",
+              "role": "律师",
+              "roles": [
+                "律师"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（弗吉尼亚州第6选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（弗吉尼亚州第6选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.degree",
+          "alternatives": [
+            {
+              "value": "里士满大学法学院法学博士学位",
+              "source_ids": [
+                "s4",
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "华盛顿与李大学法学院毕业",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": "贝茨学院2019年校友报道的一处合影说明将照片中两人均称为华盛顿与李大学法学院毕业生。",
+              "inference": null
+            }
+          ],
+          "selected_value": "里士满大学法学院法学博士学位",
+          "reason": "采用州议会官方个人教育档案和国会名录明确列出的J.D.学校及年份；议员本人官网亦写其法学学位取得于里士满大学。贝茨学院照片说明与这些直接履历记录冲突，未采用，列入人工复核。"
+        }
+      ],
+      "unknowns": [
+        "birth_date：国会名录提供完整生日，州议会档案仅提供1972年；未取得第二个可打开且明确列出完整生日的官方来源。Bioguide及尝试打开的国会人物页失败，未收入sources。",
+        "work_start：议员官网、国会名录和贝茨学院报道均能支持1994年毕业后进入古德拉特办公室，未找到具体入职月份。",
+        "careers：古德拉特办公室内立法通信助理、立法主任、办公室主任的交接日期未查到；贝茨学院报道明确1999年7月时为立法主任，三项职务合并记录。",
+        "careers.annotations.study：州议会档案和国会名录确认2007年取得里士满大学法学院J.D.，未找到可打开的入学时间原文；本人LinkedIn搜索结果出现2004—2007年，打开失败，未采用该起止时间，未生成缺少开始日期的学习括注。",
+        "careers.annotations：检索议员官网、竞选官网、国会名录及NDS相关公开材料，未找到可打开且可靠支持2002—2007年任NDS公司总裁的原文；国会名录只列营销顾问，未给起止时间和机构，未生成该履历。",
+        "careers.annotations：私人执业的律所注册全称和结束日期未从已打开的官方来源查到；记录为私人执业律师，end=null、ongoing=false。",
+        "current_roles.start：众议院书记官及议员官网确认四个委员会现职，未核实第119届各委员会任职生效日期，start均为null。",
+        "party_joined_at：未找到2002年州级参选登记受理日或公开宣布参选日，以及更早的个人党籍登记、本人入党声明或党组织任职记录；州选务历史查询网页可打开，但具体2002年第24选区结果未在网页正文呈现。",
+        "careers.annotations：议员官网列共和党研究委员会副主席及多个跨党派议员小组共同主席，未取得各项就任生效时间，未生成括注。"
+      ],
+      "excluded": [
+        "底稿『贝茨学院文学学士学位』作为最高学位：州议会档案和国会名录确认2007年取得里士满大学法学院法学博士学位，已更正。",
+        "底稿『大学学历』：最高已取得学位为法学博士，改为研究生学历。",
+        "底稿『2025-01』作为现任联邦众议员开始时间：这是本届任期时间；书记官任职年限表明确连续任职始于2019-01-03。",
+        "底稿『1994年6月参加工作』：没有公开月份依据，只保留1994年。",
+        "底稿『2002年11月加入美国共和党』：旧稿无证据，本次重新以2002年11月共和党候选人参选记录形成第4级锚点，未沿用旧稿作为依据。",
+        "底稿『2002—2007年NDS公司总裁』：未找到合格原文，删除该条。",
+        "底稿『2004—2007年里士满大学法学院学习』：可打开来源只证实2007年学位；不以搜索摘要或标准学制补造在职学习开始年。",
+        "查到『2017-11-27联邦竞选委员会登记』：晚于其2002年共和党候选人经历，不作入党时间。",
+        "查到贝茨学院照片说明『两人均为华盛顿与李大学法学院毕业生』：与州议会档案、国会名录及本人官网冲突，未采用。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（弗吉尼亚州第6选区）＋美国国会众议院；Bioguide C001118",
+      "review_items": [
+        "复核贝茨学院2019年报道照片说明与里士满大学法学院学位记录的冲突；本包选用州议会档案、国会名录及本人官网一致记载的里士满大学。",
+        "入党年月采用2002年11月参选锚点；后续可补取州选务机构该次特别选举的原始结果或州级最初参选登记。",
+        "法学博士学位已取证，法学院学习起止期仍缺可打开依据，未生成学习括注。",
+        "全文展示按年粒度；结构化日期保留官方来源原有日精度。"
+      ]
+    }
+  ]
+}

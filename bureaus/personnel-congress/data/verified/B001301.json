@@ -1,0 +1,559 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001301",
+      "line": "cadre",
+      "subject_id": "b001301",
+      "title": "杰克·贝格曼简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BERGMAN,-John-(B001301)/",
+          "title": "BERGMAN, John | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Shakopee, Scott County, Minn., February 2, 1947",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/B001301",
+          "title": "Office of the Clerk, U.S. House of Representatives — Jack Bergman",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Jack Bergman\nMichigan (MI) – 1st, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://bergman.house.gov/biography/committees.htm",
+          "title": "Committees | U.S. Representative Jack Bergman",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Congressman Bergman proudly serves as a member of the House Armed Services Committee.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.fec.gov/data/committee/C00614214/",
+          "title": "BERGMANFORCONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Principal campaign committee ID: C00614214 Registration date: April 07, 2016",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.fec.gov/data/candidate/H6MI01226/",
+          "title": "BERGMAN, JOHN - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Candidate for House Michigan - 01 ID: H6MI01226 REPUBLICAN PARTY",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2018-07-27/pdf/CDIR-2018-07-27-MI-H-1.pdf",
+          "title": "Congressional Directory — Michigan, First District",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Savage, MN, on February 2, 1947",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.nato-pa.int/members/bergman-jack",
+          "title": "BERGMAN Jack | NATO PA",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "he retired from the Marine Corps in December 2009 at the rank of Lieutenant General.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://bergman.house.gov/news/documentsingle.aspx?DocumentID=1027",
+          "title": "Bergman to Serve on Budget, Armed Services, and Veterans' Affairs Committees in 118th Congress",
+          "published_at": "2023-01-24",
+          "checked_at": "2026-10-18",
+          "excerpt": "Bergman has served on the House Committee on Veterans' Affairs since 2017, the House Armed Services Committee since 2019",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://riponsociety.org/article/service-is-always-greater-than-self/",
+          "title": "“Service is Always Greater than Self.” | The Ripon Society",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "In 1969, I received my commission as 2nd Lieutenant in the United States Marine Corps",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:MI"
+      ],
+      "person": {
+        "name": {
+          "value": "杰克·贝格曼",
+          "source_ids": [
+            "s2",
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1947-02-02",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "明尼苏达州沙科皮",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1969",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职军职的开始年份确定：众议院官方履历记载美国海军陆战队服役期为1969—2009年；本人署名自述确认1969年获授海军陆战队少尉。来源：https://history.house.gov/People/Listing/B/BERGMAN,-John-(B001301)/；https://riponsociety.org/article/service-is-always-greater-than-self/。月份未查到，保留年份精度。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1969",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "西佛罗里达大学工商管理硕士学位",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2016-04",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：贝格曼的主要竞选委员会BERGMANFORCONGRESS（C00614214）在联邦选举委员会登记，2016-04-07；来源：https://www.fec.gov/data/committee/C00614214/。候选人及共和党身份对应来源：https://www.fec.gov/data/candidate/H6MI01226/。检索未找到第1级选民党籍登记、本人宣布加入或改投共和党的记录，以及第2级党组织职务就任记录。FEC候选人页仅显示现行参选声明，未读到更早首份F2受理记录。第4级2016-08-02共和党初选和第5级2017-01-03就任公职均低于本锚点，不采用；初选来源：https://electionarchive.mqtco.org/eng/candidates/view/399。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2016-04-07",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": {
+          "value": "美国海军陆战队中将",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（密歇根州第1选区）",
+          "role": "",
+          "start": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s1",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s8"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院军事委员会",
+          "role": "委员",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院预算委员会",
+          "role": "委员",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院退伍军人事务委员会",
+          "role": "委员",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1965",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "众议院官方履历和2018年《国会名录》均记载1969年取得古斯塔夫阿道夫学院文学学士；按美国本科四年学制倒推：1969－4＝1965。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1969",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1969",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "古斯塔夫阿道夫学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1969",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2009-12",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国海军陆战队",
+          "role": "军官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s8",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "军官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "discharge",
+          "start": {
+            "value": "2009-12",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国海军陆战队",
+          "role": "退出现役",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（密歇根州第1选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s8"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（密歇根州第1选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.birth_place",
+          "alternatives": [
+            {
+              "value": "明尼苏达州沙科皮",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "明尼苏达州萨维奇",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "明尼苏达州沙科皮",
+          "reason": "现行众议院官方人物页写Shakopee，2018年《国会名录》写Savage。按现行机构官方人物页优先规则选用沙科皮；一级来源之间的冲突提交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "族裔：检索议员官网、国会官方人物页及本人族裔自述，未找到本人自述或官方个人族裔统计，留null。",
+        "本科专业：已打开的众议院官方人物页和2018年《国会名录》只记载B.A.，未写专业；密歇根州官方手册PDF打开失败，未据搜索摘要填写。",
+        "入伍月份：众议院官方人物页及本人署名自述均只支持1969年，未找到可采用的月份。",
+        "硕士学习起始时间及就读方式：官方人物页确认1975年取得西佛罗里达大学MBA；未找到开始年份、学习年限或在职就读依据，未生成学习条目或括注。",
+        "军旅分段：已打开的官方人物页仅概括1969—2009年海军陆战队服役；国会听证PDF的详细履历未能读到可用正文，罗得岛州国民警卫队及现役、预备役转换日期未逐项取证，军旅条目暂按官方概括记录。",
+        "军职：NATO议会大会所载本人传记确认2005年出任海军陆战队预备役部队暨北方部队司令；未读到此前各职务完整交接日期，未另建军职分段。",
+        "商业履历：官方人物页和本人官网确认商业飞行员、小企业经营者经历，NATO议会大会传记记载商业航空飞行员经历22年；未找到可采用的单位与任职起止组合，未建立无日期条目。",
+        "2009年退役至2017年就任之间的完整主线：已查国会人物页、议员官网、NATO议会大会本人传记及FEC，未找到覆盖全段的有日期职业记录。",
+        "首份F2受理日期：已查FEC候选人页和参选声明筛选页，历史记录未显示；采用已打开委员会页明确列出的2016-04-07登记日期。",
+        "委员会开始月份：议员官网仅支持退伍军人事务委员会2017年、军事委员会2019年、重新加入预算委员会2023年，未补月份。"
+      ],
+      "excluded": [
+        "底稿『古斯塔夫阿道夫学院工商管理文学学士学位为最高学位』：官方记录另有西佛罗里达大学工商管理硕士，最高学位改为硕士；本科专业缺已打开原文支持。",
+        "底稿『1980—1982年在西佛罗里达大学取得工商管理硕士』：众议院官方人物页记载取得年份为1975年。",
+        "底稿『2009—2016年密歇根州企业顾问、共和党政治人士』：未找到该单位、职务和起止时间的支持记录。",
+        "底稿『2025年1月开始担任现职』：2025年为本届宣誓时间，首次担任该选区联邦众议员始于2017-01-03。",
+        "底稿『2009年6月参加工作』：官方履历及本人自述均支持1969年开始军旅经历，动作写入伍。",
+        "底稿『2016年8月加入美国共和党』：已找到更高优先级的2016-04-07竞选委员会登记锚点。",
+        "底稿只列军事委员会、退伍军人事务委员会：第119届书记官名单及议员官网另列预算委员会，已补入。",
+        "2018年《国会名录》所列自然资源委员会：属于历史委员会安排，第119届现任名单未列，不写为现任。",
+        "议员官网所列小组委员会和预算委员会监督工作组职务：按本批规则不单列为现任委员会条目。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（密歇根州第1选区），美国国会众议院；Bioguide B001301，FEC H6MI01226",
+      "review_items": [
+        "出生地一级来源冲突：现行众议院人物页Shakopee与2018年《国会名录》Savage，交AI政见确认。",
+        "军旅条目为官方概括记录，需继续取得可打开的分段服役原文。",
+        "核对是否存在早于2016-04-07的首份共和党参选登记记录。",
+        "补录表外机构译名：Gustavus Adolphus College、University of West Florida。"
+      ]
+    }
+  ]
+}

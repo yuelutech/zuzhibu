@@ -1,0 +1,593 @@
+{
+  "id": "john-coale",
+  "name_zh": "约翰·科尔",
+  "name_en": "John Coale",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Special Envoy to Belarus The White House Special Envoy to Belarus”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/john-coale.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "The White House",
+      "role_en": "Special Envoy to Belarus"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [
+    "2026-09-28-john-coale-nominate"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Special Envoy to Belarus The White House Special Envoy to Belarus”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/john-coale.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-john-coale",
+    "line": "cadre",
+    "subject_id": "john-coale",
+    "title": "约翰·科尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf",
+        "title": "2026 Annual Report to Congress on White House Staff",
+        "published_at": "2026-07-01",
+        "checked_at": "2026-10-18",
+        "excerpt": "COALE, JOHN P. ... DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY SPECIAL ENVOY TO UKRAINE",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://mfa.lt/en/news/928/budrys-and-coale-discussed-efforts-to-release-political-prisoners-in-belarus-and-the-security-situation-in-the-region:46430",
+        "title": "Budrys and Coale discussed efforts to release political prisoners in Belarus",
+        "published_at": "2026-09-15",
+        "checked_at": "2026-10-18",
+        "excerpt": "John Coale, the U.S. President’s Special Envoy to Belarus",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+        "title": "Nominations Sent to the Senate",
+        "published_at": "2026-09-28",
+        "checked_at": "2026-10-18",
+        "excerpt": "John Coale, of Maryland, to be Special Presidential Envoy for Hostage Affairs, with the rank and status of Ambassador.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.martindale.com/attorney/john-p-coale-354579/",
+        "title": "John P. Coale - Martindale-Hubbell",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "University of Maryland, B.A., 1969; University of Baltimore, J.D., 1972",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://prabook.com/web/john_p.coale/3020525",
+        "title": "John P. Coale - World Biographical Encyclopedia",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "born on December 21, 1946 in Baltimore, Maryland, United States",
+        "tier": 2
+      },
+      {
+        "id": "s6",
+        "url": "https://www.financialexpress.com/world-news/us-news/who-isnbspjohn-coale-trump-nominates-his-former-lawyer-as-belarus-special-envoy/4037542/",
+        "title": "Who is John Coale?",
+        "published_at": "2025-11-10",
+        "checked_at": "2026-10-18",
+        "excerpt": "Coale launched his career as a State’s Attorney in Baltimore in 1973.",
+        "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://www.washingtonpost.com/archive/lifestyle/1987/03/12/the-lawyer-and-the-thrill-of-disaster/eae3cfb5-a152-4cc4-9dda-0c710a50e0ed/",
+        "title": "The Lawyer and the Thrill of Disaster",
+        "published_at": "1987-03-11",
+        "checked_at": "2026-10-18",
+        "excerpt": "a squat man of 41",
+        "tier": 2
+      },
+      {
+        "id": "s8",
+        "url": "https://www.investing.com/news/world-news/trump-picks-john-coale-as-special-presidential-envoy-for-hostage-affairs-4930933",
+        "title": "Trump picks John Coale as special presidential envoy for hostage affairs",
+        "published_at": "2026-10-04",
+        "checked_at": "2026-10-18",
+        "excerpt": "lawyer and current Belarus envoy John Coale",
+        "tier": 2
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/John_Coale",
+        "title": "John Coale",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "In January 1973, Coale was assigned to the Juvenile Court in Maryland as an assistant state prosecutor.",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "约翰·科尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1946-12",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "马里兰州巴尔的摩",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1973-07",
+        "source_ids": [
+          "s6"
+        ],
+        "inferred": true,
+        "basis": "原始媒体确认1973年开始检察工作，具体月份未取得原始证据；按 cadre.md 3.3 取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1973",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "巴尔的摩大学法学专业",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法学博士",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国总统",
+        "role": "白俄罗斯事务特使",
+        "start": {
+          "value": "2025-11",
+          "source_ids": [
+            "s2",
+            "s6",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s6",
+          "s8"
+        ],
+        "roles": [
+          "白俄罗斯事务特使"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国总统",
+        "role": "副助理、乌克兰事务副特使",
+        "start": {
+          "value": "2025-03",
+          "source_ids": [
+            "s1",
+            "s6",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s6",
+          "s9"
+        ],
+        "roles": [
+          "副助理、乌克兰事务副特使"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国总统",
+        "role": "人质事务特使",
+        "start": {
+          "value": "2026-09-28",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "roles": [
+          "人质事务特使"
+        ],
+        "sector": "politics",
+        "appointment_state": "提名人选"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1965",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "1969年文学学士减本科标准4年；入学年月待原始学籍材料核验。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1969",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1969",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "马里兰大学",
+        "role": "本科学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "本科学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1969",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "1972年法学博士减美国法学院标准3年。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1972",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1972",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "巴尔的摩大学",
+        "role": "法学专业学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法学专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1973-07",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "原始媒体确认1973年开始检察工作，具体月份未取得原始证据；按 cadre.md 3.3 取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1973",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1973",
+          "source_ids": [
+            "s6",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国马里兰州巴尔的摩检察机关",
+        "role": "检察官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "检察官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-03",
+          "source_ids": [
+            "s1",
+            "s6",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国总统",
+        "role": "副助理、乌克兰事务副特使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s6",
+          "s9"
+        ],
+        "ongoing": true,
+        "roles": [
+          "副助理、乌克兰事务副特使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-11",
+          "source_ids": [
+            "s2",
+            "s6",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国总统",
+        "role": "白俄罗斯事务特使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s6",
+          "s8"
+        ],
+        "ongoing": true,
+        "roles": [
+          "白俄罗斯事务特使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-09-28",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国总统",
+        "role": "人质事务特使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "人质事务特使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "提名人选",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [
+      {
+        "field": "person.birth_date",
+        "alternatives": [
+          {
+            "value": "1946-12-21",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "1987-03-11时41岁",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "1946-12",
+        "reason": "用户选择采用Prabook所列具体出生年月，保留1987年报道年龄差异。"
+      }
+    ],
+    "unknowns": [
+      "律师事务所任职起止未查清；1984年为可核实执业案件年份，并非创办或入职年份。",
+      "马里兰体育场管理局和马里兰大学医疗系统旧理事任期未核实；本次不列现职。",
+      "未查到党籍登记和合格入党锚点。",
+      "白俄罗斯和乌克兰特使到任精确日未核实，列至月；人质事务仅记录提名。",
+      "1973年首职具体月份未取得原始报道，按规则取7月；百科的一月说法仅列线索。",
+      "已查事实：机构未查明；律师；起始时间1984；结束时间未查明。来源：s5。缺少时间或机构，暂不编入有日期的履历。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "John Coale；美国总统",
+    "review_items": []
+  }
+}

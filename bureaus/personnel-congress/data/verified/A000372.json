@@ -1,0 +1,424 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "cadre-a000372",
+      "line": "cadre",
+      "subject_id": "a000372",
+      "title": "里克·W·埃伦简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/A/ALLEN,-Rick-W--(A000372)/",
+          "title": "ALLEN, Rick W. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "born in Augusta, Richmond County, Ga., November 7, 1951",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/A000372",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Georgia (GA) – 12th, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://allen.house.gov/about/",
+          "title": "Biography | U.S. Representative Rick W. Allen",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Rick graduated from Auburn University’s School of Architecture and Fine Arts with a Bachelor of Science Degree in Building Construction.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.fec.gov/data/committee/C00504019/?cycle=2026&tab=about-committee",
+          "title": "RICK W. ALLEN FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Registration date: October 13, 2011",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.gpb.org/news/2012/06/25/rick-allen-emphasizes-business",
+          "title": "Rick Allen Emphasizes Business | Georgia Public Broadcasting",
+          "published_at": "2012-06-25",
+          "checked_at": "2026-10-17",
+          "excerpt": "EDUCATION: Graduated in 1973 from Auburn University's School of Architecture and Fine Arts with Bachelor of Science Degree in Building Construction",
+          "tier": null
+        },
+        {
+          "id": "s7",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2016-02-12/html/CDIR-2016-02-12-GA.htm",
+          "title": "Congressional Directory for the 114th Congress (2015-2016), February 2016. — Georgia",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "professional: founder and owner of R.W. Allen & Associates construction company, Augusta, GA and Athens, GA, founded in 1976",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://energycommerce.house.gov/representatives/allen",
+          "title": "House Committee on Energy and Commerce",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Rick is also a member of the House Education and Workforce Committee",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://sos.ga.gov/page/elections-faq",
+          "title": "Elections FAQ | Georgia Secretary of State",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Voters do not register with a political party because Georgia is an open primary state.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:GA"
+      ],
+      "person": {
+        "name": {
+          "value": "里克·W·埃伦",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1951-11-07",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "佐治亚州奥古斯塔",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s6",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "奥本大学建筑与美术学院建筑施工理学学士学位",
+          "source_ids": [
+            "s3",
+            "s6",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2011-10",
+          "source_ids": [
+            "s5",
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：其主要竞选委员会 RICK W. ALLEN FOR CONGRESS（C00504019）在联邦选举委员会登记，2011-10-13；来源：https://www.fec.gov/data/committee/C00504019/?cycle=2026&tab=about-committee 。该页列授权候选人为 ALLEN, RICHARD W，佐治亚州第12选区共和党候选人。第1级：佐治亚州选务机构说明本州选民不按党派登记，未找到本人其他州的党籍登记记录；来源：https://sos.ga.gov/page/elections-faq 。第2级：检索国会官方传记及州、地方共和党组织公开资料，未找到本人此前就任共和党党组织职务的依据。未采用2014年初选或2015年就任公职等较晚、较低级锚点；底稿2014年5月无来源。首次F2受理日未取得可打开的原始记录，采用已打开的委员会登记记录。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2011-10-13",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": null
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（佐治亚州第12选区）",
+          "role": "",
+          "start": {
+            "value": "2015-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院能源和商业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院教育和劳动力委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1969",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "本科毕业年份为1973年，按允许规则推算入学年份：1973－4＝1969；来源：https://history.house.gov/People/Listing/A/ALLEN,-Rick-W--(A000372)/ ；https://www.gpb.org/news/2012/06/25/rick-allen-emphasizes-business 。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1973",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1973",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "奥本大学建筑与美术学院",
+          "role": null,
+          "program": "建筑施工",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s3",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1976",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "R.W. Allen & Associates 公司",
+          "role": "创始人、所有者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7",
+            "s3",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始人",
+            "所有者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（佐治亚州第12选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（佐治亚州第12选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：查过众议院历史人物页、议员官方传记、国会名录、Georgia Public Broadcasting 报道，并检索毕业后项目经理经历，没有取得第一份全职工作开始日期的可引用原文，work_start 留空。",
+        "履历缺口：1973年本科毕业至1976年创办公司之间的任职单位、职务和起止日期没有找到可引用原文，不补写项目经理经历。",
+        "本科入学年份及学习形式：官方履历、国会名录和 Georgia Public Broadcasting 报道列1973年毕业，未列入学年份或全日制性质；入学年按毕业年减4推算，full_time 留空。",
+        "企业任职终止时间及总裁职务：查过议员官方传记、国会名录、公司官网，未取得其结束企业职务的日期及担任总裁的明确依据；企业履历 end 留空、ongoing=false。",
+        "委员会连续任职起始日期：查过众议院书记官现行名单、议员委员会页及能源和商业委员会人物页，现任两个委员会委员已确认，首次连续任职的生效日期未查明，current_roles.start 留空。",
+        "荣誉学位：查过议员官方传记、众议院历史人物页和国会名录，没有找到已获荣誉学位的依据。",
+        "入党锚点的首次F2受理日：查过FEC候选人页及参选声明入口，未取得早期首次F2原文；当前采用2011年10月竞选委员会登记锚点。"
+      ],
+      "excluded": [
+        "底稿『现职起始2025-01』：这是本届任期时间；官方历史人物页记其自2015年1月3日起任众议员，改用首次担任现选区职务的日期。",
+        "底稿『1973年起任R.W. Allen & Associates建筑公司创始人、总裁』：国会名录记公司创办于1976年，职务为创始人和所有者；未取得总裁职务依据。",
+        "底稿『2014年结束企业任职』：没有找到明确终止日期，不采用。",
+        "底稿『2014年－2015年里克·W·埃伦国会竞选委员会共和党联邦众议员候选人』：参选身份不作为全职工作履历，且该起止日期无依据。",
+        "底稿『现任美国众议院农业委员会委员』：书记官现行名单列教育和劳动力、能源和商业两个委员会；议员官网将农业委员会表述为此前八年的经历，不列为现职。",
+        "底稿『1973年6月参加工作』：没有找到第一份全职工作的开始日期，月份为旧规则推定，不采用。",
+        "底稿『2014年5月加入美国共和党』：无来源，且晚于已查得的2011年10月第3级登记锚点。",
+        "底稿『本科1969年入学』：未找到直接入学记录，改为明确标记的毕业年减4推算。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

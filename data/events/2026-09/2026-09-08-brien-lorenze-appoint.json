@@ -1,0 +1,111 @@
+{
+  "id": "2026-09-08-brien-lorenze-appoint",
+  "date": "2026-09-08",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "brien-lorenze",
+  "person": {
+    "name_zh": "布赖恩·洛伦泽",
+    "name_en": "Brien Lorenze",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-08",
+  "effective_at": "2026-09-08",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国消费品安全委员会",
+      "role": "委员",
+      "organization_en": "Consumer Product Safety Commission",
+      "role_en": "Commissioner",
+      "start": "2026-09-08",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "布赖恩·洛伦泽就任美国消费品安全委员会委员",
+  "summary": "消费品安全委员会9月8日公告确认，Brien Lorenze于2026-09-08宣誓就任委员。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.cpsc.gov/Newsroom/News-Releases/2026/US-Consumer-Product-Safety-Commission-Welcomes-Commissioners-Sessions-and-Lorenze-Restoring-Commission-Quorum",
+      "title": "U.S. Consumer Product Safety Commission Welcomes Commissioners Sessions and Lorenze, Restoring Commission Quorum",
+      "publisher": "U.S. Consumer Product Safety Commission",
+      "published_at": "2026-09-08",
+      "excerpt": "Commissioner Sessions was sworn in on August 19, 2026, and Commissioner Lorenze was sworn in on September 8, 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "m1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Brien Lorenze, of Virginia, to be a Commissioner of the Consumer Product Safety Commission for a term of seven years from October 27, 2024.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null,
+      "merged_from": "2026-09-08-brien-lorenze-confirm"
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ],
+    "merged": [
+      {
+        "id": "2026-09-08-brien-lorenze-confirm",
+        "kind": "confirm",
+        "headline": "参议院确认布赖恩·洛伦泽出任美国消费品安全委员会委员",
+        "announced_at": "2026-08-07",
+        "effective_at": "2026-09-08",
+        "verification": {
+          "method": "codex",
+          "by": "本机 Codex 核查会话（补采动态，一次一条）",
+          "run": "20261021-090516"
+        },
+        "sources": [
+          "m1",
+          "e1"
+        ],
+        "at": "2026-10-21",
+        "reason": "同一人、同一天、同一机构，类别不同的同一件事，合成一条"
+      }
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "到任：美国消费品安全委员会委员由提名改为正式职务，起始 2026-09"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "brien-lorenze",
+    "reason": "新任职务不在各局范围（主要职务“美国消费品安全委员会 委员”：不在各局范围），暂留原局"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "id": "troy-edgar",
+  "name_zh": "特洛伊·埃德加",
+  "name_en": "Troy Edgar",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Department of Homeland Security Deputy Secretary of the Department of Homeland Security U.S. Department of Homeland Security Deputy Secretary of the Department of Homeland Security”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/troy-edgar.json（sanju-neige，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Department of Homeland Security",
+      "role_en": "Deputy Secretary of the Department of Homeland Security"
+    }
+  ],
+  "notes": [
+    "补采任务 sanju-neige（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Department of Homeland Security Deputy Secretary of the Department of Homeland Security U.S. Department of Homeland Security Deputy Secretary of the Department of Homeland Security”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/troy-edgar.json（sanju-neige，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-troy-edgar",
+    "line": "cadre",
+    "subject_id": "troy-edgar",
+    "title": "特洛伊·埃德加简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.dhs.gov/person/troy-edgar",
+        "title": "Troy Edgar — Homeland Security",
+        "excerpt": "Troy Edgar is the 9th Deputy Secretary ... Bachelor of Science and a Master of Business Administration from the University of Southern California.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.hagerty.senate.gov/press-releases/2026/03/05/hagerty-introduces-troy-edgar-trumps-nominee-to-be-u-s-ambassador-to-el-salvador/",
+        "title": "Hagerty Introduces Troy Edgar, Trump’s Nominee to be U.S. Ambassador to El Salvador",
+        "excerpt": "Troy began his career in the Navy ... PricewaterhouseCoopers ... Boeing ... Chief Financial Officer",
+        "published_at": "2026-03-05",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.dhs.gov/news/2025/03/10/photo-release-troy-edgar-sworn-deputy-secretary-department-homeland-security",
+        "title": "Troy Edgar Sworn in as the Deputy Secretary of the Department of Homeland Security",
+        "excerpt": "March 8, 2025 ... ceremoniously sworn-in Troy Edgar as the Deputy Secretary",
+        "published_at": "2025-03-10",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-neige",
+      "research"
+    ],
+    "person": {
+      "name": {
+        "value": "特洛伊·埃德加",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "南加州大学工商管理专业",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "工商管理硕士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国国土安全部",
+        "role": "常务副部长",
+        "start": {
+          "value": "2025-03",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-03",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国土安全部",
+        "role": "常务副部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [
+      {
+        "text": "美国海军军人。起始日期未知。",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "text": "南加州大学；理学学士。起始日期未知。",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "text": "南加州大学；工商管理硕士。起始日期未知。",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "text": "波音公司军机后勤事业部首席财务官。起始日期未知。",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "text": "Global Conductor创始人。起始日期未知。",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "text": "美国加利福尼亚洛斯阿拉米托斯市长、市议员。起始日期未知。",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "text": "美国国土安全部首席财务官、管理副部长助理。起始日期未知。",
+        "source_ids": [
+          "s1",
+          "s3"
+        ]
+      }
+    ],
+    "company_tag": "美国政要",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月、国籍、入伍起始年月、毕业年份、各项早期任职起止年月以及党籍未知。",
+      "国土安全部记2025年3月8日为仪式性宣誓；首次法律到任日未明，登记到月。",
+      "2026年3月参议院介绍其为驻萨尔瓦多大使提名人选；没有据此改写其国土安全部现职。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Deputy Secretary of the Department of Homeland Security | U.S. Department of Homeland Security",
+    "review_items": [
+      "表外译名待审：特洛伊·埃德加",
+      "完整简历卡缺项：nationality、birth_date、work_start。保留seed级事实包。"
+    ]
+  }
+}

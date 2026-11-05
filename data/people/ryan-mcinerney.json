@@ -1,0 +1,805 @@
+{
+  "id": "ryan-mcinerney",
+  "name_zh": "麦凯恩",
+  "name_en": "Ryan McInerney",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "ryan-mcinerney.jpg",
+    "source": "维护者提供（麦凯恩_Ryan-McInerney_维萨_原图.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Visa Inc.",
+      "role_en": "Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-ryan-mcinerney",
+    "line": "cadre",
+    "subject_id": "ryan-mcinerney",
+    "title": "麦凯恩简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://investor.visa.com/corporate-governance/board-of-directors/person-details/default.aspx",
+        "title": "Visa Investor Relations – Board of Directors – Person Details: Ryan McInerney, Chief Executive Officer",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Ryan McInerney has been with Visa since June of 2013 and serves as Chief Executive Officer. Prior to assuming the role of CEO in February 2023, he was President, responsible for Visa’s global businesses.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://investor.visa.com/corporate-governance/board-of-directors/person-details/default.aspx",
+        "title": "Visa Investor Relations – Board of Directors – Person Details: Ryan McInerney, Chief Executive Officer",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Previously, Mr. McInerney was a principal at McKinsey & Company in the firm’s retail banking and payments practices. Mr. McInerney received a Bachelor of Science in finance from the University of Notre Dame.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), director nominee Ryan McInerney",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chief Executive Officer, Visa Inc. (since February 2023)",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), director nominee Ryan McInerney",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "President (from May 2013 to January 2023)",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), director nominee Ryan McInerney",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chief Executive Officer of Consumer Banking (from 2010 to 2013)",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), director nominee Ryan McInerney",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chief Operating Officer for Home Lending (from 2009 to 2010)",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), director nominee Ryan McInerney",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chief Risk Officer for Consumer Businesses (from 2008 to 2009)",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), director nominee Ryan McInerney",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Head of Product and Marketing for Consumer Banking (from 2005 to 2008)",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), director nominee Ryan McInerney",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Principal in the firm’s retail banking and payments practices (from 1997 to 2005)",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), director nominee Ryan McInerney",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Bachelor’s degree in Finance from the University of Notre Dame",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), proxy voting roadmap",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Ryan McInerney, 50",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817924000807/v4356611_def14.htm",
+        "title": "Visa Inc. 2025 Proxy Statement (DEF 14A), proxy voting roadmap",
+        "published_at": "2024-12-09",
+        "checked_at": "2026-10-21",
+        "excerpt": "Ryan McInerney, 49",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000089882222000008/visa8k1117.htm",
+        "title": "Visa Inc. Form 8-K (Item 5.02), November 17, 2022",
+        "published_at": "2022-11-17",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. McInerney, 47, has served as President of the Company since 2013. Prior to joining the Company, Mr. McInerney served as Chief Executive Officer of Consumer Banking for JPMorgan Chase, a global financial services firm, from June 2010 to May 2013, and prior to that time as Chief Operating Officer for Home Lending and Chief Risk Officer for JPMorgan Chase’s consumer businesses.",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000089882222000008/visa8k1117.htm",
+        "title": "Visa Inc. Form 8-K (Item 5.02), November 17, 2022",
+        "published_at": "2022-11-17",
+        "checked_at": "2026-10-21",
+        "excerpt": "On November 17, 2022, Visa Inc. (the “Company”) announced that the Company’s Board of Directors had unanimously elected Ryan McInerney to succeed Alfred F. Kelly, Jr. as the Company’s Chief Executive Officer, effective February 1, 2023.",
+        "tier": 1
+      },
+      {
+        "id": "s15",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316123000017/v-20230130.htm",
+        "title": "Visa Inc. Form 8-K (Item 5.02), February 1, 2023",
+        "published_at": "2023-02-01",
+        "checked_at": "2026-10-21",
+        "excerpt": "On January 30, 2023, the board of directors (the \"Board\") of Visa Inc. (the \"Company\"), upon the recommendation of the Board's Nominating and Corporate Governance Committee, approved an increase in the size of the Board from 10 to 11 members and the appointment of Ryan McInerney to the Board, effective February 1, 2023, for a term that will expire at the Company's 2024 Annual Meeting of Stockholders.",
+        "tier": 1
+      },
+      {
+        "id": "s16",
+        "url": "https://ndworks.nd.edu/news/notre-dame-elects-new-trustees-university-fellow/",
+        "title": "Notre Dame elects new Trustees, University Fellow (NDWorks, University of Notre Dame)",
+        "published_at": "2024-06-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "McInerney earned an undergraduate degree in finance from Notre Dame in 1997.",
+        "tier": 1
+      },
+      {
+        "id": "s17",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000119312513232521/d543134dex991.htm",
+        "title": "Visa Inc. Names Ryan McInerney President (Form 8-K Exhibit 99.1)",
+        "published_at": "2013-05-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "Visa Inc. (NYSE: V) today announced the appointment of Ryan McInerney as President of Visa Inc.",
+        "tier": 1
+      },
+      {
+        "id": "s18",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000103/q32026earningsrelease.htm",
+        "title": "Visa Reports Fiscal Third Quarter 2026 Results (Form 8-K Exhibit 99.1)",
+        "published_at": "2026-07-28",
+        "checked_at": "2026-10-21",
+        "excerpt": "Ryan McInerney, Chief Executive Officer, Visa, commented on the results:",
+        "tier": 1
+      },
+      {
+        "id": "s19",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), Proposal 1 – Election of Directors",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "At the recommendation of the Nominating and Corporate Governance Committee, the Board has nominated the following eleven persons to serve as directors for the term beginning at the Annual Meeting on January 27, 2026: Lloyd A. Carney, Kermit R. Crawford, Francisco Javier Fernández-Carbajal, Teri L. List, John F. Lundgren, Ryan McInerney, Denise M. Morrison, Pamela Murphy, William Ready, Linda J. Rendle, and Maynard G. Webb, Jr.",
+        "tier": 1
+      },
+      {
+        "id": "s20",
+        "url": "https://ndworks.nd.edu/news/notre-dame-elects-new-trustees-university-fellow/",
+        "title": "Notre Dame elects new Trustees, University Fellow (NDWorks, University of Notre Dame)",
+        "published_at": "2024-06-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "Two new Trustees — Cathy Molnar and Ryan McInerney — have been elected to serve on the University of Notre Dame’s Board of Trustees, and Trustee Stephanie Gallo has been elected to the University’s Board of Fellows, effective July 1.",
+        "tier": 1
+      },
+      {
+        "id": "s21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm",
+        "title": "Visa Inc. 2026 Proxy Statement (DEF 14A), Board leadership structure",
+        "published_at": "2025-12-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Lundgren was unanimously elected as independent Board Chair by the Board.",
+        "tier": 1
+      },
+      {
+        "id": "s22",
+        "url": "http://jjckb.xinhuanet.com/20261013/08bc4dd43ef546d689b1d967fa2d9cc1/c.html",
+        "title": "银行卡清算市场开放重大进展！Visa中国获批筹备银行卡清算机构（经济参考网，新华社《经济参考报》）",
+        "published_at": "2026-10-13",
+        "checked_at": "2026-10-22",
+        "excerpt": "Visa首席执行官麦凯恩（Ryan McInerney）表示，将在中国人民银行的指导下，积极开展筹备工作，以争取早日在国内展业。",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": "公司官网称 Mr. McInerney",
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1975-05",
+        "source_ids": [
+          "s11",
+          "s12",
+          "s13"
+        ],
+        "inferred": true,
+        "basis": "按年龄陈述推：2025-12-08 文件称 50 岁；2024-12-09 文件称 49 岁；2022-11-17 文件称 47 岁；出生在 1974-12-10 至 1975-11-17 之间，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2025-12-08",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1997-07",
+        "source_ids": [
+          "s9",
+          "s16"
+        ],
+        "inferred": true,
+        "basis": "第一份全职工作：1997年圣母大学毕业后进入麦肯锡公司（委托书列1997—2005年在麦肯锡）；月份未检得；参加工作月份无记载，取 7 月（cadre.md 第 3 节第 3 条）",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1997",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "大学本科",
+        "source_ids": [
+          "s2",
+          "s10",
+          "s16"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "圣母大学金融专业理学学士学位",
+        "source_ids": [
+          "s2",
+          "s10",
+          "s16"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "麦凯恩",
+        "source_ids": [
+          "s22"
+        ],
+        "basis": "本人在华通用中文名",
+        "inferred": false,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "维萨公司",
+        "role": "首席执行官、董事",
+        "start": {
+          "value": "2023-02",
+          "source_ids": [
+            "s3",
+            "s1",
+            "s14",
+            "s18",
+            "s21"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s1",
+          "s14",
+          "s18",
+          "s21",
+          "s15",
+          "s19"
+        ],
+        "roles": [
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s2",
+            "s10",
+            "s16"
+          ],
+          "inferred": true,
+          "basis": "毕业年 1997 减标准学制 4 年（写法第 6 节）",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1997",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s2",
+            "s10",
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "圣母大学",
+        "role": null,
+        "program": "金融",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s2",
+            "s10",
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s10",
+          "s16"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997-07",
+          "source_ids": [
+            "s9",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "与首段参加工作一致（参加工作月份无记载，取 7 月）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1997",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2005",
+          "source_ids": [
+            "s9",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "麦肯锡公司",
+        "role": "零售银行和支付业务合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "零售银行和支付业务合伙人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "摩根大通公司",
+        "role": "消费者银行业务产品和营销主管",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "消费者银行业务产品和营销主管"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s7",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s7",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "摩根大通公司",
+        "role": "消费者业务首席风险官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7",
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "消费者业务首席风险官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s6",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010-06",
+          "source_ids": [
+            "s6",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "摩根大通公司",
+        "role": "住房贷款业务首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "住房贷款业务首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010-06",
+          "source_ids": [
+            "s13",
+            "s5",
+            "s17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013-05",
+          "source_ids": [
+            "s13",
+            "s5",
+            "s17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "摩根大通公司",
+        "role": "消费者银行业务首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13",
+          "s5",
+          "s17"
+        ],
+        "ongoing": false,
+        "roles": [
+          "消费者银行业务首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-05",
+          "source_ids": [
+            "s4",
+            "s17",
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2023-01",
+          "source_ids": [
+            "s4",
+            "s17",
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "维萨公司",
+        "role": "总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s17",
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-02",
+          "source_ids": [
+            "s3",
+            "s14",
+            "s15",
+            "s1",
+            "s18",
+            "s19"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "维萨公司",
+        "role": "首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s14",
+          "s15",
+          "s1",
+          "s18",
+          "s19"
+        ],
+        "ongoing": true,
+        "roles": [
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2024-07",
+              "source_ids": [
+                "s20"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "圣母大学",
+            "role": "董事会董事",
+            "roles": [
+              "董事会董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s20"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "维萨公司",
+    "conflicts": [
+      {
+        "field": "careers[维萨公司总裁].start",
+        "alternatives": [
+          {
+            "value": "2013-05",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2013-06",
+            "source_ids": [
+              "s17"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2013-05",
+        "reason": "委托书写 President (from May 2013 ...)，公司2013年5月23日新闻稿宣布任命；投资者关系页写 with Visa since June of 2013。草稿按委托书取2013-05，实际到任可能为6月"
+      }
+    ],
+    "unknowns": [
+      "出生年月：未检得一级或二级来源，只有年龄陈述（2022-11-17为47岁，2024-12-09为49岁，2025-12-08为50岁）",
+      "出生地：未检得一级或二级来源",
+      "国籍：未检得出生地或官方国籍表述",
+      "大学入学年份：未检得",
+      "参加工作月份：未检得",
+      "麦肯锡任职细节：委托书把1997—2005年概括为 Principal（零售银行和支付业务），入职时职级及升任合伙人时间未检得",
+      "摩根大通各职务起始月份（2005、2008、2009年）：未检得"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Ryan McInerney；维萨公司；首席执行官、董事",
+    "review_items": []
+  }
+}

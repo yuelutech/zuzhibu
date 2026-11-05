@@ -1,0 +1,871 @@
+{
+  "id": "dan-sullivan",
+  "name_zh": "丹·沙利文",
+  "name_en": "Dan Sullivan",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "S001198"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "dan-sullivan.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Senator_Dan_Sullivan_official.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Senate；https://www.congress.gov/member/dan-sullivan/S001198），File:Senator Dan Sullivan official.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Senator_Dan_Sullivan_official.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-s001198",
+    "line": "cadre",
+    "subject_id": "s001198",
+    "title": "丹·沙利文简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office January 3, 2015 (114th convened Jan 6)",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Daniel Scott Sullivan (born November 13, 1964) ... Fairview Park, Ohio",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Daniel Scott Sullivan (born November 13, 1964) ... Fairview Park, Ohio",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "in Fairview Park, Ohio",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://www.sullivan.senate.gov/about/committee-assignments",
+        "title": "www.sullivan.senate.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Armed Services (Readiness & Management Support Subcommittee, Chairman); Commerce (Coast Guard, Maritime, and Fisheries Subcommittee, Chairman); EPW; Veterans' Affairs; deputy whip",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Harvard University: BA in Economics, 1987, graduated magna cum laude",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Georgetown: JD and MS in Foreign Service, completed 1993",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "active duty 1993–1997",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "law clerk Judge Kleinfeld (9th Cir, 1997–1998); Chief Justice Matthews (Alaska Supreme Court, 1998–1999)",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Perkins Coie (2000–2002): commercial and corporate law in Anchorage",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "White House Fellow at National Security Council; headed International Economics Directorate",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assistant Secretary of State for Economic, Energy, and Business Affairs",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Alaska Attorney General (2009–2010): Sworn June 2009",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Alaska DNR Commissioner (2010–2013): Appointed November 18, 2010",
+        "tier": 3
+      },
+      {
+        "id": "s16",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2015-01-06~2027-01-03 AK Republican",
+        "tier": 1
+      },
+      {
+        "id": "s17",
+        "url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+        "title": "维基百科：Dan_Sullivan_(U.S._senator)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Marine Corps officer commissioned in 1993",
+        "tier": 3
+      },
+      {
+        "id": "s18",
+        "url": "https://www.fec.gov/data/candidates/?q=Dan+Sullivan",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "FEC candidate S4AK00214 (2014 AK Senate)",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:AK"
+    ],
+    "person": {
+      "name": {
+        "value": "丹·沙利文",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1964-11-13",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "俄亥俄州费尔维尤帕克",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1993",
+        "source_ids": [
+          "s17"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：入美国海军陆战队任现役军官；底稿备注：完成乔治城学业后受命任海军陆战队现役军官；月份按毕业衔接(6月)推定",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1993",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "乔治城大学法律中心法学博士学位",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2013",
+        "source_ids": [
+          "s18"
+        ],
+        "inferred": true,
+        "basis": "第3级锚点：首次以共和党身份参选联邦参议员：2013年启动丹·沙利文参议员竞选委员会（FEC ID S4AK00214）；来源：https://www.fec.gov/data/candidates/?q=Dan+Sullivan；底稿备注：此前任布什政府助理国务卿、佩林/帕内尔(共和党)州长任命的阿拉斯加州总检察长与自然资源部长；取最早以共和党参选节点（2013年宣布参议员竞选），月份按竞选启动",
+        "inference": {
+          "rule": "party_anchor_candidacy_filing",
+          "from_date": "2013",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（阿拉斯加州）",
+        "role": "",
+        "start": {
+          "value": "2015-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院共和党会议副党鞭",
+        "role": "",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院军事委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院军事委员会战备与管理支援小组委员会",
+        "role": "主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院商业、科学与运输委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院商业、科学与运输委员会海岸警卫队、海事与渔业小组委员会",
+        "role": "主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院环境与公共工程委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院退伍军人事务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1983",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1987倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1987",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1987",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哈佛大学",
+        "role": null,
+        "program": "经济学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1989",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：联合学位约4年自1993倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1993",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "乔治城大学法律中心、埃德蒙·沃尔什外交学院",
+        "role": null,
+        "program": "法律、外交服务",
+        "degree_awarded": {
+          "value": "法学博士、外交服务理学硕士（MSFS）",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国海军陆战队",
+        "role": "现役军官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "现役军官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1999",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦第九巡回上诉法院、阿拉斯加州最高法院",
+        "role": "法官办公室法律助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法官办公室法律助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2000",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "珀金斯科伊律师事务所安克雷奇办公室",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2004",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国白宫国家安全委员会、国家经济委员会",
+        "role": "白宫研究员、国际经济局主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "白宫研究员",
+          "国际经济局主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国国务院",
+        "role": "经济、能源与商业事务助理国务卿",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "经济",
+          "能源与商业事务助理国务卿"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "阿拉斯加州",
+        "role": "总检察长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总检察长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010",
+          "source_ids": [
+            "s15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "阿拉斯加州自然资源部",
+        "role": "部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s15"
+        ],
+        "ongoing": false,
+        "roles": [
+          "部长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-01",
+          "source_ids": [
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（阿拉斯加州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s16"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（阿拉斯加州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：1987-1989年间活动（哈佛毕业至乔治城入学之间）",
+      "底稿缺项：各文职职务精确起止月份",
+      "底稿缺项：eFD 2021年后周期交易与最新年度申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1993年6月」：底稿推定（完成乔治城学业后受命任海军陆战队现役军官；月份按毕业衔接(6月)推定），不采用，只写到年",
+      "军旅记录（military）未单独转换，服役经历以履历条目为准",
+      "股票交易公开披露（disclosure.filings）不进事实包",
+      "入党月份「2013年10月」：底稿推定（此前任布什政府助理国务卿、佩林/帕内尔(共和党)州长任命的阿拉斯加州总检察长与自然资源部长；取最早以共和党参选节点（2013年宣布参议员竞选），月份按竞选启动），不采用，只写到年"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

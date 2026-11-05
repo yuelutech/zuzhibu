@@ -1,0 +1,59 @@
+{
+  "genre": "speech",
+  "title": "在年度大会上的讲话",
+  "subtitle": "",
+  "date_line": "（2026年10月16日）",
+  "speaker_line": "丹娜·雷耶斯",
+  "salutation": "同志们、朋友们：",
+  "opening": [
+    "今天，我们在这里召开年度大会，主要任务是总结去年工作，部署今年任务。刚才，约纳斯·奎尔同志作了介绍，我完全赞同。",
+    "下面，我讲三点意见。"
+  ],
+  "sections": [
+    {
+      "heading": "一、去年的成绩来之不易",
+      "paragraphs": [
+        "去年，我们提出交付1万台海港平台的目标，实际交付1.2万台，超额完成任务。这不是偶然的，是全体同志真抓实干的结果。",
+        "美国示例动力公司（Example Dynamics）同美国海港研究院（HRI）合作研发下一代产品，海港研究院的团队协同发力，作出了重要贡献。"
+      ]
+    },
+    {
+      "heading": "二、今年要把安全放在首位",
+      "paragraphs": [
+        "今年，要把培训投入提高到去年的3倍，约3亿美元，切实把安全放在首位。",
+        "各团队要把安全作为想问题、作决策、抓落实的第一件事，而不是最后一件事。要统筹推进、久久为功。"
+      ]
+    },
+    {
+      "heading": "三、加快新基地建设",
+      "paragraphs": [
+        "要在2027年前建成两个新基地，确保按期投用。",
+        "具体安排由示例动力总裁雷耶斯同志在午餐后介绍。各部门要主动对接、协同配合。"
+      ]
+    }
+  ],
+  "closing": [
+    "同志们！新的一年任务艰巨、责任重大。让我们坚定信心、真抓实干，为建设一流企业而努力奋斗！"
+  ],
+  "thanks": "谢谢大家！",
+  "glossary_used": [
+    {"english": "Example Dynamics", "zh": "美国示例动力公司（Example Dynamics）"},
+    {"english": "Harbor Research Institute (HRI)", "zh": "美国海港研究院（HRI）"},
+    {"english": "Dana Reyes", "zh": "丹娜·雷耶斯"},
+    {"english": "Jonas Quill", "zh": "约纳斯·奎尔"}
+  ],
+  "glossary_misses": [
+    {"english": "Harbor platform", "zh": "海港平台", "reason": "表外产品名，按通行译法自译，待核"}
+  ],
+  "numbers": [
+    {"zh": "1万台", "source": "ten thousand units"},
+    {"zh": "1.2万台", "source": "twelve thousand"},
+    {"zh": "3倍", "source": "triple"},
+    {"zh": "约3亿美元", "source": "about three hundred million dollars"},
+    {"zh": "两个新基地", "source": "two new sites"},
+    {"zh": "2027年", "source": "by 2027"}
+  ],
+  "quotes": [],
+  "dropped": ["开场寒暄（Wow, what a crowd）", "结尾“I think this is going to be a great year”压缩进结尾段"],
+  "review_notes": "原文只称呼 Jonas，按译名表推定为约纳斯·奎尔，请核。Harbor platform 为表外产品名。"
+}

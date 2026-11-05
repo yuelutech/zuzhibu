@@ -1,0 +1,762 @@
+{
+  "id": "shelley-moore-capito",
+  "name_zh": "雪莱·摩尔·卡皮托",
+  "name_en": "Shelley Moore Capito",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "reverified",
+  "ids": {
+    "bioguide": "C001047"
+  },
+  "data_cutoff": "2026-10-19",
+  "roles_checked_at": "2026-10-19",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入，reverify.py 重核通过",
+  "portrait": {
+    "file": "shelley-moore-capito.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shelley_Moore_Capito,_official_photo_portrait,_color.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Congress；http://capito.house.gov/press_office/presskit/highres.jpg），File:Shelley Moore Capito, official photo portrait, color.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Shelley_Moore_Capito%2C_official_photo_portrait%2C_color.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-c001047",
+    "line": "cadre",
+    "subject_id": "c001047",
+    "title": "雪莱·摩尔·卡皮托简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://history.house.gov/People/Listing/C/CAPITO,-Shelley-Moore-(C001047)/",
+        "title": "CAPITO, Shelley Moore | US House of Representatives: History, Art & Archives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "November 26, 1953; B.S., Duke University, Durham, N.C., 1975; M.Ed., University of Virginia, Charlottesville, Va., 1976",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.capito.senate.gov/about/about-shelley",
+        "title": "About Shelley | Senator Shelley Capito",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Shelley first dedicated her professional life to serving students, working as a college counselor and advisor at West Virginia State College (now University).",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+        "title": "The Constitution of the United States: A Transcription | National Archives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "and been nine Years a Citizen of the United States",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://archive.news.virginia.edu/content/wvas-first-female-us-senator-says-listening-key-success/",
+        "title": "W.Va.’s First Female U.S. Senator Says Listening is the Key to Success | UVA Today Archives",
+        "published_at": "2017-11-13",
+        "checked_at": "2026-10-19",
+        "excerpt": "She earned a master’s degree in counseling from the Curry School of Education in 1976.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://tmcf.org/wp-content/uploads/TMCF_Member_Profiles_103023_vfinal.pdf",
+        "title": "West Virginia State University Profiles — Thurgood Marshall College Fund",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Career Counselor, West Virginia State College, 1976-1978",
+        "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://www.senate.gov/states/WV/timeline.htm",
+        "title": "U.S. Senate: States in the Senate | West Virginia Timeline",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "2015 January 3 Shelley Moore Capito of Charleston became West Virginia's first woman senator.",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.senate.gov/senators/leadership.htm",
+        "title": "U.S. Senate: Leadership & Officers",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Republican Policy Committee Chair Capito, Shelley Moore (R-WV)",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.appropriations.senate.gov/about/members",
+        "title": "Committee Members | About the Committee | United States Senate Committee on Appropriations",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Senator Shelley Moore Capito (Republican - West Virginia)",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.commerce.senate.gov/about/members/",
+        "title": "Members - U.S. Senate Committee on Commerce, Science, & Transportation",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "(R-WV) Shelley Moore Capito",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.rules.senate.gov/about/committee-membership",
+        "title": "Committee Membership | U.S. Senate Committee on Rules and Administration",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Shelley Moore Capito West Virginia",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.epw.senate.gov/public/index.cfm/members",
+        "title": "Members - U.S. Senate Committee on Environment and Public Works",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Shelley Moore Capito (Chairman)",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://shelleymoorecapito.com/",
+        "title": "Shelley Moore Capito for U.S. Senate",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "in 1996 when Kanawha County voters elected her as one of only two Republicans",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://www.fec.gov/data/committee/C00347849/",
+        "title": "SHELLEY MOORE CAPITO FOR CONGRESS - committee overview | FEC",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "SHELLEY MOORE CAPITO FOR CONGRESS Terminated House - Principal campaign committee ID: C00347849 Registration date: August 11, 1999",
+        "tier": 1
+      },
+      {
+        "id": "s15",
+        "url": "https://today.duke.edu/2014/07/capitocongressionalbreakfast",
+        "title": "Following the Unexpected Path | Duke Today",
+        "published_at": "2014-07-01",
+        "checked_at": "2026-10-19",
+        "excerpt": "Shelley Moore Capito '75 hardly took the conventional path to the U.S. Congress. A zoology major at Duke",
+        "tier": 1
+      },
+      {
+        "id": "s16",
+        "url": "https://abcnews.com/Politics/shelley-moore-capito/story?id=40278708",
+        "title": "Shelley Moore Capito: Everything You Need to Know - ABC News",
+        "published_at": "2016-07-19",
+        "checked_at": "2026-10-19",
+        "excerpt": "Date of Birth: November 26, 1953",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "reverified",
+      "senate",
+      "state:WV"
+    ],
+    "person": {
+      "name": {
+        "value": "雪莱·摩尔·卡皮托",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s2",
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1953-11-26",
+        "source_ids": [
+          "s1",
+          "s2",
+          "s16"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "西弗吉尼亚州格伦代尔",
+        "source_ids": [
+          "s1",
+          "s16"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1976",
+        "source_ids": [
+          "s2",
+          "s6"
+        ],
+        "inferred": true,
+        "basis": "议员官方传记将西弗吉尼亚州立学院职业顾问列为职业生涯起点；Thurgood Marshall College Fund 人物资料明确该职任期为1976—1978年，据首份全职工作开始年份取1976年。来源：https://www.capito.senate.gov/about/about-shelley；https://tmcf.org/wp-content/uploads/TMCF_Member_Profiles_103023_vfinal.pdf。未推算月份。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1976",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "弗吉尼亚大学库里教育学院咨询学教育学硕士学位",
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1",
+          "s8",
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "1996",
+        "source_ids": [
+          "s13",
+          "s14"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：1996年以共和党身份参加西弗吉尼亚州众议院选举并当选，竞选官网明确记载当年当选的共和党人身份；日期：1996；来源：https://shelleymoorecapito.com/。检索未取得更早的本人选民登记、公开宣布入党、党组织任职或州参选登记原件。FEC 联邦众议员竞选委员会于1999-08-11登记，来源：https://www.fec.gov/data/committee/C00347849/；该记录晚于1996年有效锚点，按禁止晚于更早有效锚点的规则排除。底稿1996年5月没有已打开的本人初选记录支持，不采用月份。",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "1996",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（西弗吉尼亚州）",
+        "role": "",
+        "start": {
+          "value": "2015-01-03",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s7"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院共和党政策委员会",
+        "role": "主席",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s7",
+          "s8"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院环境和公共工程委员会",
+        "role": "主席",
+        "start": {
+          "value": "2025-01-07",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s7",
+          "s12"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院拨款委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s9"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院商务、科学和交通委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s10"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院规则和行政委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s11"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1971",
+          "source_ids": [
+            "s1",
+            "s15"
+          ],
+          "inferred": true,
+          "basis": "国会官方传记记载1975年取得杜克大学理学学士学位；按美国本科四年学制，1975－4＝1971。来源：https://history.house.gov/People/Listing/C/CAPITO,-Shelley-Moore-(C001047)/。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1975",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1975",
+          "source_ids": [
+            "s1",
+            "s15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "杜克大学",
+        "role": null,
+        "program": "动物学",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s15"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1976",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1978",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "西弗吉尼亚州立学院",
+        "role": "职业顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "职业顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s1",
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "s1",
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "西弗吉尼亚州众议院",
+        "role": "众议员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s16"
+        ],
+        "ongoing": false,
+        "roles": [
+          "众议员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（西弗吉尼亚州第2选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s16"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联邦众议员（西弗吉尼亚州第2选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-01-03",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（西弗吉尼亚州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s7"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（西弗吉尼亚州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2023",
+              "source_ids": [
+                "s1",
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2025",
+              "source_ids": [
+                "s1",
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "参议院共和党会议",
+            "role": "副主席",
+            "roles": [
+              "副主席"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s1",
+              "s7"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [
+                "s1",
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "参议院共和党政策委员会",
+            "role": "主席",
+            "roles": [
+              "主席"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s1",
+              "s7",
+              "s8"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025-01-07",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "参议院环境和公共工程委员会",
+            "role": "主席",
+            "roles": [
+              "主席"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s7",
+              "s12"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "硕士学习起始时间：查阅弗吉尼亚大学官方报道、国会官方传记和 CQ Roll Call，确认1976年取得硕士学位，未找到入学年份或明确学制；不沿用底稿1975年入学，未生成缺少起始依据的硕士学习条目。",
+      "教育信息中心主任任职起止：议员官方传记确认曾任西弗吉尼亚州高等教育董事会教育信息中心主任，未给日期；检索所见1978—1980、1978—1981未取得符合来源等级要求的一致依据，未生成该任职条目。",
+      "1978年至1997年履历缺口：查阅议员官方传记、国会人物页和 CQ Roll Call，未取得可完整串联这一时期的任职起止记录。",
+      "参加工作月份：已打开来源仅给1976年，未补月份。西弗吉尼亚州立大学2014年12月4日毕业典礼网页的搜索摘要也出现1976—1978，但原文多次打开失败，未列入 sources；工作日期目前采用已打开的 Thurgood Marshall College Fund 资料。",
+      "最早党籍记录：检索本人选民登记、公开入党声明、州党组织任职、州选务登记及1996年选举材料，未取得更早的合格记录；州议会1996年蓝皮书打开失败。1996年共和党参选身份采用本人竞选官网，只保留年份。",
+      "委员会委员起始日期：查阅拨款、商务科学交通、规则行政委员会现行成员页及议员官网，确认现任委员，未确定各职首次生效日期，current_roles.start 留空。",
+      "共和党政策委员会主席起始月份：国会官方传记和参议院时间线只明确2025年，未补月份。",
+      "环境和公共工程委员会资深成员历史任期：已打开2021年2月3日委员会报道称其为 incoming Ranking Member，未据此确定完整任期边界，未沿用底稿2021—2025括注。",
+      "族裔：本次未取得本人自述或符合要求的官方族裔统计原文，留空。",
+      "学习及早期工作是否全日制：已打开来源未明确标注，full_time 留空。"
+    ],
+    "excluded": [
+      "底稿『参议员现职起始2021-01』：为后续任期起点；参议院官方时间线明确首次任职日期为2015-01-03。",
+      "底稿『杜克大学动物学文学学士』：国会官方传记及 CQ Roll Call 均记为 B.S.，改为理学学士。",
+      "底稿『1975—1976年弗吉尼亚大学教育学院学习』：仅毕业年份和学位得到证实，入学年份不采用。",
+      "底稿『1976—1996年西弗吉尼亚州立大学职业顾问、西弗吉尼亚州高等教育董事会教育信息中心主任』：合并了两个单位且任期缺证；仅采用有日期来源的1976—1978年西弗吉尼亚州立学院职业顾问。",
+      "底稿『1996年5月加入美国共和党』：未取得本人1996年初选记录或更高等级锚点，不保留月份。",
+      "底稿『1976年6月参加工作』：没有月份来源，不采用6月。",
+      "底稿『1996—1997、2000—2001、2014—2015年候选人』：竞选、当选和就职阶段边界未逐项取得证据，不保留这些合并阶段条目。",
+      "底稿『参议院共和党政策委员会主席，sector=committee』：属于党内领导职务，改为 politics。",
+      "检索所得 Prabook 人物页：可编辑聚合人物资料，不作为早期任职日期和州议员任期的采用依据。",
+      "杜克大学2014年报道『elected in 2001』：其众议员当选年份与国会官方记载的2000年不一致；该报道仅用于本科专业与校友年份，不用于当选或任职日期。",
+      "FEC 竞选委员会登记1999-08-11：晚于已确认的1996年共和党参选锚点，不用作入党时间。"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "美国联邦参议员（西弗吉尼亚州），美国国会参议院；Bioguide C001047",
+    "review_items": [
+      "中文姓名按用户指定译名保留；库里教育学院、咨询学及委员会中文名称交译名表复核。",
+      "下一会话逐字段重新打开来源；本事实包为研究候选稿。",
+      "补查硕士入学年份、教育信息中心主任任职起止及1996年州参选原始登记。"
+    ]
+  }
+}

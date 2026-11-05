@@ -1,0 +1,91 @@
+{
+  "schema": "zuzhibu-data/1",
+  "baseline": "2026年10月版",
+  "updated_at": "2026-10-21",
+  "bureaus": {
+    "congress": {
+      "people": 538,
+      "cutoff_min": "2026-06-12",
+      "cutoff_max": "2026-10-19",
+      "tiers": {
+        "draft": 452,
+        "gold": 57,
+        "seed": 3,
+        "reverified": 26
+      }
+    },
+    "whitehouse": {
+      "people": 151,
+      "cutoff_min": "2026-06-13",
+      "cutoff_max": "2026-10-21",
+      "tiers": {
+        "draft": 81,
+        "seed": 68,
+        "reverified": 1,
+        "gold": 1
+      }
+    },
+    "military": {
+      "people": 29,
+      "cutoff_min": "2026-10-18",
+      "cutoff_max": "2026-10-21",
+      "tiers": {
+        "draft": 25,
+        "seed": 4
+      }
+    },
+    "ai": {
+      "people": 119,
+      "cutoff_min": "2026-10-12",
+      "cutoff_max": "2026-10-21",
+      "tiers": {
+        "draft": 104,
+        "seed": 14,
+        "gold": 1
+      }
+    },
+    "justice": {
+      "people": 26,
+      "cutoff_min": "2026-10-18",
+      "cutoff_max": "2026-10-21",
+      "tiers": {
+        "draft": 24,
+        "seed": 2
+      }
+    },
+    "retired": {
+      "people": 1,
+      "cutoff_min": "2026-06-13",
+      "cutoff_max": "2026-06-13",
+      "tiers": {
+        "gold": 1
+      }
+    }
+  },
+  "events": 168,
+  "daily": {
+    "last_run": "2026-10-21T08:51:42",
+    "last_status": "完成",
+    "window_days": 92,
+    "default_view": {
+      "from": "2026-08-01",
+      "to": "2026-10-31"
+    },
+    "last_window": [
+      "2026-10-18",
+      "2026-10-21"
+    ],
+    "last_applied": 2,
+    "last_held": 0,
+    "last_run_id": "20261021-084648"
+  },
+  "inbox": {
+    "last_run": "2026-10-21T10:51:52",
+    "last_status": "完成",
+    "last_applied": 1,
+    "last_held": 5,
+    "last_run_id": "20261021-105106",
+    "last_file": "inbox/codex/liuju/events.json",
+    "last_duplicates": 7
+  }
+}

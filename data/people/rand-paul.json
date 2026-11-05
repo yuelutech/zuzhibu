@@ -1,0 +1,746 @@
+{
+  "id": "rand-paul",
+  "name_zh": "兰德·保罗",
+  "name_en": "Rand Paul",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "P000603"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "rand-paul.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rand_Paul_Portrait.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（US Senate Photography Office；https://www.paul.senate.gov/website-press-kit/），File:Rand Paul Portrait.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Rand_Paul_Portrait.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-p000603",
+    "line": "cadre",
+    "subject_id": "p000603",
+    "title": "兰德·保罗简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2011-01-05~ KY Republican; HSGAC Chair since 2025",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Randal Howard Paul was born on January 7, 1963, in Pittsburgh, Pennsylvania",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+        "title": "维基百科：Rand_Paul",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Randal Howard Paul was born on January 7, 1963, in Pittsburgh, Pennsylvania",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+        "title": "维基百科：Rand_Paul",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "born...in Pittsburgh, Pennsylvania",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+        "title": "维基百科：Rand_Paul",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Chair of the Senate Homeland Security Committee as of January 3, 2025; Foreign Relations; Health/Education/Labor/Pensions",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+        "title": "维基百科：Rand_Paul",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Paul left Baylor without completing his baccalaureate degree",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+        "title": "维基百科：Rand_Paul",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "He earned a Doctor of Medicine degree in 1988",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+        "title": "维基百科：Rand_Paul",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "completing his residency at Duke University in ophthalmology",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+        "title": "维基百科：Rand_Paul",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Paul moved to Bowling Green, Kentucky...practicing since 1993; In 1994, he founded the anti-tax organization Kentucky Taxpayers United (KTU)",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://www.fec.gov/data/candidate/S0KY00156/",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "FEC Senate candidate S0KY00156 (KY); won Republican primary May 18, 2010",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "junior United States senator from Kentucky since 2011; sworn in on January 5, 2011",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+        "title": "维基百科：Rand_Paul",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "junior United States senator from Kentucky since 2011; sworn in on January 5, 2011",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+        "title": "维基百科：Rand_Paul",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "After completing his residency at Duke University in ophthalmology",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://en.wikipedia.org/wiki/Rand_Paul",
+        "title": "维基百科：Rand_Paul",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "On May 18, Paul won the Republican primary with 59% of the vote",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:KY"
+    ],
+    "person": {
+      "name": {
+        "value": "兰德·保罗",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1963-01-07",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "宾夕法尼亚州匹兹堡",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1988",
+        "source_ids": [
+          "s14"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：任杜克大学医学中心眼科住院医师；底稿备注：规则①：1988年医学院毕业衔接住院医师",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1988",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "杜克大学医学院医学博士学位",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2010-05",
+        "source_ids": [
+          "s15"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次以共和党身份参选并胜出党内初选：2010年5月18日肯塔基州联邦参议员共和党初选；来源：https://en.wikipedia.org/wiki/Rand_Paul；底稿备注：首次自身竞选；5月初选有确切日期；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2010-05-18",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（肯塔基州）",
+        "role": "",
+        "start": {
+          "value": "2011-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院国土安全和政府事务委员会",
+        "role": "主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院外交关系委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院卫生、教育、劳工和养老金委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1981",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：1984年提前转入医学院，本科约自1981起",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1984",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1984",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "贝勒大学",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1984",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：医学院学制4年自1988倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1988",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1988",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "杜克大学医学院",
+        "role": null,
+        "program": "医学",
+        "degree_awarded": {
+          "value": "医学博士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1988",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "杜克大学医学中心",
+        "role": "眼科住院医师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "眼科住院医师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "（肯塔基州鲍灵格林）",
+        "role": "眼科医生",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "眼科医生"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "1994",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "1994",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "创办肯塔基纳税人联合会",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "兰德·保罗参议员竞选委员会",
+        "role": "共和党联邦参议员候选人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "共和党联邦参议员候选人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s12",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（肯塔基州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12",
+          "s13"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（肯塔基州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2015",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2016",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "兰德·保罗总统竞选委员会总统参选人（共和党党内初选）",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2023",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2025",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国参议院国土安全和政府事务委员会资深成员",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国参议院国土安全和政府事务委员会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：贝勒/杜克入学年（按学制倒推）",
+      "底稿缺项：鲍灵格林历任眼科诊所确名（Codex有、未充分核实）",
+      "底稿缺项：最新 eFD 申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1988年6月」：底稿推定（规则①：1988年医学院毕业衔接住院医师），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

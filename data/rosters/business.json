@@ -1,0 +1,145 @@
+{
+  "id": "business",
+  "title": "商界",
+  "market_cap": {
+    "tiers": [
+      {
+        "title": "市值万亿美元以上",
+        "min": 1000000000000
+      },
+      {
+        "title": "市值万亿美元以下",
+        "min": 0
+      }
+    ],
+    "unlisted": "未上市公司"
+  },
+  "groups": [
+    {
+      "title": "市值万亿美元以上",
+      "style": "grid",
+      "members": [
+        {
+          "person": "greg-abel",
+          "post": "伯克希尔-哈撒韦公司总裁兼首席执行官"
+        },
+        {
+          "person": "jensen-huang",
+          "post": "英伟达公司总裁兼首席执行官"
+        },
+        {
+          "person": "andy-jassy",
+          "post": "亚马逊公司总裁兼首席执行官"
+        },
+        {
+          "person": "sanjay-mehrotra",
+          "post": "美光科技公司董事长兼首席执行官",
+          "short_post": "美光科技公司董事长兼首席执行官"
+        },
+        {
+          "person": "elon-musk",
+          "post": "太空探索技术公司董事长兼首席执行官、特斯拉公司首席执行官"
+        },
+        {
+          "person": "satya-nadella",
+          "post": "微软公司董事长兼首席执行官"
+        },
+        {
+          "person": "sundar-pichai",
+          "post": "字母表公司首席执行官"
+        },
+        {
+          "person": "david-ricks",
+          "post": "礼来公司董事长、总裁兼首席执行官"
+        },
+        {
+          "person": "hock-e-tan",
+          "post": "博通公司总裁兼首席执行官"
+        },
+        {
+          "person": "john-ternus",
+          "post": "苹果公司首席执行官"
+        },
+        {
+          "person": "mark-zuckerberg",
+          "post": "元宇宙平台公司（Meta）董事长兼首席执行官",
+          "short_post": "元宇宙平台公司董事长兼首席执行官"
+        }
+      ]
+    },
+    {
+      "title": "市值万亿美元以下",
+      "style": "grid",
+      "members": [
+        {
+          "person": "jamie-dimon",
+          "post": "摩根大通公司董事长兼首席执行官"
+        },
+        {
+          "person": "joaquin-duato",
+          "post": "强生公司董事长兼首席执行官"
+        },
+        {
+          "person": "john-furner",
+          "post": "沃尔玛公司总裁兼首席执行官"
+        },
+        {
+          "person": "alexander-karp",
+          "post": "帕兰蒂尔公司首席执行官"
+        },
+        {
+          "person": "ryan-mcinerney",
+          "post": "维萨公司首席执行官"
+        },
+        {
+          "person": "robert-michael",
+          "post": "艾伯维公司董事长兼首席执行官"
+        },
+        {
+          "person": "michael-miebach",
+          "post": "万事达卡公司总裁兼首席执行官"
+        },
+        {
+          "person": "chuck-robbins",
+          "post": "思科公司董事长兼首席执行官"
+        },
+        {
+          "person": "lisa-su",
+          "post": "超威半导体公司（AMD）董事长兼首席执行官",
+          "short_post": "超威半导体公司董事长兼首席执行官"
+        },
+        {
+          "person": "lip-bu-tan",
+          "post": "英特尔公司首席执行官"
+        },
+        {
+          "person": "ron-vachris",
+          "post": "开市客公司总裁兼首席执行官"
+        },
+        {
+          "person": "mike-wirth",
+          "post": "雪佛龙公司董事长兼首席执行官"
+        },
+        {
+          "person": "darren-woods",
+          "post": "埃克森美孚公司董事长、总裁兼首席执行官"
+        }
+      ]
+    },
+    {
+      "title": "未上市公司",
+      "style": "grid",
+      "members": [
+        {
+          "person": "sam-altman",
+          "post": "开放人工智能研究中心（OpenAI）首席执行官",
+          "short_post": "开放人工智能研究中心首席执行官"
+        },
+        {
+          "person": "dario-amodei",
+          "post": "Anthropic公司首席执行官"
+        }
+      ]
+    }
+  ]
+}

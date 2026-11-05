@@ -1,0 +1,91 @@
+{
+  "id": "2026-10-16-katie-zacharia-leave",
+  "date": "2026-10-16",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "katie-zacharia",
+  "person": {
+    "name_zh": "凯蒂·扎卡里亚",
+    "name_en": "Katie Zacharia",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-10-16",
+  "effective_at": "2026-10-16",
+  "ended_roles": [
+    {
+      "organization": "美国白宫",
+      "role": "新闻秘书",
+      "organization_en": "White House",
+      "role_en": "Press Secretary",
+      "start": "2026-10-12",
+      "end": "2026-10-16",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": "佩珀代因大学卡鲁索法学院院长委员会成员（Dean’s Council member）",
+  "new_appointment": "据ABC News报道，将转任政府其他岗位；截至2026-10-18，检索未发现具体新职务已经公布。",
+  "new_appointment_checked": true,
+  "headline": "凯蒂·扎卡里亚卸任美国白宫新闻秘书",
+  "summary": "10月16日，白宫官员向媒体确认扎卡里亚正在离开新闻秘书岗位。ABC报道她将转任政府其他岗位，具体职务待公布。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.kpbs.org/news/politics/2026/10/16/katie-zacharia-is-transitioning-out-as-press-secretary-white-house-says",
+      "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
+      "publisher": "NPR / KPBS",
+      "published_at": "2026-10-16",
+      "excerpt": "Katie Zacharia is \"transitioning out\" of her role as press secretary, according to a White House official not authorized to speak on the record, marking a stunning turn of events for the spokeswoman who officially started Monday and is out by Friday.",
+      "checked_at": "2026-10-18",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://video.goodmorningamerica.com/news/story/trump-asked-press-secretary-katie-zacharia-reconsider-position-137326631",
+      "title": "Katie Zacharia 'transitioning out' of press secretary role, sources tell ABC News",
+      "publisher": "ABC News",
+      "published_at": "2026-10-16",
+      "excerpt": "Zacharia is transitioning into a new role in the administration that will be announced at a later date, two sources told ABC News.",
+      "checked_at": "2026-10-18",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-18",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261018-080004",
+    "corrections": [
+      "other_current_roles → 佩珀代因大学卡鲁索法学院院长委员会成员（Dean’s Council member）",
+      "new_appointment → 据ABC News报道，将转任政府其他岗位；截至2026-10-18，检索未发现具体新职务已经公布。"
+    ],
+    "reasons": []
+  },
+  "origin": "daily",
+  "lead": "search-katie-zacharia",
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-18",
+    "changes": [
+      "现任职务移出：美国白宫 新闻秘书",
+      "履历止时间：美国白宫新闻秘书 至 2026-10"
+    ],
+    "notes": [
+      "转入七局前核对未通过：核实结果：没有其他现职、核实结果：没有公布新任命；暂不转局"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "katie-zacharia",
+    "reason": "转入七局前核对未通过：核实结果：没有其他现职、核实结果：没有公布新任命"
+  }
+}

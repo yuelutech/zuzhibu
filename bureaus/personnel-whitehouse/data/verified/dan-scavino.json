@@ -1,0 +1,375 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-dan-scavino",
+      "line": "cadre",
+      "subject_id": "dan-scavino",
+      "title": "丹·斯卡维诺简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf",
+          "title": "2026 Annual Report to Congress on White House Staff",
+          "published_at": "2026-07-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "SCAVINO, JR., DANIEL J. ... DEPUTY CHIEF OF STAFF AND DIRECTOR OF THE OFFICE OF PRESIDENTIAL PERSONNEL",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://en.wikipedia.org/wiki/Dan_Scavino",
+          "title": "Dan Scavino",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born January 14, 1976; graduating in 1998; ... assistant manager ... January 2004",
+          "tier": 3
+        },
+        {
+          "id": "s3",
+          "url": "https://nyyrc.com/event/nyyrc-112th-annual-gala/",
+          "title": "New York Young Republican Club — 112th Annual Gala speaker biography",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Scavino graduated from the State University of New York at Plattsburgh in 1998 with a Bachelor of Arts in Communications.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "丹·斯卡维诺",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1976-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1998年本科毕业减22年得1976年；未查到原始出生月，按规则取7月",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "1998",
+            "duration_years": 22
+          }
+        },
+        "birth_place": {
+          "value": "纽约",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "纽约州立大学普拉茨堡分校传播学专业",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "文学学士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "白宫",
+          "role": "总统助理、副幕僚长",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "总统助理、副幕僚长"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "白宫总统人事办公室",
+          "role": "主任",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "主任"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "1998年本科毕业减四年",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1998",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1998",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "纽约州立大学普拉茨堡分校",
+          "role": "传播学专业学习",
+          "program": "传播学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "传播学专业学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2004",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "特朗普韦斯特切斯特国家高尔夫俱乐部",
+          "role": "助理经理、总经理、执行副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "助理经理、总经理、执行副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-06",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016-02",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "特朗普总统竞选团队",
+          "role": "工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016-02",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "特朗普总统竞选团队",
+          "role": "社交媒体主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "社交媒体主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "白宫",
+          "role": "社交媒体主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "社交媒体主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "高德美公司任职有来源，职务及起止年未查到；可口可乐公司早期职级变动未查清。",
+        "高尔夫俱乐部助理经理与总经理交接日期未核准，同单位合并列职。",
+        "2021至2024年协助特朗普的具体任职名、起止日未查清。",
+        "爱奥那大学硕士在读有来源，学位授予未查到；党籍及入党锚点留空。",
+        "可口可乐销售、Galderma医药代表经历获活动主办方简介确认，但首份全职工作开始年份未确认。",
+        "副幕僚长和总统人事办公室主任的实际到任日期未获原始任命记录；保留白宫2026年人员报告的现职，起始日期留空。",
+        "2019—2020年第一任期内职务调整的原始任命日期未查到，未沿用维基精确日期。",
+        "已查事实：美国白宫；总统助理、副幕僚长、总统人事办公室主任；起始时间未查明；结束时间未查明。来源：s1。缺少时间或机构，暂不编入有日期的履历。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "Dan Scavino；美国白宫",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

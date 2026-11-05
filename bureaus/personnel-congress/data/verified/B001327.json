@@ -1,0 +1,597 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001327",
+      "line": "cadre",
+      "subject_id": "b001327",
+      "title": "罗伯特·布雷斯纳汉简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BRESNAHAN,-Robert-P-,-Jr--(B001327)/",
+          "title": "BRESNAHAN, Robert P., Jr. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Kingston, Luzerne County, Pa., April 22, 1990; ... B.S., University of Scranton, Scranton, Pa., 2012",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/B001327",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Robert P. Bresnahan, Jr.\nPennsylvania (PA) – 8th, Republican\nOath of Office: Jan. 03, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://news.scranton.edu/articles/2025/01/news-alumnus-us-congress-bresnahan.shtml",
+          "title": "Scranton Alumnus Serves as U.S. Representative",
+          "published_at": "2025-01-08",
+          "checked_at": "2026-10-18",
+          "excerpt": "He represents Pennsylvania’s 8th Congressional District. ... Rep. Bresnahan, Dallas Township, earned a degree in business administration from Scranton",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.ballotready.org/people/rob-bresnahan-jr",
+          "title": "Rob Bresnahan Jr. | BallotReady",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Kuharchik Construction, Inc, President (2009 - 2024)\nWyoming Electric And Signal, Inc., Executive Vice President (2008 - 2024)",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://www.ecmag.com/magazine/articles/article-detail/rob-bresnahan-of-kuharchik-construction-announces-candidacy-for-u.s.-congress",
+          "title": "Rob Bresnahan of Kuharchik Construction Announces Candidacy for U.S. Congress",
+          "published_at": "2023-12-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "at age 19, while still in college, Bresnahan jumped in and became the company’s CFO",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/10056062.pdf",
+          "title": "Rob Bresnahan — Financial Disclosure Report, Filing ID #10056062",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Managing Member Xito Group LLC ... President Kuharchik Construction, Inc. ... Managing Member RPB Ventures, LLC",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.fec.gov/data/committee/C00852137/?cycle=2026",
+          "title": "ROB FOR PA - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Active - Quarterly House - Principal campaign committee ID: C00852137 Registration date: October 02, 2023",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://clerk.house.gov/Committees/AG00",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Committee on Agriculture ... Republican ... Robert P. Bresnahan, Jr., PA",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://clerk.house.gov/Committees/SM00",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Committee on Small Business ... Republican ... Robert P. Bresnahan, Jr., PA",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://clerk.house.gov/Committees/PW00",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Committee on Transportation and Infrastructure ... Republican ... Robert P. Bresnahan, Jr., PA",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:PA"
+      ],
+      "person": {
+        "name": {
+          "value": "罗伯特·布雷斯纳汉",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1990-04-22",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "宾夕法尼亚州金斯顿",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "斯克兰顿大学工商管理专业理学学士学位",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2018",
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：任宾夕法尼亚州共和党州委员会委员，2018年，官方履历记任期为2018—2022年；来源：https://history.house.gov/People/Listing/B/BRESNAHAN,-Robert-P-,-Jr--(B001327)/ 。检索本人共和党选民登记日期及公开宣布加入共和党的记录，未找到合格的第1级锚点。ROB FOR PA于2023-10-02在FEC登记，属于较晚的第3级锚点，不采用；来源：https://www.fec.gov/data/committee/C00852137/?cycle=2026 。州委员会任职来源只有年份，不补月份。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "2018",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（宾夕法尼亚州第8选区）",
+          "role": "",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院农业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s10"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院小企业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s11"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院交通和基础设施委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "众议院官方履历记2012年取得斯克兰顿大学理学学士学位；本科入学年按2012－4＝2008推算。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2012",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "斯克兰顿大学",
+          "role": null,
+          "program": "工商管理",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Wyoming Electric & Signal, Inc.",
+          "role": "执行副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "执行副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Kuharchik Construction, Inc.",
+          "role": "首席财务官、总裁、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s6",
+            "s7",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席财务官",
+            "总裁",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2016",
+                "source_ids": [
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2024",
+                "source_ids": [
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "RPB Ventures LLC",
+              "role": "总裁",
+              "roles": [
+                "总裁"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s5"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2018",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2022",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "宾夕法尼亚州共和党州委员会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（宾夕法尼亚州第8选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（宾夕法尼亚州第8选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.Xito Group LLC.end",
+          "alternatives": [
+            {
+              "value": "Principal，2012—2021",
+              "source_ids": [
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2024-01-30申报Managing Member",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2024-01-30申报Managing Member",
+          "reason": "采用本人提交众议院的财务披露记录确认该时点职务。Principal与Managing Member的关系及交接日期未明确，暂不生成该单位履历条目。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：检索众议院官方履历、学校报道、行业采访、财务披露及候选人履历。2008年企业职务和19岁时任首席财务官均与在校时间重叠，未找到首份全职工作的明确起始时间，work_start留null。",
+        "出生日期：众议院历史人物页提供1990-04-22；未取得第二个能打开并写明完整出生日期的合格来源。",
+        "本科入学日期及学习形式：学校报道和众议院履历确认2012年毕业，未找到可打开的直接入学日期及全日制说明；入学年按毕业年减4推算。",
+        "委员会任职起始日期：书记官议员页及三个委员会名单确认现任委员，未找到明确生效日期，current_roles.start均留null。",
+        "Kuharchik Construction内部职务交接：可打开来源确认首席财务官、总裁及首席执行官经历，未取得各职务完整交接日期，合为一条。",
+        "企业任职全职或兼职属性：BallotReady和National Journal记载任职年份，未明确工时属性；不据此推定参加工作时间。",
+        "RPB Ventures：总裁任期2016—2024来自候选人履历；2024年财务披露另记Managing Member，未找到该职务起始及截止日任职状态，未写入现任。",
+        "其他企业、信托和社会组织职务：财务披露列有多项职务，但缺明确就任日期及截至2026-10-18的持续任职证据，未生成履历或现任条目。",
+        "族裔：未找到本人自述或官方统计的合格依据，留null。",
+        "完整简历卡：参加工作时间缺证，card_type留null，保留研究候选事实包。"
+      ],
+      "excluded": [
+        "底稿『2012年参加工作』：没有首份全职工作于2012年开始的证据。",
+        "底稿『2009年6月参加工作』：在校任职未明确为全职，6月没有来源。",
+        "底稿『2009—2012年兼任首席财务官、2012—2013年任首席财务官』：没有支持该拆分及2012年交接点的原文，合并企业履历。",
+        "底稿『2013—2024年任首席执行官』：2013年信息只在本次无法打开的议员官网传记等页面检索结果中出现，不据摘要设置交接日期。",
+        "底稿『工商管理学士学位』：众议院官方履历明确学位类别为B.S.，改为工商管理专业理学学士学位。",
+        "底稿『RPB投资公司』：改用来源中的RPB Ventures LLC。",
+        "底稿『2023年10月加入美国共和党』：存在更高等级且更早的2018年州共和党委员会任职锚点。",
+        "底稿『congress-legislators仓库首页』：本次改用实际打开的国会官方人物页及书记官页面。",
+        "底稿『委员会职务缺列』：补入第119届众议院农业、小企业、交通和基础设施三个委员会委员职务。",
+        "议员官网传记及委员会页面：打开返回403或Internal Error，未列入sources。",
+        "来源冲突（person.degree）：备选值「斯克兰顿大学文学学士学位」[s8] 唯一来源 s8 未能重现人物卡正文，重试仍返回 Internal Error，无法核实其中是否写作 BA。，不列入 conflicts",
+        "来源冲突（careers.Xito Group LLC.end）：备选值「Principal，2012年至2024年人物卡编制时仍在任」[s8] 唯一来源 s8 未能重现人物卡正文，重试仍返回 Internal Error，无法核实 Principal、2012-Present 及人物卡编制时点。，不列入 conflicts"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（宾夕法尼亚州第8选区），美国国会众议院；Bioguide B001327",
+      "review_items": [
+        "BallotReady作为二级候选人履历来源，企业任职起止年份需在下一会话重点重新打开核验。",
+        "Xito Group LLC的Principal任期存在二级来源冲突，Managing Member只有申报时点证据；该单位履历暂缺。",
+        "参加工作时间缺证，完整简历卡暂不具备生成条件。"
+      ]
+    }
+  ]
+}

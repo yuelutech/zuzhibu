@@ -1,0 +1,697 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-m000133",
+      "line": "cadre",
+      "subject_id": "m000133",
+      "title": "爱德华·马基简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "sen 2013-07-16~ MA Democrat (special election)",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: M",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born on July 11, 1946, in Malden, Massachusetts",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Ed_Markey",
+          "title": "维基百科：Ed_Markey",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born on July 11, 1946, in Malden, Massachusetts",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Ed_Markey",
+          "title": "维基百科：Ed_Markey",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Committee on Commerce, Science, and Transportation; Committee on Environment and Public Works; Committee on Health, Education, Labor and Pensions; Committee on Small Business and Entrepreneurship (Ranking Member)",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Ed_Markey",
+          "title": "维基百科：Ed_Markey",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "graduated from Boston College in 1968 with a Bachelor of Arts",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Ed_Markey",
+          "title": "维基百科：Ed_Markey",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "from Boston College Law School in 1972 with a Juris Doctor",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Ed_Markey",
+          "title": "维基百科：Ed_Markey",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "served in the United States Army Reserve from 1968 to 1973, attaining the rank of Specialist 4",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Ed_Markey",
+          "title": "维基百科：Ed_Markey",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "served (Massachusetts House) from 1973 to 1976",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://en.wikipedia.org/wiki/Ed_Markey",
+          "title": "维基百科：Ed_Markey",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "the U.S. representative for Massachusetts's 7th congressional district from 1976 to 2013",
+          "tier": 3
+        },
+        {
+          "id": "s11",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "the U.S. representative for Massachusetts's 7th congressional district from 1976 to 2013",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "elected to serve out the remainder of Kerry's Senate term in a 2013 special election (took office July 16, 2013)",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://en.wikipedia.org/wiki/Ed_Markey",
+          "title": "维基百科：Ed_Markey",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "elected to serve out the remainder of Kerry's Senate term in a 2013 special election (took office July 16, 2013)",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "senate",
+        "state:MA"
+      ],
+      "person": {
+        "name": {
+          "value": "爱德华·马基",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1946-07-11",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "马萨诸塞州莫尔登",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1968",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：本科毕业后入美国陆军预备役；底稿备注：规则①：1968年波士顿学院毕业衔接入伍",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1968",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "波士顿学院法学院法学博士学位",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1972-11",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以民主党身份当选马萨诸塞州众议员（1972年11月普选，1973年就任）；来源：https://en.wikipedia.org/wiki/Ed_Markey；底稿备注：无更早登记/党职锚点；取首次当选党派制公职普选月(规则②,11月)；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1972-11",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（马萨诸塞州）",
+          "role": "",
+          "start": {
+            "value": "2013-07-16",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院商业、科学和交通委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院环境与公共工程委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工和养老金委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院小企业和创业委员会",
+          "role": "资深成员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "资深成员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1964",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1968倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1968",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1968",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "波士顿学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1968",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1973",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国陆军预备役",
+          "role": "士兵（专业军士四级）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "士兵（专业军士四级）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "study",
+              "start": {
+                "value": "1969",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1972",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "波士顿学院法学院",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": {
+                "value": "法学博士",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "concurrent": true,
+              "source_ids": [
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1969",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1972倒推（在陆军预备役其间在职修读）",
+            "inference": {
+              "rule": "degree_duration",
+              "from_date": "1972",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1972",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "波士顿学院法学院",
+          "role": null,
+          "program": "法律",
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1973",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1976",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "马萨诸塞州议会众议院",
+          "role": "马萨诸塞州众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "马萨诸塞州众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1976",
+            "source_ids": [
+              "s10",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013",
+            "source_ids": [
+              "s10",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（马萨诸塞州第7选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（马萨诸塞州第7选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2007",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2011",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国众议院能源独立和全球变暖特别委员会主席",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s10",
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013",
+            "source_ids": [
+              "s12",
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（马萨诸塞州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s12",
+            "s13"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（马萨诸塞州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "联邦众议院首term起始",
+          "alternatives": [
+            {
+              "value": "congress-legislators: 1975-01-14（94届国会名义边界）",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "维基/史实: 1976年11月特别选举就任",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1976（维基），因马基1973-1976在马萨诸塞州众议院，与1975起始冲突，'1975'系数据集Congress边界口径非实际就任",
+          "reason": "底稿（Care 2026-06）记录的取舍，官方来源优先；待本机复核"
+        }
+      ],
+      "unknowns": [
+        "底稿缺项：波士顿学院本科/法学院入学年（按学制倒推）",
+        "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+      ],
+      "excluded": [
+        "参加工作月份「1968年6月」：底稿推定（规则①：1968年波士顿学院毕业衔接入伍），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

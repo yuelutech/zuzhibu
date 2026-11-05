@@ -1,0 +1,884 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001035",
+      "line": "cadre",
+      "subject_id": "c001035",
+      "title": "苏珊·柯林斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.collins.senate.gov/about/susan-collins/",
+          "title": "About | U.S. Senator Susan Collins",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Susan Margaret Collins was born on December 7, 1952, in Caribou Maine",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://history.house.gov/People/Listing/C/COLLINS,-Susan-Margaret-(C001035)/",
+          "title": "COLLINS, Susan Margaret | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "worked for United States Senator William S. Cohen 1975-1987",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been nine Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm?aff_id=1033",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Collins, Susan M. (R-ME)\nCommittee on Appropriations (Chairman)",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-ME-S-1.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022.",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "New England administrator, Small Business Administration, 1992-93; appointed Deputy Treasurer of Massachusetts, 1993; executive director, Husson College Center for Family Business, 1994-96",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.pressherald.com/voter-guide/candidates/susan-collins/",
+          "title": "Susan Collins – Maine Voter Guide 2026",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "B.A. in government from St. Lawrence University, magna cum laude, Phi Beta Kappa.",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.senate.gov/artandhistory/history/resources/pdf/chronlist.pdf?wpmobileexternal=true",
+          "title": "SENATORS OF THE UNITED STATES 1789–present",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "* * * 1997 * * *\nJanuary 3 Allard, Wayne (R-CO)\nCleland, Max (D-GA)\nCollins, Susan (R-ME)",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.appropriations.senate.gov/news/majority/senator-collins-officially-becomes-chair-of-senate-appropriations-committee",
+          "title": "Senator Collins Officially Becomes Chair of Senate Appropriations Committee",
+          "published_at": "2025-01-07",
+          "checked_at": "2026-10-19",
+          "excerpt": "Today, U.S. Senator Susan Collins officially became Chair of the Senate Appropriations Committee.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.collins.senate.gov/imo/media/doc/official_biography_-_senator_susan_collins.pdf",
+          "title": "Official Biography - Senator Susan Collins",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Senator Collins is a member of the Intelligence Committee and the Health, Education, Labor, and Pensions Committee.",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.fec.gov/data/candidate/S6ME00159/?cycle=1996&election_full=true",
+          "title": "COLLINS, SUSAN M - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Candidate for Senate Maine\nID: S6ME00159\nREPUBLICAN PARTY",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "reverified",
+        "senate",
+        "state:ME"
+      ],
+      "person": {
+        "name": {
+          "value": "苏珊·柯林斯",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1952-12-07",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "缅因州卡里布",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1975",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "议员官网记载1975年大学毕业后开始为联邦众议员比尔·科恩任职；国会官方人物页记载其在科恩处任职为1975—1987年。以毕业后的首份全职工作的开始年份推定参加工作时间，来源未给月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1975",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "圣劳伦斯大学政府学文学学士学位",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1994",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：1994年参加缅因州州长共和党初选并获得提名，日期取1994年；来源：https://history.house.gov/People/Listing/C/COLLINS,-Susan-Margaret-(C001035)/ 。已检索本人官网、国会人物页、国会名录、公开选民登记及共和党职务线索，未取得第1级或第2级锚点，也未取得1994年州长参选登记的原始受理日期。FEC的1996年参议员候选人记录晚于已证实的1994年共和党初选，不采用为入党时间；为科恩任职和政府任命不作党籍锚点。州选务历史资料未能稳定打开，初选月份不采用搜索摘要补入。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1994",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（缅因州）",
+          "role": "",
+          "start": {
+            "value": "1997-01-03",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s7"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院拨款委员会",
+          "role": "主席",
+          "start": {
+            "value": "2025-01-07",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s8",
+            "s9"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工和养老金委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院情报特别委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1971",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "官方传记和国会名录记载1975年毕业，按美国本科标准学制4年倒推：1975－4＝1971。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1975",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1975",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "圣劳伦斯大学",
+          "role": null,
+          "program": "政府学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1987",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会议员威廉·科恩办公室",
+          "role": "工作人员、商业事务主要顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员",
+            "商业事务主要顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1981",
+                "source_ids": [
+                  "s2",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1987",
+                "source_ids": [
+                  "s2",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "参议院政府事务委员会政府管理监督小组委员会",
+              "role": "工作人员主任",
+              "roles": [
+                "工作人员主任"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s2",
+                "s5"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1987",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1992",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "缅因州专业和金融监管厅",
+          "role": "厅长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "厅长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1992",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国小企业管理局新英格兰区域办公室",
+          "role": "主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "马萨诸塞州财政厅",
+          "role": "副财长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "副财长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "缅因州州长选举",
+          "role": "共和党候选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "共和党候选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "哈森学院家族企业中心",
+          "role": "创始执行主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始执行主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997-01-03",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（缅因州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s7"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（缅因州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2003",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2005",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "参议院政府事务委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2005",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2007",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "参议院国土安全和政府事务委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2015",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2021",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "参议院老龄问题特别委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2023",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2025",
+                "source_ids": [
+                  "s8",
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "参议院拨款委员会",
+              "role": "副主席",
+              "roles": [
+                "副主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s8",
+                "s9"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025-01-07",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "参议院拨款委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s4",
+                "s8",
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [],
+      "unknowns": [
+        "族裔：查阅议员官方传记、国会人物页及国会名录，未找到本人族裔自述或符合规则的官方统计。",
+        "本科入学日期和学习形式：查阅议员传记、国会名录及学校官网检索结果，未取得入学原始记录或全日制说明；入学年按1975年毕业减4年推算，full_time留null。",
+        "参加工作月份：议员官网和国会人物页只记1975年，未找到月份。",
+        "科恩办公室内部职务交接：官方资料确认1975—1987年任职及商业事务主要顾问身份，未明确各职务交接日期；未据科恩当选年份补造转入参议员办公室的日期。",
+        "马萨诸塞州副财长结束时间：国会人物页和国会名录记载1993年任职，未给结束日期，end留null。",
+        "1994年州长候选人经历：官方人物页确认当年获得共和党提名并在大选落选；州选务历史PDF后续打开超时，提名日和大选日未录入。",
+        "入党高等级锚点：检索公开选民登记、本人入党声明、共和党组织职务及州长参选登记线索，未取得第1—3级有效原始日期；FEC参议员记录晚于1994年初选。",
+        "1996年竞选阶段：已确认当年当选参议员，未取得可明确区分参选、获提名、当选阶段起止日期的完整证据，未沿用底稿1996—1997年候选人条目。",
+        "现任卫生、教育、劳工和养老金委员会及情报特别委员会委员的就任日期：第119届委员会名单和官方传记确认现职，未明确本次委员任职的起始日期，start留null。",
+        "历史委员会完整职务沿革：已收录有官方任期依据的主席、副主席经历；未取得全部历史委员、资深成员及小组委员会职务的就任和结束日期。"
+      ],
+      "excluded": [
+        "底稿『现任联邦参议员起于2021年1月』：该时间为连任届次起点；持续担任同一州参议员始于1997年1月3日。",
+        "底稿『1975年6月参加工作』：重新打开的来源只给1975年，不补月份。",
+        "底稿『1975—1979年立法助理、1979—1987年参议员办公室工作人员』：未取得该拆分和1979年交接日期的直接依据，合并为科恩办公室任职条目。",
+        "底稿『1993—1994年马萨诸塞州副财长』：官方来源只明确1993年任职，未证明1994年结束。",
+        "底稿『苏珊·柯林斯州长竞选委员会』：已打开来源未明确该委员会的正式名称，采用州长选举及候选人身份。",
+        "底稿『1996—1997年共和党联邦参议员候选人』：当选后至就职前应区分当选人阶段，原条目阶段和起止依据不足，未沿用。",
+        "底稿『2003—2007年参议院国土安全和政府事务委员会主席』：国会官方人物页分别列第108届政府事务委员会、第109届国土安全和政府事务委员会，按当时机构名称拆分。",
+        "底稿『1994年6月加入美国共和党』：本次采用可打开的国会官方人物页作为第4级锚点，该页只明确1994年，录入1994。",
+        "检索所得荣誉博士学位：属于荣誉学位，不列为最高已取得学位。",
+        "打不开的congress.gov人物页、history.house.gov旧Detail地址及超时的州选务PDF：未纳入sources。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（缅因州）＋美国国会参议院；Bioguide C001035，区别于波士顿联邦储备银行同名经济学家。",
+      "review_items": [
+        "中文姓名按用户指定保留；哈森学院、政府管理监督小组委员会等表外机构译名交译名表复核。",
+        "拨款委员会主席起始日采用委员会官网明确记载的2025年1月7日。",
+        "学历专业依据2026年选民指南中的本人公开资料；文学学士学位及1975年毕业由国会名录交叉支持。",
+        "本包为研究会话候选事实包，下一环节逐字段重新联网核验。"
+      ]
+    }
+  ]
+}

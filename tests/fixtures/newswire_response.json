@@ -1,0 +1,36 @@
+{
+  "genre": "newswire",
+  "title": "示例动力公司拟投资25亿美元在内华达州建芯片厂",
+  "subtitle": "",
+  "dateline": "政见社旧金山10月15日电",
+  "lead": "美国示例动力公司（Example Dynamics）14日宣布，将在3年内投资约25亿美元，在内华达州新建一座芯片工厂。",
+  "paragraphs": [
+    "据美国《每日账簿报》（The Daily Ledger）报道，该公司在一份监管文件中披露了上述计划。文件显示，该厂预计到2028年雇用1200人。",
+    "示例动力首席执行官丹娜·雷耶斯在接受采访时说：“我们押注美国制造业。”",
+    "示例动力同美国海港研究院（HRI）合作开展封装研究。",
+    "美国北风集团（Northwind Group）拒绝置评。"
+  ],
+  "glossary_used": [
+    {"english": "Example Dynamics", "zh": "美国示例动力公司（Example Dynamics）"},
+    {"english": "Harbor Research Institute (HRI)", "zh": "美国海港研究院（HRI）"},
+    {"english": "Dana Reyes", "zh": "丹娜·雷耶斯"},
+    {"english": "Northwind Group", "zh": "美国北风集团（Northwind Group）"}
+  ],
+  "glossary_misses": [
+    {"english": "The Daily Ledger", "zh": "美国《每日账簿报》（The Daily Ledger）", "reason": "表外媒体，译名待核"}
+  ],
+  "numbers": [
+    {"zh": "约25亿美元", "source": "about $2.5 billion"},
+    {"zh": "3年", "source": "over three years"},
+    {"zh": "1200人", "source": "1,200 people"},
+    {"zh": "2028年", "source": "by 2028"}
+  ],
+  "quotes": [
+    {"zh": "我们押注美国制造业。", "source": "We are betting on American manufacturing,"}
+  ],
+  "attributions": [
+    {"zh": "据美国《每日账簿报》（The Daily Ledger）报道", "source": "according to a filing reviewed by The Daily Ledger"}
+  ],
+  "dropped": ["分析人士关于芯片制造地转移的推测"],
+  "review_notes": "Tuesday 按发稿日期推定为14日，请核。北风集团为待核条目。"
+}

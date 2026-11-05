@@ -1,0 +1,732 @@
+{
+  "id": "travis-hill",
+  "name_zh": "特拉维斯·希尔",
+  "name_en": "Travis Hill",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/justice.json 监管机构组（2026-10-21 维护者定）；简历按机构官网、参议院提名记录等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "travis-hill.jpg",
+    "source": "https://www.fdic.gov/about/travis-hill",
+    "source_kind": "官方照片（机构官网）",
+    "license": "公有领域：联邦存款保险公司网站政策页（General Disclaimer 等）未列本机构内容的版权条款，只提示外部链接网站内容可能受版权保护。按《美国法典》第17编第105条：“Copyright protection under this title is not available for any work of the ；已换蓝白渐变底",
+    "url": "https://www.fdic.gov/about/travis-hill/images/vice-chairman-travis-hill-hi-res.jpg"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Federal Deposit Insurance Corporation (FDIC)",
+      "role_en": "Chairman of the Board of Directors (23rd Chairman)"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/justice.json 监管机构组（2026-10-21 维护者定）；简历按机构官网、参议院提名记录等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-travis-hill",
+    "line": "cadre",
+    "subject_id": "travis-hill",
+    "title": "特拉维斯·希尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.fdic.gov/about/travis-hill",
+        "title": "Travis Hill | FDIC.gov",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Travis Hill is the 23rd Chairman of the Federal Deposit Insurance Corporation (FDIC) Board of Directors, currently serving a five-year term that began on January 2, 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.fdic.gov/about/travis-hill",
+        "title": "Travis Hill | FDIC.gov",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Hill had previously served as FDIC’s Acting Chairman starting on January 20, 2025, and served as Vice Chairman beginning on January 5, 2023.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.fdic.gov/about/travis-hill",
+        "title": "Travis Hill | FDIC.gov",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Prior to his terms on the Board of Directors, he was Deputy to the Chairman for Policy from 2018 to 2022 and, before that, served as Senior Advisor to the Chairman.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.fdic.gov/about/travis-hill",
+        "title": "Travis Hill | FDIC.gov",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Prior to joining the FDIC, Mr. Hill served as Senior Counsel at the United States Senate Committee on Banking, Housing, and Urban Affairs, where he worked from 2013 to 2018.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.fdic.gov/about/travis-hill",
+        "title": "Travis Hill | FDIC.gov",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Before working at the Senate, Mr. Hill worked as a policy analyst at Regions Financial Corporation from 2011 to 2013.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.fdic.gov/about/travis-hill",
+        "title": "Travis Hill | FDIC.gov",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Hill received a Bachelor of Science from Duke University, where he studied economics and political science, and a Juris Doctor from Georgetown University Law Center.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.fdic.gov/news/press-releases/2026/travis-hill-sworn-23rd-chairman-fdic",
+        "title": "Travis Hill Sworn in as the 23rd Chairman of the FDIC | FDIC.gov",
+        "published_at": "2026-01-13",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chairman Hill was nominated by President Trump on September 30, 2025, for a term of five years and confirmed by the Senate on December 18, 2025.",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.fdic.gov/retirees/fdic-news-winter-2026.pdf",
+        "title": "FDIC News, Winter 2026",
+        "published_at": "2026",
+        "checked_at": "2026-10-21",
+        "excerpt": "On Tuesday, January 13, 2026, Travis Hill was sworn in as the 23rd Chairman of the Federal Deposit Insurance Corporation (FDIC).",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.congress.gov/nomination/119th-congress/560/3",
+        "title": "PN560-3 — Travis Hill — Federal Deposit Insurance Corporation, 119th Congress (2025-2026)",
+        "published_at": "2025-09-30",
+        "checked_at": "2026-10-21",
+        "excerpt": "Travis Hill, of Maryland, to be Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation for a term of five years, vice Martin J. Gruenberg, resigned.",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.congress.gov/nomination/119th-congress/560/3",
+        "title": "PN560-3 — Travis Hill — Federal Deposit Insurance Corporation, 119th Congress (2025-2026)",
+        "published_at": "2025-12-18",
+        "checked_at": "2026-10-21",
+        "excerpt": "Confirmed by the Senate by Yea-Nay Vote. 53 - 43. Record Vote Number: 655.",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-117shrg53443/html/CHRG-117shrg53443.htm",
+        "title": "S. Hrg. 117-736, Nominations of Martin Gruenberg, Travis Hill, Jonathan McKernan, and Kimberly Ann McClain（2022-11-30 听证，希尔证词）",
+        "published_at": "2022-11-30",
+        "checked_at": "2026-10-21",
+        "excerpt": "After leaving Capitol Hill, I worked at the FDIC as an advisor to Chairman Jelena McWilliams and as her deputy for policy.",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-117shrg53443/pdf/CHRG-117shrg53443.pdf",
+        "title": "S. Hrg. 117-736, Statement for Completion by Presidential Nominees — Travis Hill（PDF 第52页，印刷页第48页）",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Duke University | Aug. 2002 – May 2006 | Bachelor of Science, minor in political science | May 2006",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-117shrg53443/pdf/CHRG-117shrg53443.pdf",
+        "title": "S. Hrg. 117-736, Statement for Completion by Presidential Nominees — Travis Hill（PDF 第52页，印刷页第48页）",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Georgetown University Law Center | Aug. 2008 – May 2011 | Juris Doctor | May 2011",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-117shrg53443/pdf/CHRG-117shrg53443.pdf",
+        "title": "S. Hrg. 117-736, Statement for Completion by Presidential Nominees — Travis Hill（PDF 第53页，印刷页第49页）",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Regions Financial Corporation | Policy analyst | Washington, DC | Oct. 2011 – March 2013",
+        "tier": 1
+      },
+      {
+        "id": "s15",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-117shrg53443/pdf/CHRG-117shrg53443.pdf",
+        "title": "S. Hrg. 117-736, Statement for Completion by Presidential Nominees — Travis Hill（PDF 第53页，印刷页第49页）",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "U.S. Senate Committee on Banking, Housing, and Urban Affairs | Counsel; Senior counsel | Washington, DC | April 2013 – July 2018",
+        "tier": 1
+      },
+      {
+        "id": "s16",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-117shrg53443/pdf/CHRG-117shrg53443.pdf",
+        "title": "S. Hrg. 117-736, Statement for Completion by Presidential Nominees — Travis Hill（PDF 第53页，印刷页第49页）",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Federal Deposit Insurance Corporation | Senior advisor to the Chairman; Deputy to the Chairman for Policy | Washington, DC | July 2018 – Feb. 2022",
+        "tier": 1
+      },
+      {
+        "id": "s17",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title12/html/USCODE-2023-title12-chap16-sec1812.htm",
+        "title": "12 U.S.C. 1812 — Management (United States Code, 2023 Edition)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "(C) 3 of whom shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States, 1 of whom shall have State bank supervisory experience.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": "联邦存款保险公司官网人物页称 Mr. Hill",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s17",
+          "s9"
+        ],
+        "inferred": false,
+        "basis": "联邦存款保险公司由总统提名、参议院确认的三名董事须从美国公民中任命（《美国法典》第12编第1812条第(a)(1)(C)款），其2025年经参议院确认任董事长",
+        "inference": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": {
+        "value": "2011-10",
+        "source_ids": [
+          "s14",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": "第一份全职工作：Regions Financial Corporation（地区金融公司）政策分析师，2011年10月起（2022年参议院银行委员会提名问卷就业记录；官网写2011—2013年）。问卷所列此前职位均为实习或暑期职位（2006年6—9月、2008年7—8月商界国家安全执行官组织研究实习生/研究助理，2009年6—8月马里兰州乔治王子县公设辩护人办公室法律书记员，2010年6—12月商品期货交易委员会法律实习生），未计为参加工作",
+        "inference": null
+      },
+      "education": {
+        "value": "博士研究生",
+        "source_ids": [
+          "s6",
+          "s13"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "乔治城大学法律中心法律博士学位",
+        "source_ids": [
+          "s6",
+          "s13"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "特拉维斯·希尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦存款保险公司",
+        "role": "董事长",
+        "start": {
+          "value": "2026-01-13",
+          "source_ids": [
+            "s1",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s7",
+          "s8",
+          "s9",
+          "s10"
+        ],
+        "roles": [
+          "董事长"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2002-08",
+          "source_ids": [
+            "s6",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006-05",
+          "source_ids": [
+            "s6",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "杜克大学",
+        "role": null,
+        "program": "经济学、政治学",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s6",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2008-08",
+          "source_ids": [
+            "s6",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011-05",
+          "source_ids": [
+            "s6",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "乔治城大学法律中心",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法律博士学位",
+          "source_ids": [
+            "s6",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-10",
+          "source_ids": [
+            "s14",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013-03",
+          "source_ids": [
+            "s14",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "地区金融公司",
+        "role": "政策分析师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s14",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "政策分析师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-04",
+          "source_ids": [
+            "s15",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018-07",
+          "source_ids": [
+            "s15",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国国会参议院银行、住房和城市事务委员会",
+        "role": "法律顾问、高级法律顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s15",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法律顾问",
+          "高级法律顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-07",
+          "source_ids": [
+            "s16",
+            "s3",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-02",
+          "source_ids": [
+            "s16",
+            "s3",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦存款保险公司",
+        "role": "董事长高级顾问、董事长政策事务副手",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s16",
+          "s3",
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长高级顾问",
+          "董事长政策事务副手"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-01-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025-01-20",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦存款保险公司",
+        "role": "副董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-01-20",
+          "source_ids": [
+            "s2",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-01-13",
+          "source_ids": [
+            "s2",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦存款保险公司",
+        "role": "代理董事长、副董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s7",
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "代理董事长",
+          "副董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-01-13",
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国联邦存款保险公司",
+        "role": "董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s8"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [
+      {
+        "field": "careers[杜克大学].program",
+        "alternatives": [
+          {
+            "value": "经济学、政治学",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "理学学士，辅修政治学",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "经济学、政治学",
+        "reason": "官网写 studied economics and political science；2022年问卷学位栏写 Bachelor of Science, minor in political science。草稿暂写“经济学、政治学”，主会话可改为“经济学专业（辅修政治学）”"
+      },
+      {
+        "field": "careers[美国联邦存款保险公司 2018—2022].roles",
+        "alternatives": [
+          {
+            "value": "政策事务副手 2018—2022，此前任高级顾问",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "高级顾问、政策事务副手合计 2018年7月—2022年2月",
+            "source_ids": [
+              "s16"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "政策事务副手 2018—2022，此前任高级顾问",
+        "reason": "官网把政策事务副手写成2018—2022年且在高级顾问之后，问卷只给两职合计起止，故合为一条，不写交接时间"
+      }
+    ],
+    "unknowns": [
+      "出生日期：未检得一级或二级来源（参议院银行委员会提名问卷不设出生日期栏）",
+      "出生地：未检得一级或二级来源（2022年证词称父母自纽约前来出席，不足以确定出生地）",
+      "全名（中间名）：未检得",
+      "2006年9月—2008年7月：问卷未列任何职位，经历未检得"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Travis Hill；美国联邦存款保险公司；董事长",
+    "review_items": []
+  }
+}

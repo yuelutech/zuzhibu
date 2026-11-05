@@ -1,0 +1,926 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001291",
+      "line": "cadre",
+      "subject_id": "b001291",
+      "title": "布莱恩·巴宾简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/Members/B001291",
+          "title": "Office of the Clerk, U.S. House of Representatives — Brian Babin",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Brian Babin\nTexas (TX) – 36th, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://history.house.gov/People/Detail/15032409424",
+          "title": "BABIN, Brian | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Port Arthur, Jefferson County, Tex., March 23, 1948; ... United States Air Force, 1975-1979; Texas Army National Guard, 1969-1975;",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://babin.house.gov/biography/",
+          "title": "About Brian | U.S. Representative Brian Babin",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "In 1979, he returned to East Texas and settled in Woodville, where he opened a dental office",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.lamar.edu/advancement/_files/documents/alumni/distinguished-alumni-awards-program.pdf",
+          "title": "Lamar University Distinguished Alumni Awards Program",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Babin earned a Bachelor of Science in Biology from Lamar University (LU) in 1973.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://time.com/archive/6729940/a-guide-to-the-congressional-races-texas/",
+          "title": "A GUIDE TO THE CONGRESSIONAL RACES: TEXAS",
+          "published_at": "1996-11-04",
+          "checked_at": "2026-10-18",
+          "excerpt": "Tyler County Republican chairman, 1990-95",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://science.house.gov/committee-members",
+          "title": "Committee Members - House Committee on Science Space & Tech - Republicans",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Chairman Brian Babin (R-TX)",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-TX-H-36.htm",
+          "title": "Congressional Directory for the 116th Congress (2019-2020), July 2020 — Texas, Thirty-Sixth District",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "president of Texas State Board of Dental Examiners, 1981-87; Deep East Texas Council of Governments member, 1982-84;",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres13eh/html/BILLS-119hres13eh.htm",
+          "title": "H. Res. 13 — Electing Members to certain standing committees of the House of Representatives",
+          "published_at": "2025-01-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "January 6, 2025. ... Committee on Science, Space, and Technology: Mr. Babin, Chair.",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.sos.state.tx.us/elections/forms/1996RPR.PDF",
+          "title": "1996 Republican Party Primary Election — March 12, 1996",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "1996 Republican Party Primary Election\nMarch 12, 1996",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.fec.gov/data/candidate/H6TX02079/",
+          "title": "BABIN, BRIAN - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Political party: Republican Party",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:TX"
+      ],
+      "person": {
+        "name": {
+          "value": "布莱恩·巴宾",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1948-03-23",
+          "source_ids": [
+            "s2",
+            "s8",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "得克萨斯州阿瑟港",
+          "source_ids": [
+            "s2",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1975",
+          "source_ids": [
+            "s2",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "按首份全职军职推算：众议院官方人物页记载美国空军服役时间为1975—1979年，TIME同期人物资料交叉支持。1969—1975年的国民警卫队经历与在校时期重合，未作为首份全职工作。来源：https://history.house.gov/People/Detail/15032409424；https://time.com/archive/6729940/a-guide-to-the-congressional-races-texas/。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1975",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s2",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "得克萨斯大学休斯敦牙科分校牙科外科博士学位",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1990",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：担任得克萨斯州泰勒县共和党主席，任期1990—1995年，取起始年1990；来源：https://time.com/archive/6729940/a-guide-to-the-congressional-races-texas/。检索未找到第1级选民党籍登记或本人宣布加入、改投共和党的记录。第4级锚点1996年3月12日共和党初选已有州选务机构记录，但级别低且晚于1990年党职，不采用；来源：https://www.sos.state.tx.us/elections/forms/1996RPR.PDF。FEC现页显示的2024年11月19日文件为现行参选声明版本，不作为首次登记日；来源：https://www.fec.gov/data/candidate/H6TX02079/。底稿2014年3月锚点不采用。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "1990",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（得克萨斯州第36选区）",
+          "role": "",
+          "start": {
+            "value": "2015-01-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院科学、空间和技术委员会",
+          "role": "主席",
+          "start": {
+            "value": "2025-01-06",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s7",
+            "s9"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院交通和基础设施委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1969",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "拉马尔大学官方资料和众议院人物页均记载1973年取得学士学位；按本科毕业年减4推算：1973－4＝1969。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1973",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1973",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "拉马尔大学",
+          "role": null,
+          "program": "生物学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1969",
+            "source_ids": [
+              "s2",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1975",
+            "source_ids": [
+              "s2",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "得克萨斯州陆军国民警卫队",
+          "role": "空降炮兵",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "空降炮兵"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s2",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1979",
+            "source_ids": [
+              "s2",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国空军",
+          "role": "上尉",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "上尉"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1979",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "私人执业",
+          "role": "牙科医生",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "牙科医生"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1981",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1987",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "得克萨斯州牙科医师考试委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s8"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1982",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1984",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "Deep East Texas Council of Governments",
+              "role": "成员",
+              "roles": [
+                "成员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s8"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1989",
+                "source_ids": [
+                  "s2",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1995",
+                "source_ids": [
+                  "s2",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "得克萨斯州历史委员会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s8"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1990",
+                "source_ids": [
+                  "s6"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1995",
+                "source_ids": [
+                  "s6"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国共和党得克萨斯州泰勒县委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s6"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1992",
+                "source_ids": [
+                  "s2",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1995",
+                "source_ids": [
+                  "s2",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "伍德维尔独立学区董事会",
+              "role": "董事",
+              "roles": [
+                "董事"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s8"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1996",
+                "source_ids": [
+                  "s2",
+                  "s6",
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1996",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国国会众议院",
+              "role": "联邦众议员候选人（得克萨斯州第2选区）",
+              "roles": [
+                "联邦众议员候选人（得克萨斯州第2选区）"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s6",
+                "s10"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1998",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1998",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国国会众议院",
+              "role": "联邦众议员候选人",
+              "roles": [
+                "联邦众议员候选人"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1999",
+                "source_ids": [
+                  "s2",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2014",
+                "source_ids": [
+                  "s2",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "Lower Neches Valley Authority",
+              "role": "成员",
+              "roles": [
+                "成员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1981",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1989",
+            "source_ids": [
+              "s2",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "得克萨斯州伍德维尔市",
+          "role": "市议员、市长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "市议员",
+            "市长"
+          ],
+          "role_category": null,
+          "role_basis": "按同一单位合并：1981—1982年、1984—1989年任市议员；1982—1984年任市长。各段年份均见众议院官方人物页。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-01-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（得克萨斯州第36选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（得克萨斯州第36选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025-01-06",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "众议院科学、空间和技术委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s7",
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "Lower Neches Valley Authority任职结束时间",
+          "alternatives": [
+            {
+              "value": "1999—2014年",
+              "source_ids": [
+                "s2",
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "自1999年起任职，网页使用现在完成时",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2014",
+          "reason": "采用众议院官方人物页和国会名录共同明确记载的结束年2014；议员官网传记沿用未注明结束时间的表述。此项一级来源差异列入复核清单，交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "牙科博士学习起始时间：查阅众议院人物页、议员官网传记、拉马尔大学官方履历、国会名录及相关检索，仅确认1976年取得D.D.S.，没有找到入学时间；未沿用底稿1975年入学，也未推算起始年，因此未建立缺少起点的学习条目。",
+        "空军服役与授衔时间：众议院人物页及TIME记载1975—1979年服役；议员官网称牙科学校毕业后获任空军上尉，未给授衔日期。服役起点按明确年份1975记录，未把上尉授衔时间写为1975年。",
+        "国民警卫队全职状态：查阅众议院人物页、议员官网和大学履历，没有找到1969—1975年是否存在全职现役阶段的说明；未据此把参加工作年提前至1969年。",
+        "牙科执业结束时间：议员官网确认1979年开设诊所，大学履历称执业35年，没有找到明确结束年月；end保留null，ongoing为false。",
+        "众议院交通和基础设施委员会任职起点：书记官现行名单和议员官网确认现任委员，所读页面没有明确首次就任日期；current_roles.start保留null，未建立缺少起点的履历括注。",
+        "族裔：查阅议员官方传记、众议院人物页和拉马尔大学履历，没有找到本人族裔自述或官方统计。",
+        "其他兼职日期：议员官网列出泰勒县商会董事及副主席、狮子会主席等经历，未给任期，未写入履历。",
+        "陆军预备役日期：拉马尔大学官方履历提及美国陆军预备役经历，未给任期，未单列。",
+        "履历月份：多数学习、军职和地方任职资料仅到年，全篇日期粒度选year；结构化字段保留已查到的准确日。",
+        "学业全日制状态：所读人物履历未明确标注，full_time均保留null。"
+      ],
+      "excluded": [
+        "底稿『拉马尔大学1971—1975年』：官方资料确认1973年取得理学学士，改用1969年推算入学、1973年毕业。",
+        "底稿『得克萨斯大学休斯敦牙科分校1975—1976年』：1976年毕业有来源，1975年入学没有来源，不采用该学习区间。",
+        "底稿『1975年6月参加工作』：没有月份依据；首份全职经历按空军服役记录推为1975年，动作改为入伍。",
+        "底稿『2014年3月加入美国共和党』：存在更高优先级且更早的1990年县共和党主席锚点，不采用。",
+        "底稿『联邦众议员现职自2025年1月起』：2025年是本届任期，首次代表第36选区始于2015年1月3日。",
+        "底稿『牙科医生1979—2014年』：1979年开业有官方来源，2014年结束没有明确日期依据，结束时间留空。",
+        "底稿仅列科学、空间和技术委员会职务：书记官现行名单另列交通和基础设施委员会，本次补入。",
+        "议员官网『2015年1月5日宣誓』：这是该页的宣誓日期表述；众议院人物页明确国会任职起点为2015年1月3日，现职起点采用后者。",
+        "FEC现页『2024年11月19日参选声明』：标注为Current version，不作为首次参选登记锚点。",
+        "1996年3月12日共和党初选：州选务原始记录已打开，作为较低级锚点保留取证路径，入党推断采用第2级1990年党职。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（得克萨斯州第36选区）＋美国国会众议院；Bioguide B001291",
+      "review_items": [
+        "Lower Neches Valley Authority结束年2014与议员官网持续任职表述的一级来源差异，交AI政见确认。",
+        "复核空军1975年服役起点与牙科毕业后授衔叙述的关系，以及首份全职工作推断。",
+        "牙科博士学习起始时间未获证据，履历缺少该学习区间。",
+        "表外机构译名复核：得克萨斯州牙科医师考试委员会、伍德维尔独立学区董事会、美国共和党得克萨斯州泰勒县委员会。",
+        "本事实包为研究候选稿，待下一会话逐字段独立联网核查。"
+      ]
+    }
+  ]
+}

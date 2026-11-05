@@ -1,0 +1,5 @@
+# 文本文件统一用 LF，避免 Windows 本机与云会话之间出现换行差异
+* text=auto eol=lf
+*.docx binary
+*.png binary
+*.jpg binary

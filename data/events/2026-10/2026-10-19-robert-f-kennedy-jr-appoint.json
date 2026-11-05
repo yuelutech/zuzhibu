@@ -1,0 +1,114 @@
+{
+  "id": "2026-10-19-robert-f-kennedy-jr-appoint",
+  "date": "2026-10-19",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "robert-f-kennedy-jr",
+  "person": {
+    "name_zh": "小罗伯特·肯尼迪",
+    "name_en": "Robert F. Kennedy Jr.",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-10-19",
+  "effective_at": "2026-10-19",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "白宫妇女健康工作组",
+      "role": "共同主席",
+      "organization_en": "White House Women’s Health Task Force",
+      "role_en": "Co-Chair",
+      "start": "2026-10-19",
+      "end": null,
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": [
+    {
+      "organization": "美国卫生与公众服务部",
+      "role": "部长",
+      "organization_en": "U.S. Department of Health and Human Services",
+      "role_en": "Secretary",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e2"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "小罗伯特·肯尼迪兼任白宫妇女健康工作组共同主席",
+  "summary": "卫生与公众服务部10月19日公告确认，肯尼迪与白宫办公厅主任怀尔斯共同主持新成立的白宫妇女健康工作组，协调联邦妇女健康工作。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+      "title": "Advancing Women’s Health to Improve Outcomes in All Phases of Life",
+      "publisher": "The White House",
+      "published_at": "2026-10-19",
+      "excerpt": "co-chaired by the Secretary of Health and Human Services",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://www.hhs.gov/press-room/trump-flotus-womens-health-executive-order-new-nih-division.html",
+      "title": "President Trump Signs Historic Executive Order to Advance Women’s Health, Championed by First Lady Melania Trump",
+      "publisher": "U.S. Department of Health and Human Services",
+      "published_at": "2026-10-19",
+      "excerpt": "co-chaired by Secretary Kennedy",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "checked_at": "2026-10-21",
+    "run": "20261021-114529",
+    "by": "本机 Codex 核查会话（重核，一次一条）",
+    "model": "gpt-6.1-sol/medium",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "人物：核实来源的摘录和网页标题里没有“kennedy”",
+      "类别：核实来源的摘录和网页标题里没有表示“任命”的字样"
+    ],
+    "rechecked": {
+      "at": "2026-10-21",
+      "previous": {
+        "by": "本机 Codex 研究与核查两次会话",
+        "run": "20261021-084648",
+        "checked_at": "2026-10-21",
+        "method": "codex"
+      }
+    }
+  },
+  "origin": "daily",
+  "lead": "research-robert-kennedy-womens-health",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "现任职务新增：白宫妇女健康工作组共同主席",
+      "履历新增：2026-10 白宫妇女健康工作组共同主席"
+    ],
+    "notes": [],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "robert-f-kennedy-jr",
+    "reason": "主要职务“美国卫生与公众服务部 部长”：总统、白宫、内阁与独立机构"
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-m001243",
+      "line": "cadre",
+      "subject_id": "m001243",
+      "title": "大卫·麦考米克简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "draft",
+        "senate",
+        "state:PA"
+      ],
+      "person": {
+        "name": {
+          "value": "大卫·麦考米克",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1965-08-17",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1987",
+          "source_ids": [],
+          "inferred": true,
+          "basis": "按履历首个非学习条目的开始年份推算：美国陆军第82空降师军官，陆军上尉（T2 Codex 初稿时间线，无来源）；发布稿作「1987年5月参加工作」，月份为旧规则推定，不采用",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1987",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "普林斯顿大学国际关系哲学博士学位",
+          "source_ids": [],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（宾夕法尼亚州）",
+          "role": "",
+          "start": {
+            "value": "2025-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1983",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1987",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国陆军军官学校",
+          "role": null,
+          "program": "机械工程",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1987",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1992",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国陆军第82空降师军官，陆军上尉",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1991",
+                "source_ids": [],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1991",
+                "source_ids": [],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "派驻海湾战争战区",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": []
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1992",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "普林斯顿大学",
+          "role": null,
+          "program": "国际关系",
+          "degree_awarded": {
+            "value": "文学硕士、哲学博士",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "麦肯锡公司顾问",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2005",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "FreeMarkets公司高级管理人员、首席执行官",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国商务部工业和安全事务副部长",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国白宫国际经济事务副国家安全顾问",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2009",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国财政部国际事务副部长",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2022",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "桥水基金公司总裁、联席首席执行官、首席执行官",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2022",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2022",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "大卫·麦考米克参议员竞选委员会共和党联邦参议员候选人",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2024",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "大卫·麦考米克参议员竞选委员会共和党联邦参议员候选人",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025",
+            "source_ids": [],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "宾夕法尼亚州联邦参议员",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作/入伍写法待定：首个履历条目为军职（美国陆军第82空降师军官，陆军上尉）",
+        "履历：T2 Codex 初稿时间线，逐条无来源，待重新取证",
+        "出生地：无来源（底稿首段作「宾夕法尼亚州华盛顿市人」）",
+        "入党时间：底稿无锚点，按 party_join.md 重新取锚点"
+      ],
+      "excluded": [
+        "发布稿「1987年5月参加工作」：月份为旧规则推定，只写到年",
+        "发布稿入党句「2022年1月加入美国共和党」：底稿无锚点、无来源，不采用"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

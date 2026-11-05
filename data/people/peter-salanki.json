@@ -1,0 +1,310 @@
+{
+  "id": "peter-salanki",
+  "name_zh": "彼得·萨兰基",
+  "name_en": "Peter Salanki",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“CoreWeave公司 联合创始人、首席技术官 CoreWeave Co-founder and Chief Technology Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/peter-salanki.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://s205.q4cdn.com/133937190/files/images/board/man/Peter-Salanki-Headshot.jpg",
+    "source": "https://investors.coreweave.com/governance/executive-management/default.aspx"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "CoreWeave",
+      "role_en": "Co-founder and Chief Technology Officer"
+    }
+  ],
+  "notes": [
+    "SEC field blank: no individual biography in the latest CoreWeave annual report or proxy statement."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“CoreWeave公司 联合创始人、首席技术官 CoreWeave Co-founder and Chief Technology Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "peter-salanki-20261018",
+    "line": "cadre",
+    "subject_id": "peter-salanki",
+    "title": "彼得·萨兰基简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.coreweave.com/leadership/peter-salanki",
+        "title": "Peter Salanki — CoreWeave Executive Leadership",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Peter Salanki has served as CoreWeave’s Chief Technology Officer since March 2024.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525058309/d899798ds1a.htm",
+        "title": "CoreWeave S-1/A — Management",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "as of March 15, 2025; Peter Salanki; 38; Chief Technology Officer",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "彼得·萨兰基",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1986-09",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "2025-03-15年龄38岁，出生区间1986-03-16至1987-03-15，取中间月份1986-09",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2025-03-15",
+          "duration_years": 38
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "CoreWeave 公司",
+        "role": "联合创始人、首席技术官",
+        "start": {
+          "value": "2024-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "联合创始人",
+          "首席技术官"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Sandvine 公司",
+        "role": "首席技术官办公室美洲总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席技术官办公室美洲总监"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "CoreWeave 公司",
+        "role": "工程总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程总监"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2024-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "CoreWeave 公司",
+        "role": "工程副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "CoreWeave 公司",
+        "role": "联合创始人、首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联合创始人",
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "CoreWeave 公司",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作时间：官网履历最早为2018年；未证实此前首份全职工作的时间。",
+      "学校、学位：官网及本次打开的SEC人物条目未披露。",
+      "国籍：已查所列来源，未找到可采用依据。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

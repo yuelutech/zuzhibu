@@ -1,0 +1,271 @@
+{
+  "id": "thomas-wolf",
+  "name_zh": "托马斯·沃尔夫",
+  "name_en": "Thomas Wolf",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“抱抱脸公司 联合创始人、首席科学家 Hugging Face Co-founder and Chief Scientist”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/thomas-wolf.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583857746553-5df7e9e5da6d0311fd3d53f9.jpeg",
+    "source": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Hugging Face",
+      "role_en": "Co-founder and Chief Scientist"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“抱抱脸公司 联合创始人、首席科学家 Hugging Face Co-founder and Chief Scientist”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "thomas-wolf-20261018",
+    "line": "cadre",
+    "subject_id": "thomas-wolf",
+    "title": "托马斯·沃尔夫简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.weforum.org/people/thomas-wolf/",
+        "title": "Thomas Wolf — World Economic Forum",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Co-Founder and Chief Science Officer, Hugging Face",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://thomwolf.io/index.html",
+        "title": "Thomas Wolf — personal biography",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "I spent five years at Plasseraud IP; In 2015, I started consulting for AI companies.",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://www.polytechnique.edu/en/news/hugging-face-joins-nvidia-two-x2003s-heart-open-ai-boom",
+        "title": "Hugging Face — two X2003 alumni",
+        "published_at": "2026-09-03",
+        "checked_at": "2026-10-18",
+        "excerpt": "three French entrepreneurs; Julien Chaumond and Thomas Wolf, both from the Class of 2003.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "托马斯·沃尔夫",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "法国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": {
+        "value": "索邦大学统计与量子物理博士学位",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "抱抱脸公司",
+        "role": "联合创始人、首席科学官",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "联合创始人",
+          "首席科学官"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "巴黎综合理工学院",
+        "role": null,
+        "program": "",
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "独立顾问",
+        "role": "人工智能顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "人工智能顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": true
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "抱抱脸公司",
+        "role": "联合创始人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联合创始人"
+        ],
+        "role_category": null,
+        "role_basis": "2016为共同创办年份；首席科学官职务单独起始日未披露。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "抱抱脸公司",
+    "conflicts": [],
+    "unknowns": [
+      "本科毕业年和出生年月未找到；X2003为入学届别，未按毕业年使用。",
+      "首份全职工作的起始日期未找到。",
+      "劳伦斯伯克利国家实验室激光等离子体研究、索邦大学及巴黎高等工业物理化学学校博士研究、Plasseraud IP专利律师五年、巴黎第一大学法律学位的具体年月未找到。",
+      "出生年月：已查所列来源，未找到可采用依据。",
+      "参加工作时间：已查所列来源，未找到可采用依据。",
+      "首席科学官的就任时间未核到；2016年履历只记录联合创始人。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": [
+      "首席科学官与库内首席科学家为同一职务的译法差异，未据此产生人事动态。"
+    ]
+  }
+}

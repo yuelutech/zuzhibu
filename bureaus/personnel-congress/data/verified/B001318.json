@@ -1,0 +1,673 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001318",
+      "line": "cadre",
+      "subject_id": "b001318",
+      "title": "贝卡·巴林特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BALINT,-Becca-(B001318)/",
+          "title": "BALINT, Becca | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Heidelberg, Germany, May 4, 1968;\nmajority leader, 2017-2021, president pro tempore, 2021-2023;\n(January 3, 2023-present).",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/B001318",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Becca Balint\nVermont (VT) – At Large, Democrat\nCommittee on the Budget\nCommittee on the Judiciary",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://balint.house.gov/about/",
+          "title": "Biography | U.S. Representative Becca Balint",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Becca earned her masters in education from Harvard University in 1995 and her MA in history from the University of Massachusetts at Amherst in 2001.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.freshproduce.com/siteassets/files/advocacy/government-profiles/rep.-becca-balint-d-vt-1.pdf",
+          "title": "PowerPoint Presentation",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Harvard Univ.\nGraduate School of Education, 1994-\n1995;BA, Women's Studies/History,\nSmith College, 1988-1990;Attended,\nLiberal Arts, Barnard College, 1986-\n1987;",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.sevendaysvt.com/news/woman-on-the-rise-becca-balints-ascent-from-stay-at-home-mom-to-senate-majority-leader-12923553/",
+          "title": "Woman on the Rise: Becca Balint’s Ascent From Stay-at-Home Mom to Senate Majority Leader | Seven Days",
+          "published_at": "2018-02-21",
+          "checked_at": "2026-10-18",
+          "excerpt": "In June 2014, one month before she graduated from Emerge, Balint announced she was running for state Senate",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://www.fec.gov/data/committee/C00797175/?cycle=2024&tab=about-committee",
+          "title": "BECCA BALINT FOR VERMONT - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Principal campaign committee ID: C00797175 Registration date: December 12, 2021",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://vtdigger.org/2021/01/05/balint-feels-the-pressure-as-a-historic-senate-chief-but-looks-to-focus-on-coronavirus/",
+          "title": "Balint feels the pressure as a historic Senate chief, but looks to focus on coronavirus - VTDigger",
+          "published_at": "2021-01-05",
+          "checked_at": "2026-10-18",
+          "excerpt": "Born May 4, 1968, on a military base in Heidelberg, Germany",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://vermontbiz.com/news/2022/december/18/meet-our-very-first-congresswoman-rebecca-balint",
+          "title": "Meet our very first congresswoman, Rebecca A Balint | Vermont Business Magazine",
+          "published_at": "2022-12-18",
+          "checked_at": "2026-10-18",
+          "excerpt": "I took my first teaching job in Londonderry.",
+          "tier": 2
+        },
+        {
+          "id": "s11",
+          "url": "https://electionarchive.vermont.gov/elections/view/68003",
+          "title": "2014 Aug 26 • Democratic Primary Election • State Senate • State Senate District Windham | State of Vermont",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Becca Balint",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=388",
+          "title": "Rep. Becca Balint Returns to Powerful House Judiciary Committee as Newly Elected Vice Ranking Member",
+          "published_at": "2025-01-14",
+          "checked_at": "2026-10-18",
+          "excerpt": "Today, Rep. Becca Balint (VT-AL) was elected Vice Ranking Member of the House Judiciary Committee",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:VT"
+      ],
+      "person": {
+        "name": {
+          "value": "贝卡·巴林特",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1968-05-04",
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "德国海德堡",
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "马萨诸塞大学阿默斯特分校历史学文学硕士学位",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2014-06",
+          "source_ids": [
+            "s7",
+            "s11",
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：以民主党身份公开宣布竞选佛蒙特州温德姆选区州参议员，2014-06；来源：https://www.sevendaysvt.com/news/woman-on-the-rise-becca-balints-ascent-from-stay-at-home-mom-to-senate-majority-leader-12923553/ 。报道明确称她挑战本党两名在任州参议员，并记载其随后取得民主党提名。检索个人官网、州议会履历和公开报道，未找到第1级本人党籍登记、公开宣布加入或转党日期，亦未找到更早的第2级党组织任职锚点；未取得2014年州参选登记受理日期，采用有来源的公开宣布月份。FEC竞选委员会C00797175登记日2021-12-12，晚于2014年有效锚点，不选用：https://www.fec.gov/data/committee/C00797175/?cycle=2024&tab=about-committee 。2014年民主党初选为第4级锚点，优先级低于公开宣布参选，不选用：https://electionarchive.vermont.gov/elections/view/68003 。支持其他政党候选人的报道不作本人党籍变动证据。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2014-06",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（佛蒙特州）",
+          "role": "",
+          "start": {
+            "value": "2023-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院预算委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1986",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1987",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "巴纳德学院",
+          "role": null,
+          "program": "博雅教育",
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1988",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1990",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "史密斯学院",
+          "role": null,
+          "program": "历史与女性研究",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1995",
+            "source_ids": [
+              "s3",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "哈佛大学教育研究生院",
+          "role": null,
+          "program": "教学与学习理论",
+          "degree_awarded": {
+            "value": "教育学硕士",
+            "source_ids": [
+              "s1",
+              "s3",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s7",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Farm & Wilderness",
+          "role": "攀岩教练",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "攀岩教练"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2001",
+            "source_ids": [
+              "s3",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "马萨诸塞大学阿默斯特分校",
+          "role": null,
+          "program": "历史学",
+          "degree_awarded": {
+            "value": "文学硕士",
+            "source_ids": [
+              "s3",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s1",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佛蒙特州参议院",
+          "role": "州参议员、多数党领袖、临时议长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员",
+            "多数党领袖",
+            "临时议长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（佛蒙特州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（佛蒙特州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.哈佛大学教育研究生院.end",
+          "alternatives": [
+            {
+              "value": "1994",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1995",
+              "source_ids": [
+                "s3",
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1995",
+          "reason": "候选事实包采用本人现行议员官网的1995年，National Journal人物资料转载件亦列1994—1995年；众议院历史页列1994年。一级来源之间的年份冲突交AI政见确认。"
+        },
+        {
+          "field": "careers.马萨诸塞大学阿默斯特分校.end",
+          "alternatives": [
+            {
+              "value": "2000",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2001",
+              "source_ids": [
+                "s3",
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2001",
+          "reason": "采用授予学位学校历史系标注的MA '01及本人现行官网的2001年，National Journal人物资料转载件亦列1999—2001年；众议院历史页列2000年。一级来源之间的年份冲突交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查阅众议院历史页、本人官网、VTDigger人物报道、Seven Days人物报道和Vermont Business Magazine本人访谈，未找到首份全职工作的起始年月。本人称首份教学岗位在Londonderry，但未给日期；1994年攀岩教练为夏令营经历，不据此填写work_start。",
+        "教师履历：本人官网确认曾在温德姆县教授初中十四年，Vermont Business Magazine访谈提到Londonderry首份教学岗位及其他任教经历；未找到各学校完整任职起止日期，不生成无日期的工作条目。",
+        "专栏作者履历：众议院历史页、Seven Days和Vermont Business Magazine确认其专栏作者经历，未取得可直接采用的准确起始日期及终止日期，不按报道所称若干年倒推。",
+        "Farm & Wilderness履历：Seven Days和Vermont Business Magazine确认1994年开始攀岩教练经历，未找到终止日期；end留空、ongoing为false。",
+        "学习性质：已打开的官方履历、学校页面及National Journal人物资料转载件未明确各段学习为全日制或在职，full_time留空，不推定与任职的同期关系。",
+        "早期学习及工作缺口：现有来源未覆盖1987年至1988年、1990年至1994年的完整经历。",
+        "委员会起始日期：众议院书记官现行名单和本人官网确认预算委员会、司法委员会现职；已打开来源未给出两项委员职务的准确首次生效日期，start留空。",
+        "族裔：已打开的本人官网和人物访谈记载家庭与犹太背景，未找到对应白人、非洲裔、拉丁裔、亚裔或原住民类别的本人明确自述或官方统计，ethnicity留空。",
+        "出生地行政区：众议院历史页及VTDigger均写德国海德堡，未在这两项出生资料中找到所在州，不补行政区名称。",
+        "完整简历卡：参加工作时间缺证，card_type留空，保留draft标签。"
+      ],
+      "excluded": [
+        "底稿『2025年1月开始担任美国联邦众议员』：这是新一届任期时间；众议院历史页明确其连续任职始于2023年1月3日。",
+        "底稿『1986—1990年史密斯学院』：National Journal人物资料转载件列巴纳德学院1986—1987年、史密斯学院1988—1990年；不将整个本科阶段归入史密斯学院。",
+        "底稿『1990—1994年哈佛大学』：没有来源支持；已打开人物资料列1994—1995年，本人官网列1995年取得教育学硕士，毕业年份冲突另列conflicts。",
+        "底稿『1994—1996年马萨诸塞大学阿默斯特分校历史学硕士』：没有来源支持；人物资料列1999—2001年，学校历史系确认MA '01。",
+        "底稿『1994—2014年佛蒙特州教师、专栏作者』：将不同单位、不同性质及未知起止时间的经历合并，未找到该连续任期依据。",
+        "底稿『1994年参加工作』及发布稿『2015年6月参加工作』：均未取得首份全职工作开始时间的证据，不采用。",
+        "底稿『哈佛大学教育学硕士为最高学位』：本人后来取得马萨诸塞大学阿默斯特分校历史学文学硕士，首段采用后取得的同层次学位。",
+        "底稿『2014年8月加入美国民主党』：本次找到更高优先级的2014年6月公开宣布以民主党身份参选锚点，改用2014-06。",
+        "查到的司法委员会『Vice Ranking Member』：并非少数党首席成员；按本批委员会role限定记录为委员，原职称及2025年1月14日当选事实保留于s12及review_items。",
+        "查到的国会平等党团共同主席、国会进步党团成员：属于议题党团职务或成员身份，本次不列为正式公职或常设委员会职务。",
+        "GovInfo 2026年国会名录PDF：打开返回Internal Error，不收入sources。",
+        "维基百科及其转载页面：仅用于寻找原始来源，不收入sources。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（佛蒙特州），美国国会众议院，Bioguide B001318",
+      "review_items": [
+        "AI政见确认两处一级来源学历年份冲突：哈佛大学1994/1995、马萨诸塞大学阿默斯特分校2000/2001；候选值分别为1995、2001。",
+        "本科及硕士入学日期、学院名称、教学与学习理论专业主要依据s6。该PDF注明资料来源包括National Journal，属于二级来源转载件，下一会话逐项重开核对。",
+        "司法委员会官网所用Vice Ranking Member的中文职称需与译名表核对；本包按本批限定职务类别填委员，未填资深成员。",
+        "州参议院同一单位职务合并：s1分别记载州参议员2015—2023年、多数党领袖2017—2021年、临时议长2021—2023年，未编具体交接月份。",
+        "党籍锚点采用2014年6月公开宣布竞选州参议员，来源s7；FEC的2021年联邦竞选登记及2014年州初选记录作为排除的较晚或较低级锚点。",
+        "参加工作时间补证前不生成完整简历卡。"
+      ]
+    }
+  ]
+}

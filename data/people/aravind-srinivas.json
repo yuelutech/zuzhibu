@@ -1,0 +1,273 @@
+{
+  "id": "aravind-srinivas",
+  "name_zh": "阿拉温德·斯里尼瓦斯",
+  "name_en": "Aravind Srinivas",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务““解惑”人工智能公司 联合创始人、首席执行官 Perplexity Co-founder and Chief Executive Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/aravind-srinivas.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "Perplexity",
+      "role_en": "Co-founder and Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务““解惑”人工智能公司 联合创始人、首席执行官 Perplexity Co-founder and Chief Executive Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "aravind-srinivas-20261018",
+    "line": "cadre",
+    "subject_id": "aravind-srinivas",
+    "title": "阿拉温德·斯里尼瓦斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://engineering.berkeley.edu/news/2025/03/berkeley-alum-wants-to-make-the-planet-smarter/",
+        "title": "Berkeley alum wants to make the planet smarter",
+        "excerpt": "Aravind Srinivas (Ph.D.’21 CS)",
+        "published_at": "2025-03-10",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://timesofindia.indiatimes.com/education/news/aravind-srinivas-educational-qualification-and-career-path-how-this-iit-madras-graduate-became-perplexity-ceo/amp_articleshow/122793956.cms",
+        "title": "Aravind Srinivas educational qualification and career path",
+        "excerpt": "Aravind Srinivas is an Indian computer scientist and entrepreneur",
+        "published_at": "2025-07-21",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://www.hindustantimes.com/world-news/us-news/who-is-aravind-srinivas-indian-origin-ceo-who-challenged-elon-musk-over-usaid-101739162459316-amp.html",
+        "title": "Who is Aravind Srinivas",
+        "excerpt": "returned to OpenAI in 2021 after his PhD",
+        "published_at": "2025-02-10",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "阿拉温德·斯里尼瓦斯"
+    ],
+    "person": {
+      "name": {
+        "value": "阿拉温德·斯里尼瓦斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "印度",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1994-06",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2021-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "2021",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "加利福尼亚大学伯克利分校",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "计算机科学博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "“解惑”人工智能公司",
+        "role": "联合创始人、首席执行官",
+        "start": {
+          "value": "2022-08",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2021",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2022-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2022",
+            "duration_years": null
+          }
+        },
+        "organization": "开放人工智能研究中心（OpenAI）",
+        "role": "研究科学家",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-08",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "“解惑”人工智能公司",
+        "role": "联合创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "“解惑”人工智能公司",
+    "conflicts": [],
+    "unknowns": [
+      "本科、硕士取得年份及博士入学年份未核实；首份全职研究工作月份未公开，取7月；官方标准照尚未取得。",
+      "已核实经历，开始时间未知：印度理工学院马德拉斯分校；电气工程；已获学士、硕士。来源：s2。",
+      "已核实经历，开始时间未知：加利福尼亚大学伯克利分校；计算机科学；已获博士；结束2021-07。来源：s1。"
+    ],
+    "excluded": [
+      "博士期间在OpenAI、DeepMind、Google的实习不作为参加工作时间。"
+    ],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

@@ -1,0 +1,858 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c000127",
+      "line": "cadre",
+      "subject_id": "c000127",
+      "title": "玛丽亚·坎特威尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/10608?ret=True",
+          "title": "CANTWELL, Maria E. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Indianapolis, Ind., October 13, 1958; attended public schools in Indianapolis; B.A., Miami University of Ohio 1980",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Cantwell, Maria (D-WA)\nCommittee on Commerce, Science, and Transportation (Ranking)",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been nine Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.cantwell.senate.gov/about/biography",
+          "title": "About Maria | U.S. Senator Maria Cantwell of Washington",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Maria Cantwell currently serves as a United States Senator for the State of Washington.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.sos.wa.gov/sites/default/files/2022-05/Voters%2520Pamphlet%25202012.pdf",
+          "title": "2012 Washington State Voters' Pamphlet",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Real Networks, Vice President of Marketing & Senior Vice President of the Consumer Products Division 1995-2000",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://miamioh.edu/news/top-stories/2015/10/paul-ryan-speaker.html",
+          "title": "New house speaker is Miami alumnus Paul Ryan '92 - Miami University",
+          "published_at": "2015-10-29",
+          "checked_at": "2026-10-19",
+          "excerpt": "Sen. Maria Cantwell (’80) of the state of Washington are the other Miamians currently serving in Congress.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.ebsco.com/research-starters/politics-and-government/maria-cantwell",
+          "title": "Maria Cantwell | Politics and Government | Research Starters | EBSCOhost",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Cantwell, the first person he hired, worked there until 1986.",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://web.leg.wa.gov/WomenInTheLegislature/Members/MemberBios/CantwellM_1987.pdf",
+          "title": "Maria Cantwell — Women in the Washington State Legislature",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Party Affiliation: Democrat\nYears served: 1987-93\nOffice: Representative;",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.spokesman.com/elections/2024/washington-general-election-nov-5/candidates/maria-cantwell/?page=2",
+          "title": "Candidate: Maria Cantwell | The Spokesman-Review",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Earned a bachelor’s degree from Miami University in Oxford, Ohio, in 1981.",
+          "tier": 2
+        },
+        {
+          "id": "s11",
+          "url": "https://www.senate.gov/states/WA/timeline.htm",
+          "title": "U.S. Senate: States in the Senate | Washington Timeline",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "a position she held until January 7, 2025.",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://www.commerce.senate.gov/press/rep/release/sen-cruz-designated-chairman-of-senate-committee-on-commerce-science-and-transportation-2025-1/",
+          "title": "Sen. Cruz Designated Chairman of Senate Committee on Commerce, Science, and Transportation",
+          "published_at": "2025-01-07",
+          "checked_at": "2026-10-19",
+          "excerpt": "Remaining on the committee are Ranking Member Maria Cantwell (D-Wash.)",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://www.cantwell.senate.gov/about/biography/committee-assignments",
+          "title": "Committee Assignments | About | U.S. Senator Maria Cantwell of Washington",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Senate Committee on Small Business and Entrepreneurship\nJoint Committee on Taxation",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "senate",
+        "state:WA"
+      ],
+      "person": {
+        "name": {
+          "value": "玛丽亚·坎特威尔",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1958-10-13",
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "印第安纳州印第安纳波利斯",
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "迈阿密大学公共管理文学学士学位",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1987",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第5级锚点：以民主党身份担任华盛顿州众议员，官方州议会人物档案记载任职始于1987年；来源：https://web.leg.wa.gov/WomenInTheLegislature/Members/MemberBios/CantwellM_1987.pdf 。第1级未找到本人选民党籍登记或公开宣布加入民主党的日期。第2级：EBSCO记载其在迈阿密大学任青年民主党组织主席，但未记就任年份，未据此补造日期。第3级：FEC记录联邦众议员竞选委员会登记于1992-02-20，晚于已有1987年州议会民主党公职锚点，不采用；未找到更早州级参选登记受理日。第4级：查到1986年州众议员初选线索，但州选务历史结果链接未能打开，未把底稿1986年9月作为已核实锚点。",
+          "inference": {
+            "rule": "party_anchor_partisan_office",
+            "from_date": "1987",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（华盛顿州）",
+          "role": "",
+          "start": {
+            "value": "2001-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院商务、科学和交通委员会",
+          "role": "资深成员",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s7",
+            "s12",
+            "s13"
+          ],
+          "roles": [
+            "资深成员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院能源和自然资源委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s13"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院财政委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s13"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院印第安人事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s13"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院小企业和创业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s13"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院、众议院税收联合委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s13"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1976",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "众议院官方传记记载1980年取得文学学士学位，迈阿密大学官网列为1980届校友；按美国本科四年学制倒推：1980－4＝1976。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1980",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1980",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "迈阿密大学",
+          "role": null,
+          "program": "公共管理",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1983",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "艾伦·克兰斯顿总统竞选团队",
+          "role": "外勤主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "外勤主任"
+          ],
+          "role_category": {
+            "value": "paid field director",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "按来源明确记载的paid field director译为外勤主任；未增加地域管辖范围。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1986",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Northwest Strategies",
+          "role": "职员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "职员"
+          ],
+          "role_category": {
+            "value": "the first person he hired",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "来源记载其为公司首位受雇人员，未提供具体职衔，概括为职员。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1987",
+            "source_ids": [
+              "s1",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s1",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "华盛顿州众议院",
+          "role": "州众议员（第44选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员（第44选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1995-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（华盛顿州第1选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（华盛顿州第1选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s5",
+              "s7",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2000",
+            "source_ids": [
+              "s5",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Progressive Networks 公司（1997年更名为 RealNetworks 公司）",
+          "role": "市场营销副总裁、消费产品事业部高级副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "市场营销副总裁",
+            "消费产品事业部高级副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2001-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（华盛顿州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（华盛顿州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2014-02-12",
+                "source_ids": [
+                  "s1",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2015-01-03",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "参议院小企业和创业委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s11"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2021-02-03",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2025-01-07",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "参议院商务、科学和交通委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s11"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025",
+                "source_ids": [
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "参议院商务、科学和交通委员会",
+              "role": "资深成员",
+              "roles": [
+                "资深成员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s7",
+                "s12",
+                "s13"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "careers.study.end",
+          "alternatives": [
+            {
+              "value": "1980",
+              "source_ids": [
+                "s1",
+                "s6",
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1981",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1980",
+          "reason": "采用众议院现行官方传记与迈阿密大学官网一致记载的1980年；报纸候选人页面记载1981年，保留异值。"
+        },
+        {
+          "field": "careers.senate.annotations.indian_affairs_chair.start",
+          "alternatives": [
+            {
+              "value": "2013-01-03",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2013-01-24",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": null,
+          "reason": "众议院人物页与参议院华盛顿州时间线均为一级来源，主席任职起始日期不同；该段兼职暂不写入履历，交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过众议院官方传记、参议员官网、州议会人物档案和EBSCO传记。毕业后帮助父亲管理油井投资、受雇于杰里·斯普林格竞选团队的开始时间及全职性质未找到；1983年克兰斯顿竞选团队有偿职务之前已有工作，不能把1983年直接定为第一份全职工作的起点。",
+        "早期履历：斯普林格竞选团队及父亲投资业务缺少可直接采用的任职起止日期；未列条目。1983年克兰斯顿竞选团队离职日期未知，end留空。",
+        "Northwest Strategies职衔：EBSCO只记载其为首位受雇人员，未找到具体职位名称，采用职员类别。",
+        "独立公关业务：众议院传记和州议会档案确认公关顾问或公关公司所有者经历，但未找到可直接采用的开始日期和公司正式名称，未单列。",
+        "本科入学日期：众议院传记和大学官网未提供，按1980年毕业减四年推为1976年；入学月、毕业月及脱产性质未找到。",
+        "入党锚点：未找到第1级登记或公开宣布日期；大学青年民主党组织主席就任年份未知；州级首次参选登记受理日未知；1986年初选官方历史结果链接打开失败。暂按官方州议会档案的1987年民主党公职作第5级锚点。",
+        "现任委员会任职起点：参议院第119届名单和议员官网未记能源和自然资源、财政、印第安人事务、小企业和创业、税收联合委员会委员的首次就任日期，current_roles.start留空；商务委员会本次资深成员起点仅采用来源明确记载的2025年。",
+        "委员会历史兼职：印第安人事务委员会主席起始日存在一级来源冲突，暂不列；其他历史委员会资深成员职务及其完整起止时间未完成取证。",
+        "族裔：已查官方人物页和传记，未找到本人自述或官方统计分类依据，留空。",
+        "完整简历卡：参加工作时间缺证，五项必填条件未齐，card_type留空。"
+      ],
+      "excluded": [
+        "底稿『1980年参加工作』及发布稿『1980年6月参加工作』：未找到第一份全职工作始于该年的证据，月份亦无依据。",
+        "底稿『1980—1986年民主党总统竞选组织工作人员、华盛顿州地方竞选组织工作人员』：合并了不同经历且起止缺证，改为单列已取证的1983年竞选职务和1985—1986年公司经历。",
+        "底稿『1986—1987年民主党华盛顿州众议员候选人』：候选身份与当选后阶段未分开，且起止时间无原始证据，未沿用。",
+        "底稿『1986年9月加入美国民主党』：本轮未能打开支持该初选日期及其参选身份的官方原文，未沿用。",
+        "FEC『1992-02-20竞选委员会登记』作为入党日期：晚于已取得的1987年民主党州议会公职锚点，不采用为入党时间。",
+        "底稿『1992—1993年联邦众议员候选人』『2000—2001年联邦参议员候选人』：跨越当选与就职阶段，未取得完整阶段划分日期，未沿用。",
+        "底稿现职起点『2025-01』：仅为最近一届任期起点，首次担任华盛顿州联邦参议员始于2001-01-03。",
+        "底稿『RealNetworks公司市场营销副总裁』：补入有选举公报支持的消费产品事业部高级副总裁，并保留任职初期公司名称Progressive Networks。",
+        "底稿『2021—2025年商务委员会主席』：以参议院官方时间线明确记载的2021-02-03至2025-01-07替代年级日期。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（华盛顿州）；美国国会参议院；Bioguide C000127",
+      "review_items": [
+        "核对第5级1987年入党锚点，并继续追查大学青年民主党组织主席就任年份及1986年州级首次参选登记、初选记录。",
+        "确认印第安人事务委员会主席起始日：众议院人物页2013-01-03，参议院时间线2013-01-24。",
+        "复核本科毕业年份冲突；当前选用国会官方传记和大学官网一致记载的1980年。",
+        "税收联合委员会为国会两院联合机构，中文组织名称需与译名表统一。",
+        "参加工作时间补证前保持seed级，不生成完整简历卡。"
+      ]
+    }
+  ]
+}

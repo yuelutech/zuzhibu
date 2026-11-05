@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "cadre-b000490",
+      "line": "cadre",
+      "subject_id": "b000490",
+      "title": "小桑福德·毕晓普简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/7697",
+          "title": "BISHOP, Sanford Dixon, Jr. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "B.A., Morehouse College, Atlanta, Ga., 1968; J.D., Emory University, Atlanta, Ga., 1971",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/B000490",
+          "title": "Office of the Clerk, U.S. House of Representatives — Sanford D. Bishop, Jr.",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Sanford D. Bishop, Jr. Georgia (GA) – 2nd, Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/bishop-sanford-d-jr-1947",
+          "title": "Bishop, Sanford D. Jr. 1947– | Encyclopedia.com",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Military service: ROTC cadet, 1969–71. ... moved to Columbus, Georgia, and began practicing law, 1972",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/GPO-CDOC-108hdoc224/pdf/GPO-CDOC-108hdoc224-3-2.pdf",
+          "title": "H.Doc. 108-224 Black Americans in Congress 1870-2007 — Sanford D. Bishop, Jr.",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "graduating in 1968 with a bachelor of arts degree in political science",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://blackleadership.virginia.edu/transcript/bishop-sanford",
+          "title": "Transcripts Sanford D. Bishop, Jr. | Explorations in Black Leadership",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "my first year at Law School at Emory. I went in 1968.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://dlg.usg.edu/record/dlg_ggpd_y-ga-bs700-pe4-bs1-bd4-b1976",
+          "title": "Consolidated vote state Democratic and Republican general primary election August 10, 1976 and runoff Democratic primary election August 31, 1976",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "CONSOLIDATED VOTE IN STATE DEMOCRATIC PRIMARY HELD AUGUST 10, 1976 ... SANFORD BISHOP",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.fec.gov/data/committee/C00266940/?cycle=2024&tab=filings",
+          "title": "SANFORD BISHOP FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Principal campaign committee ID: C00266940 Registration date: April 27, 1992",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://appropriations.house.gov/about/membership",
+          "title": "Membership | House Committee on Appropriations - Republicans",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Minority Committee Members ... Sanford Bishop GA - 02",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:GA"
+      ],
+      "person": {
+        "name": {
+          "value": "小桑福德·毕晓普",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1947-02-04",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "阿拉巴马州莫比尔",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "埃默里大学法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1976-08",
+          "source_ids": [
+            "s7",
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以民主党候选人身份参加佐治亚州众议院民主党初选，1976-08-10；来源：https://dlg.usg.edu/record/dlg_ggpd_y-ga-bs700-pe4-bs1-bd4-b1976 。检索未找到个人党籍登记、本人宣布加入民主党或更早党组织任职的合格记录，也未找到1976年州级参选登记受理日期。FEC所列联邦竞选委员会登记日1992-04-27晚于已确认的1976年党派初选，不取作入党时间；来源：https://www.fec.gov/data/committee/C00266940/?cycle=2024&tab=filings 。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1976-08-10",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": {
+          "value": "非洲裔",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（佐治亚州第2选区）",
+          "role": "",
+          "start": {
+            "value": "1993-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1964",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "莫尔豪斯学院文学学士毕业年为1968年，按美国本科四年学制倒推：1968－4＝1964。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1968",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1968",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "莫尔豪斯学院",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1968",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1971",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "埃默里大学法学院",
+          "role": null,
+          "program": "法学",
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1969",
+                "source_ids": [
+                  "s1",
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1971",
+                "source_ids": [
+                  "s1",
+                  "s4",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国陆军预备役军官训练团",
+              "role": "学员",
+              "roles": [
+                "学员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s4",
+                "s5"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1972",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "私人执业",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1977",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1991",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佐治亚州众议院",
+          "role": "众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1991",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佐治亚州参议院",
+          "role": "参议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "参议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（佐治亚州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（佐治亚州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：已查众议院历史人物页、国会官方黑人议员传记、Contemporary Black Biography及本人大学访谈。1969—1971年经历包含陆军基础训练和ROTC，未找到现役全职服役起止依据；本人将1971年毕业后的民权诉讼经历称为实习；二级传记确认1972年开始在哥伦布执业，但未明确此前是否已有全职工作，work_start留空。",
+        "军旅经历：已查国会官方传记及Contemporary Black Biography，未找到军衔、具体入伍月份、退出现役日期和ROTC以外职务。",
+        "律师履历：已查众议院历史人物页、Contemporary Black Biography和本人访谈，未找到私人执业终止日期，以及Bishop and Buckner律所职务的明确起止日期。",
+        "本科入学日期：已查国会官方传记，未找到直接记载；入学年按1968年毕业减四年推为1964年。",
+        "州议会任期月份：已查众议院历史人物页和国会官方传记，任期采用有直接依据的1977—1991年、1991—1993年，不补月份。",
+        "早期入党锚点：已检索个人党籍登记、本人宣布加入民主党、党组织任职及州级参选登记，未找到早于1976年民主党初选的合格记录。",
+        "其他同期兼职：已查国会官方传记及现行委员会名单，未取得相关党团和议员小组职务的完整生效日期，未写入履历括注。"
+      ],
+      "excluded": [
+        "底稿『2025年1月开始担任现选区联邦众议员』：该日期是本届宣誓时间；连续任职起点采用1993-01-03。",
+        "底稿『1971—1976年佐治亚州哥伦布市律师』：打开的二级传记记载1972年开始在哥伦布执业，未给出1976年终止依据，改为1972年起、结束日期留空。",
+        "底稿『1971年6月参加工作』：年份未核实为首份全职工作起点，月份无依据。",
+        "底稿『1969—1971年美国陆军军人』：资料明确包括ROTC学员和基础训练，改记为法学院学习同期ROTC经历，不扩写军职或军衔。",
+        "底稿『2025年起兼任众议院农业委员会委员』：第119届众议院书记官名单只列拨款委员会；众议院历史页所列农业委员会最近任期止于第118届。",
+        "底稿『2025年起兼任众议院拨款委员会委员』：官方历史页记载自第108届即2003年起任该委员会委员。",
+        "底稿『1976年8月加入美国民主党』：旧稿依据不采用；本次依据州务卿1976年8月10日民主党初选正式结果重新建立第4级锚点。",
+        "底稿『congress-legislators仓库首页』：本次不作为事实来源。",
+        "FEC『1992-04-27竞选委员会登记』：晚于已核实的1976年民主党初选，不采用为入党时间。",
+        "荣誉学位：不计入最高已取得学位和履历。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（佐治亚州第2选区），美国国会众议院，Bioguide B000490",
+      "review_items": [
+        "参加工作时间缺少首份全职工作的确定依据，完整简历卡五项必写字段尚未齐全。",
+        "入党时间采用1976年8月10日州民主党初选锚点；1992年联邦委员会登记已排除。",
+        "本人议员官网传记页及短传PDF本次打开失败，未列入sources。"
+      ]
+    }
+  ]
+}

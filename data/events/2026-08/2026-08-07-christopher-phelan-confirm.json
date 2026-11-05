@@ -1,0 +1,76 @@
+{
+  "id": "2026-08-07-christopher-phelan-confirm",
+  "date": "2026-08-07",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "christopher-phelan",
+  "person": {
+    "name_zh": "克里斯托弗·费兰",
+    "name_en": "Christopher Phelan",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国总统经济顾问委员会",
+      "role": "主席",
+      "organization_en": "Council of Economic Advisers",
+      "role_en": "Chairman",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "美国参议院确认克里斯托弗·费兰出任总统经济顾问委员会主席",
+  "summary": "参议院8月7日确认费兰的总统经济顾问委员会主席提名。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/LIS/floor_activity/08_07_2026_Senate_Floor.htm",
+      "title": "Senate Floor Activity — Friday, August 7, 2026",
+      "publisher": "美国参议院",
+      "published_at": "2026-08-07",
+      "excerpt": "Christopher Phelan, of Minnesota,",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 christopher-phelan（库里没有此人）",
+      "现任职务新增：美国总统经济顾问委员会主席",
+      "履历新增：2026-08 美国总统经济顾问委员会主席",
+      "所属局：按确认职务定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "christopher-phelan"
+  }
+}

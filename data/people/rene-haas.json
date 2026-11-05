@@ -1,0 +1,556 @@
+{
+  "id": "rene-haas",
+  "name_zh": "勒内·哈斯",
+  "name_en": "Rene Haas",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Arm公司 首席执行官 Arm Chief Executive Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/rene-haas.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.arm.com/-/media/global/company/leadership/rene-haas-leadership-204x204.png?h=204&hash=0E3AE36601196D6C19C0EB69D19A7BCD&la=en&rev=c66675be7e0b46fba5b60ce8233b410e&revision=c66675be-7e0b-46fb-a5b6-0ce8233b410e&w=204",
+    "source": "https://www.arm.com/company/leadership"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Arm",
+      "role_en": "Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Arm公司 首席执行官 Arm Chief Executive Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "rene-haas-20261018",
+    "line": "cadre",
+    "subject_id": "rene-haas",
+    "title": "勒内·哈斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.arm.com/company/leadership",
+        "title": "Arm Leadership",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Rene Haas is the Chief Executive Officer of Arm and a member of the Arm Board of Directors",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://find-and-update.company-information.service.gov.uk/officers/XtaRzxuRrhMu93lgdygOlbMAUqc/appointments",
+        "title": "Rene Anthony Andrada HAAS — Companies House",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Date of birth July 1962; Nationality American",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://group.softbank/en/about/officer/haas",
+        "title": "Biography: Rene Haas",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Date of birth: July 23, 1962",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.livemint.com/companies/people/the-natural-born-diplomat-behind-this-year-s-biggest-ipo-11694234313668.html",
+        "title": "The natural-born diplomat behind this year's biggest IPO",
+        "published_at": "2023-09-09",
+        "checked_at": "2026-10-18",
+        "excerpt": "got a bachelor’s degree in electrical engineering in 1984 from Clarkson University",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "勒内·哈斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1962-07",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "本科",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "克拉克森大学电气与电子工程理学学士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "Arm 公司",
+        "role": "首席执行官、董事",
+        "start": {
+          "value": "2022-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "软银集团",
+        "role": "董事",
+        "start": {
+          "value": "2023-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "roles": [
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "SoftBank Group International 公司",
+        "role": "首席执行官",
+        "start": {
+          "value": "2026-04",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "roles": [
+          "首席执行官"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1980-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "来源仅载1980年；按 cadre.md 3.3 的学年规则，入学取9月、毕业取5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1980",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1984-05",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "来源仅载1984年；按 cadre.md 3.3 的学年规则，入学取9月、毕业取5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1984",
+            "duration_years": null
+          }
+        },
+        "organization": "克拉克森大学",
+        "role": null,
+        "program": "电气与电子工程",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006-10",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013-10",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "英伟达公司",
+        "role": "计算产品事业部副总裁、总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "计算产品事业部副总裁",
+          "总经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-10",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Arm 公司",
+        "role": "战略联盟副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "战略联盟副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Arm 公司",
+        "role": "执行副总裁、首席商务官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "执行副总裁",
+          "首席商务官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-02",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Arm 公司",
+        "role": "知识产权产品事业群总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "知识产权产品事业群总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Arm 公司",
+        "role": "首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "软银集团",
+        "role": "董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-04",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "SoftBank Group International 公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "Arm 公司",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作时间：报道列TI、Xerox、NEC工程师经历但起止未知；2006年不是首份全职工作。",
+      "早期Scintera、Tensilica和工程岗位的逐段年月未知。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "新增软银集团董事和SBGI首席执行官现职均始于2026-06-01之前，不列本批动态。",
+      "Arm法人变更前后领导页统一列2022-02起；采用公司持续任职口径。",
+      "来源s3阅读记录：并列2006年以来任职年月）。"
+    ]
+  }
+}

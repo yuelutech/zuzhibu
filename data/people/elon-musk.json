@@ -1,0 +1,646 @@
+{
+  "id": "elon-musk",
+  "name_zh": "埃隆·马斯克",
+  "name_en": "Elon Musk",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“特斯拉公司 Chief Executive Officer (Tesla) Tesla Chief Executive Officer (Tesla)”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/elon-musk.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "file": "elon-musk.jpg",
+    "source": "维护者提供（埃隆·马斯克_Elon-Musk_特斯拉_雷达版.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/USAFA_Hosts_Elon_Musk_%28Image_1_of_17%29_%28cropped%29.jpg"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Tesla",
+      "role_en": "Chief Executive Officer (Tesla)"
+    },
+    {
+      "organization_en": "SpaceX",
+      "role_en": "Founder, Chief Executive Officer, Chief Technical Officer and Chairman (SpaceX)"
+    },
+    {
+      "organization_en": "xAI",
+      "role_en": "Co-founder (xAI)"
+    }
+  ],
+  "notes": [
+    "since refers to the Tesla CEO role. SpaceX acquired xAI in 2026-02. The SEC link is the Tesla biography. SpaceX has no annual report or proxy statement in its SEC submissions through 2026-10-17.",
+    "2025-01-20 至 2025-05-28 以非职业特别政府雇员身份任白宫办公厅总统高级顾问（联邦政府法庭书状）；总统称“政府效率部由马斯克领导”（2025-03-04 国会演讲），联邦政府在法庭文件中称其不是美国 DOGE 服务处及其临时组织的雇员、也不是该服务处行政长官。截至 2026-10-21 无政府职务"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“特斯拉公司 Chief Executive Officer (Tesla) Tesla Chief Executive Officer (Tesla)”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "elon-musk-20261018",
+    "line": "cadre",
+    "subject_id": "elon-musk",
+    "title": "埃隆·马斯克简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://ir.tesla.com/corporate/elon-musk",
+        "title": "Elon Musk | Tesla Investor Relations",
+        "excerpt": "since May 2002",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.munzinger.de/register/portrait/biographien/Elon%2BMusk/00/27925",
+        "title": "Elon Musk",
+        "excerpt": "südafrikanisch-amerikanischer Unternehmer",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://knowledge.wharton.upenn.edu/article/harnessing-the-sun-and-outer-space-elon-musks-sky-high-vision/",
+        "title": "Harnessing the Sun and Outer Space: Elon Musk's Sky-high Vision",
+        "excerpt": "he technically graduated in 1997",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
+        "title": "Elon Musk announces xAI",
+        "excerpt": "announced the launch",
+        "published_at": "2023-07-12",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465926053166/tm2611837d1_10ka.htm",
+        "title": "Tesla 2025 Form 10-K/A filed in 2026",
+        "excerpt": "Neuralink Corp., a company focused on developing brain-machine interfaces, where he serves as the Chief Executive Officer.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+        "title": "NVIDIA Rubin platform announcement",
+        "excerpt": "Elon Musk, founder and CEO of xAI",
+        "published_at": "2026-01-05",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "g3",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202500325/html/DCPD-202500325.htm",
+        "title": "Address Before a Joint Session of the Congress（Daily Compilation of Presidential Documents, DCPD-202500325）",
+        "published_at": "2025-03-04",
+        "checked_at": "2026-10-22",
+        "excerpt": "I have created the brandnew Department of Government Efficiency—DOGE—perhaps you've heard of it—perhaps—which is headed by Elon Musk, who is in the gallery tonight.",
+        "tier": 1
+      },
+      {
+        "id": "g4",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202500325/html/DCPD-202500325.htm",
+        "title": "Address Before a Joint Session of the Congress（Daily Compilation of Presidential Documents, DCPD-202500325）",
+        "published_at": "2025-03-04",
+        "checked_at": "2026-10-22",
+        "excerpt": "White House Senior Adviser Elon R. Musk",
+        "tier": 1
+      },
+      {
+        "id": "g11",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.117.0.pdf",
+        "title": "Defendants' Supplemental Brief in Support of Motion to Dismiss, State of New Mexico v. Musk, No. 1:25-cv-00429 (D.D.C.), ECF No. 117",
+        "published_at": "2026-01-07",
+        "checked_at": "2026-10-22",
+        "excerpt": "Mr. Musk joined the government on January 20, 2025, as a Senior Advisor to the President, with the status of a Special Government Employee (\"SGE\").",
+        "tier": 1
+      },
+      {
+        "id": "g12",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.117.0.pdf",
+        "title": "Defendants' Supplemental Brief in Support of Motion to Dismiss, State of New Mexico v. Musk, No. 1:25-cv-00429 (D.D.C.), ECF No. 117",
+        "published_at": "2026-01-07",
+        "checked_at": "2026-10-22",
+        "excerpt": "Mr. Musk's government service ended on May 28, 2025, 128 days later.",
+        "tier": 1
+      },
+      {
+        "id": "g16",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202500648/html/DCPD-202500648.htm",
+        "title": "The President's News Conference With White House Senior Adviser Elon R. Musk（DCPD-202500648）",
+        "published_at": "2025-05-30",
+        "checked_at": "2026-10-22",
+        "excerpt": "So I just want to thank Elon for his time as a special Government employee—can you imagine, they call him an employee?—but it's a special Government employee—and for coming and helping us.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "埃隆·马斯克"
+    ],
+    "person": {
+      "name": {
+        "value": "埃隆·马斯克",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1971-06",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "比勒陀利亚",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1995-06",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1995",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "宾夕法尼亚大学",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "物理学、经济学双学士",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": "沃顿官网区分1995年离校和1997年正式毕业。",
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "特斯拉公司",
+        "role": "首席执行官",
+        "start": {
+          "value": "2008-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "特斯拉公司",
+        "role": "董事",
+        "start": {
+          "value": "2004-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "太空探索技术公司（SpaceX）",
+        "role": "创始人、首席执行官、首席技术官、董事长",
+        "start": {
+          "value": "2002-05",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "xAI公司",
+        "role": "创始人",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s4",
+          "s6"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "Neuralink公司",
+        "role": "创始人、首席执行官",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "无聊公司",
+        "role": "创始人",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1992-07",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1992",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1995-07",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1995",
+            "duration_years": null
+          }
+        },
+        "organization": "宾夕法尼亚大学",
+        "role": null,
+        "program": "物理学、经济学",
+        "degree_awarded": {
+          "value": "双学士",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": "离校1995年，学位正式授予1997年。",
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1995",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1999-03",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Zip2公司",
+        "role": "联合创始人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1999-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1999",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "X.com公司",
+        "role": "创始人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002-05",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "太空探索技术公司（SpaceX）",
+        "role": "创始人、首席执行官、首席技术官、董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025-01-20",
+              "source_ids": [
+                "g11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2025-05-28",
+              "source_ids": [
+                "g12"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "白宫",
+            "role": "总统高级顾问（特别政府雇员，领导政府效率部）",
+            "roles": [
+              "总统高级顾问（特别政府雇员，领导政府效率部）"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "g11",
+              "g12",
+              "g3",
+              "g16"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016-11",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "SolarCity公司",
+        "role": "董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "特斯拉公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "特斯拉公司",
+    "conflicts": [],
+    "unknowns": [
+      "皇后大学入学年月未知。Neuralink首席执行官及无聊公司创始人身份起始年月未知；现职见2026年Tesla申报s5。",
+      "Tesla人物页仍保留Twitter首席执行官旧文字，该项现职未采用。s5明确X与xAI于2025年3月合并、xAI Holdings于2026年2月成为SpaceX子公司；合并后的当前管理职务不据旧页续写，xAI仅保留已核实创始人身份。",
+      "2023年7月为xAI公开发布月份，未用作创始人身份的开始月份。s5记载其于2023年3月至2025年3月任X.AI Corp.首席执行官及董事；随后任X.AI Holdings Corp.总裁、财务主管、首席执行官及董事，这组职务在2026年2月并购后的状态未查明。"
+    ],
+    "excluded": [
+      "Munzinger把1995写成取得学士的年份；宾夕法尼亚大学官网明确1995离校、1997正式毕业，学位日期采用大学原文。",
+      "2026-09-30 起任战争部委托研究“子午线计划”联合负责人：系经合作机构委托的研究项目，未见其政府雇员身份，不作为政府职务写入"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

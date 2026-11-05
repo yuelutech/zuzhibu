@@ -1,0 +1,577 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-kelly-loeffler",
+      "line": "cadre",
+      "subject_id": "kelly-loeffler",
+      "title": "凯莉·洛夫勒简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://legacy.sba.gov/person/kelly-loeffler",
+          "title": "Kelly Loeffler",
+          "excerpt": "Kelly Loeffler, the 28th Administrator of the U.S. Small Business Administration.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://legacy.sba.gov/article/2025/02/20/sba-administrator-kelly-loeffler-issues-statement",
+          "title": "SBA Administrator Kelly Loeffler Issues Statement",
+          "excerpt": "Loeffler was sworn in at the SBA headquarters this afternoon.",
+          "published_at": "2025-02-20",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-GA-S-2.htm",
+          "title": "Congressional Directory: Kelly Loeffler",
+          "excerpt": "Born November 27, 1970; B.S. 1992; MBA 1999; Toyota district account manager 1992–96.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-neige",
+        "research"
+      ],
+      "person": {
+        "name": {
+          "value": "凯莉·洛夫勒",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1970-11-27",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "美国伊利诺伊州布卢明顿",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1992-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：首份全职工作年份1992，月份未公开，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1992",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "工商管理硕士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国小企业管理局",
+          "role": "局长",
+          "start": {
+            "value": "2025-02-20",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1988-09",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1992",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1992-05",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1992",
+              "duration_years": null
+            }
+          },
+          "organization": "伊利诺伊大学厄巴纳—香槟分校",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1992-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：首份全职工作年份1992，月份未公开，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1992",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "丰田北美公司",
+          "role": "区域客户经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1997-09",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1999",
+              "duration_years": 2
+            }
+          },
+          "end": {
+            "value": "1999-05",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1999",
+              "duration_years": null
+            }
+          },
+          "organization": "德保罗大学",
+          "role": null,
+          "program": "国际金融与市场营销",
+          "degree_awarded": {
+            "value": "工商管理硕士",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "花旗全球资产管理公司",
+          "role": "股票研究助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2001",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "威廉·布莱尔公司",
+          "role": "股票研究助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2001",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Crossroads Investment Advisers",
+          "role": "投资者关系经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "洲际交易所",
+          "role": "首席传播与营销官、投资者关系负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Bakkt",
+          "role": "首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2020-01-06",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国参议院",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-02-20",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国小企业管理局",
+          "role": "局长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国政要",
+      "conflicts": [],
+      "unknowns": [
+        "国籍直接陈述、最早党籍锚点、1996年至1999年的全职工作和就读方式未核实。",
+        "参议员卸任日和2021年以后的非营利组织、科技企业职务完整任期待补证，历史参议员条目ongoing=false。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "Administrator | Small Business Administration",
+      "review_items": [
+        "人名译名表状态为待核：Kelly Loeffler／凯莉·洛夫勒",
+        "完整简历卡缺项：nationality。保留seed级事实包。",
+        "自查CR13：花旗1999—1999与威廉·布莱尔1999—2001按真实结束年排序正确；合成器把前条压成单年，lint将未显示的止年视为无止期，仍报排序错误。未改动来源年份。"
+      ]
+    }
+  ],
+  "source_task": "sanju-neige"
+}

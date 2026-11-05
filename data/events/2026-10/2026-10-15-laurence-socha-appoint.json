@@ -1,0 +1,79 @@
+{
+  "id": "2026-10-15-laurence-socha-appoint",
+  "date": "2026-10-15",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "laurence-socha",
+  "person": {
+    "name_zh": "劳伦斯·索查",
+    "name_en": "Laurence Socha",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": null,
+  "effective_at": "2026-10-15",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国驻冈比亚大使馆",
+      "role": "特命全权大使",
+      "organization_en": "United States Embassy in The Gambia",
+      "role_en": "United States Ambassador to The Gambia",
+      "start": "2026-10-15",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "劳伦斯·索查递交国书并正式履任美国驻冈比亚大使",
+  "summary": "10月15日，索查向冈比亚总统阿达马·巴罗递交国书，正式开始担任第22任美国驻冈比亚大使。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://thepoint.gm/africa/gambia/headlines/u-s-ambassador-socha-presents-credentials-to-barrow",
+      "title": "U.S. Ambassador Socha presents credentials to Barrow",
+      "publisher": "The Point",
+      "published_at": "2026-10-15",
+      "excerpt": "U.S. Ambassador Laurence Socha today presented his Letter of Credence to President Adama Barrow at State House, formally beginning his tenure as the 22nd United States Ambassador to The Gambia.",
+      "checked_at": "2026-10-18",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-18",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261018-080004",
+    "corrections": [
+      "new_roles[0].role → 特命全权大使（原写“驻冈比亚大使”；同一职务写法与参议院确认一致，2026-10-22 维护者定）"
+    ],
+    "reasons": []
+  },
+  "origin": "daily",
+  "lead": "search-laurence-socha",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-18",
+    "changes": [
+      "新建人物记录 laurence-socha（库里没有此人）",
+      "现任职务新增：美国驻冈比亚大使馆驻冈比亚大使",
+      "履历新增：2026-10 美国驻冈比亚大使馆驻冈比亚大使",
+      "所属局：定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "laurence-socha",
+    "reason": "主要职务“美国驻冈比亚大使馆 驻冈比亚大使”：总统、白宫、内阁与独立机构"
+  }
+}

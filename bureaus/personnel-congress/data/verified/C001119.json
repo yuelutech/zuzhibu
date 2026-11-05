@@ -1,0 +1,469 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001119",
+      "line": "cadre",
+      "subject_id": "c001119",
+      "title": "安琪·克雷格简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/C/CRAIG,-Angela-(C001119)/",
+          "title": "CRAIG, Angela | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in West Helena, Phillips County, Arkansas, on February 14, 1972; ... B.A., University of Memphis, Memphis, Tenn., 1994;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/Members/C001119",
+          "title": "Office of the Clerk, U.S. House of Representatives — Angie Craig",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Angie Craig\nMinnesota (MN) – 2nd, Democrat\nOath of Office: Jan. 03, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://democrats-agriculture.house.gov/about/members.htm",
+          "title": "Members | House Agriculture Committee",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Democratic Minority:\nRep. Angie Craig\nMN-02 Ranking Member",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://democrats-agriculture.house.gov/about/rankingmember.htm",
+          "title": "Ranking Member | House Agriculture Committee",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Craig is the first woman to serve as Ranking Member of the House Agriculture Committee",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.fec.gov/data/candidate/H6MN02131/",
+          "title": "CRAIG, ANGELA DAWN - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "CRAIG, ANGELA DAWN\nPolitical party: Democratic Party\nANGIE CRAIG FOR CONGRESS",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.fec.gov/data/committee/C00575209/?cycle=2024",
+          "title": "ANGIE CRAIG FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Principal campaign committee ID: C00575209 Registration date: April 05, 2015",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://encyclopediaofarkansas.net/entries/angela-dawn-craig-20310/",
+          "title": "Craig, Angie - Encyclopedia of Arkansas",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "She received a bachelor’s degree in journalism in 1994.\nCraig was with Smith & Nephew from 1997 to 2005",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://www.memphis.edu/jrsm/news/news_pdfs/meemanmattdec18.pdf",
+          "title": "Meeman Matters — December 2018",
+          "published_at": "2018-12",
+          "checked_at": "2026-10-19",
+          "excerpt": "She is a 1994 UofM graduate\nAfter graduation, Craig was able to land a position as a reporter for The Commercial Appeal",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.insideelections.com/news/article/candidate-conversation-angie-craig-dfl1",
+          "title": "Candidate Conversation - Angie Craig (DFL) | Inside Elections",
+          "published_at": "2018-01-19",
+          "checked_at": "2026-10-19",
+          "excerpt": "Date of Birth: Feb. 14, 1972; West Helena, Ark.\nEducation: Memphis State Univ. (B.A. 1994)",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:MN"
+      ],
+      "person": {
+        "name": {
+          "value": "安琪·克雷格",
+          "source_ids": [
+            "s2",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1972-02-14",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "阿肯色州西海伦娜",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "孟菲斯大学新闻学文学学士学位",
+          "source_ids": [
+            "s1",
+            "s8",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2015-04",
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：竞选委员会 ANGIE CRAIG FOR CONGRESS（C00575209）在联邦选举委员会登记，2015-04-05；来源：https://www.fec.gov/data/committee/C00575209/?cycle=2024 。候选人官方页面确认其民主党身份及该委员会的授权关系：https://www.fec.gov/data/candidate/H6MN02131/ 。已检索选民党籍登记、本人公开宣布入党及DFL党职线索，未找到可用的第1级日期；查到曾任DFL第51州参议院选区基层党组织主席的线索，但没有就任日期，未作第2级锚点。2016年党派选举及2019年就任公职属于较低级锚点，不采用；底稿2016年8月晚于已核实的委员会登记日期，不采用。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2015-04-05",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（明尼苏达州第2选区）",
+          "role": "",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院农业委员会",
+          "role": "资深成员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "roles": [
+            "资深成员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1990",
+            "source_ids": [
+              "s1",
+              "s9"
+            ],
+            "inferred": true,
+            "basis": "国会官方传记和孟菲斯大学刊物均记载1994年毕业；按美国本科四年学制推算，1994－4＝1990。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1994",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s1",
+              "s9",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "孟菲斯州立大学",
+          "role": null,
+          "program": "新闻学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s8",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2005",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "施乐辉公司",
+          "role": "骨科事业部传播总监、公司事务总监、美国投资者及媒体关系副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "骨科事业部传播总监",
+            "公司事务总监",
+            "美国投资者及媒体关系副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "圣犹达医疗公司",
+          "role": "传播副总裁、全球人力资源负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "传播副总裁",
+            "全球人力资源负责人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（明尼苏达州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（明尼苏达州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间、首份全职工作起始日期：已查国会官方传记、孟菲斯大学2018年刊物、2024年校友介绍及《阿肯色百科全书》。来源确认毕业后先在 The Commercial Appeal 实习，再成为全职记者，没有明确给出转为全职的年份和月份；work_start 留空，该记者经历因缺开始日期未列入 careers。",
+        "本科实际入学日期及学习形式：已查国会官方传记、孟菲斯大学刊物和 Inside Elections 访谈，未找到明确入学日期或全日制说明；入学年按1994年毕业减四年推算，full_time 留空。",
+        "众议院农业委员会资深成员就任日期：已查委员会成员页、资深成员传记和2025年1月22日委员会公告，确认现职，未找到明确生效日期；current_roles.start 留空，未以公告日代替就任日。",
+        "早期企业任职的月份和完整交接日期：已查学校刊物、《阿肯色百科全书》及企业履历检索线索，未取得完整的机构原始任命记录；同一公司各职务合并，日期保留到年。",
+        "2017年圣犹达医疗公司并入雅培后的具体职务：百科记载2017年2月离开雅培，没有明确给出收购后职务及其起始日期，未另列雅培任职条目。",
+        "竞选履历：已查国会官方传记、FEC候选人及委员会页面、2017年7月17日 Roll Call 报道和2018年FEC选举结果。可确认2016年落选、2017年再次宣布参选及2018年当选，尚未形成参选人、获提名候选人和当选人各阶段的完整起止日期，未沿用底稿2017—2018年候选人条目。",
+        "族裔：已查国会官方人物资料和委员会传记，未找到本人明确自述或官方统计依据，ethnicity 留空。",
+        "入党高级锚点：检索未找到选民党籍登记或本人公开宣布加入民主党的日期；DFL基层党职线索没有就任日期，现采用FEC竞选委员会登记锚点。",
+        "完整简历卡门槛：参加工作年份缺证，card_type 留空。"
+      ],
+      "excluded": [
+        "底稿『现任职务起始时间2025-01』：这是本届任期起点；国会官方传记记载自2019年1月3日起连续担任该选区联邦众议员，改用2019-01-03。",
+        "底稿『1994年参加工作』及发布稿『1994年6月参加工作』：毕业后存在实习阶段，未查到转为全职记者的明确日期，年份和月份均不沿用。",
+        "底稿『1994—2005年商业呼声报社记者、企业传播人员』：混合不同单位；已打开来源记载1997—2005年任职于 Smith & Nephew，分列为施乐辉公司经历，记者经历另记缺口。",
+        "底稿『2005—2017年圣犹达医疗公司人力资源和企业传播高级副总裁』：已打开来源支持传播副总裁、全球人力资源负责人，未支持该合成高级副总裁职称。",
+        "底稿『2017—2018年民主党联邦众议员候选人』：2017年宣布再次参选发生在初选提名前，不能将整个阶段均写为已获提名的候选人。",
+        "底稿『2016年8月加入美国民主党』：晚于2015年4月5日FEC竞选委员会登记锚点，不采用。",
+        "底稿『2025年起兼任农业委员会首席少数党成员』：现职移入 current_roles 的独立委员会条目，统一写资深成员；未取得明确就任日期，不保留该括注起始时间。",
+        "底稿『1990年本科入学』：没有直接入学记录，改为按1994年毕业减四年的有记录推算。",
+        "检索线索『曾任DFL基层党组织主席』：未找到明确就任日期，不据此编造第二级入党锚点或党职履历。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（明尼苏达州第2选区）＋美国国会众议院；Bioguide C001119；FEC H6MN02131",
+      "review_items": [
+        "补查 The Commercial Appeal 原始人事记录或本人明确履历，确定首份全职记者工作的起始年份。",
+        "企业任职起止和职称目前主要依据二级百科，补取施乐辉及圣犹达医疗公司的原始履历或任命材料。",
+        "履历学校名采用访谈记载的历史名称孟菲斯州立大学，学位字段采用国会官方记载的孟菲斯大学；交付前核定学校改名与毕业时间的对应关系。",
+        "继续查找DFL第51州参议院选区基层党职的就任记录；取得有效日期后重新比较入党锚点优先级。",
+        "补取农业委员会资深成员正式生效日期。",
+        "本事实包为研究候选稿，待下一会话逐字段独立核验。"
+      ]
+    }
+  ]
+}

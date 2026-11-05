@@ -1,0 +1,420 @@
+{
+  "id": "charles-j-chuck-fleischmann",
+  "name_zh": "查尔斯·弗莱施曼",
+  "name_en": "Charles J. \"Chuck\" Fleischmann",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {
+    "bioguide": "F000459"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "charles-j-chuck-fleischmann.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Chuck_Fleischmann_119th_Congress.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（House Creative Services；[1]），File:Chuck Fleischmann 119th Congress.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Chuck_Fleischmann_119th_Congress.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-f000459",
+    "line": "cadre",
+    "subject_id": "f000459",
+    "title": "查尔斯·弗莱施曼简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "",
+        "tier": 1
+      },
+      {
+        "id": "care1",
+        "url": "https://github.com/yuelutech/zuzhibu-archive/blob/d4e223436dc4f548069b85bfb14569402edf0257/bureaus/personnel-congress/import/ceo-profiles/resumes/F000459.md",
+        "title": "国会议员简历底稿（2026年6月整理，仓库归档）",
+        "published_at": "2026-06-13",
+        "checked_at": "2026-10-22",
+        "excerpt": "查尔斯·弗莱施曼，男，1962年10月生，纽约州纽约市人，研究生学历，法学博士学位，1987年6月参加工作，2010年8月加入美国共和党。",
+        "tier": 3
+      },
+      {
+        "id": "cdir1",
+        "url": "https://www.govinfo.gov/app/details/CDIR-2026-02-20",
+        "title": "Official Congressional Directory, 119th Congress（2026年2月20日版，美国政府出版局）",
+        "published_at": "2026-02-20",
+        "checked_at": "2026-10-22",
+        "excerpt": "CHARLES J. \"CHUCK\" FLEISCHMANN, Republican, of Ooltewah, TN; born in New York, NY, October 11, 1962; education: B.A., magna cum laude, political science, University of Illinois, Urbana-Champaign, IL, 1983; J.D., University of Tennessee College of Law, Knoxville, TN, 1986",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "house",
+      "state:TN"
+    ],
+    "person": {
+      "name": {
+        "value": "查尔斯·弗莱施曼",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1962-10-11",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "纽约州纽约市",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1987",
+        "source_ids": [
+          "care1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "田纳西大学法学院法学博士学位",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（田纳西州第3选区）",
+        "role": "",
+        "start": {
+          "value": "2025-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1980",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1983",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "伊利诺伊大学厄巴纳-香槟分校",
+        "role": null,
+        "program": "政治学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1983",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1986",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "田纳西大学法学院",
+        "role": null,
+        "program": null,
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "弗莱施曼律师事务所律师、合伙人",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2002",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2003",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "查塔努加律师协会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": []
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2003",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2004",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "查塔努加律师公益委员会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": []
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "田纳西州第3选区联邦众议员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [],
+    "unknowns": [
+      "履历：来源只有旧项目国会议员简历底稿（三级），待重新取证",
+      "入党时间：底稿无锚点，按 party_join.md 重新取锚点"
+    ],
+    "excluded": [
+      "发布稿「1987年6月参加工作」：月份为旧规则推定，只写到年",
+      "发布稿入党句「2010年8月加入美国共和党」：底稿无锚点、无来源，不采用"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

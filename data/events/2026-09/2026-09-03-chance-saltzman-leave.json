@@ -1,0 +1,97 @@
+{
+  "id": "2026-09-03-chance-saltzman-leave",
+  "date": "2026-09-03",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "chance-saltzman",
+  "person": {
+    "name_zh": "钱斯·萨尔茨曼",
+    "name_en": "Chance Saltzman",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-03",
+  "effective_at": "2026-09-03",
+  "ended_roles": [
+    {
+      "organization": "美国太空军",
+      "organization_en": "United States Space Force",
+      "role": "太空作战部长",
+      "role_en": "Chief of Space Operations",
+      "start": null,
+      "end": "2026-09-03",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "钱斯·萨尔茨曼交卸美国太空军太空作战部长职务",
+  "summary": "9月3日，Schiess在交接仪式上接任太空作战部长，接替Saltzman。报道另提到8月举行退休仪式；本条记录军种首长交接日。其他现职未查清，本次检索未发现具体新任命。",
+  "bureaus": [
+    "military"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.stripes.com/branches/space_force/2026-09-04/douglas-schiess-space-force-cso-22753119.html",
+      "title": "Schiess installed as Space Force’s highest-ranking officer",
+      "publisher": "Stars and Stripes",
+      "published_at": "2026-09-04",
+      "excerpt": "Schiess succeeded Gen. Chance Saltzman as the third chief of space operations of the Space Force.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "c1",
+      "url": "https://www.dvidshub.net/image/9911766/cso-schiess-change-responsibility",
+      "title": "CSO Schiess change of responsibility",
+      "publisher": "",
+      "published_at": "2026-09-03",
+      "excerpt": "Chief of Space Operations Gen. Douglas Schiess speaks during his change of responsibility ceremony on Joint Base Andrews, Md., Sept. 3, 2026. Schiess succeeded Gen. Chance Saltzman as the third CSO of the U.S. Space Force.",
+      "supports": [
+        "announced_at"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "announced_at → 2026-09-03（来源 c1）",
+      "核查只因来源记录问题搁置：删去未核实的来源，其余字段已核实"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 chance-saltzman（库里没有此人）"
+    ],
+    "notes": [
+      "原任“美国太空军 太空作战部长 United States Space Force Chief of Space Operations”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "military",
+    "person_id": "chance-saltzman",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

@@ -1,0 +1,621 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001072",
+      "line": "cadre",
+      "subject_id": "c001072",
+      "title": "安德烈·卡尔森简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/11806",
+          "title": "CARSON, André | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Indianapolis, Marion County, Ind., October 16, 1974; ... M.S., Indiana Wesleyan University, Marion, Ind., 2005",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://carson.house.gov/about/biography",
+          "title": "Biography | Congressman Andre Carson",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Congressman André D. Carson ... a Master's in Business Management from Indiana Wesleyan University. ... worked full-time in law enforcement.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://clerk.house.gov/members/C001072?simple=True",
+          "title": "Office of the Clerk, U.S. House of Representatives — André Carson",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "André Carson ... Indiana (IN) – 7th, Democrat ... Committee on Transportation and Infrastructure ... Permanent Select Committee on Intelligence",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-IN.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Indiana",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "M.B.A., Indiana Wesleyan University ... investigative officer for the Indiana State Excise Police, 1997-2006; ... Intelligence Fusion Center, 2006;",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.fec.gov/data/committee/C00442921/",
+          "title": "ANDRE CARSON FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Principal campaign committee ID: C00442921 Registration date: January 02, 2008",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.fec.gov/data/candidate/H8IN07184/",
+          "title": "CARSON, ANDRE - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Seat: Indiana House District 7 ... Political party: Democratic Party ... ANDRE CARSON FOR CONGRESS",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.cuw.edu/about/_assets/concordian/2009fall/print.pdf",
+          "title": "2009 Fall Concordian — U.S. Congressman Andre Carson Speaks at Indianapolis Graduation",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "a 2003 graduate of Concordia University Indianapolis with a Bachelor’s Degree in Management of Criminal Justice",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.govinfo.gov/content/pkg/GPO-CDOC-118hdoc16/pdf/GPO-CDOC-118hdoc16-4-1.pdf",
+          "title": "Black Americans in Congress — Appendix A: Black-American Members by Congress, 1870–2022",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Black-American Members by Congress, 1870–2022 ... André Carson (D-IN)",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2008-03-13/html/CREC-2008-03-13-pt1-PgH1660-2.htm",
+          "title": "Congressional Record, Volume 154 Issue 43 (Thursday, March 13, 2008) — Welcoming the Honorable Andre Carson",
+          "published_at": "2008-03-13",
+          "checked_at": "2026-10-19",
+          "excerpt": "I do think today as he is sworn in, he is probably best known as Julia Carson's grandson.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:IN"
+      ],
+      "person": {
+        "name": {
+          "value": "安德烈·卡尔森",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1974-10-16",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "印第安纳州印第安纳波利斯",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1997",
+          "source_ids": [
+            "s5",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "《国会名录》记载其1997—2006年任印第安纳州消费税警察调查员；议员官网明确其国会任职前从事全职执法工作。以目前查到的首份全职工作起始年1997年作为参加工作年，不补月份。来源：https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-IN.htm；https://carson.house.gov/about/biography",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1997",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "印第安纳卫斯理大学商业管理理学硕士学位",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2008-01",
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：本人授权的主要竞选委员会ANDRE CARSON FOR CONGRESS（C00442921）在联邦选举委员会登记，2008-01-02；来源：https://www.fec.gov/data/committee/C00442921/；候选人及民主党身份对应来源：https://www.fec.gov/data/candidate/H8IN07184/。第1级未检得本人党籍登记或公开宣布加入民主党的日期；第2级检索到早年民主党基层党职线索，未找到可打开的原始任职日期证据。亦检索印第安纳州及印第安纳波利斯2007年地方参选登记，未取得可打开的登记受理记录。2008年国会当选及就任属于较低级锚点；底稿2007年10月无来源，不采用。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2008-01-02",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": {
+          "value": "非洲裔",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（印第安纳州第7选区）",
+          "role": "",
+          "start": {
+            "value": "2008-03-13",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s2",
+            "s10"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国众议院民主党党团",
+          "role": "资深党鞭",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "资深党鞭"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院交通和基础设施委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院常设情报特别委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院美国与中国共产党战略竞争特别委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "印第安纳州消费税警察",
+          "role": "调查员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "调查员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [
+            {
+              "kind": "study",
+              "start": {
+                "value": "1999",
+                "source_ids": [
+                  "s1",
+                  "s8"
+                ],
+                "inferred": true,
+                "basis": "本科毕业年为2003年，按本批允许的美国本科标准学制4年倒推：2003－4＝1999。实际入学年未查得。来源：https://history.house.gov/People/Detail/11806；https://www.cuw.edu/about/_assets/concordian/2009fall/print.pdf",
+                "inference": {
+                  "rule": "graduation_minus_four",
+                  "from_date": "2003",
+                  "duration_years": 4
+                }
+              },
+              "end": {
+                "value": "2003",
+                "source_ids": [
+                  "s1",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "康科迪亚大学威斯康星分校",
+              "role": null,
+              "roles": [],
+              "program": "刑事司法管理",
+              "degree_awarded": {
+                "value": "文学学士",
+                "source_ids": [
+                  "s1",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s2",
+                "s5",
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "印第安纳州国土安全部情报融合中心",
+          "role": "情报及反恐人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "情报及反恐人员"
+          ],
+          "role_category": {
+            "value": "worked in intelligence and counter-terrorism",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "议员官网说明其从事情报和反恐事务并任职于情报融合中心，未列具体职衔，概括为情报及反恐人员。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2008",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "印第安纳波利斯—马里恩县市县议会",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008-03-13",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（印第安纳州第7选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s1",
+            "s10"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（印第安纳州第7选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.degree",
+          "alternatives": [
+            {
+              "value": "印第安纳卫斯理大学商业管理理学硕士学位（M.S.）",
+              "source_ids": [
+                "s1",
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "印第安纳卫斯理大学工商管理硕士学位（M.B.A.）",
+              "source_ids": [
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "印第安纳卫斯理大学商业管理理学硕士学位",
+          "reason": "众议院现行人物页明确列M.S.及2005年，议员现行官网列Business Management专业；采用两页组合。2022年《国会名录》列M.B.A.，保留一级来源间冲突，交AI政见确认。"
+        },
+        {
+          "field": "current_roles[0].start / careers[3].start",
+          "alternatives": [
+            {
+              "value": "2008-03-11",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2008-03-13",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2008-03-13",
+          "reason": "众议院历史人物页按特别选举日2008年3月11日起计算国会服务；3月13日《国会记录》记载其当日宣誓。本批要求以实际就任日期填写，采用宣誓日，分别保留选举与宣誓两种日期口径。"
+        }
+      ],
+      "unknowns": [
+        "参加工作月份：查阅议员官网和《国会名录》，仅取得1997年起的任职年份，不补月份。",
+        "本科实际入学日期及学习形式：查阅众议院人物页、议员官网及康科迪亚大学校刊，仅确认2003年毕业；起始年按毕业年减4推算，未确认脱产或在职教学形式。",
+        "硕士学习起止及学习年限：查阅众议院人物页、议员官网、《国会名录》并检索印第安纳卫斯理大学官网，确认2005年取得硕士学位，未取得入学日期或明确学习年限；不沿用底稿2003—2005年学习期，不建立缺少起始依据的学习条目。",
+        "印第安纳州国土安全部情报融合中心任职结束日期及正式职衔：议员官网和《国会名录》未列；结束日期留空，职务按官网所述类别概括。",
+        "Cripe公司任职起止：国会人物页仅记marketing representative，未列单位及日期；检索到《印第安纳波利斯商业杂志》2007年9月17日报道，但原网页打开失败，未列入sources或履历。",
+        "地方议会任职具体月份：众议院人物页记2007—2008年，未取得可打开的地方官方就职、离任原始记录。",
+        "民主党更高优先级入党锚点：检索党籍登记、本人公开宣布及民主党基层党职，未取得有日期的合格原文；2007年地方参选登记也未取得可打开的受理记录，采用已打开FEC委员会登记日期。",
+        "资深党鞭起始日期：议员现行官网确认现任Senior Whip，未列首次就任日期，current_roles.start留空。",
+        "三项现任委员会职务的具体生效日期：众议院书记官现行名单及议员官网确认在任，未取得第119届任命生效日；不以国会开幕日补填，也不生成缺少起始日期的履历括注。",
+        "任职空档：1997年以前及2006—2007年各工作的具体衔接日期未取得原始依据。"
+      ],
+      "excluded": [
+        "底稿『1996年参加工作、1996—2005年任合规官』：未取得支持该起止年份的可打开合格来源；已打开《国会名录》记调查员任期为1997—2006年，采用后者。",
+        "底稿『2005年6月参加工作』：无来源，且晚于已取得依据的1997年全职执法任职。",
+        "底稿『2001—2003年本科学习』：未取得实际入学年依据，改为2003年毕业减4推算1999年，并保留推算标记。",
+        "底稿『2003—2005年硕士学习』：未取得入学年或学习年限依据，仅保留已取得的最高学位事实。",
+        "底稿『2005—2007年国土安全部反恐人员、Cripe公司市场专员』：两个单位不合并；官方名录所载情报融合中心起始年份为2006年，Cripe任职日期尚缺可打开的合格来源。",
+        "底稿『2007年10月加入美国民主党』：无合格锚点，采用FEC竞选委员会2008年1月2日登记这一第3级锚点。",
+        "底稿『现任联邦众议员起始2025年1月』：这是新一届任期，首次代表现选区的就任发生在2008年。",
+        "底稿『仅任交通和基础设施委员会、常设情报特别委员会委员』：书记官现行名单另列美国与中国共产党战略竞争特别委员会，已补入。",
+        "检索到的维基百科及其镜像：仅作检索线索，未列入sources。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（印第安纳州第7选区），美国国会众议院；Bioguide C001072",
+      "review_items": [
+        "一级来源间硕士学位类型冲突：现行众议院人物页M.S.与2022年《国会名录》M.B.A.，已选择M.S.，交AI政见确认。",
+        "国会服务起算日与宣誓日分列：2008年3月11日、3月13日；本包按实际宣誓就任选择3月13日。",
+        "本科起始年1999年为标准学制推算；硕士学习条目因缺少起始依据未生成。",
+        "中文姓名按指定译名保留；康科迪亚大学威斯康星分校、印第安纳卫斯理大学、印第安纳州消费税警察及特别委员会中文名称交译名表复核。",
+        "本包为研究会话候选事实包，下一会话逐字段重新联网核查。"
+      ]
+    }
+  ]
+}

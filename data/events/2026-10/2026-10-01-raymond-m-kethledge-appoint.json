@@ -1,0 +1,92 @@
+{
+  "id": "2026-10-01-raymond-m-kethledge-appoint",
+  "date": "2026-10-01",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "raymond-m-kethledge",
+  "person": {
+    "name_zh": "雷蒙德·M.凯思利奇",
+    "name_en": "Raymond M. Kethledge",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-10-01",
+  "effective_at": "2026-10-01",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国联邦第六巡回上诉法院",
+      "role": "首席法官",
+      "organization_en": "United States Court of Appeals for the Sixth Circuit",
+      "role_en": "Chief Judge",
+      "start": "2026-10-01",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    },
+    {
+      "organization": "美国第六巡回司法理事会",
+      "role": "主席",
+      "organization_en": "Sixth Circuit Judicial Council",
+      "role_en": "Chair",
+      "start": "2026-10-01",
+      "end": null,
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "雷蒙德·M.凯思利奇任美国联邦第六巡回上诉法院首席法官",
+  "summary": "凯思利奇10月1日接替杰弗里·萨顿担任首席法官，并兼任第六巡回司法理事会主席。",
+  "bureaus": [
+    "justice"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.ca6.uscourts.gov/news/honorable-raymond-m-kethledge-assumed-position-chief-judge",
+      "title": "The Honorable Raymond M. Kethledge assumed the position of Chief Judge",
+      "publisher": "美国联邦第六巡回上诉法院",
+      "published_at": "2026-10-01",
+      "excerpt": "On October 1, 2026, the Honorable Raymond M. Kethledge assumed the duties of Chief Judge",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 raymond-m-kethledge（库里没有此人）",
+      "现任职务新增：美国联邦第六巡回上诉法院首席法官",
+      "履历新增：2026-10 美国联邦第六巡回上诉法院首席法官",
+      "现任职务新增：美国第六巡回司法理事会主席",
+      "履历新增：2026-10 美国第六巡回司法理事会主席",
+      "所属局：定为六局·公检法干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "justice",
+    "person_id": "raymond-m-kethledge",
+    "reason": "主要职务“美国联邦第六巡回上诉法院 首席法官”：法院、司法部与执法机构"
+  }
+}

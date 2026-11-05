@@ -1,0 +1,524 @@
+{
+  "id": "dan-crenshaw",
+  "name_zh": "丹·克伦肖",
+  "name_en": "Dan Crenshaw",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "reverified",
+  "ids": {
+    "bioguide": "C001120"
+  },
+  "data_cutoff": "2026-10-19",
+  "roles_checked_at": "2026-10-19",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入，reverify.py 重核通过",
+  "portrait": {
+    "file": "dan-crenshaw.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rep._Dan_Crenshaw,_official_portrait,_118th_Congress.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（House Creative Services；https://crenshaw.house.gov/official-portrait），File:Rep. Dan Crenshaw, official portrait, 118th Congress.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Rep._Dan_Crenshaw%2C_official_portrait%2C_118th_Congress.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-c001120",
+    "line": "cadre",
+    "subject_id": "c001120",
+    "title": "丹·克伦肖简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://history.house.gov/People/Detail/25769805215",
+        "title": "CRENSHAW, Daniel | US House of Representatives: History, Art & Archives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "born in Aberdeen, Scotland, March 14, 1984; elected as a Republican; (January 3, 2019-present).",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://clerk.house.gov/members/C001120?simple=True",
+        "title": "Office of the Clerk, U.S. House of Representatives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Dan Crenshaw; Texas (TX) – 2nd, Republican; Committee on Energy and Commerce; Permanent Select Committee on Intelligence",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+        "title": "The Constitution of the United States: A Transcription | National Archives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://crenshaw.house.gov/about",
+        "title": "About | Congressman Dan Crenshaw",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Dan was medically retired in September of 2016 as a Lieutenant Commander after serving ten years in the SEAL Teams.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-TX-H-2.htm",
+        "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022.",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "B.A., foreign relations, Tufts University, Medford, MA, 2006; M.P.A., John F. Kennedy School of Government at Harvard University, Cambridge, MA, 2017;",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.fec.gov/data/committee/C00660795/?cycle=2024&tab=about-committee",
+        "title": "DAN CRENSHAW FOR CONGRESS - committee overview | FEC",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "DAN CRENSHAW FOR CONGRESS; Registration date: November 16, 2017; CRENSHAW, DANIEL; House candidate Texas - 02 Republican Party",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://now.tufts.edu/2018/11/07/young-tufts-alum-elected-congress",
+        "title": "Young Tufts Alum Elected to Congress | Tufts Now",
+        "published_at": "2018-11-07",
+        "checked_at": "2026-10-19",
+        "excerpt": "Crenshaw enrolled at Harvard Kennedy School, where he received a master’s degree in public administration earlier this year.",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://energycommerce.house.gov/representatives",
+        "title": "House Committee on Energy and Commerce",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Committee Members; Dan Crenshaw; R; Texas – District 2",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "reverified",
+      "house",
+      "state:TX"
+    ],
+    "person": {
+      "name": {
+        "value": "丹·克伦肖",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1984-03-14",
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "苏格兰阿伯丁",
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2006",
+        "source_ids": [
+          "s1",
+          "s4",
+          "s5"
+        ],
+        "inferred": true,
+        "basis": "以首份全职现役军职起始年为入伍年：众议院官方传记载美国海军服役2006—2016年；本人议员官网载2006年毕业、获海军军官任官资格后立即赴海豹训练。来源：https://history.house.gov/People/Detail/25769805215；https://crenshaw.house.gov/about。未取得入伍月份依据。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "2006",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哈佛大学肯尼迪政府学院公共管理硕士学位",
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2017-11",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": true,
+        "basis": "第3级锚点：共和党众议员参选人 Daniel Crenshaw 的主要竞选委员会 DAN CRENSHAW FOR CONGRESS（C00660795）在联邦选举委员会首次登记，2017-11-16；来源：https://www.fec.gov/data/committee/C00660795/?cycle=2024&tab=about-committee。已检索选民党籍登记、本人公开宣布加入共和党及此前共和党党组织职务，未找到可采用的第1、2级锚点。未取得首份F2受理日。底稿2018年3月无原始锚点，且晚于已确认的委员会首次登记，不采用；2025年委员会修订申报日期不作为首次登记日期。",
+        "inference": {
+          "rule": "party_anchor_candidacy_filing",
+          "from_date": "2017-11-16",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": {
+        "value": "海军少校（退役）",
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（得克萨斯州第2选区）",
+        "role": "",
+        "start": {
+          "value": "2019-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院能源和商业委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s4",
+          "s9"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院常设情报特别委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2002",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "众议院官方传记和国会名录均载2006年取得塔夫茨大学文学学士学位；按美国本科标准学制4年推算：2006－4＝2002。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "2006",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "2006",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "塔夫茨大学",
+        "role": null,
+        "program": "国际关系",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国海军",
+        "role": "军官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "军官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "discharge",
+        "start": {
+          "value": "2016-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国海军",
+        "role": "退出现役",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "退出现役"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（得克萨斯州第2选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦众议员（得克萨斯州第2选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [
+      {
+        "field": "哈佛大学公共管理硕士取得年份",
+        "alternatives": [
+          {
+            "value": "2017",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2018",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": "2018年11月7日塔夫茨大学报道使用 earlier this year。",
+            "inference": null
+          }
+        ],
+        "selected_value": "2017",
+        "reason": "采用授予学位学校哈佛大学的校方记录；众议院官方传记和国会名录亦载2017年。一级来源之间的年份冲突并列保留，交AI政见确认。"
+      }
+    ],
+    "unknowns": [
+      "入伍月份：查阅众议院官方传记、本人议员官网及国会名录，仅确认2006年，未找到具体月份。",
+      "哈佛大学学习起始日期：查阅哈佛校方材料、本人议员官网、国会名录和相关报道，未取得可采用的明确入学日期；已确认2017年取得学位，学习经历暂未单列。",
+      "塞申斯办公室任职起止：检索军事立法助理经历；圣托马斯大学相关文章原页打开失败，LegiStorm具体任职日期页面后续打开失败，未采用搜索摘要中的2017年8月至10月。",
+      "履历缺口：2016年9月退出现役至2019年1月就任众议员之间，硕士学位已确认，学习起始日期及塞申斯办公室任职日期未取得可采用原文，未补造连续履历。",
+      "委员会任职起始日期：众议院书记官、本人官网和能源和商业委员会成员页确认现任委员，未取得本次可采用的正式就任日期，start留空。",
+      "族裔：已查阅众议院官方传记、本人官网和国会名录，未找到本人自述或官方统计依据。",
+      "入党高等级锚点：检索选民党籍登记、本人公开宣布加入共和党和此前党组织职务，未找到合格第1、2级锚点；FEC首份F2受理日未取得，采用委员会首次登记日期。"
+    ],
+    "excluded": [
+      "底稿『现职起始时间2025-01』：这是本届任期时间，首次担任同一选区联邦众议员的日期为2019-01-03。",
+      "底稿『2006年6月参加工作』：没有月份依据；首份全职工作为现役海军军职，改用2006年入伍。",
+      "底稿『2018年3月加入美国共和党』：无原始锚点，且晚于FEC所载2017-11-16委员会首次登记日期。",
+      "底稿『2008—2012年驻伊拉克、阿富汗美军海军军官』：未取得这一连续起止区间和职务组合的原文依据，删除该括注。",
+      "底稿『2016—2017年哈佛大学学习』：学位及2017年取得时间已确认，2016年入学未取得可采用原文，暂不作为履历起止日期。",
+      "底稿『2017—2018年皮特·塞申斯办公室军事立法助理』：未取得支持该起止区间的可采用原文。",
+      "塔夫茨大学2018年报道『当年取得哈佛公共管理硕士』：与哈佛校方记录、国会官方传记和名录所载2017年冲突，选用2017年。",
+      "本人官网所列小组委员会职务及情报委员会专项工作组主席：按本批委员会条目范围，不在current_roles单列。"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "美国联邦众议员（得克萨斯州第2选区）＋美国国会众议院；Bioguide C001120",
+    "review_items": [
+      "哈佛硕士取得年份的一级来源冲突交AI政见确认，当前选用2017年。",
+      "补取哈佛入学日期及塞申斯办公室任职原始记录后，再补入相应履历。",
+      "当前为重新取证的候选事实包，下一会话逐字段重新联网核验。"
+    ]
+  }
+}

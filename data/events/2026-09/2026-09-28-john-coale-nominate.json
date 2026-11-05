@@ -1,0 +1,78 @@
+{
+  "id": "2026-09-28-john-coale-nominate",
+  "date": "2026-09-28",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "john-coale",
+  "person": {
+    "name_zh": "约翰·科尔",
+    "name_en": "John Coale",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-28",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国总统",
+      "role": "人质事务特使提名人选",
+      "organization_en": "The White House",
+      "role_en": "Nominee for Special Presidential Envoy for Hostage Affairs",
+      "start": "2026-09-28",
+      "end": null,
+      "source_ids": [
+        "s1"
+      ],
+      "sector": "politics",
+      "concurrent": false
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "科尔获提名担任总统人质事务特使",
+  "summary": "科尔获提名担任总统人质事务特使。白宫9月28日将提名送交参议院，总统10月4日公开宣布提名。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "白宫",
+      "published_at": "2026-09-28",
+      "excerpt": "John Coale, of Maryland, to be Special Presidential Envoy for Hostage Affairs, with the rank and status of Ambassador.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-103425",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：s1",
+      "s2：不是一级来源"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "新任“美国总统人质事务特使”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "john-coale"
+  }
+}

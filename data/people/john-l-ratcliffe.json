@@ -1,0 +1,458 @@
+{
+  "id": "john-l-ratcliffe",
+  "name_zh": "约翰·拉特克利夫",
+  "name_en": "John L. Ratcliffe",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“Central Intelligence Agency Director Central Intelligence Agency Director”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/john-l-ratcliffe.json（sanju-neige，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.cia.gov/static/d520eef6b0e6819142de7d9a12757787/eddee/DCIA_Ratcliffe769x1000.png",
+    "source": "https://www.whitehouse.gov/administration/cabinet/",
+    "file": "john-l-ratcliffe.jpg",
+    "source_kind": "官方照片（补采）",
+    "license": "公有领域或 CC BY 3.0：白宫网站版权页称政府制作的材料不受版权保护，第三方内容按 CC BY 3.0 授权；署“白宫”；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Central Intelligence Agency",
+      "role_en": "Director"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“Central Intelligence Agency Director Central Intelligence Agency Director”：总统、白宫、内阁与独立机构）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-john-l-ratcliffe",
+    "line": "cadre",
+    "subject_id": "john-l-ratcliffe",
+    "title": "约翰·拉特克利夫简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.cia.gov/about/director-of-cia/",
+        "title": "Director of CIA",
+        "excerpt": "John Ratcliffe was officially sworn in as Director of the Central Intelligence Agency on January 23, 2025.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://history.house.gov/People/Detail/15032412350",
+        "title": "RATCLIFFE, John",
+        "excerpt": "Born October 20, 1965; B.A. 1987; J.D. 1989; mayor 2004–2012; U.S. attorney 2007–2008; Republican congressman 2015–2020.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-neige",
+      "research"
+    ],
+    "person": {
+      "name": {
+        "value": "约翰·拉特克利夫",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "basis": "出生于美国伊利诺伊州芝加哥（按美国宪法第十四修正案为美国公民）",
+        "inferred": false,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1965-10-20",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "伊利诺伊州芝加哥",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "研究生",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法学博士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国中央情报局",
+        "role": "局长",
+        "start": {
+          "value": "2025-01-23",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1983-09",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1987",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1987-05",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1987",
+            "duration_years": null
+          }
+        },
+        "organization": "圣母大学",
+        "role": null,
+        "program": "政府与国际研究",
+        "degree_awarded": {
+          "value": "学士",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2004",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2012-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2012",
+            "duration_years": null
+          }
+        },
+        "organization": "得克萨斯州希思市",
+        "role": "市长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2007",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2008-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2008",
+            "duration_years": null
+          }
+        },
+        "organization": "美国得克萨斯东区联邦检察官办公室",
+        "role": "联邦检察官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-01-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020-05-22",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国众议院",
+        "role": "议员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国国家情报总监办公室",
+        "role": "国家情报总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-01-23",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国中央情报局",
+        "role": "局长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [
+      {
+        "text": "南卫理公会大学；法学博士；已知结束或毕业时间：1989-05。起始日期未知。",
+        "source_ids": [
+          "s2"
+        ]
+      }
+    ],
+    "company_tag": "美国政要",
+    "conflicts": [],
+    "unknowns": [
+      "国籍直接陈述、首份全职工作的雇主及开始日期、律所合伙人任期未核实。",
+      "党籍登记和最早党派参选锚点未取得。",
+      "法学院实际入学日期未知；标准三年学制倒推会与已知本科年份重叠，未采用该起年。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Director | Central Intelligence Agency",
+    "review_items": [
+      "完整简历卡缺项：nationality、work_start。保留seed级事实包。"
+    ]
+  }
+}

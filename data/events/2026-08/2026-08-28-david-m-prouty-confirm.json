@@ -1,0 +1,106 @@
+{
+  "id": "2026-08-28-david-m-prouty-confirm",
+  "date": "2026-08-28",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "david-m-prouty",
+  "person": {
+    "name_zh": "戴维·M.普劳蒂",
+    "name_en": "David M. Prouty",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": "2026-08-28",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国全国劳资关系委员会",
+      "role": "委员",
+      "organization_en": "National Labor Relations Board",
+      "role_en": "Member",
+      "start": "2026-08-28",
+      "end": "2031-08-27",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "c1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "参议院确认戴维·M.普劳蒂连任美国全国劳资关系委员会委员",
+  "summary": "参议院于2026-08-07确认David M. Prouty连任美国全国劳资关系委员会委员（PN901-7）。他于2026-08-25宣誓，第二届任期于2026-08-28开始，至2031-08-27届满。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "David M. Prouty, of Maryland, to be a Member of the National Labor Relations Board for the term of five years expiring August 27, 2031.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "c1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "U.S. Senate: Nominations Confirmed (Civilian)",
+      "publisher": "",
+      "published_at": null,
+      "excerpt": "David M. Prouty, of Maryland, to be a Member of the National Labor Relations Board for the term of five years expiring August 27, 2031.",
+      "supports": [
+        "effective_at",
+        "new_roles[0].start",
+        "new_roles[0].end"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": null,
+      "note": "第二任期五年，至 2031-08-27 届满，起始日 2026-08-28 由此推出"
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "effective_at → 2026-08-28（来源 c1）",
+      "new_roles[0].start → 2026-08-28（来源 c1）",
+      "new_roles[0].end → 2031-08-27（来源 c1）",
+      "headline_zh → 参议院确认戴维·M.普劳蒂连任美国全国劳资关系委员会委员",
+      "summary_zh → 参议院于2026-08-07确认David M. Prouty连任美国全国劳资关系委员会委员（PN901-7）。他于2026-08-25宣誓，第二届任期于2026-08-28开始，至2031-08-27届满。"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 david-m-prouty（库里没有此人）",
+      "现任职务新增：美国全国劳资关系委员会委员",
+      "履历新增：2026-08 美国全国劳资关系委员会委员",
+      "所属局：定为三局·白宫干部局"
+    ],
+    "notes": [
+      "参议院确认后已于 2026-08-28 到任（一级来源），按到任写回"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "david-m-prouty",
+    "reason": "主要职务“美国全国劳资关系委员会 委员”：总统、白宫、内阁与独立机构"
+  }
+}

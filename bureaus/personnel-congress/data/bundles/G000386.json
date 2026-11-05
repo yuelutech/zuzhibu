@@ -1,0 +1,672 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-g000386",
+      "line": "cadre",
+      "subject_id": "g000386",
+      "title": "查克·格拉斯利简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "sen 1981-01-05~2029-01-03 IA Republican; President pro tempore from January 3, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: M",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "September 17, 1933 in New Hartford, Iowa",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Grassley",
+          "title": "维基百科：Chuck_Grassley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "September 17, 1933 in New Hartford, Iowa",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Grassley",
+          "title": "维基百科：Chuck_Grassley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "President pro tempore (from January 3, 2025); Chair, Senate Judiciary Committee; Agriculture; Finance; Budget",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Grassley",
+          "title": "维基百科：Chuck_Grassley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "University of Northern Iowa: Bachelor of Arts (1955)",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Grassley",
+          "title": "维基百科：Chuck_Grassley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Master of Arts in political science (1956)",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Grassley",
+          "title": "维基百科：Chuck_Grassley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Operated family farm; factory work in the 1950s-1960s",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Grassley",
+          "title": "维基百科：Chuck_Grassley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Iowa House: January 12, 1959 – January 3, 1975; Taught at Charles City College (1967-1968)",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "rep 1975-1981 IA-3 Republican",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. Senate: January 3, 1981 to present",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Grassley",
+          "title": "维基百科：Chuck_Grassley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Operated family farm; sheet metal shearer and assembly line operator in Iowa factories",
+          "tier": 3
+        },
+        {
+          "id": "s13",
+          "url": "https://en.wikipedia.org/wiki/Chuck_Grassley",
+          "title": "维基百科：Chuck_Grassley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Iowa House of Representatives: January 12, 1959 – January 3, 1975",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "senate",
+        "state:IA"
+      ],
+      "person": {
+        "name": {
+          "value": "查克·格拉斯利",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1933-09-17",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "爱荷华州纽哈特福德",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1955",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：经营格拉斯利家庭农场，并从事工厂工作；底稿备注：1955年本科毕业进入劳动；月份按毕业次月推定，农场经营与硕士学习并行",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1955",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "北爱荷华大学政治学文学硕士学位",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1958-11",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以共和党身份当选爱荷华州众议员（1958年11月当选，1959年就任）；来源：https://en.wikipedia.org/wiki/Chuck_Grassley；底稿备注：取最早以共和党当选州众议员节点(1958)；月份按当选(11月)；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1958-11",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（爱荷华州）",
+          "role": "",
+          "start": {
+            "value": "1981-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院临时议长",
+          "role": "",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院司法委员会",
+          "role": "主席",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院农业、营养与林业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院财政委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院预算委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1951",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1955倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1955",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1955",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北爱荷华大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1955",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：硕士1年自1956倒推、与本科衔接",
+            "inference": {
+              "rule": "degree_duration",
+              "from_date": "1956",
+              "duration_years": 1
+            }
+          },
+          "end": {
+            "value": "1956",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北爱荷华大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学硕士",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1956",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1959",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "格拉斯利家庭农场",
+          "role": "农场主",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "农场主"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1959",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1975",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "爱荷华州众议院",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1959",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1971",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "工厂工人",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s9"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1967",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1968",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "查尔斯城学院政治学兼职教师",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1975-01",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1981",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（爱荷华州第3选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（爱荷华州第3选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1981-01",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（爱荷华州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（爱荷华州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [],
+      "unknowns": [
+        "履历括注无起止年份，未结构化（爱荷华州众议院）：持续经营家庭农场",
+        "底稿缺项：工厂各岗位精确起止年（金属板剪切工/装配线）",
+        "底稿缺项：爱荷华大学政治学博士未竟的具体年份",
+        "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+      ],
+      "excluded": [
+        "参加工作月份「1955年6月」：底稿推定（1955年本科毕业进入劳动；月份按毕业次月推定，农场经营与硕士学习并行），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

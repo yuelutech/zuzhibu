@@ -1,0 +1,564 @@
+{
+  "id": "andrew-s-clyde",
+  "name_zh": "安德鲁·克莱德",
+  "name_en": "Andrew S. Clyde",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "reverified",
+  "ids": {
+    "bioguide": "C001116"
+  },
+  "data_cutoff": "2026-10-19",
+  "roles_checked_at": "2026-10-19",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入，reverify.py 重核通过",
+  "portrait": {
+    "file": "andrew-s-clyde.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Andrew_Clyde_117th_U.S_Congress.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（House Creative Committee；https://www.gainesvilletimes.com/news/politics/andrew-clyde-returning-dc-where-his-successful-run-congress-was-inspired/），File:Andrew Clyde 117th U.S Congress.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Andrew_Clyde_117th_U.S_Congress.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-c001116",
+    "line": "cadre",
+    "subject_id": "c001116",
+    "title": "安德鲁·克莱德简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://history.house.gov/People/Listing/C/CLYDE,-Andrew-S--(C001116)/",
+        "title": "CLYDE, Andrew S. | US House of Representatives: History, Art & Archives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "born in Ontario, Canada, November 22, 1963; United States Navy, 1985-1996; United States Navy Reserve, 1996-2013",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://clerk.house.gov/members/C001116/",
+        "title": "Office of the Clerk, U.S. House of Representatives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Andrew S. Clyde; Georgia (GA) – 9th, Republican; Committee on Appropriations; Committee on the Budget",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+        "title": "The Constitution of the United States: A Transcription | National Archives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "and been seven Years a Citizen of the United States",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://clyde.house.gov/about/",
+        "title": "Biography | U.S. Representative Andrew S. Clyde",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "He established Clyde Armory in 1991",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://magazine.betheluniversity.edu/2015/09/24/wall-of-fame-recipients-honored/",
+        "title": "Wall of Fame Recipients Honored | Bethel University",
+        "published_at": "2015-09-24",
+        "checked_at": "2026-10-19",
+        "excerpt": "Clyde retired as a commander from the U.S. Navy Reserves in 2013, following a 28 year career.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://clyde.house.gov/about/committees-and-caucuses.htm",
+        "title": "Committees and Caucuses | U.S. Representative Andrew S. Clyde",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Congressman Clyde serves as a member on the House Appropriations Committee and House Budget Committee.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=2889",
+        "title": "Rep. Clyde Announces Committee Assignments for 119th Congress",
+        "published_at": "2025-01-23",
+        "checked_at": "2026-10-19",
+        "excerpt": "He earned his MBA in Corporate Finance and Entrepreneurship from the University of Georgia.",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.fec.gov/data/committee/C00740100/",
+        "title": "CLYDE FOR CONGRESS, INC. - committee overview | FEC",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Principal campaign committee ID: C00740100 Registration date: February 26, 2020",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.fec.gov/data/candidate/H0GA09246/",
+        "title": "CLYDE, ANDREW - Candidate overview | FEC",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Political party: Republican Party; CLYDE FOR CONGRESS, INC.; Principal campaign committee",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=37",
+        "title": "Taking the Oath of Office | U.S. Representative Andrew S. Clyde",
+        "published_at": "2021-01-03",
+        "checked_at": "2026-10-19",
+        "excerpt": "Andrew Clyde was sworn in as a Member of the United States House of Representatives by the House Speaker on January 3rd, 2021.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "reverified",
+      "house",
+      "state:GA"
+    ],
+    "person": {
+      "name": {
+        "value": "安德鲁·克莱德",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s4",
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1963-11-22",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "加拿大安大略省",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1985",
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "众议院历史办公室记载美国海军现役服役时间为1985－1996年，本人国会官网确认其军官身份；以第一份有据可查的全职现役军职开始年1985年推定入伍时间，不补月份。来源：https://history.house.gov/People/Listing/C/CLYDE,-Andrew-S--(C001116)/；https://clyde.house.gov/about/",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1985",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s1",
+          "s5",
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "佐治亚大学特里商学院公司金融与创业学工商管理硕士学位",
+        "source_ids": [
+          "s1",
+          "s5",
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1",
+          "s2",
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2020-02",
+        "source_ids": [
+          "s8",
+          "s9"
+        ],
+        "inferred": true,
+        "basis": "第3级锚点：其主要竞选委员会 CLYDE FOR CONGRESS, INC.（C00740100）在联邦选举委员会登记，2020-02-26；FEC候选人页确认其共和党身份及该委员会的主要竞选委员会关系。来源：https://www.fec.gov/data/committee/C00740100/；https://www.fec.gov/data/candidate/H0GA09246/。检索本人国会官网、党组织公开资料及FEC记录，未找到第1级选民党籍登记或本人宣布加入、改投共和党的记录，未找到第2级党组织任职锚点。历史F2受理记录未能打开，采用可打开的委员会登记日期；不采用底稿2020年6月及较晚的2021年1月就任公职作为锚点。",
+        "inference": {
+          "rule": "party_anchor_candidacy_filing",
+          "from_date": "2020-02-26",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": {
+        "value": "海军中校",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（佐治亚州第9选区）",
+        "role": "",
+        "start": {
+          "value": "2021-01-03",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s10"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院拨款委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院预算委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1981",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "众议院官方履历及贝瑟尔大学校刊确认1985年本科毕业，按毕业年减4推定：1985－4＝1981。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1985",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1985",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "贝瑟尔学院",
+        "role": null,
+        "program": null,
+        "degree_awarded": {
+          "value": "工商管理学士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1985",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1996",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国海军",
+        "role": "军官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "军官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1991",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Clyde Armory 公司",
+        "role": "创始人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "创始人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1996",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国海军预备役",
+        "role": "军官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "军官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-01-03",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（佐治亚州第9选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s10"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦众议员（佐治亚州第9选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [],
+    "unknowns": [
+      "出生城市：查过众议院历史办公室人物页、本人国会官网及地方媒体线索，已打开的可靠原文只确认加拿大安大略省，未取得沃克顿的可用原文依据；出生日期目前只有一项可用官方来源。",
+      "族裔：查过国会官方人物资料及本人传记，没有找到本人自述或官方统计依据。",
+      "本科专业及学习形式：查过众议院官方履历和贝瑟尔大学校刊，未找到专业及全日制性质的可用原文依据。",
+      "圣母大学学习：众议院履历确认曾就读，本人官网确认经该校获得军官任命；未找到就读起止日期，未单列学习履历。",
+      "硕士学习起止及学习形式：众议院履历和贝瑟尔大学校刊确认1999年取得佐治亚大学MBA，本人官网确认公司金融与创业学方向；未找到入学年、学习年限及在职或全日制性质，不按标准学制倒推，不生成日期不全的学习条目。",
+      "军旅细分任职：本人官网和委员会公告提到海军军官及补给、后勤军官身份，未找到具体单位、职务交接和晋衔日期；预备役条目不把退役时中校军衔回填到1996年。",
+      "企业任职：本人官网和母校校刊确认1991年创办Clyde Armory，2015年校刊确认首席执行官身份；未找到首席执行官就任日或企业任职终止日期，未将1991年作为首席执行官起始年，未沿用2020年终止时间。",
+      "委员会任职起始：查过众议院书记官成员页、本人委员会页及2025年1月23日公告，现任拨款和预算委员会委员有依据；公告未写明确生效日，两项start均留空，未将公告日期作为到任日期。",
+      "历史兼职：贝瑟尔大学2015年校刊列出WMSL电台及信用合作社董事身份，未找到就任和终止日期，不生成annotations。",
+      "参选经历：FEC确认主要竞选委员会于2020年2月26日登记，但历史F2页面未能打开；未取得参选人转候选人、当选人各阶段的完整可用日期链，未沿用底稿2020－2021年候选人条目。"
+    ],
+    "excluded": [
+      "底稿『贝瑟尔大学会计学工商管理学士学位』作为最高学位：官方履历及母校校刊确认1999年取得工商管理硕士，改用最高已取得学位；本科会计学专业未取得可用原文依据。",
+      "底稿『贝瑟尔大学』作为1981－1985年学校名称：官方履历写Bethel College，履历采用当时名称『贝瑟尔学院』。",
+      "底稿『1985－1996年在乔治亚大学特里商学院学习，获工商管理硕士』：官方来源确认获学位年份为1999年，原学习起止无依据。",
+      "底稿『1996年创办克莱德军械公司』：本人国会官网和母校校刊均记载创办年份为1991年。",
+      "底稿『2020年结束企业任职』：未找到终止任职依据。",
+      "底稿『2020－2021年共和党联邦众议员候选人』：将参选、获提名和当选后阶段合并，且起止无来源，不采用。",
+      "底稿『2025年1月开始担任现选区联邦众议员』：该日期对应新一届任期；官方就职公告确认自2021年1月3日起代表佐治亚州第9选区。",
+      "底稿『2025年起任拨款委员会委员』：2025年公告明确表示返回拨款委员会，不能据此确定首次任职起点。",
+      "底稿『1996年6月参加工作』：第一份有据可查的全职经历为1985年海军现役服役，改为1985年入伍，月份无依据。",
+      "底稿『2020年6月加入美国共和党』：未附合格锚点；采用2020年2月26日FEC主要竞选委员会登记这一第3级锚点。",
+      "底稿『加拿大安大略省沃克顿市人』：可用官方原文只支持安大略省，城市不采用。"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "美国联邦众议员（佐治亚州第9选区）＋美国国会众议院；Bioguide C001116",
+    "review_items": [
+      "本包为研究会话候选事实包，下一会话逐字段重新打开来源核验。",
+      "最高学位方向Corporate Finance and Entrepreneurship暂译『公司金融与创业学』；学校名称及海军Commander译名交译名表复核。",
+      "入党时间采用FEC委员会登记锚点；独立核查时继续检查是否存在更早的有效第1至第3级锚点。"
+    ]
+  }
+}

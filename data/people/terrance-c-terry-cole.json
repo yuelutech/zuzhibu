@@ -1,0 +1,236 @@
+{
+  "id": "terrance-c-terry-cole",
+  "name_zh": "特伦斯·科尔",
+  "name_en": "Terrance C. “Terry” Cole",
+  "name_zh_pending": true,
+  "bureau": "justice",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-22",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“Drug Enforcement Administration Administrator Drug Enforcement Administration Administrator”：法院、司法部与执法机构）；补采简历 bureaus/personnel-others/data/verified/terrance-c-terry-cole.json（liuju，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.dea.gov/sites/default/files/2025-07/DEA%20Administrator%20Terrance%20Cole%20Official%20Portrait%2007252025_8x10%20300dpi.jpg",
+    "source": "https://www.dea.gov/terrance-cole",
+    "file": "terrance-c-terry-cole.jpg",
+    "source_kind": "官方照片（机构官网）",
+    "license": "公有领域：缉毒局局长官方肖像；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Drug Enforcement Administration",
+      "role_en": "Administrator"
+    }
+  ],
+  "notes": [
+    "补采任务 liuju（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "justice",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“Drug Enforcement Administration Administrator Drug Enforcement Administration Administrator”：法院、司法部与执法机构）；补采简历 bureaus/personnel-others/data/verified/terrance-c-terry-cole.json（liuju，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-terrance-c-terry-cole",
+    "line": "cadre",
+    "subject_id": "terrance-c-terry-cole",
+    "title": "特伦斯·科尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.dea.gov/terrance-cole",
+        "title": "Terrance C. “Terry” Cole | DEA",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "Terrance C. “Terry” Cole was sworn in as Administrator of the U.S. Drug Enforcement Administration (DEA) on July 23, 2025, following his confirmation by the United States Senate. ... From 2023 to 2025, Mr. Cole served as Virginia's Secretary of Public Safety and Homeland Security",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "inbox",
+      "liuju"
+    ],
+    "person": {
+      "name": {
+        "value": "特伦斯·科尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "本科",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "罗切斯特理工学院刑事司法文学学士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国缉毒局",
+        "role": "局长",
+        "start": {
+          "value": "2025-07-23",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "履历缺月份，取 7 月（cadre.md 第 3 节第 3 条）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2023",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2025-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "上下条衔接：下一条起于2025年7月（cadre.md 第 3 节第 3 条）",
+          "inference": {
+            "rule": "adjacent_entry",
+            "from_date": "2025",
+            "duration_years": null
+          }
+        },
+        "organization": "弗吉尼亚州",
+        "role": "公共安全与国土安全厅长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-07-23",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国缉毒局",
+        "role": "局长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "国籍、出生年月及首份纽约州警员岗位的起始年月未知。",
+      "官方现行简历称RIT学位为B.A.；参议院问卷搜索摘要称B.S.，问卷尚未成功打开，未采用摘要。",
+      "DEA特工及各国内外岗位、代理墨西哥加拿大中美洲区域主管等经历已见官方简历，但各段起止年不全；2020年联邦服务退休后至2023年的活动待核。",
+      "本科毕业年份、党籍及加入日期未知。"
+    ],
+    "excluded": [
+      "不从任命总统党籍、投票倾向或政治捐款推断本人党籍及入党时间。"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "特伦斯·科尔；美国缉毒局局长",
+    "review_items": [
+      "表外人名建议译法见 names.csv，待人工复核；未标作新华社已核译名。",
+      "译名表内标为待核的机构、职务按现有写法保留；逐项清单见README检查提示。"
+    ]
+  }
+}

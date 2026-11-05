@@ -1,0 +1,801 @@
+{
+  "id": "joaquin-duato",
+  "name_zh": "杜安卿",
+  "name_en": "Joaquin Duato",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "joaquin-duato.jpg",
+    "source": "维护者提供（杜安卿_Joaquin-Duato_强生.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Johnson & Johnson",
+      "role_en": "Chairman of the Board"
+    }
+  ],
+  "notes": [
+    "美国、西班牙双重国籍（强生官网：A dual citizen of the U.S. and Spain）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-joaquin-duato",
+    "line": "cadre",
+    "subject_id": "joaquin-duato",
+    "title": "杜安卿简历",
+    "sources": [
+      {
+        "id": "d1",
+        "url": "https://www.jnj.com/leadership/joaquin-duato",
+        "title": "Joaquin Duato, Chairman and Chief Executive Officer (Johnson & Johnson leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Joaquin became CEO in January 2022 and Chairman in January 2023.",
+        "tier": 1
+      },
+      {
+        "id": "d2",
+        "url": "https://www.jnj.com/leadership/joaquin-duato",
+        "title": "Joaquin Duato, Chairman and Chief Executive Officer (Johnson & Johnson leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "He was elected as an independent member of PepsiCo’s Board of Directors and will serve on its Audit Committee, effective December 1, 2026.",
+        "tier": 1
+      },
+      {
+        "id": "d3",
+        "url": "https://www.jnj.com/leadership/joaquin-duato",
+        "title": "Joaquin Duato, Chairman and Chief Executive Officer (Johnson & Johnson leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "A dual citizen of the U.S. and Spain, Joaquin earned a Master of Business Administration from ESADE in Barcelona, Spain, and a Master of International Management from Thunderbird School of Global Management in Arizona.",
+        "tier": 1
+      },
+      {
+        "id": "d4",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm",
+        "title": "Johnson & Johnson, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-11",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chairman of the Board and Chief Executive Officer (current)",
+        "tier": 1
+      },
+      {
+        "id": "d5",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm",
+        "title": "Johnson & Johnson, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-11",
+        "checked_at": "2026-10-21",
+        "excerpt": "Age: 63 Management Director since 2022 Committees: • Chair,",
+        "tier": 1
+      },
+      {
+        "id": "d6",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm",
+        "title": "Johnson & Johnson, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-11",
+        "checked_at": "2026-10-21",
+        "excerpt": "Hess Corporation (2019-2022)",
+        "tier": 1
+      },
+      {
+        "id": "d7",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm",
+        "title": "Johnson & Johnson, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-11",
+        "checked_at": "2026-10-21",
+        "excerpt": "Management Director since 2022",
+        "tier": 1
+      },
+      {
+        "id": "d8",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+        "title": "Johnson & Johnson, Form 10-K for fiscal year 2025 (Executive officers of the registrant)",
+        "published_at": "2026-02-11",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Duato first joined the Company in 1989 with Janssen-Farmaceutica S.A. (Spain), a subsidiary of the Company, and held executive positions of increasing responsibility in all business sectors and across multiple geographies and functions.",
+        "tier": 1
+      },
+      {
+        "id": "d9",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+        "title": "Johnson & Johnson, Form 10-K for fiscal year 2025 (Executive officers of the registrant)",
+        "published_at": "2026-02-11",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. J. Duato became Chairman of the Board of Directors in 2023 subsequent to his appointments as Chief Executive Officer and Director in 2022.",
+        "tier": 1
+      },
+      {
+        "id": "d10",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/jnj-20220102.htm",
+        "title": "Johnson & Johnson, Form 10-K for fiscal year 2021 (Executive officers of the registrant)",
+        "published_at": "2022-02-17",
+        "checked_at": "2026-10-21",
+        "excerpt": "In 2009, he was named Company Group Chairman, Pharmaceuticals, and in 2011, he was named Worldwide Chairman, Pharmaceuticals.",
+        "tier": 1
+      },
+      {
+        "id": "d11",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/jnj-20220102.htm",
+        "title": "Johnson & Johnson, Form 10-K for fiscal year 2021 (Executive officers of the registrant)",
+        "published_at": "2022-02-17",
+        "checked_at": "2026-10-21",
+        "excerpt": "In 2016, Mr. Duato became a member of the Executive Committee and was named Executive Vice President, Worldwide Chairman, Pharmaceuticals.",
+        "tier": 1
+      },
+      {
+        "id": "d12",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/jnj-20220102.htm",
+        "title": "Johnson & Johnson, Form 10-K for fiscal year 2021 (Executive officers of the registrant)",
+        "published_at": "2022-02-17",
+        "checked_at": "2026-10-21",
+        "excerpt": "In July 2018, Mr. Duato was promoted to Vice Chairman of the Executive Committee, where he provided strategic direction for the Pharmaceutical and Consumer Health sectors and oversaw both the Global Supply Chain, Information Technology and Health & Wellness teams.",
+        "tier": 1
+      },
+      {
+        "id": "d13",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/jnj-20220102.htm",
+        "title": "Johnson & Johnson, Form 10-K for fiscal year 2021 (Executive officers of the registrant)",
+        "published_at": "2022-02-17",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. J. Duato became Chief Executive Officer and Chairman of the Executive Committee and joined the Board of Directors in January 2022.",
+        "tier": 1
+      },
+      {
+        "id": "d14",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000061/exhibit99.htm",
+        "title": "Johnson & Johnson press release (Form 8-K Exhibit 99.1): CEO transition to Joaquin Duato",
+        "published_at": "2021-08-19",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Alex Gorsky, currently Chairman and Chief Executive Officer, will serve as Executive Chairman of Johnson & Johnson and transition the Chief Executive Officer role to Mr. Joaquin Duato, currently Vice Chairman of the Company’s Executive Committee, effective January 3, 2022.",
+        "tier": 1
+      },
+      {
+        "id": "d15",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000061/exhibit99.htm",
+        "title": "Johnson & Johnson press release (Form 8-K Exhibit 99.1): CEO transition to Joaquin Duato",
+        "published_at": "2021-08-19",
+        "checked_at": "2026-10-21",
+        "excerpt": "As a dual citizen of Spain and the United States, Mr. Duato’s international perspective and global lens gives him a deep appreciation of diverse thoughts and opinions.",
+        "tier": 1
+      },
+      {
+        "id": "d16",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000089/pressrelease.htm",
+        "title": "Johnson & Johnson Names CEO Joaquin Duato as Chairman of the Board (Form 8-K Exhibit 99.1)",
+        "published_at": "2022-11-30",
+        "checked_at": "2026-10-21",
+        "excerpt": "Johnson & Johnson (NYSE: JNJ) today announced that its Board of Directors has elected Chief Executive Officer, Mr. Joaquin Duato, to assume the additional position of Chairman, effective in January 2023.",
+        "tier": 1
+      },
+      {
+        "id": "d17",
+        "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000089/pressrelease.htm",
+        "title": "Johnson & Johnson Names CEO Joaquin Duato as Chairman of the Board (Form 8-K Exhibit 99.1)",
+        "published_at": "2022-11-30",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Duato has served as Johnson & Johnson’s CEO and a member of the Board of Directors since January 3, 2022.",
+        "tier": 1
+      },
+      {
+        "id": "d18",
+        "url": "https://www.jnj.com/media-center/press-releases/joaquin-duato-named-phrma-board-chairman",
+        "title": "Joaquin Duato Named PhRMA Board Chairman (Johnson & Johnson press release)",
+        "published_at": "2017-01-09",
+        "checked_at": "2026-10-21",
+        "excerpt": "Duato has served as worldwide chairman, pharmaceuticals at Johnson & Johnson since January 2011.",
+        "tier": 1
+      },
+      {
+        "id": "d19",
+        "url": "https://www.jnj.com/media-center/press-releases/joaquin-duato-named-phrma-board-chairman",
+        "title": "Joaquin Duato Named PhRMA Board Chairman (Johnson & Johnson press release)",
+        "published_at": "2017-01-09",
+        "checked_at": "2026-10-21",
+        "excerpt": "The Pharmaceutical Research and Manufacturers of America (PhRMA) today announced Joaquin Duato, worldwide chairman, pharmaceuticals, Johnson & Johnson, has been named chairman of PhRMA’s board of directors.",
+        "tier": 1
+      },
+      {
+        "id": "d20",
+        "url": "https://www.jnj.com/media-center/press-releases/joaquin-duato-named-phrma-board-chairman",
+        "title": "Joaquin Duato Named PhRMA Board Chairman (Johnson & Johnson press release)",
+        "published_at": "2017-01-09",
+        "checked_at": "2026-10-21",
+        "excerpt": "Duato holds an undergraduate degree in economics and business, a Masters of Business Administration from ESADE, Barcelona and a Masters of International Management from Thunderbird, Phoenix.",
+        "tier": 1
+      },
+      {
+        "id": "d21",
+        "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20210823/empresariales-llevado-joaquin-duato-proximo-ceo-johnson/606439678_0.html",
+        "title": "Las raíces empresariales que han llevado a Joaquín Duato a ser el próximo CEO de Johnson & Johnson (El Español)",
+        "published_at": "2021-08-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "Nacido en Valencia en 1962, el próximo CEO de la multinacional estadounidense es el mayor de cuatro hermanos y desciende de una familia de empresarios.",
+        "tier": 2
+      },
+      {
+        "id": "d22",
+        "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20210823/empresariales-llevado-joaquin-duato-proximo-ceo-johnson/606439678_0.html",
+        "title": "Las raíces empresariales que han llevado a Joaquín Duato a ser el próximo CEO de Johnson & Johnson (El Español)",
+        "published_at": "2021-08-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "Fue en 1989 cuando incorporó a la compañía en la que ha ocupado diferentes puestos como director general de Janssen-Cilag, dirigió Ortho Biotech Europe y en 2005 fue nombrado presidente de Ortho Biotech Inc.",
+        "tier": 2
+      },
+      {
+        "id": "d23",
+        "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20210823/empresariales-llevado-joaquin-duato-proximo-ceo-johnson/606439678_0.html",
+        "title": "Las raíces empresariales que han llevado a Joaquín Duato a ser el próximo CEO de Johnson & Johnson (El Español)",
+        "published_at": "2021-08-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "Joaquín Duato Boix lleva más de 30 años ligado a la farmacéutica Johnson & Johnson.",
+        "tier": 2
+      },
+      {
+        "id": "d24",
+        "url": "https://cincodias.elpais.com/cincodias/2021/08/20/companias/1629452816_310687.html",
+        "title": "Cinco Días (El País): Joaquín Duato, CEO de Johnson & Johnson",
+        "published_at": "2021-08-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "afirmó, Duato, de 59 años, en el comunicado de la empresa.",
+        "tier": 2
+      },
+      {
+        "id": "d25",
+        "url": "https://cincodias.elpais.com/cincodias/2021/08/20/companias/1629452816_310687.html",
+        "title": "Cinco Días (El País): Joaquín Duato, CEO de Johnson & Johnson",
+        "published_at": "2021-08-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Duato, de nacionalidad española y estadounidense, recaló hace tres décadas en el grupo.",
+        "tier": 2
+      },
+      {
+        "id": "d26",
+        "url": "https://www.beijing.gov.cn/gongkai/ldhd/202303/t20230325_2944445.html",
+        "title": "尹力分别会见美国强生公司董事长和新加坡淡马锡首席执行官（北京市人民政府）",
+        "published_at": "2023-03-25",
+        "checked_at": "2026-10-21",
+        "excerpt": "3月24日上午，市委书记尹力分别会见了美国强生公司董事长兼首席执行官杜安卿和新加坡淡马锡首席执行官狄澜。",
+        "tier": 1
+      },
+      {
+        "id": "d27",
+        "url": "https://www.jnj.com/leadership/joaquin-duato",
+        "title": "Joaquin Duato, Chairman and Chief Executive Officer (Johnson & Johnson leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "More recently, he was honored as the 2025 Business Leader of the Year by the Spain-U.S. Chamber of Commerce and was appointed as Chair of the New Jersey CEO Council.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "d14",
+          "d15"
+        ],
+        "inferred": false,
+        "basis": "公司公告称 Mr. Duato",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "d3",
+          "d15",
+          "d25"
+        ],
+        "inferred": false,
+        "basis": "强生官网称其“A dual citizen of the U.S. and Spain”，美国、西班牙双重国籍；首段按“××籍”写美国籍，西班牙国籍记在备注",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1962-05",
+        "source_ids": [
+          "d21",
+          "d24",
+          "d5"
+        ],
+        "inferred": true,
+        "basis": "出生年见来源；月份按年龄陈述推：2021-08-20 文件称 59 岁；2026-03-11 文件称 63 岁；出生在 1962-03-12 至 1962-08-20 之间，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2021-08-20",
+          "duration_years": null
+        }
+      },
+      "birth_place": {
+        "value": "西班牙巴伦西亚",
+        "source_ids": [
+          "d21"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1989-07",
+        "source_ids": [
+          "d8",
+          "d22"
+        ],
+        "inferred": true,
+        "basis": "1989年加入强生公司西班牙子公司杨森制药公司（Janssen-Farmaceutica S.A.）；来源未明说这是第一份全职工作；参加工作月份无记载，取 7 月（cadre.md 第 3 节第 3 条）",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1989",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "d3",
+          "d20"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "ESADE 商学院工商管理硕士学位、雷鸟全球管理学院国际管理硕士学位",
+        "source_ids": [
+          "d3",
+          "d20"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "杜安卿",
+        "source_ids": [
+          "d26"
+        ],
+        "basis": "本人在华通用中文名",
+        "inferred": false,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "强生公司",
+        "role": "董事长、首席执行官、董事",
+        "start": {
+          "value": "2023-01",
+          "source_ids": [
+            "d1",
+            "d9",
+            "d16",
+            "d4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "d1",
+          "d9",
+          "d16",
+          "d4",
+          "d14",
+          "d17",
+          "d7"
+        ],
+        "roles": [
+          "董事长",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1989-07",
+          "source_ids": [
+            "d8",
+            "d22"
+          ],
+          "inferred": true,
+          "basis": "与首段参加工作一致（参加工作月份无记载，取 7 月）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "d8",
+            "d22"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "强生公司",
+        "role": "Janssen-Cilag 公司总经理、Ortho Biotech 欧洲公司负责人、Ortho Biotech 公司总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "d8",
+          "d22"
+        ],
+        "ongoing": false,
+        "roles": [
+          "Janssen-Cilag 公司总经理",
+          "Ortho Biotech 欧洲公司负责人",
+          "Ortho Biotech 公司总裁"
+        ],
+        "role_category": null,
+        "role_basis": "1989年入职西班牙子公司杨森制药公司（Janssen-Farmaceutica S.A.），其后在各业务板块、多个地区和职能部门任管理职务；所列职务据 El Español，2005年任 Ortho Biotech 公司总裁，其余交接时间未检得，合成一条",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "d10",
+            "d18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011-01",
+          "source_ids": [
+            "d10",
+            "d18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "强生公司",
+        "role": "制药业务公司集团主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "d10",
+          "d18"
+        ],
+        "ongoing": false,
+        "roles": [
+          "制药业务公司集团主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-01",
+          "source_ids": [
+            "d10",
+            "d18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "d10",
+            "d18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "强生公司",
+        "role": "制药业务全球主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "d10",
+          "d18"
+        ],
+        "ongoing": false,
+        "roles": [
+          "制药业务全球主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "d11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018-07",
+          "source_ids": [
+            "d11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "强生公司",
+        "role": "执行副总裁、制药业务全球主席、执行委员会委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "d11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "执行副总裁",
+          "制药业务全球主席",
+          "执行委员会委员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-07",
+          "source_ids": [
+            "d12",
+            "d14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-01",
+          "source_ids": [
+            "d12",
+            "d14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "强生公司",
+        "role": "执行委员会副主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "d12",
+          "d14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "执行委员会副主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2019",
+              "source_ids": [
+                "d6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2022",
+              "source_ids": [
+                "d6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "赫斯公司",
+            "role": "董事",
+            "roles": [
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "d6"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-01",
+          "source_ids": [
+            "d7",
+            "d13",
+            "d14",
+            "d17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2023-01",
+          "source_ids": [
+            "d7",
+            "d13",
+            "d14",
+            "d17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "强生公司",
+        "role": "首席执行官、执行委员会主席、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "d7",
+          "d13",
+          "d14",
+          "d17"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官",
+          "执行委员会主席",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-01",
+          "source_ids": [
+            "d1",
+            "d4",
+            "d9",
+            "d16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "强生公司",
+        "role": "董事长、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "d1",
+          "d4",
+          "d9",
+          "d16"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "强生公司",
+    "conflicts": [],
+    "unknowns": [
+      "出生月日：只检得年份1962（El Español）；维基百科作1962年4月1日，仅作线索。两份年龄陈述可推出生于1962年3月中旬至8月中旬之间",
+      "本科学校和年份：强生新闻稿只说“undergraduate degree in economics and business”；维基百科所引 ESADE 校友刊旧标题作“Lic&MBA 85”，现网页未见，未采用",
+      "ESADE 工商管理硕士、雷鸟国际管理硕士的入学和毕业年份：未检得",
+      "1989年加入杨森制药是否为第一份全职工作：来源未明说",
+      "1989—2009年间各职务（Janssen-Cilag 公司总经理所在国别、Ortho Biotech 欧洲公司负责人等）的起止时间：未检得",
+      "美国药品研究与制造商协会董事会主席的卸任时间：未检得",
+      "新泽西州首席执行官理事会主席的起始时间：未检得"
+    ],
+    "excluded": [
+      "None经济学与商学学习：起止时间无来源，履历不单列，学位见首段",
+      "ESADE 商学院工商管理学习：起止时间无来源，履历不单列，学位见首段",
+      "雷鸟全球管理学院国际管理学习：起止时间无来源，履历不单列，学位见首段",
+      "美国药品研究与制造商协会（PhRMA）董事会主席（2017-01起）：止期无来源，主线条目已结束，不能写成在任，不写进括注",
+      "新泽西州首席执行官理事会主席：起始时间无来源，不写进履历括注"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Joaquin Duato；强生公司；董事长、首席执行官、董事",
+    "review_items": []
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001325",
+      "line": "cadre",
+      "subject_id": "b001325",
+      "title": "谢里·比格斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BIGGS,-Sheri-(B001325)/",
+          "title": "BIGGS, Sheri | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "BIGGS, Sheri, a Representative from South Carolina; born in Mississippi, March 28, 1970",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/B001325",
+          "title": "Office of the Clerk, U.S. House of Representatives — Sheri Biggs",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "South Carolina (SC) – 3rd, Republican\nHometown: Salem\nOath of Office: Jan. 03, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.samford.edu/nursing/news/2025/From-Military-Service-to-Capitol-Hill",
+          "title": "From Military Service to Capitol Hill",
+          "published_at": "2025-12-08",
+          "checked_at": "2026-10-18",
+          "excerpt": "Sheri Biggs, DNP ‘21, is a lieutenant colonel in the Air Force National Guard",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://sheribiggs.house.gov/",
+          "title": "Congresswoman Sheri Biggs",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Sheri was elected to the U.S. House of Representatives in 2024 and is currently serving her first term of public office.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.fec.gov/data/committee/C00866426/?cycle=2024",
+          "title": "SHERI BIGGS FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "ID: C00866426 Registration date: January 18, 2024",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.fec.gov/data/candidate/H4SC01313/?cycle=2024",
+          "title": "BIGGS, SHERI - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Political party: Republican Party",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.sheribiggs.com/biggsannouncescandidacy",
+          "title": "Sheri Biggs Announces Candidacy for SC3 | Sheri Biggs for Congress",
+          "published_at": "2024-01-18",
+          "checked_at": "2026-10-18",
+          "excerpt": "Biggs earned a Doctor of Nursing Practice (DNP) from Samford University and a Bachelor’s Degree from Carolina Bible College in Christian Ministries.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://clerk.house.gov/Committees/FA00",
+          "title": "Office of the Clerk — Committee on Foreign Affairs",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Sheri Biggs, SC",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://clerk.house.gov/Committees/HM00",
+          "title": "Office of the Clerk — Committee on Homeland Security",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Sheri Biggs, SC",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://clerk.house.gov/Committees/SY00",
+          "title": "Office of the Clerk — Committee on Science, Space, and Technology",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Sheri Biggs, SC",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://www.ngaus.org/magazine/twice-public-servant",
+          "title": "Twice the Public Servant | National Guard Association of the United States",
+          "published_at": "2025-05",
+          "checked_at": "2026-10-18",
+          "excerpt": "Biggs is currently a lieutenant colonel in the Air Guard, serving with the Mississippi National Guard Joint Force Headquarters in Jackson, Mississippi.",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:SC"
+      ],
+      "person": {
+        "name": {
+          "value": "谢里·比格斯",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1970-03-28",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "密西西比州",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "桑福德大学护理实践博士学位",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2024-01",
+          "source_ids": [
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：本人以共和党身份参选的主要竞选委员会 SHERI BIGGS FOR CONGRESS（C00866426）在联邦选举委员会登记，2024-01-18；来源：https://www.fec.gov/data/committee/C00866426/?cycle=2024 。FEC 候选人页确认共和党身份及该委员会关系：https://www.fec.gov/data/candidate/H4SC01313/?cycle=2024 。同日公开宣布参选：https://www.sheribiggs.com/biggsannouncescandidacy 。未找到第1级选民党籍登记或具有日期的加入、改投声明，未找到第2级党组织职务锚点；竞选公告中的 lifelong Republican 没有加入日期，不作为第1级锚点。候选人页显示的2025-07-25为现行参选声明版本日期，不取代首次委员会登记日；2024年党派选举及2025年就任属于较低级锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2024-01-18",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": {
+          "value": "中校",
+          "source_ids": [
+            "s4",
+            "s5",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（南卡罗来纳州第3选区）",
+          "role": "",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院外交事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院国土安全委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s10"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院科学、空间与技术委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s11"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（南卡罗来纳州第3选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（南卡罗来纳州第3选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：检索国会历史人物页、议员官网、桑福德大学校方报道、竞选公告及国民警卫队协会采访，未找到第一份全职工作的单位和开始日期；不以护理从业三十余年倒推出确切年份。",
+        "本科履历：国会历史人物页和本人竞选公告确认 Carolina Bible College 学士学位，公告明确 Christian Ministries 专业；未找到入学、毕业年份，无法按毕业年减4推算入学年，未列入带日期履历。",
+        "博士履历：桑福德大学2025年12月8日报道标为 DNP ‘21，并明确为在线课程、学习时同时服役；未找到入学日期或学习年限，未编制起止日期及在职学习括注。",
+        "博士毕业年份：校方报道标为2021届；国会名录搜索结果出现2003，但名录全文因文件过大无法打开，未收入 sources，也未将该搜索片段列为已核实冲突。",
+        "护理工作履历：已打开来源确认执业护士、护理院管理及医疗服务咨询经历；未找到各单位任职起止日期，底稿1992—2000、2000—2024两段均无可用日期依据。",
+        "军职履历：本人2024年公告提及飞行护士、第183航空医疗后送中队护理部门飞行指挥官及联合部队总部任职；2025年国民警卫队协会采访确认密西西比州联合部队总部任职及2018年部署。各职务到任、交接日期未找到，未将部署年份当作服役起始年。",
+        "军职起始时间：采访仅写40岁参军，本批规则不允许据年龄倒推军职开始日期；未采用底稿2000年开始服役的说法。",
+        "委员会任职开始日期：众议院书记官名单及国会历史人物页确认第119届三个委员会任职，未找到明确生效日期，current_roles.start 留空。",
+        "出生城市：已打开国会历史人物页只写密西西比州；国会名录搜索片段出现 Kosciusko，但原文未能打开，出生地暂保留州级。",
+        "族裔：未找到本人自述或官方统计记录，留空。",
+        "空军战争学院学历：来源提及就读或完成课程，未找到可打开的学位授予记录及起止日期，未计入已获学位。",
+        "完整简历卡：参加工作年份缺证，大学至国会任职前的日期链条未建立，本项保留研究候选事实包。"
+      ],
+      "excluded": [
+        "底稿『1992年参加工作』：未找到第一份全职工作开始年份依据。",
+        "底稿『1992年6月参加工作』：年份缺证，月份属于旧稿补定。",
+        "底稿『1988—1992年卡罗来纳圣经研究学院学习』：未找到入学、毕业日期；公开官方来源使用 Carolina Bible College，不沿用未核实的中文校名。",
+        "底稿『最高学位为卡罗来纳圣经研究学院文学学士』：国会及桑福德大学确认已获护理实践博士，最高学位改取博士。",
+        "底稿『2008—2014年桑福德大学理学硕士、护理实践博士』：未找到该起止时间和硕士授予依据；校方报道标记 DNP ‘21。",
+        "底稿『2000—2024年密西西比空军国民警卫队军官』：起止日期无依据，公开来源仍将其列为国民警卫队中校。",
+        "底稿『密西西比州科修斯科人』：本次可打开的官方出生资料只到州级，城市暂不采用。",
+        "底稿『2024年1月加入美国共和党』：旧稿本身无证据；本次同月结果来自重新打开的FEC首次委员会登记记录，按第3级锚点推断。",
+        "检索所得同名人员1991—1992年销售代表诉讼记录：没有证据证明与本对象为同一人，不采用。",
+        "打不开的议员官网 About 页面、国会名录PDF及州议会手册PDF：未列入 sources，未用搜索摘要补充事实。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": "美国联邦众议员（南卡罗来纳州第3选区）＋美国国会众议院；Bioguide B001325，FEC H4SC01313",
+      "review_items": [
+        "最高学位授予年份优先复核桑福德大学 DNP ‘21 原文；国会名录2003年线索需另行打开原文后处理。",
+        "补查第一份全职工作的起始年份和大学就读日期后，再判定完整简历卡资格。",
+        "核定 Carolina Bible College 及 Moffett & Sanders School of Nursing 的译名表写法。",
+        "本包为研究候选稿，待下一会话逐字段独立联网核查。"
+      ]
+    }
+  ]
+}

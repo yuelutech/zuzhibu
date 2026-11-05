@@ -1,0 +1,153 @@
+{
+  "id": "kristi-noem",
+  "name_zh": "克丽丝蒂·诺姆",
+  "name_en": "Kristi Noem",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-kristi-noem",
+    "line": "cadre",
+    "subject_id": "kristi-noem",
+    "title": "克丽丝蒂·诺姆简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.aol.com/articles/kristi-noems-special-envoy-role-190017000.html",
+        "title": "Kristi Noem’s special envoy role to Shield of the Americas ends",
+        "published_at": "2026-10-16",
+        "checked_at": "2026-10-21",
+        "excerpt": "Noem’s special envoy status expired last month",
+        "tier": null
+      },
+      {
+        "id": "s2",
+        "url": "https://www.cbsnews.com/news/kristi-noem-no-longer-trump-envoy-shield-of-the-americas/",
+        "title": "Kristi Noem no longer serving as Trump envoy to Shield of the Americas",
+        "published_at": "2026-10-15",
+        "checked_at": "2026-10-21",
+        "excerpt": "She is now a senior advisor to Deputy Secretary Landau",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "克丽丝蒂·诺姆",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国国务院",
+        "role": "副国务卿高级顾问",
+        "start": {
+          "value": "2026-09",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-09",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国务院",
+        "role": "副国务卿高级顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "events": [
+    "2026-09-01-kristi-noem-transfer"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-09",
+      "event": "2026-09-01-kristi-noem-transfer",
+      "reason": "主要职务“美国国务院 副国务卿高级顾问”：总统、白宫、内阁与独立机构"
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true
+}

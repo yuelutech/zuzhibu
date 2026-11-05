@@ -1,0 +1,573 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "c-c-wei-20261018",
+      "line": "cadre",
+      "subject_id": "c-c-wei",
+      "title": "魏哲家简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.tsmc.com/english/aboutTSMC/executives",
+          "title": "TSMC Executive Management",
+          "excerpt": "Dr. Wei joined TSMC in 1998.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://investor.tsmc.com/static/annualReports/2023/english/index.html",
+          "title": "TSMC 2023 Annual Report",
+          "excerpt": "C.C. Wei",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.cna.com.tw/tag/20333/",
+          "title": "中央社：魏哲家小档案",
+          "excerpt": "生日：1953年",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://www.mnews.tw/story/amp/20231220nm021",
+          "title": "镜新闻：魏哲家接棒台积电",
+          "excerpt": "1985年於德州儀器技術研發部門擔任研究員",
+          "published_at": "2023-12-20",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://college.itri.org.tw/Home/InfoData/f6e19f2d-f81c-421c-bc36-ea6409ba0a5d/595abe84-b0f6-4787-9388-f024d82145fb",
+          "title": "工研院：魏哲家换位思考保持好奇心",
+          "excerpt": "他回憶，在德州儀器的第一份工作",
+          "published_at": "2021-02-25",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://honorarydoctor202401.web.nycu.edu.tw/受頒名譽博士感言/",
+          "title": "阳明交通大学：魏哲家受颁名誉博士感言",
+          "excerpt": "1971年",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "魏哲家"
+      ],
+      "person": {
+        "name": {
+          "value": "魏哲家",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "中国台湾",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": "年报国籍或注册地栏原文为 R.O.C.，按所在地区记载。",
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1953-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1953",
+            "duration_years": null
+          }
+        },
+        "birth_place": {
+          "value": "台湾南投鹿谷",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1985-07",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1985",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "耶鲁大学电气工程专业",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "博士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "台积电公司",
+          "role": "董事长兼首席执行官",
+          "start": {
+            "value": "2024-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1971-09",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1971",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "交通大学",
+          "role": null,
+          "program": "电气工程专业",
+          "degree_awarded": {
+            "value": "学士、硕士",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1985",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1991-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1991",
+              "duration_years": null
+            }
+          },
+          "organization": "德州仪器公司",
+          "role": "研究员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1991-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1991",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1996-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1996",
+              "duration_years": null
+            }
+          },
+          "organization": "意法半导体公司",
+          "role": "逻辑暨静态随机存储器技术开发高级经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1996",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1998-02",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "按下一条1998年2月加入台积电衔接。",
+            "inference": {
+              "rule": "adjacent_entry",
+              "from_date": "1998-02",
+              "duration_years": null
+            }
+          },
+          "organization": "特许半导体公司",
+          "role": "高级副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2009",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2012-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "台积电公司",
+          "role": "业务开发高级副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "台积电公司",
+          "role": "共同首席运营官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "台积电公司",
+          "role": "总裁兼联合首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "台积电公司",
+          "role": "首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2024-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "台积电公司",
+          "role": "董事长兼首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "台积电公司",
+      "conflicts": [],
+      "unknowns": [
+        "本科、硕士及博士取得年份未查明；博士入学年份未知。",
+        "1998年入职至主流技术事业高级副总裁的具体任职衔接日期未查明。",
+        "已核实经历，开始时间未知：耶鲁大学；电气工程专业博士研究生学习；已获博士。来源：s1。",
+        "1998年加入台积电及曾任主流技术事业高级副总裁均已核实，但该职务起任日期未知，不能把加入公司日期作为该职务起任日期。来源：s1、s2。"
+      ],
+      "excluded": [],
+      "country_profile": "other",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "2026-08-17-james-macy-appoint",
+  "date": "2026-08-17",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "james-macy",
+  "person": {
+    "name_zh": "詹姆斯·梅西",
+    "name_en": "James Macy",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-17",
+  "effective_at": "2026-08-17",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国全国劳资关系委员会",
+      "role": "委员",
+      "organization_en": "National Labor Relations Board",
+      "role_en": "Member",
+      "start": "2026-08-17",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "詹姆斯·梅西就任美国全国劳资关系委员会委员",
+  "summary": "8月17日，James R. Macy宣誓就任美国全国劳资关系委员会委员；该职务提名已于8月7日获参议院确认。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.nlrb.gov/news-outreach/news-story/james-r-macy-sworn-in-as-board-member",
+      "title": "James R. Macy Sworn in as Board Member",
+      "publisher": "National Labor Relations Board",
+      "published_at": "2026-08-17",
+      "excerpt": "On August 17, 2026, James R. Macy was sworn in as a Member of the National Labor Relations Board by Chairman James R. Murphy.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "m1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "James Macy, of Wisconsin, to be a Member of the National Labor Relations Board for the term of five years expiring August 27, 2030.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null,
+      "merged_from": "2026-08-17-james-macy-confirm"
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ],
+    "merged": [
+      {
+        "id": "2026-08-17-james-macy-confirm",
+        "kind": "confirm",
+        "headline": "参议院确认詹姆斯·梅西出任美国全国劳资关系委员会委员",
+        "announced_at": "2026-08-07",
+        "effective_at": "2026-08-17",
+        "verification": {
+          "method": "codex",
+          "by": "本机 Codex 核查会话（补采动态，一次一条）",
+          "run": "20261021-090516"
+        },
+        "sources": [
+          "m1",
+          "e1",
+          "m1"
+        ],
+        "at": "2026-10-21",
+        "reason": "同一人、同一天、同一机构，类别不同的同一件事，合成一条"
+      }
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "到任：美国全国劳资关系委员会委员由提名改为正式职务，起始 2026-08"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "james-macy",
+    "reason": "新任职务不在各局范围（主要职务“美国全国劳资关系委员会 委员”：不在各局范围），暂留原局"
+  }
+}

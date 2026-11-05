@@ -1,0 +1,476 @@
+{
+  "id": "norma-j-torres",
+  "name_zh": "诺玛·托雷斯",
+  "name_en": "Norma J. Torres",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {
+    "bioguide": "T000474"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "norma-j-torres.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Norma_Torres_official_portrait.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Congress；https://www.facebook.com/RepNormaTorres），File:Norma Torres official portrait.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Norma_Torres_official_portrait.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-t000474",
+    "line": "cadre",
+    "subject_id": "t000474",
+    "title": "诺玛·托雷斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "",
+        "tier": 1
+      },
+      {
+        "id": "care1",
+        "url": "https://github.com/yuelutech/zuzhibu-archive/blob/d4e223436dc4f548069b85bfb14569402edf0257/bureaus/personnel-congress/import/ceo-profiles/resumes/T000474.md",
+        "title": "国会议员简历底稿（2026年6月整理，仓库归档）",
+        "published_at": "2026-06-13",
+        "checked_at": "2026-10-22",
+        "excerpt": "诺玛·托雷斯，女，1965年4月生，危地马拉埃斯昆特拉市人，大学学历，劳动研究学士学位，2000年6月参加工作，2000年6月加入美国民主党。",
+        "tier": 3
+      },
+      {
+        "id": "cdir1",
+        "url": "https://www.govinfo.gov/app/details/CDIR-2026-02-20",
+        "title": "Official Congressional Directory, 119th Congress（2026年2月20日版，美国政府出版局）",
+        "published_at": "2026-02-20",
+        "checked_at": "2026-10-22",
+        "excerpt": "NORMA J. TORRES, Democrat, of Pomona, CA; born in Escuintla, Guatemala; education: B.A., labor studies, National Labor College, Silver Spring, MD, 2012; professional history: 9-1-1 dispatcher; member, Pomona City Council, 2000-06; mayor, Pomona, 2006-08; member, California State Assembly, 2008- 13",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "house",
+      "state:CA"
+    ],
+    "person": {
+      "name": {
+        "value": "诺玛·托雷斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1965-04-04",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "危地马拉埃斯昆特拉",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1992",
+        "source_ids": [
+          "care1"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：洛杉矶警察局通信调度员、911接线员（旧项目简历底稿履历第一条）",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1992",
+          "duration_years": null
+        }
+      },
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（加利福尼亚州第35选区）",
+        "role": "",
+        "start": {
+          "value": "2025-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2000",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "洛杉矶警察局通信调度员、911接线员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "study",
+            "start": {
+              "value": "1992",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2000",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国国家劳工学院",
+            "role": null,
+            "roles": [],
+            "program": "劳动研究",
+            "degree_awarded": {
+              "value": "文学学士",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "concurrent": true,
+            "source_ids": []
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2000",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "加利福尼亚州波莫纳市议员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2006",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2008",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "加利福尼亚州波莫纳市市长",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": []
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "加利福尼亚州众议员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2014",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "加利福尼亚州参议员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "加利福尼亚州第35选区联邦众议员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国众议院拨款委员会委员",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": []
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "新民主党联盟副主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": []
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [],
+    "unknowns": [
+      "学历学位：履历无带学位的学习条目",
+      "履历：来源只有旧项目国会议员简历底稿（三级），待重新取证",
+      "入党时间：底稿无锚点，按 party_join.md 重新取锚点",
+      "参加工作：旧底稿首段作“2000年6月参加工作”，与其履历第一条（1992年起）不一致，按履历第一条推算"
+    ],
+    "excluded": [
+      "发布稿「2000年6月参加工作」：月份为旧规则推定，只写到年",
+      "发布稿入党句「2000年6月加入美国民主党」：底稿无锚点、无来源，不采用"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

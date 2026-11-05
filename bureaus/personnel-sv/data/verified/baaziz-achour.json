@@ -1,0 +1,378 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "baaziz-achour-20261018",
+      "line": "cadre",
+      "subject_id": "baaziz-achour",
+      "title": "巴齐兹·阿舒尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.qualcomm.com/company/about/leadership/baaziz-achour",
+          "title": "Dr. Baaziz Achour — Qualcomm",
+          "excerpt": "Dr. Achour first joined Qualcomm as a Systems Engineer in 1993.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm",
+          "title": "Qualcomm 2025 Form 10-K",
+          "excerpt": "Baaziz Achour, age 64, has served as Chief Technology Officer, QTI since February 2025.",
+          "published_at": "2025-11-05",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.tsa-algerie.com/etats-unis-3-sommites-scientifiques-mondiales-formes-a-lusthb-en-algerie/",
+          "title": "États-Unis: 3 sommités scientifiques mondiales formés à l’USTHB en Algérie",
+          "excerpt": "Belgacem Haba, Noureddine Melikechi et Baaziz Achour, outre leur nationalité algérienne",
+          "published_at": "2024-12-15",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "巴齐兹·阿舒尔"
+      ],
+      "person": {
+        "name": {
+          "value": "巴齐兹·阿舒尔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "阿尔及利亚",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1961-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2025年11月5日10-K列64岁；出生区间1960年11月6日至1961年11月5日，中间月份为1961年5月。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2025-11-05",
+            "duration_years": 64
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1993-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "塔夫茨大学",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "电气工程博士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "高通技术公司",
+          "role": "执行副总裁、首席技术官",
+          "start": {
+            "value": "2025-02",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1993",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "高通公司",
+          "role": "系统工程师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023-04",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "高通公司",
+          "role": "工程高级副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-04",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024-12",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "高通公司",
+          "role": "副首席技术官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2024-12",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-02",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "高通技术公司",
+          "role": "首席技术官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "候任",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-02",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "高通技术公司",
+          "role": "执行副总裁、首席技术官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "高通技术公司",
+      "conflicts": [
+        {
+          "field": "本科学校及学位",
+          "alternatives": [
+            {
+              "value": "阿尔及尔大学物理学理学学士",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "USTHB系统工程师文凭",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "阿尔及尔大学物理学理学学士",
+          "reason": "采用一级公司官方简历；媒体不同表述保留在冲突记录。"
+        }
+      ],
+      "unknowns": [
+        "各学位取得年份及系统工程师后历次晋升日期未公开；参加工作按最早核实的1993年全职岗位记录，未取得更早工作记录；出生年月由年龄区间推算。",
+        "已核实经历，开始时间未知：阿尔及尔大学；物理学；已获理学学士。来源：s1。",
+        "已核实经历，开始时间未知：塔夫茨大学；电气工程；已获硕士、博士。来源：s1。"
+      ],
+      "excluded": [],
+      "country_profile": "other",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

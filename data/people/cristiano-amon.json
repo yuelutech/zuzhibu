@@ -1,0 +1,624 @@
+{
+  "id": "cristiano-amon",
+  "name_zh": "安蒙",
+  "name_en": "Cristiano Amon",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“高通公司 总裁兼首席执行官 Qualcomm President and Chief Executive Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/cristiano-amon.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://s204.q4cdn.com/645488518/files/doc_downloads/bod/photo_resized-2.png",
+    "source": "https://www.qualcomm.com/company/about/leadership/cristiano-amon"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Qualcomm",
+      "role_en": "President and Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“高通公司 总裁兼首席执行官 Qualcomm President and Chief Executive Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "cristiano-amon-20261018",
+    "line": "cadre",
+    "subject_id": "cristiano-amon",
+    "title": "安蒙简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.qualcomm.com/company/about/leadership/cristiano-amon",
+        "title": "Cristiano Amon",
+        "excerpt": "June 30, 2021",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://canaltech.com.br/gestao/presidente-global-da-qualcomm-cristiano-amon-e-doutor-honoris-causa-na-unicamp-156231/",
+        "title": "Presidente global da Qualcomm, Cristiano Amon, é doutor Honoris Causa na Unicamp",
+        "excerpt": "em Janeiro de 1993 na empresa NEC",
+        "published_at": "2019-11-26",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926005781/tm2528704-1_def14a.htm",
+        "title": "Qualcomm 2026 Proxy Statement",
+        "excerpt": "AGE: 55",
+        "published_at": "2026-01-22",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.unicamp.br/noticias/2026/09/11/em-cerimonia-fundo-lumina-apresenta-seus-novos-embaixadores/",
+        "title": "Em cerimônia, Fundo Lumina apresenta seus novos embaixadores",
+        "excerpt": "pelo brasileiro Cristiano Amon",
+        "published_at": "2026-09-11",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "安蒙"
+    ],
+    "person": {
+      "name": {
+        "value": "安蒙",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "巴西",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1970-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "2026年1月22日代理声明列55岁，出生区间1970-01-23至1971-01-22，取中间月份1970年7月。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-01-22",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1993-01",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "education": {
+        "value": "坎皮纳斯州立大学",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "电气工程理学学士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "高通公司",
+        "role": "总裁、首席执行官",
+        "start": {
+          "value": "2021-06",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "高通公司",
+        "role": "董事",
+        "start": {
+          "value": "2021-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "Adobe公司",
+        "role": "董事",
+        "start": {
+          "value": "2023-10",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1988-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1992减标准学制4年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1992",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1992-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1992",
+            "duration_years": null
+          }
+        },
+        "organization": "坎皮纳斯州立大学",
+        "role": null,
+        "program": "电气工程",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993-01",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "NEC公司",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1995",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "高通公司",
+        "role": "工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007-10",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "高通公司",
+        "role": "QCT产品管理高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012-10",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "高通公司",
+        "role": "高级副总裁、QCT联席总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-10",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-11",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "高通技术公司",
+        "role": "执行副总裁、QCT联席总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-11",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "高通技术公司",
+        "role": "执行副总裁、QCT总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "高通公司",
+        "role": "总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "高通公司",
+        "role": "总裁、候任首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-06",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "高通公司",
+        "role": "总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "高通公司",
+    "conflicts": [],
+    "unknowns": [
+      "Vésper首席技术官及爱立信、Velocom经历有公司官网依据，起止时间和后两者具体职务未查到。来源s1。",
+      "1993年1月在NEC开始职业经历已核实，具体职务未查到，来源s2。"
+    ],
+    "excluded": [
+      "坎皮纳斯州立大学荣誉博士不作最高学位。"
+    ],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

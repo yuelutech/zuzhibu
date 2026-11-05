@@ -1,0 +1,759 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-s001150",
+      "line": "cadre",
+      "subject_id": "s001150",
+      "title": "亚当·希夫简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "sen 2024-12-09~ CA Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: M",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born June 22, 1960 in Framingham, Massachusetts",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+          "title": "维基百科：Adam_Schiff",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born June 22, 1960 in Framingham, Massachusetts",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+          "title": "维基百科：Adam_Schiff",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Agriculture, Nutrition, and Forestry; Environment and Public Works; Small Business and Entrepreneurship; Judiciary",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+          "title": "维基百科：Adam_Schiff",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Stanford University: Bachelor of Arts in political science (1982)",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+          "title": "维基百科：Adam_Schiff",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Harvard Law School: Juris Doctor cum laude (1985)",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+          "title": "维基百科：Adam_Schiff",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Law Clerk: Judge William Matthew Byrne Jr. (1985-1986)",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+          "title": "维基百科：Adam_Schiff",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Assistant U.S. Attorney: Central District of California (1987-1993)",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+          "title": "维基百科：Adam_Schiff",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "private practice prior to state senate",
+          "tier": 3
+        },
+        {
+          "id": "s11",
+          "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+          "title": "维基百科：Adam_Schiff",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "California State Senate: December 2, 1996 – November 30, 2000",
+          "tier": 3
+        },
+        {
+          "id": "s12",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "rep 2001-2024 CA Democrat (districts 27/29/28/30)",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. Senate: Assumed office December 9, 2024",
+          "tier": 1
+        },
+        {
+          "id": "s14",
+          "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+          "title": "维基百科：Adam_Schiff",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. Senate: Assumed office December 9, 2024",
+          "tier": 3
+        },
+        {
+          "id": "s15",
+          "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+          "title": "维基百科：Adam_Schiff",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Law Clerk: Judge William Matthew Byrne Jr., 1985-1986",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "senate",
+        "state:CA"
+      ],
+      "person": {
+        "name": {
+          "value": "亚当·希夫",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1960-06-22",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "马萨诸塞州弗雷明汉",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1985",
+          "source_ids": [
+            "s15"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：任加利福尼亚中区联邦地区法院法官法律助理；底稿备注：法学院1985年毕业衔接，月份按毕业次月推定",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1985",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "哈佛大学法学院法学博士学位",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1996-11",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以民主党身份当选加利福尼亚州参议员（1996年11月当选）；来源：https://en.wikipedia.org/wiki/Adam_Schiff；底稿备注：取最早可文证的以民主党当选公职节点(1996州参议院)；月份按当选(11月)推定；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1996-11",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（加利福尼亚州）",
+          "role": "",
+          "start": {
+            "value": "2024-12-09",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院农业、营养与林业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院环境与公共工程委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院小企业与创业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1978",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1982倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1982",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1982",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "斯坦福大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1982",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1985倒推",
+            "inference": {
+              "rule": "degree_duration",
+              "from_date": "1985",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1985",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "哈佛大学法学院",
+          "role": null,
+          "program": "法律",
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1986",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国加利福尼亚中区联邦地区法院威廉·伯恩法官办公室",
+          "role": "法律助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1987",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国加利福尼亚中区联邦检察官办公室",
+          "role": "助理联邦检察官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "助理联邦检察官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "私人律师事务所",
+          "role": "执业律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "执业律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2000",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州参议院",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2001-01",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（加利福尼亚州第27、29、28、30选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（加利福尼亚州第27、29、28、30选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2019",
+                "source_ids": [
+                  "s12"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2023",
+                "source_ids": [
+                  "s12"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国众议院情报常设特别委员会主席",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s12"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2019",
+                "source_ids": [
+                  "s12"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2020",
+                "source_ids": [
+                  "s12"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "总统弹劾案首席经理人",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s12"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2024-12-09",
+            "source_ids": [
+              "s13",
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（加利福尼亚州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s13",
+            "s14"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（加利福尼亚州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [],
+      "unknowns": [
+        "底稿缺项：1986-1987间隔（法律助理与助理联邦检察官之间）",
+        "底稿缺项：私人执业律所名称（1993-1996）",
+        "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+      ],
+      "excluded": [
+        "参加工作月份「1985年6月」：底稿推定（法学院1985年毕业衔接，月份按毕业次月推定），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

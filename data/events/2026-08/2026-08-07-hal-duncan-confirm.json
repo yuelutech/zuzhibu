@@ -1,0 +1,76 @@
+{
+  "id": "2026-08-07-hal-duncan-confirm",
+  "date": "2026-08-07",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "hal-duncan",
+  "person": {
+    "name_zh": "哈尔·邓肯",
+    "name_en": "Hal Duncan",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国行政管理和预算局",
+      "role": "副局长",
+      "organization_en": "Office of Management and Budget",
+      "role_en": "Deputy Director",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "美国参议院确认哈尔·邓肯出任行政管理和预算局副局长",
+  "summary": "参议院8月7日确认邓肯的行政管理和预算局副局长提名。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/LIS/floor_activity/08_07_2026_Senate_Floor.htm",
+      "title": "Senate Floor Activity — Friday, August 7, 2026",
+      "publisher": "美国参议院",
+      "published_at": "2026-08-07",
+      "excerpt": "Hal Duncan, of Texas,",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 hal-duncan（库里没有此人）",
+      "现任职务新增：美国行政管理和预算局副局长",
+      "履历新增：2026-08 美国行政管理和预算局副局长",
+      "所属局：按确认职务定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "hal-duncan"
+  }
+}

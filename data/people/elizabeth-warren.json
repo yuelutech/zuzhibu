@@ -1,0 +1,930 @@
+{
+  "id": "elizabeth-warren",
+  "name_zh": "伊莉莎白·华伦",
+  "name_en": "Elizabeth Warren",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "W000817"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "elizabeth-warren.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Elizabeth_Warren_(47992252913)_(cropped).jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "CC BY-SA 2.0：Gage Skidmore from Peoria, AZ, United States of America，维基共享资源 File:Elizabeth Warren (47992252913) (cropped).jpg；改动：抠图、换蓝白渐变底，裁成 3:4 头肩像",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Elizabeth_Warren_%2847992252913%29_%28cropped%29.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-w000817",
+    "line": "cadre",
+    "subject_id": "w000817",
+    "title": "伊莉莎白·华伦简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2013-01-03~ MA Democrat",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: F",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Warren was born Elizabeth Ann Herring in Oklahoma City on June 22, 1949.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Warren was born Elizabeth Ann Herring in Oklahoma City on June 22, 1949.",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "born...in Oklahoma City on June 22, 1949",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Committee on Banking, Housing, and Urban Affairs (Ranking Member)",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "left GWU after two years in 1968",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "graduated in 1970 with a Bachelor of Science degree in speech pathology and audiology",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "She received her Juris Doctor in 1976",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Warren taught children with disabilities for a year",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Rutgers lecturer (1977-1978)",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "University of Houston Law Center (1978-1983)",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "University of Texas (1983-1987)",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "University of Pennsylvania (1987-1995)",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Harvard (1995 onward); On November 14, 2008...to chair the...Congressional Oversight Panel; In September 2010, Obama named Warren Assistant to the President and Special Advisor to the Secretary of the Treasury on the CFPB",
+        "tier": 3
+      },
+      {
+        "id": "s16",
+        "url": "https://www.fec.gov/data/candidate/S2MA00170/",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "FEC Senate candidate S2MA00170 (MA)",
+        "tier": 1
+      },
+      {
+        "id": "s17",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Vice President Joe Biden swore Warren in on January 3, 2013",
+        "tier": 1
+      },
+      {
+        "id": "s18",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Vice President Joe Biden swore Warren in on January 3, 2013",
+        "tier": 3
+      },
+      {
+        "id": "s19",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "In 1970, after obtaining a degree in speech pathology and audiology...Warren taught children with disabilities for a year",
+        "tier": 3
+      },
+      {
+        "id": "s20",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+        "title": "维基百科：Elizabeth_Warren",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Warren was registered as a Republican from 1991 to 1996 and she began to vote Democratic in 1995",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:MA"
+    ],
+    "person": {
+      "name": {
+        "value": "伊莉莎白·华伦",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1949-06-22",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "俄克拉何马州俄克拉何马城",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1970",
+        "source_ids": [
+          "s19"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：任特殊教育教师；底稿备注：规则①：1970年本科毕业衔接特殊教育教师",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1970",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "罗格斯大学法学院法学博士学位",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "1996",
+        "source_ids": [
+          "s20"
+        ],
+        "inferred": true,
+        "basis": "第1级锚点：党籍登记记录：1991-1996年登记为共和党，1996年转登记为民主党（最高优先级锚点）；来源：https://en.wikipedia.org/wiki/Elizabeth_Warren；底稿备注：年份为明确登记记录(高置信)；具体月份未公开，按规则⑤推定7月(低置信)；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_registration",
+          "from_date": "1996",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（马萨诸塞州）",
+        "role": "",
+        "start": {
+          "value": "2013-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院银行、住房和城市事务委员会",
+        "role": "资深成员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "资深成员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1966",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1968",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "乔治·华盛顿大学",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1968",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1970",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "休斯敦大学",
+        "role": null,
+        "program": "言语病理学和听力学",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1970",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1971",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "（新泽西州公立学校）",
+        "role": "特殊教育教师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "特殊教育教师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1973",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1976倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1976",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1976",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "罗格斯大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1977",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1978",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "罗格斯大学法学院",
+        "role": "讲师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "讲师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1978",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1983",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "休斯敦大学法律中心",
+        "role": "教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1983",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1987",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "得克萨斯大学法学院",
+        "role": "教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1995",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "宾夕法尼亚大学法学院",
+        "role": "教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995",
+          "source_ids": [
+            "s15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012",
+          "source_ids": [
+            "s15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哈佛大学法学院",
+        "role": "教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s15"
+        ],
+        "ongoing": false,
+        "roles": [
+          "教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2008",
+              "source_ids": [
+                "s15"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2010",
+              "source_ids": [
+                "s15"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国国会问题资产救助计划监督小组主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s15"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2010",
+              "source_ids": [
+                "s15"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2011",
+              "source_ids": [
+                "s15"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国总统助理、财政部长特别顾问（消费者金融保护局筹建）",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s15"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "伊莉莎白·华伦参议员竞选委员会",
+        "role": "民主党联邦参议员候选人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s16"
+        ],
+        "ongoing": false,
+        "roles": [
+          "民主党联邦参议员候选人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s17",
+            "s18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（马萨诸塞州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s17",
+          "s18"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（马萨诸塞州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [
+                "s17",
+                "s18"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国参议院银行、住房和城市事务委员会资深成员",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s17",
+              "s18"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：罗格斯法学院入学年（按学制倒推）",
+      "底稿缺项：1971-1973育儿在家期（年份模式可容）",
+      "底稿缺项：119届除银行委员会外的其余委员会与党团职务（待 congress.gov 核）",
+      "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1970年6月」：底稿推定（规则①：1970年本科毕业衔接特殊教育教师），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包",
+      "入党月份「1996年7月」：底稿推定（年份为明确登记记录(高置信)；具体月份未公开，按规则⑤推定7月(低置信)），不采用，只写到年"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

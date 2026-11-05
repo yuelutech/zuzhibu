@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001302",
+      "line": "cadre",
+      "subject_id": "b001302",
+      "title": "安迪·比格斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/members/B001302/",
+          "title": "Office of the Clerk, U.S. House of Representatives — Andy Biggs",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Andy Biggs\nArizona (AZ) – 5th, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://history.house.gov/People/Detail/15032440320",
+          "title": "BIGGS, Andrew S. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Tucson, Pima County, Ariz., November 7, 1958",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://apps.azlibrary.gov/officials/Legislators/Person/117",
+          "title": "Andrew \"Andy\" S. Biggs - Arizona State Library, Archives and Public Records",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Gender\nMale\nPlace of Birth\nTucson, Pima Co., AZ, USA",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://azcapitoltimes.com/elections-2014/2014/biggs-andy/",
+          "title": "Biggs, Andy | Elections 2014",
+          "published_at": "2014-06-27",
+          "checked_at": "2026-10-18",
+          "excerpt": "Occupation: Retired; attorney (sole-practice), 1985-97.",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://azcapitoltimes.com/election-2012/2012/andy-biggs/",
+          "title": "Andy Biggs | Arizona Capitol Times Election Coverage",
+          "published_at": "2012-07-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "Occupation: Retired; attorney (sole-practice), 1985-1997.",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://clerk.house.gov/Committees/JU00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on the Judiciary",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Andy Biggs, AZ",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://clerk.house.gov/Committees/GO00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on Oversight and Government Reform",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Andy Biggs, AZ",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:AZ"
+      ],
+      "person": {
+        "name": {
+          "value": "安迪·比格斯",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1958-11-07",
+          "source_ids": [
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "亚利桑那州图森",
+          "source_ids": [
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1985",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "Arizona Capitol Times 的2012年和2014年候选人资料均记载私人执业律师经历为1985—1997年；以目前查得的第一份全职职业经历起始年1985年推定参加工作时间，不补月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1985",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "亚利桑那大学法学博士学位",
+          "source_ids": [
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（亚利桑那州第5选区）",
+          "role": "",
+          "start": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s3",
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院监督与政府改革委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1978",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "众议院官方人物页及Arizona Capitol Times均记载1982年取得杨百翰大学学士学位；按本科毕业年减4推定：1982－4＝1978。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1982",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1982",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "杨百翰大学",
+          "role": null,
+          "program": "亚洲研究",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1997",
+            "source_ids": [
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "私人执业",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s3",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2011",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "亚利桑那州众议院",
+          "role": "众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011",
+            "source_ids": [
+              "s3",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "亚利桑那州参议院",
+          "role": "参议员、多数党领袖、议长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "参议员",
+            "多数党领袖",
+            "议长"
+          ],
+          "role_category": null,
+          "role_basis": "同一单位职务合并记录。众议院官方人物页记载多数党领袖任期2011—2012年、议长任期2013—2016年；州图书馆记载2011年3月15日接任多数党领袖。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（亚利桑那州第5选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（亚利桑那州第5选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.亚利桑那州众议院.end",
+          "alternatives": [
+            {
+              "value": "2011",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2010",
+              "source_ids": [
+                "s5",
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2011",
+          "reason": "采用众议院现行官方人物页明确记载的2003—2011年任期；Arizona Capitol Times候选人资料写2003—2010年。"
+        }
+      ],
+      "unknowns": [
+        "入党时间：检索了选民登记、公开宣布加入共和党、选区党职、州参选登记及FEC候选人记录。Arizona Capitol Times记载曾任precinct committeeman和district officer，但未给就任日期；未找到可用的第1—3级早期日期锚点。",
+        "入党时间：亚利桑那州务卿2002年初选官方计票PDF首次打开成功，但返回内容未展示比格斯所在选区；后续定位及重开均返回403，未将搜索摘要中的2002年9月10日共和党初选记录写入事实字段。2003年共和党州众议员任职为更晚的第5级线索，未用其覆盖更早初选线索。",
+        "亚利桑那大学学习起始时间：查阅众议院官方人物页、州图书馆及Arizona Capitol Times，确认1984年取得J.D.，未找到入学年份；未沿用底稿1982年起始日期，未单列该学习条目。",
+        "亚利桑那州立大学学习起始时间及学习方式：上述来源确认1999年取得政治学文学硕士，未给入学年份、学习年限及在职或脱产方式；未沿用底稿1997年入学和在职学习括注。",
+        "早期职业空档：1984—1985年及1997—2003年未查到具有起止日期的全职职业记录。",
+        "参加工作月份：2012年和2014年候选人资料仅给私人执业起始年1985年，未找到月份。",
+        "委员会起始时间：众议院书记官第119届国会名单确认司法委员会、监督与政府改革委员会委员现职，未记本次就任日期。",
+        "自由党团主席及犯罪和联邦政府监控小组委员会主席：议员官网搜索结果有相关记载，但原文打开返回403，未写入履历括注。",
+        "2026年州长竞选：检索发现共和党提名报道，相关美联社原文打开失败，未将候选人经历写入结构化履历。",
+        "族裔：已打开的国会官方人物页、州图书馆及候选人资料未提供符合规则的本人自述或官方统计依据。",
+        "本科及研究生全日制属性：已打开来源未明确说明。",
+        "州参议院各职务转换月份：官方人物页只给多数党领袖2011—2012年、议长2013—2016年；未补造转换月份。"
+      ],
+      "excluded": [
+        "底稿『1984年参加工作』：重新打开的2012年和2014年职业资料均记载1985年开始私人执业，改按1985年推定。",
+        "底稿『1984—2002年亚利桑那州、新墨西哥州律师、检察官』：来源支持私人执业律师1985—1997年；未找到检察官任职依据。",
+        "底稿『1982—1984年亚利桑那大学法学院学习』：1984年学位已证实，1982年入学未找到依据。",
+        "底稿『1997—1999年亚利桑那州立大学在职学习』：1999年政治学文学硕士已证实，起始时间和在职属性未找到依据。",
+        "底稿『2002—2011年亚利桑那州众议员』：现行众议院官方人物页记载2003—2011年。",
+        "底稿『2011—2017年亚利桑那州参议员、2013—2017年议长』：现行众议院官方人物页记载参议员2011—2016年、议长2013—2016年。",
+        "底稿『现职起始2025年1月』：这是第119届国会宣誓时间；开始担任联邦众议员的日期为2017年1月3日。",
+        "底稿『2016—2017年国会竞选委员会共和党联邦众议员候选人』：未取得支持该身份完整起止时间的可打开原文。",
+        "底稿『2002年6月参加工作』：与重新取证的1985年私人执业起始年不符。",
+        "底稿『2002年9月加入美国共和党』：本轮未读到可稳定打开并展示其姓名的早期初选或登记原文，未直接沿用。",
+        "底稿『亚利桑那大学法学院』：已采用的学位来源写University of Arizona，字段保留学校层级。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（亚利桑那州第5选区），美国国会众议院，Bioguide B001302",
+      "review_items": [
+        "候选事实包，交独立核查会话逐字段重新打开来源。",
+        "复核州众议院任期终止年2011与候选人资料2010的差异。",
+        "继续取得2002年共和党初选及更高等级党籍锚点原文。",
+        "补查法学博士和政治学硕士学习起始时间。"
+      ]
+    }
+  ]
+}

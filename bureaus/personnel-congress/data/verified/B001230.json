@@ -1,0 +1,714 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001230",
+      "line": "cadre",
+      "subject_id": "b001230",
+      "title": "塔米·鲍德温简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/10361",
+          "title": "BALDWIN, Tammy | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Madison, Dane County, Wis., February 11, 1962",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.baldwin.senate.gov/about/about-tammy",
+          "title": "About Tammy | U.S. Senator Tammy Baldwin",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Tammy was then elected to four terms (1986-1994) on the Dane County Board of Supervisors.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "and been nine Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Baldwin, Tammy (D-WI)",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.senate.gov/senators/democratic-conference-secretaries.htm",
+          "title": "U.S. Senate: Democratic Conference Secretaries",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Tammy Baldwin (D-WI) | 2017–present",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www1.smith.edu/news-events/events/commencement/commencement-archive",
+          "title": "Smith College | Commencement Archive",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Baldwin graduated from Smith in 1984 with a degree in government and mathematics",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2002-10-01/pdf/CDIR-2002-10-01-WI-H-3.pdf",
+          "title": "Congressional Directory, 107th Congress — Wisconsin, Second District",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "J.D., University of Wisconsin Law School, 1989; employment: attorney, 1989–92",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://gargoyle.law.wisc.edu/2013/05/women-in-law-six-uw-trailblazers/",
+          "title": "Women in Law: Six UW Trailblazers – Gargoyle – UW–Madison",
+          "published_at": "2013-05-14",
+          "checked_at": "2026-10-18",
+          "excerpt": "Elected to the Dane County Board of Supervisors in 1986 — the same year she began law school",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://media.smith.edu/departments/archives/alumoh/transcripts/BaldwinT.pdf",
+          "title": "Smith College Alumnae Oral History Project — Tammy Baldwin, Class of 1984",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "in my internship before I started law school",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://archive.wislgbthistory.com/media/print/wis-light/issues-v01-05/WisLt-v05-19.pdf",
+          "title": "The Wisconsin Light — Baldwin Wins Big Victory In Assembly Race",
+          "published_at": "1992-09-17",
+          "checked_at": "2026-10-18",
+          "excerpt": "Tammy Baldwin won a decisive victory in the September 8th Democratic primary for the Wisconsin State Assembly, 78th District.",
+          "tier": 2
+        },
+        {
+          "id": "s11",
+          "url": "https://www.fec.gov/files/legal/aos/69522.pdf",
+          "title": "FEC Advisory Opinion 1992-30 materials — Wisconsin State Elections Board letter of June 22, 1992",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Party will have a separate ballot at the September 8, 1992 partisan primary.",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://www.ronjohnson.senate.gov/2013/01/03/2013-1-johnson-joins-baldwin-for-swearing-in/",
+          "title": "Johnson Joins Baldwin for Swearing In - U.S. Senator Ron Johnson",
+          "published_at": "2013-01-03",
+          "checked_at": "2026-10-18",
+          "excerpt": "Senator Ron Johnson (WI) today joined Senator Tammy Baldwin (WI) as she was sworn-in to the United States Senate.",
+          "tier": 1
+        },
+        {
+          "id": "s14",
+          "url": "https://www.democrats.senate.gov/",
+          "title": "Home | The Senate Democratic Caucus",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Tammy Baldwin Senate Democratic Conference Secretary",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "senate",
+        "state:WI"
+      ],
+      "person": {
+        "name": {
+          "value": "塔米·鲍德温",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1962-02-11",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "威斯康星州麦迪逊",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1989",
+          "source_ids": [
+            "s1",
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "以1989—1992年私人执业律师经历的开始年份推定。国会名录明确记载律师经历为1989—1992年，众议院人物页确认私人执业身份，法学院校刊记载其执业三年后进入州议会。本人访谈将法学院前的州长办公室经历称为实习；1986年地方公职发生在法学院就读期间，不用作首份全职工作的锚点。来源：https://www.govinfo.gov/content/pkg/CDIR-2002-10-01/pdf/CDIR-2002-10-01-WI-H-3.pdf",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "威斯康星大学麦迪逊分校法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1992-09",
+          "source_ids": [
+            "s10",
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以民主党身份参加威斯康星州众议院第78选区初选，1992-09-08；来源：https://archive.wislgbthistory.com/media/print/wis-light/issues-v01-05/WisLt-v05-19.pdf 。州选举委员会1992年6月22日函件确认该州党派初选日期为1992-09-08，来源：https://www.fec.gov/files/legal/aos/69522.pdf 。已检索个人党籍登记、公开加入声明、早期党组织职务及州级参选登记，未找到早于该初选的合格记录。FEC委员会登记日1997-03-28晚于已证实的1992年党派参选，排除；2017年民主党党团秘书职务亦晚于该锚点，排除。1986年县监事会及市议会经历没有党派选举依据，排除。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1992-09-08",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（威斯康星州）",
+          "role": "",
+          "start": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s1",
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国参议院民主党党团秘书",
+          "role": "",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s5",
+            "s14"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院拨款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院商务、科学和运输委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工和养老金委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1980",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "史密斯学院本科毕业年份为1984年，按美国本科标准四年制倒推：1984－4＝1980。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1984",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1984",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "史密斯学院",
+          "role": null,
+          "program": "政治学、数学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1986",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "威斯康星州戴恩县监事会",
+          "role": "监事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "监事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1986",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": false,
+              "organization": "威斯康星州麦迪逊市议会",
+              "role": "议员",
+              "roles": [
+                "议员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1992",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "私人执业",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "威斯康星州众议院",
+          "role": "众议员（第78选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "众议员（第78选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（威斯康星州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（威斯康星州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s1",
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（威斯康星州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4",
+            "s13"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（威斯康星州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2017",
+                "source_ids": [
+                  "s1",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "美国参议院民主党党团",
+              "role": "秘书",
+              "roles": [
+                "秘书"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s5",
+                "s14"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [],
+      "unknowns": [
+        "法学院学习起始年份：已查本人参议员官网、众议院人物页、威斯康星大学法学院校刊及史密斯学院本人访谈。法学院校刊称1986年入学；本人访谈称参选县监事时为法学院一年级学生，并称当选后兼任市议员时24岁，具体入学年份仍需核实。未沿用底稿1984年入学，也未据标准学制另推年份，学习条目暂未列入careers；1989年取得法学博士已有官方证据。",
+        "参加工作月份：已查国会名录、众议院人物页、法学院校刊及本人访谈，律师经历仅记1989—1992年，没有起始月份。",
+        "早期任职全职性质：国会名录记载1989—1992年律师职业经历，但未明写full-time；县监事会及市议会经历与在校学习重叠，未找到其全职任职依据，full_time均留null。",
+        "麦迪逊市议员任期终止日期：本人官网仅明确1986年补缺任职，本人访谈称与县监事职务并任约六个月，没有明确终止日期，end留null、ongoing=false。",
+        "州众议院任期具体起止日：已查众议院人物页和国会名录，采用1993—1999年，未补月份。",
+        "民主党党团秘书就任月日：参议院历任秘书表和众议院人物页均只记2017年起，未补月份。",
+        "三个现任委员会职务起始日期：已查第119届参议院委员会名单和本人官网，确认当前成员身份，未找到对应职务明确生效日期，start均留null。",
+        "族裔：已检索罗格斯大学CAWP族裔名单并打开页面，未读到可引用的鲍德温个人记录；本人官方传记未提供族裔自述，留null。",
+        "入党更高等级锚点：已检索个人党籍登记或公开加入声明、早期党组织职务、州级参选登记及FEC委员会登记；未找到早于1992年初选的可打开原始记录。1993—1994年威斯康星州蓝皮书目录可以打开，具体传记及选举页面返回Unsupported Browser，未列入sources。",
+        "竞选经历：未逐一取得1992、1998、2012、2018及2024年各阶段参选、提名和当选身份的明确生效日期，未沿用底稿竞选委员会履历条目。"
+      ],
+      "excluded": [
+        "底稿『联邦参议员现职始于2025-01』：2025年为续任任期，本职连续任职始于2013-01-03。",
+        "底稿『1984—1989年在威斯康星大学麦迪逊分校法学院学习』：1984年入学没有重新取得依据，暂不列该学习条目。",
+        "底稿『戴恩县监事会1986—1989年兼职、1989—1993年任职』：官方来源记完整任期1986—1994年，没有1989年职务性质变化的依据，合并为一条。",
+        "底稿『1986年4月参加工作』：1986年地方公职发生于法学院就读期间，未找到全职性质依据；参加工作改按1989年律师职业经历推定。",
+        "底稿『1986年4月加入美国民主党』：未找到党派登记或党派选举锚点，采用1992年9月民主党州众议员初选锚点。",
+        "FEC委员会1997-03-28登记日：晚于已有证据的1992年民主党初选，不作为入党时间。",
+        "底稿各竞选委员会的中文全称及候选人起止年份：未取得对应组织全称和阶段日期的原始证据，不沿用。",
+        "小组委员会资深成员职务：本人官网和参议院名单确认劳动卫生教育拨款小组委员会、科学制造竞争力小组委员会资深成员身份；按本批规则不单列为current_roles。",
+        "荣誉学位：史密斯学院页面列有2009年荣誉法学博士，按规则不进入最高已取得学位字段。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（威斯康星州）；美国国会Bioguide编号B001230",
+      "review_items": [
+        "法学院入学年份须补充学校学籍或同期明确日期来源，核实后补学习履历。",
+        "work_start采用国会名录所载律师职业起始年1989；复核其首份全职工作性质。",
+        "入党锚点采用1992年民主党初选同期报道，日期由州选举委员会函件交叉支持；继续寻找本人州级首次参选登记原件。",
+        "族裔缺少符合本批要求的本人自述或官方统计记录，未填写。",
+        "本事实包为研究候选稿，card_type留null，供下一会话逐字段核验。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001067",
+      "line": "cadre",
+      "subject_id": "c001067",
+      "title": "伊薇特·克拉克简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/C/CLARKE,-Yvette-Diane-(C001067)/",
+          "title": "CLARKE, Yvette Diane | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Brooklyn, Kings County, N.Y., November 21, 1964; graduated from Edward R. Murrow High School",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/C001067",
+          "title": "Office of the Clerk, U.S. House of Representatives — Yvette D. Clarke",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Yvette D. Clarke\nNew York (NY) – 9th, Democrat\nCommittee on Energy and Commerce",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://clarke.house.gov/about/",
+          "title": "About - Congresswoman Yvette Clarke",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Congresswoman Yvette Diane Clarke\nCongresswoman Clarke is a graduate of Oberlin College",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.congress.gov/member/yvette-clarke/C001067",
+          "title": "Yvette D. Clarke | Congress.gov | Library of Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "House New York, District 9 113th-119th (2013-Present)\nNew York, District 11 110th-112th (2007-2013)",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-NY.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — New York",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Brooklyn, November 21, 1964; education: attended Edward R. Murrow High School; graduated from Oberlin College",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://tmcf.org/wp-content/uploads/TMCF_Member_Profiles_103023_vfinal.pdf",
+          "title": "TMCF Member Profiles — Medgar Evers College Profiles: Rep. Yvette Clarke",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "1997-2001; Youth Programs Director, Hospital League/1199 Training and Upgrading Fund, 1993-1997",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://www.nyccfb.info/public/voter-guide/primary_2001/byoffice.htm",
+          "title": "New York City Campaign Finance Board: The 2001 Voter Guide — Primary Candidates by Office",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "COUNCIL DISTRICT 40 DEMOCRATIC\nAlithia Alleyne\nYvette D. Clarke",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.nyccfb.info/public/voter-guide/primary_2001/index.htm",
+          "title": "New York City Campaign Finance Board: The 2001 Primary Election Voter Guide",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "go vote: september 25, 2001",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://clarke.house.gov/clarke-releases-statement-on-swearing-in-of-the-congressional-black-caucus-in-the-119th-congress/",
+          "title": "CLARKE RELEASES STATEMENT ON SWEARING IN OF THE CONGRESSIONAL BLACK CAUCUS IN THE 119TH CONGRESS",
+          "published_at": "2025-01-03",
+          "checked_at": "2026-10-19",
+          "excerpt": "I am immensely honored to become the tenth woman to serve as Chair of the Congressional Black Caucus",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://voteyvette.com/about-yvette/",
+          "title": "Clarke for Congress — About Yvette",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "I am currently serving as the only Black woman in the New York delegation.",
+          "tier": 2
+        },
+        {
+          "id": "s12",
+          "url": "https://clarke.house.gov/committees-and-caucuses/",
+          "title": "Committees and Caucuses - Congresswoman Yvette Clarke",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Energy and Commerce Committee, Senior Member\nCongressional Black Caucus, Chair",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:NY"
+      ],
+      "person": {
+        "name": {
+          "value": "伊薇特·克拉克",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s3",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1964-11-21",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "纽约州纽约市布鲁克林",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": null,
+        "degree": null,
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2001-09",
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以民主党参选人身份参加纽约市议会第40选区初选，2001-09-25；来源：https://www.nyccfb.info/public/voter-guide/primary_2001/byoffice.htm 和 https://www.nyccfb.info/public/voter-guide/primary_2001/index.htm 。已检索选民登记、本人公开宣布入党、民主党党职和参选登记，未找到早于该初选且有日期的合格记录。FEC 的 CLARKE FOR CONGRESS 委员会登记日期为2005-09-27，晚于2001年有效锚点，不采用；为民主党议员担任助理不作入党锚点。底稿2001年9月无证据，本次依据重新打开的官方初选名单和日期页重建。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2001-09-25",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": {
+          "value": "非洲裔",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（纽约州第9选区）",
+          "role": "",
+          "start": {
+            "value": "2013",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院能源和商务委员会",
+          "role": "委员",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1982",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1986",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "欧柏林学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1987",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1989",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Erasmus Neighborhood Federation, Inc.",
+          "role": "儿童照护专员、家庭日托协调员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "儿童照护专员",
+            "家庭日托协调员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1991",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "纽约州参议员 Velmanette Montgomery 办公室",
+          "role": "立法助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "立法助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1992",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "纽约州劳工赔偿委员会",
+          "role": "行政助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "行政助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1997",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Hospital League/1199 Training and Upgrading Fund",
+          "role": "青年项目主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "青年项目主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2001",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Bronx Overall Economic Development Corporation",
+          "role": "业务发展主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "业务发展主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "纽约市议会",
+          "role": "议员（第40选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员（第40选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（纽约州第11选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（纽约州第11选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（纽约州第9选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（纽约州第9选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025-01-03",
+                "source_ids": [
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "美国国会黑人核心小组",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s3",
+                "s10",
+                "s12"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.education、person.degree、person.dropout",
+          "alternatives": [
+            {
+              "value": "本人官网及第117届国会名录称毕业于欧柏林学院，未明确所获学位及授予日期",
+              "source_ids": [
+                "s3",
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "众议院历史人物页只记1982—1986年就读欧柏林学院",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": null,
+          "reason": "保留已有一级来源的不同表述；现有原文未明确最高已取得学位，不把毕业表述扩展为特定学士学位，也不把就读表述扩展为肄业。"
+        },
+        {
+          "field": "careers.纽约市议会.start、end",
+          "alternatives": [
+            {
+              "value": "2002—2007",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2001—2006",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2002—2007",
+          "reason": "采用机构现行官方人物页的任职区间；国会名录另列2001—2006，保留供复核确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过众议院历史人物页、议员官网、国会名录及 TMCF 履历。TMCF 另列1986—1988年州参议员办公室立法助理，与1987—1989年儿童照护职位重叠；没有找到确认首份全职工作及其开始时间的原始记录，work_start 留空。",
+        "早期州参议员办公室任职：TMCF 分别列1986—1988年和1989—1991年，众议院历史页只明确1989—1991年；履历采用后一区间，前一区间待原始任职记录确认。",
+        "学历学位：查过议员官网、众议院历史人物页、国会名录及欧柏林学院公开资料，没有取得明确写出学位名称、授予日期的学校记录；学历、学位及肄业字段留空。",
+        "学习专业、全日制状态：已打开的国会官方传记没有明确记载，program、full_time 留空。",
+        "Medgar Evers College 学习：TMCF 资料提及该校，未取得可靠的入学、离校日期及学位记录，未编入带日期的学习条目。",
+        "纽约州众议员 Barbara Clark 办公室任职：国会名录确认行政助理经历，TMCF 分列1988年及1991年；没有找到可核对完整任职区间的原始记录，未单列。",
+        "纽约市赋权区布朗克斯片区主任：国会名录提到相关业务发展职务，但未查到该主任职务独立的就任、终止日期，未沿用底稿1997—2001年的合并表述。",
+        "早期工作月份：公开履历以年份为主，没有找到足以逐条核实月份的原始任职记录。",
+        "现选区起始日期：Congress.gov 明确第9选区任职始于2013年；本次事实包保留到年，没有以新闻发布日期代替就任日。",
+        "其他核心小组兼职：议员官网列有多个共同主席职务，未取得各职务明确生效日期，未编入带起始日期的 annotations。"
+      ],
+      "excluded": [
+        "底稿『1986年参加工作』：未核实首份全职工作，不采用。",
+        "底稿『1986—1997年纽约市儿童照护培训机构工作人员』：来源不支持该单位表述及连续十一年的任期；改录有日期来源的 Erasmus Neighborhood Federation, Inc. 经历。",
+        "底稿『1997—2001年布朗克斯总体经济发展公司业务发展主任、纽约市赋权区布朗克斯片区主任』：仅保留有日期来源的公司业务发展主任，不将两个职务套用同一起止时间。",
+        "底稿『2002—2006年纽约市议会议员』：采用现行众议院历史人物页2002—2007年，并记录与国会名录的区间差异。",
+        "底稿『2007年至今纽约州第9选区代表』：2007—2013年代表第11选区，2013年起代表第9选区，分条记录。",
+        "底稿现职起始『2025-01』：这是本届任期起点；现选区任职自2013年开始。",
+        "底稿『2025年起任众议院国土安全委员会委员』：第119届众议院书记官名单及议员现行委员会页未列该职务，历史人物页将最近一段该委员会任职列至第118届，不列现任。",
+        "底稿『2001年9月加入美国民主党』：旧稿自身无证据；本次以重新查得的2001年民主党初选名单及选举日期建立新锚点。",
+        "FEC 委员会2005年9月登记：晚于2001年民主党初选锚点，不作为入党时间。",
+        "荣誉博士：议员官网明确属于荣誉学位，不计入最高已取得学位。",
+        "能源和商务委员会的 Senior Member：表示资深委员，不是全委员会少数党首席成员，role 写委员；小组委员会资深成员不单列为全委员会资深成员。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（纽约州第9选区），美国国会众议院，Bioguide C001067",
+      "review_items": [
+        "首份全职工作开始时间未确证，缺少完整简历卡必填字段，保留 seed 级候选事实包。",
+        "学历表述及纽约市议会任职区间存在一级来源差异，交AI政见确认。",
+        "TMCF 履历为二级汇编来源；儿童照护及1993—2001年工作日期需在下一会话重新打开逐项核验。",
+        "本包为研究候选稿，独立核查由下一会话执行。"
+      ]
+    }
+  ]
+}

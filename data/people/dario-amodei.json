@@ -1,0 +1,396 @@
+{
+  "id": "dario-amodei",
+  "name_zh": "达里奥·阿莫代伊",
+  "name_en": "Dario Amodei",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Anthropic公司 联合创始人、首席执行官 Anthropic Co-Founder and Chief Executive Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/dario-amodei.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b9f2de42abe07215bc6f3e1498765fa0d3d58eaf-640x800.webp",
+    "source": "维护者提供（达里奥·阿莫代伊_Dario-Amodei_Anthropic_雷达版.jpg）",
+    "file": "dario-amodei.jpg",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Anthropic",
+      "role_en": "Co-Founder and Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Anthropic公司 联合创始人、首席执行官 Anthropic Co-Founder and Chief Executive Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "dario-amodei-20261018",
+    "line": "cadre",
+    "subject_id": "dario-amodei",
+    "title": "达里奥·阿莫代伊简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.anthropic.com/company/leadership",
+        "title": "Leadership at Anthropic",
+        "excerpt": "Dario Amodei",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://darioamodei.com/",
+        "title": "Dario Amodei",
+        "excerpt": "PhD in biophysics",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.munzinger.de/register/portrait/biographien/amodei%20dario/00/34200",
+        "title": "Dario Amodei",
+        "excerpt": "amerikanischer Unternehmer",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.dailyprincetonian.com/article/2026/10/princeton-features-profiles-dario-amodei-anthropic-phd",
+        "title": "Dario Amodei at Princeton",
+        "excerpt": "2011",
+        "published_at": "2026-10-16",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "达里奥·阿莫代伊"
+    ],
+    "person": {
+      "name": {
+        "value": "达里奥·阿莫代伊",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1983-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1983",
+          "duration_years": null
+        }
+      },
+      "birth_place": {
+        "value": "加利福尼亚州旧金山",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2011-06",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "2011",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "普林斯顿大学",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "生物物理学博士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "Anthropic公司",
+        "role": "联合创始人、首席执行官",
+        "start": {
+          "value": "2021-07",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2021",
+            "duration_years": null
+          }
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2006-07",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2006",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2011-07",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "organization": "普林斯顿大学",
+        "role": null,
+        "program": "生物物理学",
+        "degree_awarded": {
+          "value": "博士",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-06",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2014-12",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "博士后研究员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-07",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2016",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "开放人工智能研究中心（OpenAI）",
+        "role": "研究员、研究副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-07",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2021",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "Anthropic公司",
+        "role": "联合创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "Anthropic公司",
+    "conflicts": [],
+    "unknowns": [
+      "加州理工学院和斯坦福大学本科学习起止时间及学位年份未知，来源s3。",
+      "Google Brain高级研究科学家任职起止未知，来源s2；百度具体职务、时间未核定。",
+      "OpenAI加入年为2016，但研究副总裁任职起始年未查到，故该条开始时间不用于职务起任。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

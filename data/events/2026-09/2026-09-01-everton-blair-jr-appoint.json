@@ -1,0 +1,91 @@
+{
+  "id": "2026-09-01-everton-blair-jr-appoint",
+  "date": "2026-09-01",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "everton-blair-jr",
+  "person": {
+    "name_zh": "小埃弗顿·布莱尔",
+    "name_en": "Everton Blair Jr.",
+    "name_zh_source": "research",
+    "ids": {
+      "bioguide": "B001328"
+    }
+  },
+  "announced_at": null,
+  "effective_at": "2026-09-01",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国联邦众议员（佐治亚州第13选区）",
+      "role": "",
+      "organization_en": "U.S. Representative, Georgia, 13th District",
+      "role_en": "",
+      "start": "2026-09-01",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "小埃弗顿·布莱尔就任佐治亚州第13选区联邦众议员",
+  "summary": "民主党人小埃弗顿·布莱尔于2026年8月25日特别选举当选，9月1日宣誓就职。前任戴维·斯科特于4月22日逝世。",
+  "bureaus": [
+    "congress"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://history.house.gov/Institution/Vacancies-Successors/Vacancies-Successors/",
+      "title": "Vacancies & Successors",
+      "publisher": "美国众议院历史办公室",
+      "published_at": null,
+      "excerpt": "The Honorable Everton Blair Jr. (D) was elected August 25, 2026, in a special election. Representative Blair was added to the rolls of the House upon executing the oath of office on September 1, 2026.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://clerk.house.gov/Members/ViewVacancies",
+      "title": "Vacancies of the 119th Congress",
+      "publisher": "美国众议院书记官办公室",
+      "published_at": null,
+      "excerpt": "Passed Away April 22, 2026",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-154518",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": "congress-new-b001328",
+  "default_bureau": "congress",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 everton-blair-jr（库里没有此人）",
+      "现任职务新增：美国联邦众议员（佐治亚州第13选区）",
+      "履历新增：2026-09 美国联邦众议员（佐治亚州第13选区）",
+      "所属局：定为四局·国会干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "congress",
+    "person_id": "everton-blair-jr",
+    "reason": "主要职务“美国联邦众议员（佐治亚州第13选区）”：参众两院"
+  }
+}

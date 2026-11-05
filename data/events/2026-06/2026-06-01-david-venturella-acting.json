@@ -1,0 +1,78 @@
+{
+  "id": "2026-06-01-david-venturella-acting",
+  "date": "2026-06-01",
+  "kind": "acting",
+  "kind_label": "代理",
+  "person_id": "david-venturella",
+  "person": {
+    "name_zh": "戴维·文图雷拉",
+    "name_en": "David Venturella",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-05-12",
+  "effective_at": "2026-06-01",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国移民和海关执法局",
+      "role": "代理局长",
+      "organization_en": "U.S. Immigration and Customs Enforcement",
+      "role_en": "Acting Director",
+      "start": "2026-06-01",
+      "end": null,
+      "source_ids": [
+        "s2"
+      ],
+      "concurrent": false,
+      "sector": "politics"
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "文图雷拉接任美国移民和海关执法局代理局长",
+  "summary": "任命于5月12日公布，6月1日生效；9月24日联邦法院文件仍列其为代理局长。",
+  "bureaus": [
+    "justice"
+  ],
+  "sources": [
+    {
+      "id": "s2",
+      "url": "https://www.gpb.org/news/2026/05/12/former-private-prison-official-serve-acting-ice-chief",
+      "title": "Former private prison official to serve as acting ICE chief",
+      "published_at": "2026-05-12",
+      "excerpt": "Venturella will take the position effective June 1",
+      "publisher": "NPR／Georgia Public Broadcasting",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-105106",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（s1：网页取不到（403、超时、PDF 等）；s2：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "新任“美国移民和海关执法局代理局长”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "justice",
+    "bureau_after": "justice",
+    "person_id": "david-venturella",
+    "reason": "主要职务“美国移民和海关执法局 局长”：法院、司法部与执法机构"
+  }
+}

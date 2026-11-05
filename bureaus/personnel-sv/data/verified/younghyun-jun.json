@@ -1,0 +1,456 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "younghyun-jun-20261018",
+      "line": "cadre",
+      "subject_id": "younghyun-jun",
+      "title": "全永铉简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.samsung.com/global/ir/governance-csr/board-of-directors/",
+          "title": "Samsung Electronics Board of Directors",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Vice Chairman & CEO; Head of DS; Head of Memory Business.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.samsung.com/tw/about-us/company-info/",
+          "title": "Samsung 公司資訊",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "全永鉉",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.rns-pdf.londonstockexchange.com/rns/5206X_1-2025-2-18.pdf",
+          "title": "Samsung Electronics 2025 AGM reference material",
+          "published_at": "2025-02-18",
+          "checked_at": "2026-10-18",
+          "excerpt": "Country of nationality: Republic of Korea.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.rns-pdf.londonstockexchange.com/rns/7937K_1-2025-5-30.pdf",
+          "title": "Samsung Electronics 2025 Q1 report",
+          "published_at": "2025-05-30",
+          "checked_at": "2026-10-18",
+          "excerpt": "Young-Hyun Jun; Male; Dec 1960.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.researchgate.net/profile/Jaeyong-Jeong/publication/241188582_A_21nm_high_performance_64Gb_MLC_NAND_flash_memory_with_400MBs_asynchronous_toggle_DDR_interface/links/558102c408aed40dd8cd3748/A-21nm-high-performance-64Gb-MLC-NAND-flash-memory-with-400MB-s-asynchronous-toggle-DDR-interface.pdf?origin=publication_detail",
+          "title": "IEEE JSSC 2012: author biography Young-Hyun Jun",
+          "published_at": "2012-04",
+          "checked_at": "2026-10-18",
+          "excerpt": "B.S. ... 1984; M.S. and Ph.D. ... 1986 and 1989; From 1989 to 1991 ... Research Associate.",
+          "tier": 1
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "全永铉",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "韩国",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1960-12",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1989-07",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "1989年博士毕业后任研究助理；月份未披露，按规则取7月。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "education": null,
+        "degree": {
+          "value": "韩国科学技术院电气工程博士学位",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "三星电子公司",
+          "role": "副董事长、首席执行官、设备解决方案事业部负责人、存储业务负责人、董事",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "副董事长",
+            "首席执行官",
+            "设备解决方案事业部负责人",
+            "存储业务负责人",
+            "董事"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1989-07",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "博士毕业后1989年开始研究职位，月份依规则取7月。",
+            "inference": {
+              "rule": "first_full_time_job",
+              "from_date": "1989",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1991",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "伊利诺伊大学厄巴纳—香槟分校",
+          "role": "研究助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "研究助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "三星电子公司",
+          "role": "存储业务负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "存储业务负责人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2022",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "三星 SDI 公司",
+          "role": "总裁、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总裁",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2022",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "三星 SDI 公司",
+          "role": "董事长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "董事长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "三星电子公司",
+          "role": "未来业务负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "未来业务负责人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2024",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "三星电子公司",
+          "role": "设备解决方案事业部负责人、存储业务负责人、先进技术研究院院长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "设备解决方案事业部负责人",
+            "存储业务负责人",
+            "先进技术研究院院长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "三星电子公司",
+          "role": "副董事长、首席执行官、设备解决方案事业部负责人、存储业务负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "副董事长",
+            "首席执行官",
+            "设备解决方案事业部负责人",
+            "存储业务负责人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "三星电子公司",
+      "conflicts": [],
+      "unknowns": [
+        "汉阳大学学士毕业于1984年，韩国科学技术院硕士毕业于1986年、博士毕业于1989年；入学日期未找到。",
+        "1991年至2000年职业经历缺可打开的一手依据。",
+        "2000年至2014年内具体晋升时间未披露。",
+        "2000年至2014年三星早期岗位及DRAM设计高级副总裁的任命时间未核定。"
+      ],
+      "excluded": [],
+      "country_profile": "other",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": [
+        "2000年进入三星；2012年论文作者简介列DRAM设计高级副总裁，晋升时间未披露，该职务暂不写成自2000年连续任职。来源s5。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

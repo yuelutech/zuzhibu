@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "reynold-xin-20261018",
+      "line": "cadre",
+      "subject_id": "reynold-xin",
+      "title": "辛湜简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.databricks.com/resources/webinar/cloud-data-platform-virtual-event-lakehouse",
+          "title": "The Dawn of Lakehouse — Databricks",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Reynold Xin, Co-founder, and Chief Architect, Databricks",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://alumni.engineering.utoronto.ca/event/how-to-build-a-100b-company-brick-by-brick/",
+          "title": "How to Build a $100B Company, Brick by Brick",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "graduating in 2009 from the Engineering Science program with a major in computer engineering",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://m.chinastor.cn/spark/01201aE2016.html",
+          "title": "专访Databricks辛湜，谈Spark排序比赛摘冠及生态圈热点",
+          "published_at": "2014-11-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "笔者特采访了Databricks的辛湜",
+          "tier": 2
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "辛湜",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1987-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2009年本科毕业减22；缺月取7月",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "2009",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "本科",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "多伦多大学工程科学应用科学学士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "Databricks 公司",
+          "role": "联合创始人、首席架构师",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "联合创始人",
+            "首席架构师"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2005",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "2009年本科毕业减4年",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2009",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2009",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "多伦多大学",
+          "role": null,
+          "program": "工程科学（计算机工程方向）",
+          "degree_awarded": {
+            "value": "应用科学学士学位",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "Databricks 公司",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：2009年毕业后首份全职工作未获原始记录。",
+        "伯克利博士学位：华为云搜索摘要有此信息，打开页面正文未找到，未采用。",
+        "当前所列学士为查到的已获学位，更高学位有待原件证实。",
+        "国籍：已查所列来源，未找到可采用依据。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": null,
+      "review_items": [
+        "有来源的无起始日期经历：Databricks 公司；联合创始人、首席架构师；终点：未找到；来源：s1",
+        "来源s3阅读记录：Reynold Xin，@hashjoin）。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

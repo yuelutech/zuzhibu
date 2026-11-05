@@ -1,0 +1,623 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001281",
+      "line": "cadre",
+      "subject_id": "b001281",
+      "title": "乔伊斯·比蒂简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BEATTY,-Joyce-(B001281)/",
+          "title": "BEATTY, Joyce | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Dayton, Montgomery County, Ohio, March 12, 1950; B.A., Central State University, Wilberforce, Ohio, 1972;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/B001281/",
+          "title": "Office of the Clerk, U.S. House of Representatives — Joyce Beatty",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Joyce Beatty\nOhio (OH) – 3rd, Democrat\nOath of Office: Jan. 03, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://webapp2.wright.edu/web1/newsroom/2019/04/12/a-voice-for-the-people/",
+          "title": "A voice for the people | Wright State University",
+          "published_at": "2019-04-12",
+          "checked_at": "2026-10-18",
+          "excerpt": "said Beatty, who graduated in 1975 with a master’s degree in mental health counseling.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://news.osu.edu/whitacre-beatty-named-to-leadership-posts-at-ohio-state/",
+          "title": "Whitacre, Beatty named to leadership posts at Ohio State",
+          "published_at": "2008-09-15",
+          "checked_at": "2026-10-18",
+          "excerpt": "Beatty will begin her new role at Ohio State in January, following the completion of her final term as a state representative.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://news.osu.edu/ohio-states-outreach-efforts-gain-national-recognition/",
+          "title": "Ohio State's outreach efforts gain national recognition",
+          "published_at": "2009-02-02",
+          "checked_at": "2026-10-18",
+          "excerpt": "said Joyce Beatty, Ohio State's new senior vice president for outreach and engagement.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://news.osu.edu/valerie-lee-tapped-to-head-ohio-states-outreach-and-engagement-efforts/",
+          "title": "Valerie Lee tapped to head Ohio State's Outreach and Engagement efforts",
+          "published_at": "2012-03-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "Until earlier this year, the Office of Outreach and Engagement was led by Joyce Beatty, who left the university",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://democrats.org/leadership/",
+          "title": "Leadership - Democrats",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Congresswoman Joyce Beatty\nAssociate Chair",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://clerk.house.gov/Committees/BA00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on Financial Services",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Joyce Beatty, OH",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.bw.edu/centers/women-and-politics-of-ohio/bios/11-beatty-joyce/",
+          "title": "Joyce Beatty | Baldwin Wallace University",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Delegate to the Democratic National Convention, 1996, 2000, 2004, 2008, 2012, 2016",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://wadems.org/press/3-3-25-chair-conrad-statement-on-her-appointment-as-dnc-associate-chair/",
+          "title": "3.3.25 Chair Conrad Statement on Her Appointment as DNC Associate Chair",
+          "published_at": "2025-03-03",
+          "checked_at": "2026-10-18",
+          "excerpt": "Congresswoman Joyce Beatty, and Stuart Applebaum as Associate Chairs to the Democratic National Committee",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://www.fec.gov/data/candidate/H2OH03125/?cycle=2026&election_full=true",
+          "title": "BEATTY, JOYCE - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Candidate for House Ohio - 03 ID: H2OH03125 DEMOCRATIC PARTY",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:OH"
+      ],
+      "person": {
+        "name": {
+          "value": "乔伊斯·比蒂",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s8",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1950-03-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "俄亥俄州代顿",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "莱特州立大学心理健康咨询理学硕士学位",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1996",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：担任美国民主党全国代表大会代表，1996年；来源：https://history.house.gov/People/Listing/B/BEATTY,-Joyce-(B001281)/；交叉来源：https://www.bw.edu/centers/women-and-politics-of-ohio/bios/11-beatty-joyce/。以党代表职务作为党组织职务锚点，来源只到年。未找到更早的选民党籍登记或本人公开宣布加入民主党的记录。1999年州众议院任职、2011年后联邦参选及2025年民主党全国委员会助理主席任命均晚于此锚点，不采用；“1980年代参与民主党活动”缺具体合格锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "1996",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（俄亥俄州第3选区）",
+          "role": "",
+          "start": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国民主党全国委员会",
+          "role": "助理主席",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s8",
+            "s11"
+          ],
+          "roles": [
+            "助理主席"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院金融服务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1968",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": true,
+            "basis": "中央州立大学文学学士毕业年为1972年，按美国本科四年学制倒推：1972－4＝1968。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1972",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1972",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "中央州立大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1983",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Sinclair Community College",
+          "role": "教授",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "教授"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2008",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄亥俄州众议院",
+          "role": "州众议员、少数党领袖",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员",
+            "少数党领袖"
+          ],
+          "role_category": null,
+          "role_basis": "同一单位职务合并；少数党领袖开始年份存在2006年与2007年的官方来源冲突，另列conflicts。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009-01",
+            "source_ids": [
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄亥俄州立大学",
+          "role": "外联与参与事务高级副校长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "外联与参与事务高级副校长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（俄亥俄州第3选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（俄亥俄州第3选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "莱特州立大学硕士毕业年份",
+          "alternatives": [
+            {
+              "value": "1974",
+              "source_ids": [
+                "s1",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1975",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1975",
+          "reason": "暂选授予学位学校的校友专访所载年份；学校官网与众议院官方简传属于一级来源之间的冲突，交AI政见确认。硕士学习起始时间缺证，本次未生成该学习履历条目。"
+        },
+        {
+          "field": "俄亥俄州立大学高级副校长任职起点",
+          "alternatives": [
+            {
+              "value": "2008",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2009-01",
+              "source_ids": [
+                "s5",
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2009-01",
+          "reason": "校方2008年9月任命公告明确写次年1月开始任职，2009年2月校方报道确认已任职；采用有明确生效月份且有实际任职佐证的校方记录。一级来源之间的年份差异交AI政见确认。"
+        },
+        {
+          "field": "俄亥俄州众议院少数党领袖开始年份",
+          "alternatives": [
+            {
+              "value": "2007",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2006",
+              "source_ids": [
+                "s5",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2006",
+          "reason": "暂选2008年校方同期任命介绍所载2006年，并有大学人物研究页交叉支持；与众议院官方简传所载2007年并列，交AI政见确认。履历合并同一单位职务，不单独填领袖起始日期。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过众议院历史人物页、莱特州立大学校友专访、俄亥俄州立大学任命与任职报道，并检索早期康复机构、蒙哥马利县及学院任职线索；未找到能够确定首份全职工作的原文。1975—1983年教授经历有官方依据，但未明确全职性质及其是否为首份工作，work_start留null。",
+        "本科专业：已打开的众议院简传和大学人物页只列文学学士，未载专业；含演讲专业的国会名录PDF因文件过大未成功打开，program留null。",
+        "硕士学习起始时间：查过莱特州立大学校友专访和众议院简传，没有找到入学日期或本人学习年限；不沿用底稿1973年，不用标准两年学制补起点，因此未列硕士学习履历。",
+        "蒙哥马利县任职：众议院简传列有人类服务事务执行主任经历，但没有任职起止日期；缺少可排序的开始日期，未生成履历条目。",
+        "1983年至1999年履历缺口：已查官方简传及大学人物资料，未找到县政府、私人企业与教学经历各自完整且可打开的任职起止依据。",
+        "辛辛那提大学学习：众议院简传只记attended，没有起止日期、专业和已获学位依据，未列履历。",
+        "美国民主党全国委员会助理主席开始时间：现行党组织官网确认在任，2025年3月3日州党组织公告提及任命，但没有明确就任或生效日期，current_roles.start留null，未以公告日生成兼职履历。",
+        "第119届金融服务委员会任职起点：众议院书记官现行名单确认委员身份，未找到本次任命明确生效日期，current_roles.start留null。",
+        "国会黑人核心小组主席：大学人物页提及第117届任职，但本次未取得可打开的正式就任和交接原文，未生成带起止日期的兼职括注。",
+        "族裔：未取得本人自述或官方统计性质的个人族裔原文，ethnicity留null。",
+        "出生日期第二来源：国会名录PDF打开失败；已打开的大学人物页只确认出生年及城市，完整出生日期暂由众议院官方人物页支持。"
+      ],
+      "excluded": [
+        "底稿『1975—1999年俄亥俄州立大学、蒙哥马利县政府行政岗位负责人』：将不同单位和无依据的时期合并；校方记录显示俄亥俄州立大学职务于2009年1月开始，不采用。",
+        "底稿『1975年参加工作』及历史发布稿『1975年7月参加工作』：未确定首份全职工作，年份和月份均不沿用。",
+        "底稿『1973—1975年莱特州立大学咨询心理学学习』：1973年入学缺证，学校专访专业原文为mental health counseling，改用心理健康咨询。",
+        "底稿『1968年本科入学』：无直接入学记录，本次改为由1972年毕业减四年的有记录推算。",
+        "底稿『2008—2012年俄亥俄州立大学高级副校长』：2008年是任命公告年份；按校方明确生效安排及实际任职报道，采用2009年1月起。",
+        "底稿『2006—2009年俄亥俄州众议院少数党领袖』：官方来源对开始年份有分歧；州众议员任期官方简传止于2008年，不沿用2009年结束日期。",
+        "底稿现职起点『2025-01』：为本届宣誓时间；代表现选区的连续任职始于2013年1月3日，已更正。",
+        "底稿『2025年起任众议院金融服务委员会委员』：官方人物页显示自第113届国会已有该委员会任职；本次只确认第119届现职，不把2025年写成首次入委年份。",
+        "底稿历史发布稿『1999年5月加入美国民主党』：无登记或参选原文支持该月，且官方简传记载1996年已任民主党全国代表大会代表，不采用。",
+        "底稿『2021—2023年国会黑人核心小组主席』：本次未取得完整就任和交接日期原文，未沿用其日期括注。",
+        "检索摘要中的『1970—1974年康复中心主任』『1974—1983年Sinclair Community College教授』『1979—1992年Capital University教授』『1983—1993年蒙哥马利县职务』『1992年至今咨询公司总裁』：没有取得符合本次来源等级和打开要求的原始任职证据，不纳入。",
+        "博士学习及荣誉博士：没有已取得学术博士学位依据，最高学位保留理学硕士。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（俄亥俄州第3选区），美国国会众议院，Bioguide B001281",
+      "review_items": [
+        "本包为研究候选事实包，未完成下一会话的独立核查。",
+        "参加工作时间缺证，完整简历卡必填条件未满足，保留seed级。",
+        "一级来源冲突待AI政见确认：硕士毕业年份、俄亥俄州立大学任职起点、州众议院少数党领袖开始年份。",
+        "复核党籍锚点归类：本包将1996年民主党全国代表大会代表归入第2级党组织职务锚点，未补月份。",
+        "表外译名复核：Associate Chair暂译助理主席；Outreach and Engagement暂译外联与参与事务；Sinclair Community College保留英文校名。",
+        "硕士学位专业采用授予学校原文mental health counseling，学位类别M.S.由众议院官方简传支持。"
+      ]
+    }
+  ]
+}

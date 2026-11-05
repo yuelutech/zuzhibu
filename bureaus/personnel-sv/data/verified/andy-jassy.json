@@ -1,0 +1,511 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "andy-jassy-20261018",
+      "line": "cadre",
+      "subject_id": "andy-jassy",
+      "title": "安迪·贾西简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm",
+          "title": "Amazon 2026 Proxy Statement",
+          "excerpt": "President and Chief Executive Officer of the Company since July 2021.",
+          "published_at": "2026-04-09",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.gmac.com/resources/learners/business-careers/career-planning/who-is-andy-jassy",
+          "title": "Who Is Andy Jassy?",
+          "excerpt": "His first job saw him working as a project manager for a collectibles company called MBI.",
+          "published_at": "2021-02-03",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        },
+        {
+          "id": "s3",
+          "url": "https://ir.aboutamazon.com/officers-and-directors/person-details/default.aspx?ItemId=be0a9875-4456-4f84-b4d9-ec2e4b97d1d8",
+          "title": "Andy Jassy — Amazon",
+          "excerpt": "He has an AB from Harvard University and an MBA from Harvard Business School.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "安迪·贾西"
+      ],
+      "person": {
+        "name": {
+          "value": "安迪·贾西",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1967-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "2026年4月9日代理声明列58岁；出生区间1967年4月10日至1968年4月9日，中间月份为1967年10月。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2026-04-09",
+            "duration_years": 58
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1990-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "来源称1990年本科毕业后首份工作为MBI项目经理；按美国毕业月5月之后的6月取值。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1990-05",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "哈佛大学商学院",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "工商管理硕士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [
+          {
+            "value": "美国国家工程院院士",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "亚马逊公司",
+          "role": "总裁、首席执行官、董事",
+          "start": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1986-09",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1990减标准学制4年，入学月取9月。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1990",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1990-05",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1990",
+              "duration_years": null
+            }
+          },
+          "organization": "哈佛大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1990-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "来源称1990年本科毕业后首份工作为MBI项目经理；按美国毕业月5月之后的6月取值。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "1990-05",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1995-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1995",
+              "duration_years": null
+            }
+          },
+          "organization": "MBI公司",
+          "role": "项目经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1995-09",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1997减标准学制2年，入学月取9月。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1997",
+              "duration_years": 2
+            }
+          },
+          "end": {
+            "value": "1997-05",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1997",
+              "duration_years": null
+            }
+          },
+          "organization": "哈佛大学商学院",
+          "role": null,
+          "program": "工商管理",
+          "degree_awarded": {
+            "value": "工商管理硕士",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1997",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2006-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "亚马逊公司",
+          "role": "管理人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "亚马逊云科技",
+          "role": "高级副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "亚马逊云科技",
+          "role": "首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "亚马逊公司",
+          "role": "总裁、首席执行官、董事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "亚马逊公司",
+      "conflicts": [
+        {
+          "field": "出生年月的年龄依据",
+          "alternatives": [
+            {
+              "value": "2026年4月9日58岁",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2021年2月3日报道52岁",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2026年4月9日58岁",
+          "reason": "按一级公司申报取年龄依据，低层级报道年龄不用于推算。"
+        }
+      ],
+      "unknowns": [
+        "国籍未取得直接来源；1997年至2006年具体职务及分段日期未完全核实。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

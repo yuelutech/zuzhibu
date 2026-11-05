@@ -1,0 +1,685 @@
+{
+  "id": "julia-brownley",
+  "name_zh": "茱莉亚·布朗利",
+  "name_en": "Julia Brownley",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "reverified",
+  "ids": {
+    "bioguide": "B001285"
+  },
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入，reverify.py 重核通过",
+  "portrait": {
+    "file": "julia-brownley.jpg",
+    "source": "美国政府出版局国会议员指南官方照片（unitedstates/images 收录）",
+    "source_kind": "国会照片库（证件照）",
+    "license": "公有领域：美国政府出版局发布的国会议员官方照片；已换蓝白渐变底",
+    "url": "https://unitedstates.github.io/images/congress/original/B001285.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-b001285",
+    "line": "cadre",
+    "subject_id": "b001285",
+    "title": "茱莉亚·布朗利简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://history.house.gov/People/Listing/B/BROWNLEY,-Julia-(B001285)/",
+        "title": "BROWNLEY, Julia | US House of Representatives: History, Art & Archives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "born in Aiken, Aiken County, S.C., August 28, 1952",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://juliabrownley.house.gov/about/full-biography/",
+        "title": "Full Biography - Congresswoman Julia Brownley",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Brownley holds a B.A. in Political Science from George Washington University and an M.B.A. from American University.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://clerk.house.gov/members/B001285",
+        "title": "Office of the Clerk, U.S. House of Representatives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Julia Brownley\nCalifornia (CA) – 26th, Democrat",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+        "title": "The Constitution of the United States: A Transcription | National Archives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "been seven Years a Citizen of the United States",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-CA-H-26.htm",
+        "title": "Congressional Directory for the 116th Congress (2019-2020), July 2020. -",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "product manager, Steelcase, 1984-92; sales manager, Pitney Bowes, 1981-84; sales manager, Burroughs Corporation, 1976-81",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2012-general/party-preference-history-nov-2012.pdf",
+        "title": "November 6, 2012, General Election, Candidate Party Preference History for the last 10 years",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Julia Brownley Democratic Ventura 2012-2012\nDemocratic Los Angeles 2002-2012",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2006-primary/official_cert_list_june_2006.pdf",
+        "title": "CERTIFIED LIST OF CANDIDATES",
+        "published_at": "2006-03-30",
+        "checked_at": "2026-10-18",
+        "excerpt": "2006 Gubernatorial Primary - June 06, 2006\nSTATE ASSEMBLY MEMBER DISTRICT 41\nJULIA BROWNLEY Democratic",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://clerk.house.gov/Committees/II00",
+        "title": "Office of the Clerk, U.S. House of Representatives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "119th Congress, 2nd Session\nCommittee on Natural Resources\nJulia Brownley, CA",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://clerk.house.gov/Committees/PW00",
+        "title": "Office of the Clerk, U.S. House of Representatives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Committee on Transportation and Infrastructure\nJulia Brownley, CA",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://clerk.house.gov/Committees/VR00",
+        "title": "Office of the Clerk, U.S. House of Representatives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "119th Congress, 2nd Session\nCommittee on Veterans' Affairs\nJulia Brownley, CA",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "reverified",
+      "house",
+      "state:CA"
+    ],
+    "person": {
+      "name": {
+        "value": "茱莉亚·布朗利",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1952-08-28",
+        "source_ids": [
+          "s1",
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "南卡罗来纳州艾肯",
+        "source_ids": [
+          "s1",
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1976",
+        "source_ids": [
+          "s6"
+        ],
+        "inferred": true,
+        "basis": "按最早有起始年份的企业任职推算：《国会名录》记载其1976—1981年任 Burroughs Corporation 销售经理，取1976年；来源：https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-CA-H-26.htm 。原文未给月份。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1976",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "美国大学工商管理硕士学位",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1",
+          "s3",
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2006-06",
+        "source_ids": [
+          "s8",
+          "s7"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：以民主党候选人身份列入2006年6月6日加利福尼亚州第41选区州众议员党派初选正式候选人名单，2006-06-06；来源：https://elections.cdn.sos.ca.gov/statewide-elections/2006-primary/official_cert_list_june_2006.pdf 。第1级检索找到2012年州选务机构党籍历史表，其2002—2012年记录受十年披露窗口限制，未提供首次登记或改登记日期，不把2002年当登记日；来源：https://elections.cdn.sos.ca.gov/statewide-elections/2012-general/party-preference-history-nov-2012.pdf 。未找到可用的本人宣布加入日期、第2级党职就任日期或早于该初选的第3级首次登记受理日。名单的2006-03-30为文件日期，不当作参选登记受理日；2012年联邦参选记录晚于2006年党派初选，不采用。1994年学区董事会选举不作党派锚点。",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2006-06-06",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（加利福尼亚州第26选区）",
+        "role": "",
+        "start": {
+          "value": "2013-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院自然资源委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3",
+          "s9"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院交通和基础设施委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3",
+          "s10"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院退伍军人事务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3",
+          "s11"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1971",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "众议院官方人物页记载1975年获 Mount Vernon College 文学学士学位；按本科毕业年减4推算：1975－4＝1971。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1975",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1975",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "芒特弗农学院",
+        "role": null,
+        "program": "政治学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1976",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1981",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Burroughs 公司",
+        "role": "销售经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "销售经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1981",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1984",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Pitney Bowes 公司",
+        "role": "销售经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "销售经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1984",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1992",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Steelcase 公司",
+        "role": "产品经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "产品经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1994",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "圣莫尼卡—马利布联合学区教育委员会",
+        "role": "委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "委员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "加利福尼亚州众议院",
+        "role": "州众议员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "州众议员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（加利福尼亚州第26选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦众议员（加利福尼亚州第26选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [
+      {
+        "field": "careers.加利福尼亚州众议院.start",
+        "alternatives": [
+          {
+            "value": "2006",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2007",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2006",
+        "reason": "采用现行众议院官方人物页明确记载的2006—2012年任期；议员现行传记也记载2006年当选。2020年《国会名录》写2007—2012年。一级来源之间的起始年差异列交AI政见确认。"
+      }
+    ],
+    "unknowns": [
+      "参加工作月份及更早全职经历：查过众议院官方人物页、议员官网传记、《国会名录》和 Vote Smart，最早有日期的任职为1976年 Burroughs 公司销售经理；未找到月份或更早全职任职依据。",
+      "硕士学习起始时间及学习方式：美国大学校友页、议员官网和众议院人物页确认1979年取得工商管理硕士学位，未找到入学时间、学习年限或在职学习方式；未生成起止时间不明的硕士履历条目。",
+      "本科实际入学时间：众议院人物页与《国会名录》只给1975年毕业，1971年按毕业年减4推算。",
+      "1992—1994年履历：查过议员官网、众议院人物页和《国会名录》，未找到有日期的单位及职务。",
+      "学区教育委员会主席任期：2006年州初选正式候选人名单确认当时身份为 School Board President，未找到主席任职完整起止日期；未沿用底稿的1994—2006年主席任期。",
+      "州众议院任职具体月日及教育委员会主席任期：已打开的官方传记只支持州众议员任期到年，教育委员会主席没有完整起止日期，未补月日或生成兼职括注。",
+      "第119届三个常设委员会任职起始日期：众议院书记官成员页和委员会名单确认现任委员，未找到各项任职生效日期，current_roles.start 留空。",
+      "退伍军人事务委员会健康小组委员会资深成员起始日期：官网传记明确第119届担任该职，未给具体就任日期；小组委员会不单列现任，也未补造履历括注起始时间。",
+      "族裔：检索国会官方人物页、议员官网和国会名录，未找到本人自述或官方统计依据，留空。",
+      "入党高等级锚点：已查州选务机构2012年及2016年党籍历史表、2006年正式候选人名单、FEC 候选人页、国会名录及公开检索；未找到首次党籍登记日期、本人公开加入日期、党职就任日期或2006年州参选首次受理日期。"
+    ],
+    "excluded": [
+      "底稿『1979年参加工作／1979年6月参加工作』：《国会名录》记载1976年起任 Burroughs 公司销售经理，改用1976年，不补月份。",
+      "底稿『1979—1994年美国企业市场营销管理人员』：单位泛化且起止无依据；改为国会名录记载的三段具名企业任职。",
+      "底稿『1975—1979年美国大学工商管理硕士学习』：只有1979年学位授予依据，没有1975年入学依据，不采用四年学习区间。",
+      "底稿『乔治·华盛顿大学芒特弗农女子学院』：官方人物页说明 Mount Vernon College 后来成为乔治·华盛顿大学的一部分，履历按当时机构名写芒特弗农学院。",
+      "底稿『1994—2006年兼任学区教育委员会主席』：现有证据只确认委员任期和2006年主席身份，未证明十二年全程任主席。",
+      "底稿『2012—2013年民主党联邦众议员候选人』：2012年11月6日已当选，不能把候选人状态连续写到2013年；未沿用该条。",
+      "底稿『现职始于2025年1月』：这是本届任期时间，其代表第26选区始于2013年1月3日。",
+      "底稿『2006年6月加入美国民主党』：旧稿无证据，本次重新以州选务机构2006年6月6日党派初选正式名单建立第4级锚点，数值相同不构成沿用旧稿。",
+      "查到『民主党登记历史2002—2012年』：2002年是十年披露窗口边界，未证实为首次登记年，不作为第1级入党日期。",
+      "底稿『2025年起兼任健康小组委员会资深少数党成员』：第119届职务有依据，起始日期未获证实，未生成带2025年起始时间的括注。",
+      "议员官网委员会介绍页中的健康小组委员会『主席』：其现行完整传记明确第119届为资深成员，旧状态不采用。"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "美国联邦众议员（加利福尼亚州第26选区），美国国会众议院，Bioguide B001285",
+    "review_items": [
+      "一级来源州众议院起始年冲突：现行官方人物页为2006年，2020年国会名录为2007年；本稿选2006年，交AI政见确认。",
+      "硕士已取得学位和1979年授予年份已取证，学习起始日期仍缺。",
+      "参加工作年采用国会名录企业任职起年1976年，月份不补。",
+      "入党采用2006年党派初选第4级锚点；州党籍历史表可证明更早已有民主党登记，但没有首次登记日期。"
+    ]
+  }
+}

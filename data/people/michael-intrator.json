@@ -1,0 +1,303 @@
+{
+  "id": "michael-intrator",
+  "name_zh": "迈克尔·因特拉托",
+  "name_en": "Michael Intrator",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“CoreWeave公司 Co-founder, Chairman, President and Chief Executive Officer CoreWeave Co-founder, Chairman, President and Chief Executive Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/michael-intrator.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://s205.q4cdn.com/133937190/files/images/board/man/Mike-Intrator-Headshot.jpg",
+    "source": "https://investors.coreweave.com/governance/executive-management/default.aspx"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "CoreWeave",
+      "role_en": "Co-founder, Chairman, President and Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“CoreWeave公司 Co-founder, Chairman, President and Chief Executive Officer CoreWeave Co-founder, Chairman, President and Chief Executive Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "michael-intrator-20261018",
+    "line": "cadre",
+    "subject_id": "michael-intrator",
+    "title": "迈克尔·因特拉托简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000191/crwv-20260422.htm",
+        "title": "CoreWeave 2026 Proxy Statement",
+        "published_at": "2026-04-22",
+        "checked_at": "2026-10-18",
+        "excerpt": "Michael Intrator; 57; Chief Executive Officer, President, and Chairperson of the Board of Directors",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.forbes.com/profile/michael-intrator/",
+        "title": "Michael Intrator — Forbes profile",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Citizenship United States",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "迈克尔·因特拉托"
+    ],
+    "person": {
+      "name": {
+        "value": "迈克尔·因特拉托",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1968-10",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "年龄表以2026-04-15为基准，57岁对应1968-04-16至1969-04-15；取中间月份1968-10。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-04-15",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "哥伦比亚大学",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "公共管理硕士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "CoreWeave公司",
+        "role": "联合创始人、董事长、总裁、首席执行官",
+        "roles": [
+          "联合创始人",
+          "董事长",
+          "总裁",
+          "首席执行官"
+        ],
+        "start": {
+          "value": "2017-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2014-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Natsource 资产管理公司",
+        "role": "管理人员、首席投资组合经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "管理人员",
+          "首席投资组合经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Hudson Ridge 资产管理公司",
+        "role": "联合创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联合创始人",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "CoreWeave公司",
+        "role": "联合创始人、董事长、总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联合创始人",
+          "董事长",
+          "总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "核心编织公司（CoreWeave）",
+    "conflicts": [],
+    "unknowns": [
+      "首份全职工作年月未知；已核1998年9月进入Natsource，但早于此的完整就业记录未核到，未将其直接作为参加工作时间。",
+      "宾汉姆顿大学政治学文学学士、哥伦比亚大学公共管理硕士已核；两校入学和毕业年月未知，未编学习起止。",
+      "出生地、实际出生年月未知。",
+      "Natsource各管理岗位晋升时间未载，依原文roles of increasing responsibilities合并。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Michael Intrator；核心编织公司（CoreWeave）；联合创始人、董事长、总裁、首席执行官",
+    "review_items": [
+      "人名待核译法按译名表保留；参加工作年月缺项，待补资料。",
+      "检索过公司申报、学校网站、Forbes；CEOInterviews转载的早期户外教育经历仅作继续核查线索，未纳入事实。"
+    ]
+  }
+}

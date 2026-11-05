@@ -1,0 +1,140 @@
+{
+  "id": "jordan-jacobs",
+  "name_zh": "乔丹·雅各布斯",
+  "name_en": "Jordan Jacobs",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-jordan-jacobs",
+    "line": "cadre",
+    "subject_id": "jordan-jacobs",
+    "title": "乔丹·雅各布斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+        "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+        "published_at": "2026-08-05",
+        "checked_at": "2026-10-21",
+        "excerpt": "Radical managing partner Jordan Jacobs, who will join the startup’s board.",
+        "tier": null
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "乔丹·雅各布斯",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "候任"
+    },
+    "current_roles": [
+      {
+        "organization": "探索循环公司",
+        "role": "董事",
+        "start": {
+          "value": "2026-08-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "候任"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-08-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "探索循环公司",
+        "role": "董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "候任",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "events": [
+    "2026-08-05-jordan-jacobs-announce"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-08-05",
+      "event": "2026-08-05-jordan-jacobs-announce",
+      "reason": ""
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true
+}

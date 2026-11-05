@@ -1,0 +1,74 @@
+{
+  "id": "2026-09-14-wesley-hunt-nominate",
+  "date": "2026-09-14",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "wesley-hunt",
+  "person": {
+    "name_zh": "韦斯利·亨特",
+    "name_en": "Wesley Hunt",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-09-14",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国政府",
+      "role": "驻沙特阿拉伯特命全权大使",
+      "organization_en": "United States of America",
+      "role_en": "Ambassador Extraordinary and Plenipotentiary to the Kingdom of Saudi Arabia",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "韦斯利·亨特获提名出任美国驻沙特阿拉伯大使",
+  "summary": "白宫9月14日将提名送交参议院。",
+  "bureaus": [
+    "congress"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "美国白宫",
+      "published_at": "2026-09-14",
+      "excerpt": "Wesley Hunt, of Texas,",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-17",
+    "changes": [
+      "现任职务新增：美国政府驻沙特阿拉伯特命全权大使",
+      "履历新增：2026-09 美国政府驻沙特阿拉伯特命全权大使"
+    ],
+    "notes": [],
+    "bureau_before": "congress",
+    "bureau_after": "congress",
+    "person_id": "wesley-hunt"
+  }
+}

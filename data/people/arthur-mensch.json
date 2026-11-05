@@ -1,0 +1,378 @@
+{
+  "id": "arthur-mensch",
+  "name_zh": "阿瑟·门施",
+  "name_en": "Arthur Mensch",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“米斯特拉尔人工智能公司 Co-founder and CEO Mistral AI Co-founder and CEO”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/arthur-mensch.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://mistral.ai/_astro/arthur-mensch_Z2b2egz.webp?dpl=6ad1d7b6946342e26a4d2b4f",
+    "source": "https://mistral.ai/about/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Mistral AI",
+      "role_en": "Co-founder and CEO"
+    }
+  ],
+  "notes": [
+    "since refers to the co-founder affiliation."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“米斯特拉尔人工智能公司 Co-founder and CEO Mistral AI Co-founder and CEO”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "arthur-mensch-20261018",
+    "line": "cadre",
+    "subject_id": "arthur-mensch",
+    "title": "阿瑟·门施简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://mistral.ai/about/",
+        "title": "About Mistral",
+        "excerpt": "Arthur Mensch Co-founder and CEO.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://slush.org/past-speakers/arthur-mensch",
+        "title": "Arthur Mensch — Slush",
+        "excerpt": "In 2018, he spent two years as a post-doctoral fellow in the Applied Mathematics department at ENS Ulm",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://commission.aiforgood.itu.int/commissioners/arthur-mensch/",
+        "title": "Arthur Mensch — AI for Good Global Commission",
+        "excerpt": "Arthur Mensch is a French entrepreneur and scientist.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.lemonde.fr/en/economy/article/2024/02/26/mistral-ai-co-founder-we-can-compete-with-google-or-openai_6561401_19.html",
+        "title": "Mistral AI co-founder: We can compete with Google or OpenAI",
+        "excerpt": "Arthur Mensch, its 31-year-old co-founder and CEO",
+        "published_at": "2024-02-26",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "阿瑟·门施"
+    ],
+    "person": {
+      "name": {
+        "value": "阿瑟·门施",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "法国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1992-08",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "2024年2月26日报道31岁；出生区间1992年2月27日至1993年2月26日，中间月份为1992年8月。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2024-02-26",
+          "duration_years": 31
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2018-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "2018",
+          "duration_years": null
+        }
+      },
+      "education": null,
+      "degree": {
+        "value": "博士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "米斯特拉尔人工智能公司",
+        "role": "联合创始人、首席执行官",
+        "start": {
+          "value": "2023-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2015-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2015",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2018-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2018",
+            "duration_years": null
+          }
+        },
+        "organization": "法国国家信息与自动化研究所",
+        "role": null,
+        "program": "功能脑成像机器学习",
+        "degree_awarded": {
+          "value": "博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2018",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2020-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2020",
+            "duration_years": null
+          }
+        },
+        "organization": "巴黎高等师范学院",
+        "role": "博士后研究员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2020",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2023-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2023",
+            "duration_years": null
+          }
+        },
+        "organization": "“深层思维”公司巴黎研究机构",
+        "role": "研究员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "米斯特拉尔人工智能公司",
+        "role": "联合创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "米斯特拉尔人工智能公司",
+    "conflicts": [],
+    "unknowns": [
+      "博士授予学校未核实，法国国家信息与自动化研究所是研究所在单位；此前三段学习起止年份、取得学位名称未全部核实；博士阶段是否构成首份全职受雇工作未确认，按已有明确博士后任职记2018年。",
+      "已核实经历，开始时间未知：巴黎综合理工学院；。来源：s2。",
+      "已核实经历，开始时间未知：巴黎高等电信学院；。来源：s2。",
+      "已核实经历，开始时间未知：巴黎萨克雷大学；数学、视觉与学习；已获硕士。来源：s2。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

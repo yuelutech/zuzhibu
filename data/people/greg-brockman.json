@@ -1,0 +1,281 @@
+{
+  "id": "greg-brockman",
+  "name_zh": "格雷格·布罗克曼",
+  "name_en": "Greg Brockman",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“开放人工智能研究中心（OpenAI） 总裁、联合创始人 OpenAI President and Co-founder”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/greg-brockman.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "OpenAI",
+      "role_en": "President and Co-founder"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“开放人工智能研究中心（OpenAI） 总裁、联合创始人 OpenAI President and Co-founder”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "greg-brockman-20261018",
+    "line": "cadre",
+    "subject_id": "greg-brockman",
+    "title": "格雷格·布罗克曼简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy/",
+        "title": "Our views on AI policy and political advocacy",
+        "published_at": "2026-06-01",
+        "checked_at": "2026-10-18",
+        "excerpt": "our President and co-founder, Greg Brockman, and his wife Anna.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe",
+        "title": "#define CTO",
+        "published_at": "2014-10-27",
+        "checked_at": "2026-10-18",
+        "excerpt": "I joined Stripe as an engineer in 2010. About a year and half ago, we officially declared me CTO.",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://openai.com/index/introducing-openai/",
+        "title": "Introducing OpenAI",
+        "published_at": "2015-12-11",
+        "checked_at": "2026-10-18",
+        "excerpt": "Our CTO is Greg Brockman, formerly the CTO of Stripe.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://gregbrockman.com/",
+        "title": "Greg Brockman's Home Page",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "While at Harvard, I administered and built systems for the Harvard Computer Society.",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://www.forbes.com/profile/greg-brockman/",
+        "title": "Greg Brockman — Forbes",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Citizenship United States",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "格雷格·布罗克曼"
+    ],
+    "person": {
+      "name": {
+        "value": "格雷格·布罗克曼",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1988-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：以首份有年份的全职工作2010年减22推1988年；出生月缺据取7月，待独立核查。",
+        "inference": {
+          "rule": "birth_from_first_job",
+          "from_date": "2010",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2010-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：本人自述2010年入职Stripe工程师；月份无来源，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "2010",
+          "duration_years": null
+        }
+      },
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "开放人工智能研究中心（OpenAI）",
+        "role": "总裁、联合创始人",
+        "roles": [
+          "总裁",
+          "联合创始人"
+        ],
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：工作起年2010，月份缺据取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2010",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2015-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：仅知2015年离开，月份缺据取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2015",
+            "duration_years": null
+          }
+        },
+        "organization": "Stripe",
+        "role": "工程师、首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程师",
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-12",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "开放人工智能研究中心（OpenAI）",
+        "role": "联合创始人、首席技术官、总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联合创始人",
+          "首席技术官",
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "开放人工智能研究中心（OpenAI）",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月为规则推算值，未查到带明确发布日期的年龄或直接出生记录。",
+      "哈佛和麻省理工学院学习起止、专业与退学日期未完成来源闭合；不写学位。",
+      "OpenAI首席技术官转总裁及2023年短期离任复职的完整交接日期未取得，本包现任段有2026年官方来源，履历不编交接。",
+      "标准照：本人主页图片不属于任务指定的公司官网领导页或新闻稿；暂不报。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "Greg Brockman；开放人工智能研究中心（OpenAI）；总裁、联合创始人",
+    "review_items": [
+      "出生年月按规则推算；履历有缺口。",
+      "OpenAI自2015年12月起的一条合并首席技术官与总裁的不同任职阶段；转任总裁月份未核到，不表示2015年已任总裁。"
+    ]
+  }
+}

@@ -1,0 +1,783 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001322",
+      "line": "cadre",
+      "subject_id": "b001322",
+      "title": "迈克尔·保加拿简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BAUMGARTNER,-Michael-(B001322)/",
+          "title": "BAUMGARTNER, Michael | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Pullman, Whitman County, Wash., on December 13, 1975; ... member of the Washington state senate, 2011-2019;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/B001322",
+          "title": "Office of the Clerk, U.S. House of Representatives — Michael Baumgartner",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Washington (WA) – 5th, Republican ... Oath of Office: Jan. 03, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://baumgartner.house.gov/about/",
+          "title": "About - Michael Baumgartner",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Congressman Michael Baumgartner ... a Master’s in Public Administration (MPA) with a focus on International Development from Harvard University.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.spokesman.com/elections/2012/washington-general-election/candidates/michael-baumgartner/",
+          "title": "Candidate: Michael Baumgartner",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Worked for office of the Crown Prince of Dubai as economic development adviser for about a year starting in June 2002.",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://www.khq.com/politics/michael-baumgartner-r---candidate-for-us-senate/article_156ed9c7-aa64-5243-a248-538110d8ecc0.html",
+          "title": "Michael Baumgartner (R) - Candidate for US Senate",
+          "published_at": "2012-08-23",
+          "checked_at": "2026-10-18",
+          "excerpt": "Date of Birth: December 13, 1975 ... From 2008 to 2009, I worked as a civilian-contractor employed by Civilian Police International",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.realclearpolitics.com/2012/01/30/wa_sen_newcomer_baumgartner_aims_high_cantwell039s_senate_seat_272492.html",
+          "title": "WA Sen: Newcomer Baumgartner Aims High: Cantwell's Senate Seat",
+          "published_at": "2012-01-30",
+          "checked_at": "2026-10-18",
+          "excerpt": "He entered Harvard's Kennedy School of Government in 2000 to earn a graduate degree in public administration in international development.",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://www.spokesman.com/stories/2010/oct/09/sixth-district-donnybrook/",
+          "title": "Sixth District donnybrook",
+          "published_at": "2010-10-09",
+          "checked_at": "2026-10-18",
+          "excerpt": "Republican Michael Baumgartner ... he announced his candidacy shortly after moving to Spokane in January.",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://www.spokesman.com/stories/2010/oct/07/baumgartner-will-halt-campaigning-temporarily-week/",
+          "title": "Baumgartner will halt campaigning temporarily this weekend",
+          "published_at": "2010-10-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "both worked for Civilian Police International ... Baumgartner was there from December 2008 until August 2009.",
+          "tier": 2
+        },
+        {
+          "id": "s11",
+          "url": "https://results.vote.wa.gov/results/20100817/legislative-district-6-state-senator.html",
+          "title": "Legislative District 6 - State Senator — August 17, 2010 Primary Results",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "August 17, 2010 Primary Results ... Michael Baumgartner (Prefers Republican Party)",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://www.votebaumgartner.com/about",
+          "title": "About orig | VoteBaumgartner.com",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Michael holds a BA in Economics from Washington State University ... and a MPA from Harvard University",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:WA"
+      ],
+      "person": {
+        "name": {
+          "value": "迈克尔·保加拿",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1975-12-13",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "华盛顿州普尔曼",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2002-06",
+          "source_ids": [
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作推算：毕业后任迪拜王储办公室经济发展顾问；The Spokesman-Review 明确记载2002年6月开始，本人公开自述及 Seattle Times 转载报道确认这是哈佛毕业后的首份工作。1999年莫桑比克经历为志愿服务，不作参加工作锚点。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2002-06",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "哈佛大学肯尼迪政府学院公共管理硕士学位",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2010",
+          "source_ids": [
+            "s8",
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：以共和党身份公开宣布竞选华盛顿州第6立法选区州参议员，2010年；来源：https://www.spokesman.com/stories/2010/oct/09/sixth-district-donnybrook/ 。报道只说明迁居斯波坎后不久宣布参选，未给宣布日期，保留年精度。检索未找到第1级选民党籍登记、本人宣布加入共和党的记录或第2级党职就任记录。州PDC首次登记原件未能打开，不采用第三方转录的2010-02-01。第4级2010-08-17共和党身份参加州参议员初选由州选务机构证实：https://results.vote.wa.gov/results/20100817/legislative-district-6-state-senator.html ，因低于已找到的第3级锚点不选用。FEC页面所列2011-10-14联邦参议员参选声明晚于2010年有效锚点，不选用：https://www.fec.gov/data/candidate/S2WA00288/?cycle=2012 。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2010",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（华盛顿州第5选区）",
+          "role": "",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院教育与劳动力委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院外交委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "华盛顿州立大学本科毕业年为1999年，按美国本科标准学制4年倒推：1999－4＝1995。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1999",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "华盛顿州立大学",
+          "role": null,
+          "program": "经济学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5",
+            "s6",
+            "s7",
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2000",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "哈佛大学肯尼迪政府学院",
+          "role": null,
+          "program": "公共管理",
+          "degree_awarded": {
+            "value": "公共管理硕士",
+            "source_ids": [
+              "s1",
+              "s3",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002-06",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "迪拜王储办公室",
+          "role": "经济发展顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济发展顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "i4 Communications",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Hecla Mining 公司",
+          "role": "顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s1",
+              "s3",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2008",
+            "source_ids": [
+              "s1",
+              "s3",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国务院驻伊拉克大使馆",
+          "role": "经济事务官员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济事务官员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008-12",
+            "source_ids": [
+              "s5",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2009-08",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Civilian Police International",
+          "role": "禁毒顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s6",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "禁毒顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "华盛顿州参议院",
+          "role": "州参议员（第6立法选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s8",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员（第6立法选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "华盛顿州斯波坎县",
+          "role": "财务长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "财务长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（华盛顿州第5选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（华盛顿州第5选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "族裔：检索国会官方传记、议员官网及本人竞选官网，未找到本人自述或官方统计，留null。",
+        "本科实际入学时间：学校旧新闻页和本人领英页面未能打开；采用1999年毕业减4年的允许推算，未补月份。",
+        "学习日期及学习形式：已打开来源未给本科、硕士入学和毕业月份，也未明确全日制或在职性质，full_time留null。",
+        "1999—2000年：Seattle Times转载报道记载莫桑比克耶稣会志愿服务，未明确任职单位和职务，不作为全职工作条目。",
+        "迪拜王储办公室离职日期：The Spokesman-Review仅称2002年6月开始、持续约一年；未找到明确终止日期，end留null。",
+        "i4 Communications：The Spokesman-Review记载2003年春开始、持续两年，未明确结束日期；本人自述2003年被任命为战略副总裁，但未给任命生效或就任日期，具体职务未写入履历。",
+        "独立商业顾问经历：本人自述及地方媒体确认其曾向沙特企业提供独立咨询；已打开来源未给起止时间，未单列。",
+        "兼职：国会官网、本人公开自述和地方媒体提到哈佛经济学教学研究员、巴黎政治学院反叛乱课程讲师及美军部署前咨询，未找到明确起止日期，未添加annotations。",
+        "州参议员和县财务长：国会官方履历给出2011—2019年及2019—2025年；本次未取得明确交接月日，未补月份。",
+        "委员会任职起始日期：众议院书记官页面确认三个委员会的现任委员身份，未标生效日期，start均留null。",
+        "共和党较高等级锚点：已检索本人公开传记、竞选官网、州PDC及FEC，未找到选民党籍登记、本人宣布入党或党组织职务就任记录。州PDC2010年登记原件打开失败，未采用第三方转录日期。",
+        "2012年联邦参议员竞选：官方履历确认落选；未取得完整提名日期和终止选举日的原文证据，未添加竞选兼职条目。"
+      ],
+      "excluded": [
+        "底稿『1999—2002年哈佛大学学习』：已打开的Seattle Times转载报道明确2000年入学，改为2000—2002年。",
+        "底稿『2002—2010年美国国务院、美国国际开发署项目官员』：没有支持该合并单位、职务和任期的证据；改为已查实的迪拜顾问、商业机构、国务院及承包商经历。",
+        "底稿『2005—2007年驻伊拉克美国重建项目官员』：国会官方传记明确国务院驻巴格达经历为2007—2008年，不采用原条目。",
+        "底稿『2002年6月参加工作，月份为旧规则推定』：原推定依据不采用；本次打开的地方媒体原文明确首份工作始于2002年6月，重新据此推定参加工作时间。",
+        "底稿『2010年8月加入美国共和党』：2010年8月初选已取得州选务机构证据，但存在更高等级的2010年公开宣布参选锚点，改取2010年，不补月份。",
+        "底稿以congress-legislators仓库首页支持个人字段：仓库首页不作为本事实包来源，改用已打开的国会官方人物页和书记官页面。",
+        "查到的PDC首次登记日期2010-02-01：仅在第三方转录页面读到，官方登记原件未能打开，不采用。",
+        "查到的FEC参选声明日期2011-10-14：晚于2010年有效参选锚点，不用于推定入党时间。",
+        "查到的在校林务暑期工作和莫桑比克志愿服务：不作为第一份全职工作。",
+        "查到的小组委员会职务：按本批规则不在current_roles单列。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（华盛顿州第5选区）＋美国国会众议院；Bioguide B001322",
+      "review_items": [
+        "本包为重新取证的候选事实包，交下一会话逐字段独立核查。",
+        "i4 Communications已证实工作单位和开始年份，具体职务及结束日期留缺。",
+        "入党采用第3级公开宣布参选锚点，仅到2010年；若取得州PDC首份登记原件，按规则重新选择锚点。",
+        "本科入学年为允许推算；全文展示日期采用年粒度，事实字段保留来源已有的月日精度。"
+      ]
+    }
+  ]
+}

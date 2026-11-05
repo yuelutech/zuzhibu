@@ -1,0 +1,128 @@
+{
+  "id": "2026-08-21-bradford-pentony-wilson-appoint",
+  "date": "2026-08-21",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "bradford-pentony-wilson",
+  "person": {
+    "name_zh": "布拉德福德·彭托尼·威尔逊",
+    "name_en": "Bradford Pentony Wilson",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-15",
+  "effective_at": "2026-08-21",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国国家档案和记录管理局",
+      "role": "局长",
+      "organization_en": "National Archives and Records Administration",
+      "role_en": "Archivist of the United States",
+      "start": "2026-08-21",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "布拉德福德·彭托尼·威尔逊就任美国国家档案和记录管理局局长",
+  "summary": "美国国家档案和记录管理局9月15日公告确认，Wilson已于8月21日宣誓就任第12任美国国家档案局局长。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://foia.blogs.archives.gov/2026/09/15/nominations-re-opened-for-2026-2028-foia-advisory-committee/",
+      "title": "Nominations Re-Opened for 2026-2028 FOIA Advisory Committee",
+      "publisher": "National Archives and Records Administration",
+      "published_at": "2026-09-15",
+      "excerpt": "Dr. Wilson was sworn in as the 12th Archivist of the United States on August 21, 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "m1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Bradford Pentony Wilson, of New Jersey, to be Archivist of the United States.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null,
+      "merged_from": "2026-08-21-bradford-pentony-wilson-confirm"
+    },
+    {
+      "id": "m2",
+      "url": "https://www.archives.gov/about/history/archivists",
+      "title": "Archivists of the United States, 1934 - Present",
+      "publisher": "",
+      "published_at": null,
+      "excerpt": "Bradford Wilson 12th Archivist of the United States August 21, 2026 – Present",
+      "supports": [
+        "effective_at",
+        "new_roles[0].start"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true,
+      "merged_from": "2026-08-21-bradford-pentony-wilson-confirm"
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1"
+    ],
+    "merged": [
+      {
+        "id": "2026-08-21-bradford-pentony-wilson-confirm",
+        "kind": "confirm",
+        "headline": "参议院确认布拉德福德·彭托尼·威尔逊出任美国国家档案和记录管理局局长",
+        "announced_at": "2026-08-07",
+        "effective_at": "2026-08-21",
+        "verification": {
+          "method": "codex",
+          "by": "本机 Codex 核查会话（补采动态，一次一条）",
+          "run": "20261021-090516"
+        },
+        "sources": [
+          "m1",
+          "m2"
+        ],
+        "at": "2026-10-21",
+        "reason": "同一人、同一天、同一机构，类别不同的同一件事，合成一条"
+      }
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 bradford-pentony-wilson（库里没有此人）",
+      "现任职务新增：美国国家档案和记录管理局局长",
+      "履历新增：2026-08 美国国家档案和记录管理局局长"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "bradford-pentony-wilson",
+    "reason": "新任职务不在各局范围（主要职务“美国国家档案和记录管理局 局长”：不在各局范围），暂留原局"
+  }
+}

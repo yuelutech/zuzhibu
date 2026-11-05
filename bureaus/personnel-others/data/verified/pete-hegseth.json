@@ -1,0 +1,360 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-pete-hegseth",
+      "line": "cadre",
+      "subject_id": "pete-hegseth",
+      "title": "皮特·赫格塞思简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://docs.house.gov/meetings/AS/AS00/20260429/119244/HMTG-119-AS00-Bio-HegsethP-20260429.pdf",
+          "title": "Pete Hegseth — Department of War biography",
+          "excerpt": "sworn in on Jan. 25, 2025.",
+          "published_at": "2026-04-29",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://millercenter.org/pete-hegseth-2025",
+          "title": "Pete Hegseth (2025–) | Miller Center",
+          "excerpt": "Peter Brian Hegseth was born on June 6, 1980, in Minneapolis, Minnesota.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 2
+        },
+        {
+          "id": "s3",
+          "url": "https://docs.house.gov/meetings/FA/FA07/20141001/102693/HHRG-113-FA07-Bio-HegsethP-20141001.pdf",
+          "title": "Pete Hegseth — witness biography",
+          "excerpt": "completed a Masters in Public Policy at Harvard University’s John F. Kennedy School of Government in 2013.",
+          "published_at": "2014-10-01",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.whitehouse.gov/administration/cabinet/?trk=public_post_comment-text",
+          "title": "The Cabinet — Pete Hegseth",
+          "excerpt": "Hegseth was commissioned an infantry officer into the U.S. Army National Guard upon graduation from the ROTC program at Princeton University in 2003.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.tvinsider.com/people/pete-hegseth/",
+          "title": "Pete Hegseth — TV Insider",
+          "excerpt": "Pete Hegseth is an American television host and author.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "皮特·赫格塞思",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国籍",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1980-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "明尼苏达明尼阿波利斯",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2003-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "wuju任务、cadre.md 3.3及9.6：毕业即授衔，毕业年2003，毕业月无明载，按美国学年取5月。",
+          "inference": {
+            "rule": "commission_month",
+            "from_date": "2003",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "哈佛大学肯尼迪学院公共政策",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "公共政策硕士学位",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国国防部",
+          "role": "部长",
+          "start": {
+            "value": "2025-01-25",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1999-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "2003年本科毕业减4年，入学取9月。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2003",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2003-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "美国毕业月默认5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2003",
+              "duration_years": null
+            }
+          },
+          "organization": "普林斯顿大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士学位",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003-05",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "wuju任务、cadre.md 3.3及9.6：毕业即授衔，毕业年2003，毕业月无明载，按美国学年取5月。",
+            "inference": {
+              "rule": "commission_month",
+              "from_date": "2003",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "美国陆军国民警卫队",
+          "role": "步兵军官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "来源仅记年份，按规则以7月记录。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2005",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2006-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "来源仅记年份，按规则以7月记录。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2006",
+              "duration_years": null
+            }
+          },
+          "organization": "美国陆军第101空降师第3旅",
+          "role": "步兵排长、军民事务军官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-25",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国防部",
+          "role": "部长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "国民警卫队服役各阶段的起止时间未全部取得。",
+        "Vets for Freedom及媒体任职的完整到任、离任日期未取得，未补造。",
+        "族裔及入党锚点未取得。",
+        "Concerned Veterans for America 首席执行官起任年份未核定：2014年国会证人简介证明当时在任，弗吉尼亚大学米勒中心记2016年离任。该项未编入有起止日期的履历。"
+      ],
+      "excluded": [
+        "TV Insider同页出生地标题与正文不一致；本包出生地只采Miller Center条目。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "wuju"
+}

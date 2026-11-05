@@ -1,0 +1,562 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-o000173",
+      "line": "cadre",
+      "subject_id": "o000173",
+      "title": "伊尔汉·奥马尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "rep 2019-01-03~ MN-5 Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: F",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Ilhan Abdullahi Omar...born in Mogadishu, Somalia, on October 4, 1982",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+          "title": "维基百科：Ilhan_Omar",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Ilhan Abdullahi Omar...born in Mogadishu, Somalia, on October 4, 1982",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+          "title": "维基百科：Ilhan_Omar",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born in Mogadishu, Somalia, on October 4, 1982",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+          "title": "维基百科：Ilhan_Omar",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Committee on Education and the Workforce; Committee on the Budget",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+          "title": "维基百科：Ilhan_Omar",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "She graduated from North Dakota State University in 2011 with a bachelor's degree, majoring in political science and international studies",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+          "title": "维基百科：Ilhan_Omar",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Child nutrition coordinator, Minnesota Department of Education (2012-2013); Campaign manager for Minnesota State Senate candidate (2012)",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+          "title": "维基百科：Ilhan_Omar",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Minneapolis City Council policy aide (2013-2015)",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+          "title": "维基百科：Ilhan_Omar",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Minnesota House of Representatives member, District 60B (2017-2019)",
+          "tier": 3
+        },
+        {
+          "id": "s11",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Member of the U.S. House of Representatives from Minnesota's 5th congressional district since 2019",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+          "title": "维基百科：Ilhan_Omar",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Member of the U.S. House of Representatives from Minnesota's 5th congressional district since 2019",
+          "tier": 3
+        },
+        {
+          "id": "s13",
+          "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+          "title": "维基百科：Ilhan_Omar",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "graduated from North Dakota State University in 2011",
+          "tier": 3
+        },
+        {
+          "id": "s14",
+          "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+          "title": "维基百科：Ilhan_Omar",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "On August 9, Omar defeated Mohamud Noor and incumbent Phyllis Kahn in the DFL primary (2016)",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "house",
+        "state:MN"
+      ],
+      "person": {
+        "name": {
+          "value": "伊尔汉·奥马尔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1982-10-04",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "索马里摩加迪沙",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2011",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：本科毕业后进入政策与社区工作；底稿备注：规则①：取2011年本科毕业衔接职业；2006-2009明尼苏达大学社区营养教育员为在学期间工作(入底稿)，按干部简历惯例参加工作取学成后",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "北达科他州立大学文学学士学位",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2016-08",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以民主-农民-劳工党(DFL，明尼苏达州民主党)身份参选并胜出初选：2016年8月9日明尼苏达州众议员DFL初选；来源：https://en.wikipedia.org/wiki/Ilhan_Omar；底稿备注：首次自身竞选；安全DFL选区中8月初选为决定性一役，有确切日期；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2016-08-09",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（明尼苏达州第5选区）",
+          "role": "",
+          "start": {
+            "value": "2019-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院教育和劳动力委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院预算委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自2011倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2011",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2011",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北达科他州立大学",
+          "role": null,
+          "program": "政治学、国际研究",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "明尼苏达州教育厅",
+          "role": "儿童营养协调员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "儿童营养协调员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2012",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2012",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "明尼苏达州参议院候选人竞选经理",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "明尼阿波利斯市议会",
+          "role": "政策助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "政策助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "明尼苏达州议会众议院",
+          "role": "明尼苏达州众议员（第60B选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "明尼苏达州众议员（第60B选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s11",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（明尼苏达州第5选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11",
+            "s12"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（明尼苏达州第5选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "底稿缺项：北达科他州立大学入学年（求学路径较长，低置信）",
+        "底稿缺项：2006-2009明尼苏达大学社区营养教育员（在学工作，入底稿）",
+        "底稿缺项：2011-2012、2015-2017过渡期（年份模式可容；2015-2017或任妇女组织妇女网络主任，未独立核实）",
+        "底稿缺项：众议院 PTR 明细（须人工到书记官入口核取）"
+      ],
+      "excluded": [
+        "参加工作月份「2011年6月」：底稿推定（规则①：取2011年本科毕业衔接职业；2006-2009明尼苏达大学社区营养教育员为在学期间工作(入底稿)，按干部简历惯例参加工作取学成后），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

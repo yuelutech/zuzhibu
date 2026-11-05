@@ -1,0 +1,78 @@
+{
+  "id": "2026-07-01-dino-laverghetta-appoint",
+  "date": "2026-07-01",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "dino-laverghetta",
+  "person": {
+    "name_zh": "迪诺·拉韦尔盖塔",
+    "name_en": "Dino LaVerghetta",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-06-17",
+  "effective_at": "2026-07-01",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国行政会议",
+      "role": "公众委员",
+      "organization_en": "Administrative Conference of the United States",
+      "role_en": "Public Member",
+      "start": "2026-07-01",
+      "end": null,
+      "source_ids": [
+        "s1"
+      ],
+      "sector": "committee",
+      "concurrent": true
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "迪诺·拉韦尔盖塔获任美国行政会议公众委员，两年任期自2026年7月1日起",
+  "summary": "迪诺·拉韦尔盖塔获任美国行政会议公众委员，两年任期自2026年7月1日起。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.sidley.com/en/newslanding/newsannouncements/2026/06/dino-laverghetta-appointed-public-member-of-the-administrative-conference-of-the-united-states",
+      "title": "Dino LaVerghetta Appointed Public Member of ACUS",
+      "publisher": "Sidley Austin",
+      "published_at": "2026-06-17",
+      "excerpt": "a two-year term beginning July 1, 2026",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-103425",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（s1：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "undecided",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "新任“美国行政会议公众委员”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "dino-laverghetta",
+    "reason": "新任职务不在各局范围（主要职务“盛德律师事务所 合伙人”：不在各局范围），暂留原局"
+  }
+}

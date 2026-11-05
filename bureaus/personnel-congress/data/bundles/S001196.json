@@ -1,0 +1,601 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-s001196",
+      "line": "cadre",
+      "subject_id": "s001196",
+      "title": "埃莉斯·斯蒂芬尼克简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "rep 2015-01-06~ NY-21 Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: F",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born in Albany, New York, on July 2, 1984",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Elise_Stefanik",
+          "title": "维基百科：Elise_Stefanik",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born in Albany, New York, on July 2, 1984",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Elise_Stefanik",
+          "title": "维基百科：Elise_Stefanik",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "119th Congress committees include Armed Services, Education and Workforce, and Permanent Select Committee on Intelligence",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Elise_Stefanik",
+          "title": "维基百科：Elise_Stefanik",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "graduated with a Bachelor of Arts in 2006 from Harvard College",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Elise_Stefanik",
+          "title": "维基百科：Elise_Stefanik",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "staff member for the U.S. Domestic Policy Council...later worked in the office of Joshua Bolten, the White House chief of staff",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Elise_Stefanik",
+          "title": "维基百科：Elise_Stefanik",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "worked at the Foundation for Defense of Democracies and at Foreign Policy Initiative; managed Rep. Paul Ryan's preparation for the 2012 vice presidential debate",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Elise_Stefanik",
+          "title": "维基百科：Elise_Stefanik",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "returned to upstate New York and joined her parents' business (wholesale plywood distributor); In August 2013, Stefanik declared her candidacy",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "assumed office January 3, 2015; Conference Chair May 14, 2021 - January 3, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://en.wikipedia.org/wiki/Elise_Stefanik",
+          "title": "维基百科：Elise_Stefanik",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "assumed office January 3, 2015; Conference Chair May 14, 2021 - January 3, 2025",
+          "tier": 3
+        },
+        {
+          "id": "s12",
+          "url": "https://en.wikipedia.org/wiki/Elise_Stefanik",
+          "title": "维基百科：Elise_Stefanik",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "joined the George W. Bush administration as a staff member for the U.S. Domestic Policy Council",
+          "tier": 3
+        },
+        {
+          "id": "s13",
+          "url": "https://en.wikipedia.org/wiki/Elise_Stefanik",
+          "title": "维基百科：Elise_Stefanik",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "In August 2013, Stefanik declared her candidacy in the 2014 election",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "house",
+        "state:NY"
+      ],
+      "person": {
+        "name": {
+          "value": "埃莉斯·斯蒂芬尼克",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1984-07-02",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "纽约州奥尔巴尼",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2006",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：任白宫国内政策委员会工作人员；底稿备注：规则①：2006年本科毕业衔接白宫职务",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2006",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "哈佛大学政府学文学学士学位",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2013-08",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：FEC/首次以共和党身份宣布参选：2013年8月宣布参选2014年纽约州第21选区联邦众议员；来源：https://en.wikipedia.org/wiki/Elise_Stefanik；底稿备注：schema锚点优先级：FEC参选声明(2013)高于Codex采用的2006白宫任职(官方任职党籍最低优先级)；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2013-08",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（纽约州第21选区）",
+          "role": "",
+          "start": {
+            "value": "2015-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院军事委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院教育和劳动力委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院情报常设特别委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自2006倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2006",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "哈佛大学",
+          "role": null,
+          "program": "政府学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2009",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "白宫国内政策委员会、白宫幕僚长办公室",
+          "role": "工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "保卫民主基金会、对外政策倡议组织",
+          "role": "工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2012",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2012",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "协助保罗·瑞安副总统候选人辩论筹备",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "斯蒂芬尼克家族企业",
+          "role": "工作人员、纽约州第21选区联邦众议员候选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员",
+            "纽约州第21选区联邦众议员候选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s10",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（纽约州第21选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10",
+            "s11"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（纽约州第21选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2021",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2025",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国众议院共和党会议主席",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s10",
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "底稿缺项：哈佛入学年（按学制倒推）",
+        "底稿缺项：众议院 PTR 明细（须人工到书记官入口核取）"
+      ],
+      "excluded": [
+        "参加工作月份「2006年7月」：底稿推定（规则①：2006年本科毕业衔接白宫职务），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

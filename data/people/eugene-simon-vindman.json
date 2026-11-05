@@ -1,0 +1,484 @@
+{
+  "id": "eugene-simon-vindman",
+  "name_zh": "尤金·温德曼",
+  "name_en": "Eugene Simon Vindman",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {
+    "bioguide": "V000138"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "eugene-simon-vindman.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Representative_Eugene_Vindman_Official_Portrait.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（Ike Hayman, House Creative Services；[1] (File)），File:Representative Eugene Vindman Official Portrait.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Representative_Eugene_Vindman_Official_Portrait.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-v000138",
+    "line": "cadre",
+    "subject_id": "v000138",
+    "title": "尤金·温德曼简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "",
+        "tier": 1
+      },
+      {
+        "id": "care1",
+        "url": "https://github.com/yuelutech/zuzhibu-archive/blob/d4e223436dc4f548069b85bfb14569402edf0257/bureaus/personnel-congress/import/ceo-profiles/resumes/V000138.md",
+        "title": "国会议员简历底稿（2026年6月整理，仓库归档）",
+        "published_at": "2026-06-13",
+        "checked_at": "2026-10-22",
+        "excerpt": "尤金·温德曼，男，1975年6月生，乌克兰基辅人，研究生学历，法学博士学位、法学硕士学位，2022年6月参加工作，2024年6月加入美国民主党。",
+        "tier": 3
+      },
+      {
+        "id": "cdir1",
+        "url": "https://www.govinfo.gov/app/details/CDIR-2026-02-20",
+        "title": "Official Congressional Directory, 119th Congress（2026年2月20日版，美国政府出版局）",
+        "published_at": "2026-02-20",
+        "checked_at": "2026-10-22",
+        "excerpt": "EUGENE SIMON VINDMAN, Democrat, of Dale City, VA; born in Kyiv, Ukraine, June 6, 1975; education: B.A., history, Binghamton University, Binghamton, NY, 1997; M.A., general administration, Central Michigan University, Mt. Pleasant, MI, 2005; J.D., University of Georgia, Atlanta, GA, 2009",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "house",
+      "state:VA"
+    ],
+    "person": {
+      "name": {
+        "value": "尤金·温德曼",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1975-06-06",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "乌克兰基辅",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1998",
+        "source_ids": [],
+        "inferred": true,
+        "basis": "按履历首个非学习条目的开始年份推算：美国陆军军官、军法署律师（T2 Codex 初稿时间线，无来源）；发布稿作「2022年6月参加工作」，月份为旧规则推定，不采用",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1998",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "大学学历",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "纽约州立大学宾汉姆顿分校文学学士学位",
+        "source_ids": [
+          "care1",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（弗吉尼亚州第7选区）",
+        "role": "",
+        "start": {
+          "value": "2025-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "纽约州立大学宾汉姆顿分校",
+        "role": null,
+        "program": null,
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国陆军军官、军法署律师",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "study",
+            "start": {
+              "value": "2000",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2002",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "中央密歇根大学",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": {
+              "value": "理学硕士",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "concurrent": true,
+            "source_ids": []
+          },
+          {
+            "kind": "study",
+            "start": {
+              "value": "2006",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2009",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "佐治亚大学法学院",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": {
+              "value": "法学博士",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "concurrent": true,
+            "source_ids": []
+          },
+          {
+            "kind": "study",
+            "start": {
+              "value": "2015",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2016",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国陆军军法学校",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": {
+              "value": "法学硕士",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "concurrent": true,
+            "source_ids": []
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2018",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2020",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "白宫国家安全委员会副法律顾问",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": []
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2024",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "国家安全法律顾问、律师",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "care1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "弗吉尼亚州第7选区联邦众议员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "care1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作/入伍写法待定：首个履历条目为军职（美国陆军军官、军法署律师）",
+      "履历：来源只有旧项目国会议员简历底稿（三级），待重新取证",
+      "入党时间：底稿无锚点，按 party_join.md 重新取锚点",
+      "参加工作：记录作 1998 年，旧底稿首段作“2022年6月参加工作”，底稿履历第一条是军职，参加工作还是入伍待定，没配来源"
+    ],
+    "excluded": [
+      "发布稿「2022年6月参加工作」：月份为旧规则推定，只写到年",
+      "发布稿入党句「2024年6月加入美国民主党」：底稿无锚点、无来源，不采用"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

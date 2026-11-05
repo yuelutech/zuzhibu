@@ -1,0 +1,687 @@
+{
+  "id": "sean-cairncross",
+  "name_zh": "肖恩·凯恩克罗斯",
+  "name_en": "Sean Cairncross",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Executive Office of the President 美国国家网络总监 Executive Office of the President National Cyber Director”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/sean-cairncross.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "Executive Office of the President",
+      "role_en": "National Cyber Director"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Executive Office of the President 美国国家网络总监 Executive Office of the President National Cyber Director”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/sean-cairncross.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-sean-cairncross",
+    "line": "cadre",
+    "subject_id": "sean-cairncross",
+    "title": "肖恩·凯恩克罗斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/08/u-s-senate-confirms-sean-cairncross-as-the-national-cyber-director/",
+        "title": "U.S. Senate Confirms Sean Cairncross as the National Cyber Director",
+        "published_at": "2025-08-02",
+        "checked_at": "2026-10-18",
+        "excerpt": "Sean Cairncross was confirmed as National Cyber Director.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://mcsc.io/wp-content/download_mcsc_info/MCSC_2026_Booklet.pdf",
+        "title": "MCSC 2026 Booklet, p.10",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "RNC Chief Counsel 2007-2009; NRSC Deputy Executive Director and General Counsel 2009-2013; RNC COO for 2016 and 2024 cycles.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://p2008.org/parties08/reporg08.html",
+        "title": "Republican National Committee organization 2008",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "deputy counsel since 2004; J.D. 2001; M.Phil. 1998; B.A. 1997.",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://concordia.net/community/sean-stuart-cairncross/",
+        "title": "Sean Cairncross — Concordia",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "sworn in on June 24, 2019; litigation associate at Covington & Burling",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://eldiariony.com/2025/08/05/senado-confirmo-a-sean-cairncross-como-director-nacional-de-ciberseguridad/",
+        "title": "Senado confirmó a Sean Cairncross como director nacional de Ciberseguridad",
+        "published_at": "2025-08-05",
+        "checked_at": "2026-10-18",
+        "excerpt": "Nacido en Minnesota en 1974",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "肖恩·凯恩克罗斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1974-07",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": true,
+        "basis": "来源给出1974年；月未知，按规则取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1974",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "纽约大学法学院",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法学博士",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2004",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "第二级锚点：2004年任共和党全国委员会副法律顾问；https://p2008.org/parties08/reporg08.html",
+        "inference": {
+          "rule": "party_anchor_party_office",
+          "from_date": "2004",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国国家网络总监办公室",
+        "role": "国家网络总监",
+        "start": {
+          "value": "2025-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "国家网络总监"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "本科1997年毕业，按四年学制倒推。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1997",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美利坚大学",
+        "role": "",
+        "program": null,
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "英国硕士1998年毕业，按一年学制倒推。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1998",
+            "duration_years": 1
+          }
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "剑桥大学",
+        "role": "",
+        "program": null,
+        "degree_awarded": {
+          "value": "哲学硕士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "法学院2001年毕业，按三年学制倒推。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2001",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "纽约大学法学院",
+        "role": "",
+        "program": null,
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007-03",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国共和党全国委员会",
+        "role": "副法律顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副法律顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007-03",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国共和党全国委员会",
+        "role": "总法律顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总法律顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国共和党全国参议院委员会",
+        "role": "副执行主任、总法律顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副执行主任、总法律顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国共和党全国委员会",
+        "role": "首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019-06",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "白宫",
+        "role": "总统副助理、幕僚长高级顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总统副助理、幕僚长高级顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-06-24",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "千年挑战公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国共和党全国委员会",
+        "role": "首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国家网络总监办公室",
+        "role": "国家网络总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "国家网络总监"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "已核实早期在科文顿律师事务所任诉讼律师，开始年份和月份未查明，参加工作时间暂空。",
+      "Holtzman Vogel Josefiak合伙人和VogelHood Research总法律顾问的起止日期未知。",
+      "2024年共和党全国委员会职务终止日期未知；未列为现职。",
+      "出生城市、族裔未取得合格来源。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Sean Cairncross；美国国家网络总监办公室",
+    "review_items": []
+  }
+}

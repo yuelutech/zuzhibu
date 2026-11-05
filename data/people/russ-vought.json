@@ -1,0 +1,644 @@
+{
+  "id": "russ-vought",
+  "name_zh": "拉塞尔·沃特",
+  "name_en": "Russ Vought",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Office of Management and Budget Director Office of Management and Budget Director”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/russ-vought.json（sanju-neige，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2026/02/Russ-Vought.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Russell_Vought.jpg",
+    "file": "russ-vought.jpg",
+    "source_kind": "维基共享资源（官方肖像）",
+    "license": "公有领域：白宫官方照片（维基共享资源 File:Russell Vought.jpg，来源白宫网站存档）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Office of Management and Budget",
+      "role_en": "Director"
+    }
+  ],
+  "notes": [
+    "补采任务 sanju-neige（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Office of Management and Budget Director Office of Management and Budget Director”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/russ-vought.json（sanju-neige，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-russ-vought",
+    "line": "cadre",
+    "subject_id": "russ-vought",
+    "title": "拉塞尔·沃特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/administration/cabinet/",
+        "title": "The Cabinet: Russ Vought",
+        "excerpt": "Russell Vought is the 44th Director; BA Wheaton College 1998; JD George Washington University 2004.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://trumpwhitehouse.archives.gov/people/russell-vought/",
+        "title": "Russell Vought",
+        "excerpt": "Deputy Director and Acting Director prior to confirmation as Director in July 2020; seven years at Heritage Action.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-115shrg26919/pdf/CHRG-115shrg26919.pdf",
+        "title": "Senate Budget Committee: Nomination of Russell T. Vought (2017), pp.31–33",
+        "excerpt": "3/26/76 (Mount Vernon, NY); George Washington: September 2000-May 2004; Wheaton: September 1994-May 1998; employment chronology.",
+        "published_at": "2017-06-07",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-neige",
+      "research"
+    ],
+    "person": {
+      "name": {
+        "value": "拉塞尔·沃特",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "basis": "出生于美国纽约州芒特弗农（按美国宪法第十四修正案为美国公民）",
+        "inferred": false,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1976-03-26",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "纽约州芒特弗农",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1998-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "参议院问卷列首份非实习职务为Dan Coats办公室Staff Assistant，起始月原文标Est。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1998-07",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法学博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "白宫管理和预算办公室",
+        "role": "主任",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1994-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1998-05",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "惠顿学院",
+        "role": null,
+        "program": null,
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "参议院问卷列首份非实习职务为Dan Coats办公室Staff Assistant，起始月原文标Est。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1998-07",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1998-12",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦参议员丹·科茨办公室",
+        "role": "幕僚助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1999-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002-08",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦参议员菲尔·格拉姆办公室",
+        "role": "立法助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2000-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2004-05",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "乔治·华盛顿大学",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2003-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦参议员查克·黑格尔办公室",
+        "role": "立法助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003-02",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006-12",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦众议员杰布·亨萨林办公室",
+        "role": "政策主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004-05",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008-12",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国众议院共和党研究委员会",
+        "role": "执行主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国众议院共和党会议",
+        "role": "政策主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010-08",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Heritage Action for America",
+        "role": "草根联络和政策倡议副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021-01",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "白宫管理和预算办公室",
+        "role": "主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2025",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "白宫管理和预算办公室",
+        "role": "主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国政要",
+    "conflicts": [],
+    "unknowns": [
+      "国籍直接陈述、党籍及有效入党锚点未核实。",
+      "1998年问卷所列第一份非实习工作起始月为本人估计；惠顿学习止于1998年5月，学位授予日期为1998年8月31日。",
+      "2017年问卷的OMB高级顾问起止与后续副局长、代理局长任期未完整补证；本届宣誓准确日期待核。",
+      "CFPB、USAID兼任截至日情况未核实，未沿用旧任期。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "Director | Office of Management and Budget",
+    "review_items": [
+      "完整简历卡缺项：nationality。保留seed级事实包。"
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "jakub-pachocki-20261018",
+      "line": "cadre",
+      "subject_id": "jakub-pachocki",
+      "title": "雅库布·帕霍茨基简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist/",
+          "title": "Jakub Pachocki announced as Chief Scientist",
+          "published_at": "2024-05-14",
+          "checked_at": "2026-10-18",
+          "excerpt": "Jakub is the Chief Scientist at OpenAI, where he has led transformative research initiatives since 2017.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.csd.cs.cmu.edu/academics/doctoral/degrees-conferred/jakub-pachocki",
+          "title": "Jakub Pachocki — CMU Degree Conferred",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Degree Type: Ph.D. in Computer Science ... Graduated: May 2016",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://people.eecs.berkeley.edu/~minilek/cv.pdf",
+          "title": "Jelani Nelson CV — Postdoctoral Fellows",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Jakub Pachocki July ’16–January ’17",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://scienceinpoland.pap.pl/aktualnosci/news,102764,polak-glownym-naukowcem-w-openai.html",
+          "title": "Polak głównym naukowcem w OpenAI",
+          "published_at": "2024-05-17",
+          "checked_at": "2026-10-18",
+          "excerpt": "Jakub Pachocki obejmie stanowisko głównego naukowca w firmie OpenAI ... Polak był odpowiedzialny",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://view.asiae.co.kr/en/article/2026022010024407683",
+          "title": "Chinese Tech Firms Appoint MZ Talent as Chief Scientists",
+          "published_at": "2026-02-20",
+          "checked_at": "2026-10-18",
+          "excerpt": "OpenAI chief scientist Jakub Pachocki is 35.",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "雅库布·帕霍茨基"
+      ],
+      "person": {
+        "name": {
+          "value": "雅库布·帕霍茨基",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "波兰",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1990-08",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "2026-02-20报道35岁，区间1990-02-21至1991-02-20，取中间月份。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2026-02-20",
+            "duration_years": 35
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "2016-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "education": {
+          "value": "卡内基梅隆大学计算机科学专业",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "哲学博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "开放人工智能研究中心（OpenAI）",
+          "role": "首席科学家",
+          "roles": [
+            "首席科学家"
+          ],
+          "start": {
+            "value": "2024-05-14",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017-01",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "哈佛大学",
+          "role": "博士后研究员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "博士后研究员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "官方只给2017年；月份未知，按规则取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2017",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2024-05",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "开放人工智能研究中心（OpenAI）",
+          "role": "研究主管、研究总监",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "研究主管",
+            "研究总监"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2024-05",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "开放人工智能研究中心（OpenAI）",
+          "role": "首席科学家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "首席科学家"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "开放人工智能研究中心（OpenAI）",
+      "conflicts": [],
+      "unknowns": [
+        "直接出生年月未核到，采用带日期媒体年龄陈述推算。",
+        "华沙大学计算机科学学历有PAP报道，但入学及毕业年份未核清；博士入学日期未知，学习条目暂缺。",
+        "2017年OpenAI入职月份及内部各职务交接未知；2023年短期离任复职的准确界点待核。",
+        "OpenAI任命页未展示标准照，暂不报。"
+      ],
+      "excluded": [],
+      "country_profile": "other",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Jakub Pachocki；开放人工智能研究中心（OpenAI）；首席科学家",
+      "review_items": [
+        "PAP 2024报道把历史哈佛博士后写作现任；任期采用导师CV明确的2016-07至2017-01，不延长到2024。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-2"
+}

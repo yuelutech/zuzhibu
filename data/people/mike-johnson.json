@@ -1,0 +1,688 @@
+{
+  "id": "mike-johnson",
+  "name_zh": "迈克·约翰逊",
+  "name_en": "Mike Johnson",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "J000299"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "mike-johnson.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Speaker_Mike_Johnson_Official_Portrait_(cropped)(b).jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Congress；https://www.speaker.gov/meet-mike-johnson/ [direct image link]），File:Speaker Mike Johnson Official Portrait (cropped)(b).jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Speaker_Mike_Johnson_Official_Portrait_%28cropped%29%28b%29.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-j000299",
+    "line": "cadre",
+    "subject_id": "j000299",
+    "title": "迈克·约翰逊简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "56th Speaker of the House since October 25, 2023",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "56th Speaker of the House since October 25, 2023",
+        "tier": 3
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "James Michael Johnson was born in Shreveport, Louisiana (1972-01-30)",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "James Michael Johnson was born in Shreveport, Louisiana (1972-01-30)",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "James Michael Johnson was born in Shreveport, Louisiana",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Speaker of the House",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "In 1995, he earned a Bachelor of Science in business administration from Louisiana State University",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "In 1998, Johnson graduated from Louisiana State's Paul M. Hebert Law Center with a Juris Doctor degree",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "From 2002 to 2010, he was an attorney for the Alliance Defense Fund (now Alliance Defending Freedom)",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Louisiana House: Elected 2015 unopposed to 8th District seat; served until 2017",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sworn into office as a member of Congress on January 3, 2017; On October 25 (2023), the full House voted...to elect Johnson as the 56th Speaker",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sworn into office as a member of Congress on January 3, 2017; On October 25 (2023), the full House voted...to elect Johnson as the 56th Speaker",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Constitutional lawyer before politics; J.D. 1998",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://en.wikipedia.org/wiki/Mike_Johnson",
+        "title": "维基百科：Mike_Johnson",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Johnson ran to succeed him and was unopposed (took office February 22, 2015)",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "house",
+      "state:LA"
+    ],
+    "person": {
+      "name": {
+        "value": "迈克·约翰逊",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1972-01-30",
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "路易斯安那州什里夫波特",
+        "source_ids": [
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1998",
+        "source_ids": [
+          "s14"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：执业律师（宪法、宗教自由领域）；底稿备注：规则①：1998年法学院毕业衔接执业律师",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1998",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "路易斯安那州立大学法学院法学博士学位",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2015-02",
+        "source_ids": [
+          "s15"
+        ],
+        "inferred": true,
+        "basis": "第5级锚点：首次就任党派制公职：2015年2月以共和党身份就任路易斯安那州众议员（第8选区，无对手当选）；来源：https://en.wikipedia.org/wiki/Mike_Johnson；底稿备注：此前任保守派宗教自由法律机构律师，党籍渊源更早但无登记/党职高优先级锚点；2月就任有据；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_office",
+          "from_date": "2015-02",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（路易斯安那州第4选区）",
+        "role": "",
+        "start": {
+          "value": "2023-10",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国众议院议长",
+        "role": "",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1991",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1995倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1995",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1995",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "路易斯安那州立大学",
+        "role": null,
+        "program": "工商管理",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1995",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1998倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1998",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "路易斯安那州立大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "（律师执业）",
+        "role": "律师（宪法、宗教自由领域）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师（宪法、宗教自由领域）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2002",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2010",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "联盟防卫基金会高级法律顾问",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "路易斯安那州议会众议院",
+        "role": "路易斯安那州众议员（第8选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "路易斯安那州众议员（第8选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s12",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（路易斯安那州第4选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12",
+          "s13"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦众议员（路易斯安那州第4选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2019",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2021",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国众议院共和党研究委员会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2021",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2023",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国众议院共和党会议副主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2023",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国众议院议长",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：本科/法学院入学年（按学制倒推）",
+      "底稿缺项：1998-2015律师期细分职务（ERLC、路易斯安那学院等Codex细节待核）",
+      "底稿缺项：众议院 PTR 明细（须人工到书记官入口核取）"
+    ],
+    "excluded": [
+      "参加工作月份「1998年6月」：底稿推定（规则①：1998年法学院毕业衔接执业律师），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

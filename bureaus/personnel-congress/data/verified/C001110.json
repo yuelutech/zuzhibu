@@ -1,0 +1,702 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001110",
+      "line": "cadre",
+      "subject_id": "c001110",
+      "title": "楼·科雷亚简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/Members/C001110",
+          "title": "Office of the Clerk, U.S. House of Representatives — J. Luis Correa",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "J. Luis Correa\nCalifornia (CA) – 46th, Democrat\nCommittee on Homeland Security\nCommittee on the Judiciary",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://correa.house.gov/about/biography",
+          "title": "Biography | About | U.S. Congressman Lou Correa of California",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Lou returned to college and earned his Juris Doctor (JD), and Master in Business Administration (MBA)",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://history.house.gov/People/Detail/15032440420",
+          "title": "CORREA, Jose Luis | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Los Angeles, Los Angeles County, Calif., January 24, 1958;",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://calstate.fullerton.edu/inside/2012sp/advocacy.asp",
+          "title": "Upping the Ante With Advocacy — Cards Help Stack the Deck for Higher Education",
+          "published_at": "2012-01-05",
+          "checked_at": "2026-10-19",
+          "excerpt": "Lou Correa (B.A. economics '80)",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://news.fullerton.edu/2015/05/lou-correa/",
+          "title": "Lou Correa Comes Home | CSUF News",
+          "published_at": "2015-05-13",
+          "checked_at": "2026-10-19",
+          "excerpt": "Correa holds a Juris Doctor and MBA from UCLA.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://vigarchive.sos.ca.gov/1996/general/cand/cand-c.htm",
+          "title": "CA Secretary of State - Vote96 - Alphabetic Candidate List C",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Lou Correa - State Assembly - District 69 - Democratic",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.latimes.com/archives/la-xpm-1996-04-02-mn-54113-story.html",
+          "title": "Chairman’s Actions Anger O.C. Democrats",
+          "published_at": "1996-04-02",
+          "checked_at": "2026-10-19",
+          "excerpt": "Lou Correa, a Democrat who ran without an opponent in Tuesday’s 69th Assembly District primary.",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://elections.cdn.sos.ca.gov/sov/1996-primary/index.htm",
+          "title": "March 26, 1996, Primary Election - Statement of Vote - California Secretary of State",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "March 26, 1996\nPrimary Elections - Statement of Vote",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://law.ucla.edu/sites/default/files/PDFs/Publications/UCLA_Law_Magazine/UCLALawMag_Fall2019.pdf",
+          "title": "UCLA Law Magazine — Fall 2019",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "LOU CORREA ’85",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://archive.senate.ca.gov/member-archives/2013-14/senator-lou-correa-d-district-34",
+          "title": "Senator Lou Correa (D) - District 34 | California State Senate Archive",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "State Senator Lou Correa was elected to the 34th Senate District in 2006",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://www.ocgov.com/sites/default/files/import/data/files/18298.pdf",
+          "title": "County Connection — Lou Correa Wins Election To represent 1st District",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "His term of office begins at noon on Jan. 3",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:CA"
+      ],
+      "person": {
+        "name": {
+          "value": "楼·科雷亚",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1958-01-24",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "加利福尼亚州洛杉矶",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "加利福尼亚大学洛杉矶分校法学院法学博士学位",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1996-03",
+          "source_ids": [
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以民主党身份参加加利福尼亚州众议院第69选区初选，1996-03-26；来源：https://www.latimes.com/archives/la-xpm-1996-04-02-mn-54113-story.html ，选举日期由州务卿原始选举目录确认：https://elections.cdn.sos.ca.gov/sov/1996-primary/index.htm 。州务卿1996年大选候选人名单亦列其为民主党候选人：https://vigarchive.sos.ca.gov/1996/general/cand/cand-c.htm 。已检索本人官网、竞选官网、州参议院档案、选务资料及FEC候选人与委员会资料，未找到带日期的选民党籍登记、本人宣布加入民主党、早期党组织任职或早于该初选的首次参选登记受理记录；较晚的联邦参选登记及2017年就任公职不替代更早锚点。底稿1996年3月本身未作证据，本次重新取证后采用该月。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1996-03-26",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（加利福尼亚州第46选区）",
+          "role": "",
+          "start": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院国土安全委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1976",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "国会官方履历和学校官网均确认1980年取得学士学位；本科入学年按1980－4＝1976推算。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1980",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1980",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州立大学富勒顿分校",
+          "role": null,
+          "program": "经济学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996",
+            "source_ids": [
+              "s2",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州众议院第69选区选举",
+          "role": "民主党候选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s7",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "民主党候选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1998",
+            "source_ids": [
+              "s3",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2004",
+            "source_ids": [
+              "s3",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州众议院",
+          "role": "州众议员（第69选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员（第69选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005-01-03",
+            "source_ids": [
+              "s3",
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州橙县监督委员会",
+          "role": "监督委员（第1区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s12",
+            "s13"
+          ],
+          "ongoing": false,
+          "roles": [
+            "监督委员（第1区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006",
+            "source_ids": [
+              "s3",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014",
+            "source_ids": [
+              "s3",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州参议院",
+          "role": "州参议员（第34选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员（第34选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州橙县监督委员选举",
+          "role": "候选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "候选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州高速铁路管理局",
+          "role": "委员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "委员"
+          ],
+          "role_category": {
+            "value": "member of the California high speed rail authority",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "国会官方履历记载为该管理局成员，中文概括为委员。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（加利福尼亚州第46选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（加利福尼亚州第46选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.1996.election_stage",
+          "alternatives": [
+            {
+              "value": "1996年竞逐加州州众议员提名失败",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1996年为民主党第69选区州众议员大选候选人，初选无人竞争",
+              "source_ids": [
+                "s7",
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1996年民主党第69选区州众议员候选人",
+          "reason": "采用主管选举的加州州务卿原始大选候选人名单；同期报道确认其参加初选。国会人物页的提名失败表述与州选务名单不符，列入复核。本人国会官网确认1996年参选落败。"
+        }
+      ],
+      "unknowns": [
+        "work_start：已查国会历史人物页、议员官网传记、州参议院官方档案、大学官网及本人竞选官网；确认其有投资银行、律师和房地产经纪职业经历，但没有找到第一份全职工作的单位、开始日期和全职性质依据。竞选官网还记载其本科毕业后曾工作储蓄再返校，不能以1985年研究生毕业作为首次参加工作时间。",
+        "careers.研究生学习：国会官方履历确认1985年取得UCLA法学博士和工商管理硕士，学校与本人官网亦确认学位；未找到可打开原文支持入学日期或学习年限。领英搜索线索为1981—1985，但原页打不开，未采用；两项研究生学习暂未列入有起止日期的履历。",
+        "careers.早期私人职业：议员官网、州参议院档案及橙县原始通讯确认私人职业类别，未找到各单位及任职起止，未沿用1985—1998年的合并条目。",
+        "current_roles.委员会起始日期：书记官现行名单确认第119届国会两个委员会席位；国会历史人物页列国土安全委员会自第115届、司法委员会自第116届的届次记录，未找到明确就任日期，start留空。",
+        "careers.州级公职月份：已查国会历史人物页及州参议院档案，州众议员、州参议员任期和橙县监督委员结束时间仅采用原文有据的年份。",
+        "careers.2015大学顾问：大学2015年5月13日公告称将任顾问，未明确生效或就任日期，未将公告日作为履历起点。",
+        "careers.2016联邦竞选：官网确认2016年当选，但本次未取得可读原文支持候选人及当选人阶段的完整起止日期，未沿用底稿2016—2017年的候选人条目。",
+        "ethnicity：已查本人官方传记及竞选官网，读到父母来自墨西哥的叙述，未取得符合本任务口径的本人族裔自述或官方统计分类，留空。",
+        "出生日期交叉来源：本次可直接读取并采用的出生日期原始依据为国会历史人物页，未取得第二个独立且稳定可读的权威原文。",
+        "其他党团职务：检索发现蓝狗联盟政策与立法战略共同主席线索，但联盟官网页面未能稳定打开，且未确认明确就任日期及截止日状态，未加入现任和履历。"
+      ],
+      "excluded": [
+        "底稿『2025年1月开始担任现职』：这是第119届任期起点；连续代表第46选区的起点为2017年1月3日。",
+        "底稿『1985年参加工作』『1985年6月参加工作』：没有首份全职工作开始时间依据，年份和月份均不采用。",
+        "底稿『1976年本科入学』：改为依据1980年学士毕业年减4的有记录推算，不再标作直接事实。",
+        "底稿『1980—1985年UCLA学习』：未取得入学年份依据，不采用该起止区间。",
+        "底稿『1985—1998年投资银行人员、律师、房地产经纪人、大学教师』：各职业不能作为单位合并，且起止日期无依据；大学教师经历亦未取得本次可采用的原始任职证据。",
+        "底稿『1996—1998年州众议员候选人』：1996年和1998年为不同选举，不采用连续候选人区间。",
+        "底稿『2015—2016年橙县监督委员候选人』：国会官方履历记载该次落选发生于2015年，改为2015年条目。",
+        "底稿『东洛杉矶市人』：采用国会官方传记的洛杉矶出生地表述，未采用该城市称谓。",
+        "底稿『1996年3月加入民主党』：底稿本身无证据，不作来源；本次以1996年3月26日党派初选重新建立推断锚点。",
+        "底稿『2025年起兼任边境安全和执法小组委员会资深少数党成员』：小组委员会不单列现任；本次未取得明确就任日期，未写履历括注。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（加利福尼亚州第46选区），美国国会众议院，Bioguide C001110",
+      "review_items": [
+        "参加工作时间缺证，保留seed级；不生成完整简历卡。",
+        "交AI政见确认1996年选举阶段的官方来源冲突；本包采用州务卿原始候选人名单。",
+        "补查研究生入学日期、第一份全职工作和蓝狗联盟职务。",
+        "本包为重新联网研究候选稿，交下一会话逐字段独立核查。"
+      ]
+    }
+  ]
+}

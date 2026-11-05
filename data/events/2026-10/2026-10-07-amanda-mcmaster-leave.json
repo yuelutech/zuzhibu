@@ -1,0 +1,96 @@
+{
+  "id": "2026-10-07-amanda-mcmaster-leave",
+  "date": "2026-10-07",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "amanda-mcmaster",
+  "person": {
+    "name_zh": "阿曼达·麦克马斯特",
+    "name_en": "Amanda McMaster",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-10-06",
+  "effective_at": "2026-10-07",
+  "ended_roles": [
+    {
+      "organization": "波士顿动力公司",
+      "role": "临时首席执行官",
+      "organization_en": "Boston Dynamics",
+      "role_en": "Interim Chief Executive Officer",
+      "start": "2026-02",
+      "end": "2026-10-07",
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "boston-mcmaster",
+        "boston-prasad"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "阿曼达·麦克马斯特结束波士顿动力公司临时首席执行官任期",
+  "summary": "波士顿动力公司10月6日宣布普拉萨德于10月7日接任首席执行官，麦克马斯特的临时首席执行官任期随之结束；她继续担任公司首席财务官。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "boston-mcmaster",
+      "url": "https://www.geekwire.com/2026/tech-moves-microsoft-cvp-retires-former-amazon-svp-to-lead-boston-dynamics-qualtrics-overland-ai-fred-hutch-name-execs/",
+      "title": "Tech Moves: Microsoft CVP retires; former Amazon SVP to lead Boston Dynamics; Qualtrics, Overland AI, Fred Hutch name execs",
+      "publisher": "GeekWire",
+      "published_at": "2026-10-06",
+      "excerpt": "He takes over from interim CEO Amanda McMaster, the company’s chief financial officer",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "boston-prasad",
+      "url": "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/",
+      "title": "Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer",
+      "publisher": "Boston Dynamics",
+      "published_at": "2026-10-06",
+      "excerpt": "appointment of Rohit Prasad as Chief Executive Officer (CEO), effective October 7, 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094711",
+    "corrections": [
+      "summary_zh → 波士顿动力公司10月6日宣布普拉萨德于10月7日接任首席执行官，麦克马斯特的临时首席执行官任期随之结束；她继续担任公司首席财务官。",
+      "核查只因来源记录问题搁置：删去未核实的来源，其余字段已核实"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（boston-mcmaster：不是一级来源；boston-prasad：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-oct-amanda-mcmaster",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 amanda-mcmaster（库里没有此人）"
+    ],
+    "notes": [
+      "原任“波士顿动力公司 临时首席执行官 Boston Dynamics Interim Chief Executive Officer”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "amanda-mcmaster",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

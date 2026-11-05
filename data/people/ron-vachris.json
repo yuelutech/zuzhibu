@@ -1,0 +1,731 @@
+{
+  "id": "ron-vachris",
+  "name_zh": "罗恩·瓦克里斯",
+  "name_en": "Ron Vachris",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "ron-vachris.jpg",
+    "source": "维护者提供（罗恩·瓦克里斯_Ron-Vachris_开市客_官网照.png）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Costco Wholesale Corporation",
+      "role_en": "President and Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-ron-vachris",
+    "line": "cadre",
+    "subject_id": "ron-vachris",
+    "title": "罗恩·瓦克里斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "title": "Costco Wholesale Corporation Form 10-K for fiscal year ended August 30, 2026 (Information about our Executive Officers)",
+        "published_at": "2026-10-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "President and Chief Executive Officer. Mr. Vachris has been a director since February 2022. Mr. Vachris was previously President and Chief Operating Officer from February 2022 to December 2023.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "title": "Costco Wholesale Corporation Form 10-K for fiscal year ended August 30, 2026 (Information about our Executive Officers)",
+        "published_at": "2026-10-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "He was Executive Vice President of Merchandising from June 2016 to January 2022, Senior Vice President, Real Estate Development, from August 2015 to June 2016, and Senior Vice President, General Manager, Northwest Region, from 2010 to July 2015.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "title": "Costco Wholesale Corporation Form 10-K for fiscal year ended August 30, 2026 (signature page, dated October 6, 2026)",
+        "published_at": "2026-10-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chief Executive Officer, President, and Director",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000159/cost-20251204.htm",
+        "title": "Costco Wholesale Corporation 2026 Proxy Statement (DEF 14A), director nominee Ron M. Vachris",
+        "published_at": "2025-12-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "Ron M. Vachris has been a director of the Company since February 2022, and Chief Executive Officer and President since January 2024. Mr. Vachris previously served as President and Chief Operating Officer from February 2022 to January 2024.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000159/cost-20251204.htm",
+        "title": "Costco Wholesale Corporation 2026 Proxy Statement (DEF 14A), director nominee Ron M. Vachris",
+        "published_at": "2025-12-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "He spent the previous 28 years in various management positions in warehouse operations.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000047/costex9918-k101823.htm",
+        "title": "Costco Wholesale Corporation Announces Craig Jelinek Will Step Down as CEO, Ron Vachris Elected as New CEO (Form 8-K Exhibit 99.1)",
+        "published_at": "2023-10-18",
+        "checked_at": "2026-10-21",
+        "excerpt": "The Board of Directors has elected Ron Vachris, President and Chief Operating Officer since February 2022, as President and Chief Executive Officer, effective January 1, 2024.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000047/costex9918-k101823.htm",
+        "title": "Costco Wholesale Corporation Announces Craig Jelinek Will Step Down as CEO, Ron Vachris Elected as New CEO (Form 8-K Exhibit 99.1)",
+        "published_at": "2023-10-18",
+        "checked_at": "2026-10-21",
+        "excerpt": "Ron is a Costco veteran, with over forty years of service to the Company, starting as a forklift driver, and subsequently serving in every major role related to Costco's business operations and merchandising activities.",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000119312522027035/d497640d8k.htm",
+        "title": "Costco Wholesale Corporation Form 8-K (Item 5.02), February 3, 2022",
+        "published_at": "2022-02-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "Effective February 2, 2022, the Board of Directors appointed Ron Vachris as President and Chief Operating Officer of the Company.",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000119312522027035/d497640d8k.htm",
+        "title": "Costco Wholesale Corporation Form 8-K (Item 5.02), February 3, 2022",
+        "published_at": "2022-02-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Vachris, age 56, previously served as Executive Vice President, Chief Operating Officer, Merchandising, a position he held since 2016.",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000119312522027035/d497640d8k.htm",
+        "title": "Costco Wholesale Corporation Form 8-K (Item 5.02), February 3, 2022",
+        "published_at": "2022-02-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "Concurrently with his appointment as President and Chief Operating Officer of the Company, the Board of Directors elected Mr. Vachris as a director to fill a newly-created vacancy on the Board.",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.seattleu.edu/newsroom/2025/costco-president-and-ceo-coming-to-su.php",
+        "title": "Costco President and CEO Coming to SU (Seattle University News & Stories)",
+        "published_at": "2025-02-12",
+        "checked_at": "2026-10-22",
+        "excerpt": "In 1982, Vachris started as a forklift driver at Price Club, which merged with Costco in 1993, and worked his way up through the company over the years becoming CEO in January 2024.",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.seattleu.edu/newsroom/2025/costco-president-and-ceo-coming-to-su.php",
+        "title": "Costco President and CEO Coming to SU (Seattle University News & Stories)",
+        "published_at": "2025-02-12",
+        "checked_at": "2026-10-22",
+        "excerpt": "Along the way he held several management positions including warehouse manager in both Colorado and Arizona. He was promoted to Vice President of Operations in the San Diego Region in 1999, before moving to Washington state in 2010 and being promoted to Senior Vice President of the Northwest Region.",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://www.seattleu.edu/newsroom/2025/costco-president-and-ceo-coming-to-su.php",
+        "title": "Costco President and CEO Coming to SU (Seattle University News & Stories)",
+        "published_at": "2025-02-12",
+        "checked_at": "2026-10-22",
+        "excerpt": "Shortly after, then-CEO Craig Jelinek asked Vachris to oversee buying for Costco and he became the Executive Vice President of merchandising in July 2016.",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://www.seattleu.edu/newsroom/2025/costco-president-and-ceo-coming-to-su.php",
+        "title": "Costco President and CEO Coming to SU (Seattle University News & Stories)",
+        "published_at": "2025-02-12",
+        "checked_at": "2026-10-22",
+        "excerpt": "In August 2015, Jeff Brotman, who started Costco Wholesale with Jim Sinegal, asked Vachris to become the vice president of real estate development, giving him experience in working on international and domestic new markets and expansion.",
+        "tier": 1
+      },
+      {
+        "id": "s15",
+        "url": "https://fortune.com/article/costco-ceo-ron-vachris-career-climb-forklift-driver-to-c-suite-father-advice-dont-chase-titles-or-job-hop-stay-focused/",
+        "title": "Costco CEO Ron Vachris rose from forklift driver to the C-suite without a college degree: ‘Don’t chase a title’ is the career advice that got him there (Fortune)",
+        "published_at": "2026-10-18",
+        "checked_at": "2026-10-22",
+        "excerpt": "After graduating from high school in the early 1980s, he enrolled at Glendale Community College in Arizona, studying business while working part-time as a forklift driver for Price Club, the warehouse retailer that would merge with Costco in 1993. Before long, he was promoted to assistant warehouse manager—and never looked back on finishing a degree.",
+        "tier": 2
+      },
+      {
+        "id": "s16",
+        "url": "https://fortune.com/2025/06/04/costco-ceo-ron-vachris-fortune-500-success/",
+        "title": "Costco’s CEO started his career as a forklift driver. Now he’s leading a $254 billion giant rising up the Fortune 500 (Fortune)",
+        "published_at": "2025-06-04",
+        "checked_at": "2026-10-22",
+        "excerpt": "Vachris began his career as a forklift driver in his teens for Price Club, which Costco merged with in 1993.",
+        "tier": 2
+      },
+      {
+        "id": "s17",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000159/cost-20251204.htm",
+        "title": "Costco Wholesale Corporation 2026 Proxy Statement (DEF 14A), director nominee Hamilton E. James",
+        "published_at": "2025-12-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "Hamilton E. James has been a director of the Company since August 1988. He was the Lead Independent Director from 2005 until becoming the non-executive Chairman of the Board in August 2017.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": "委托书称 Mr. Vachris",
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1965-06",
+        "source_ids": [
+          "s1",
+          "s4",
+          "s9"
+        ],
+        "inferred": true,
+        "basis": "按年龄陈述推：2026-10-07 文件称 61 岁；2025-12-04 文件称 60 岁；2022-02-03 文件称 56 岁；出生在 1965-02-04 至 1965-10-07 之间，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-10-07",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "罗恩·瓦克里斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": {
+        "value": "格伦代尔社区学院",
+        "source_ids": [
+          "s15"
+        ],
+        "inferred": false,
+        "basis": "《财富》：在该校修读商科期间到 Price Club 兼职，此后未再完成学业",
+        "inference": null
+      },
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "开市客公司",
+        "role": "总裁、首席执行官、董事",
+        "start": {
+          "value": "2024-01",
+          "source_ids": [
+            "s6",
+            "s4",
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s4",
+          "s1",
+          "s3",
+          "s10"
+        ],
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1982-07",
+          "source_ids": [
+            "s11",
+            "s15",
+            "s16",
+            "s12",
+            "s7",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "与首段参加工作一致（参加工作月份无记载，取 7 月）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1982",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1999",
+          "source_ids": [
+            "s11",
+            "s15",
+            "s16",
+            "s12",
+            "s7",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Price Club 公司（1993年与开市客公司合并）",
+        "role": "叉车司机、仓库经理助理、仓库经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11",
+          "s15",
+          "s16",
+          "s12",
+          "s7",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "叉车司机",
+          "仓库经理助理",
+          "仓库经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1999",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "开市客公司",
+        "role": "圣迭戈地区运营副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "圣迭戈地区运营副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-07",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "开市客公司",
+        "role": "高级副总裁、西北区总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4",
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁",
+          "西北区总经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-08",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016-06",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "开市客公司",
+        "role": "高级副总裁（房地产开发）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4",
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁（房地产开发）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-06",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s9",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-01",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s9",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "开市客公司",
+        "role": "执行副总裁、商品采购首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4",
+          "s9",
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "执行副总裁",
+          "商品采购首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-02",
+          "source_ids": [
+            "s8",
+            "s10",
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2023-12",
+          "source_ids": [
+            "s8",
+            "s10",
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "开市客公司",
+        "role": "总裁、首席运营官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8",
+          "s10",
+          "s1",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席运营官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024-01",
+          "source_ids": [
+            "s6",
+            "s4",
+            "s1",
+            "s3",
+            "s17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "开市客公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s4",
+          "s1",
+          "s3",
+          "s17"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "开市客公司",
+    "conflicts": [
+      {
+        "field": "careers[执行副总裁].start",
+        "alternatives": [
+          {
+            "value": "2016-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2016-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2016-06",
+        "reason": "10-K、委托书写 June 2016；西雅图大学官网写 July 2016。草稿按SEC文件取2016-06"
+      },
+      {
+        "field": "careers[房地产开发].roles",
+        "alternatives": [
+          {
+            "value": "高级副总裁（房地产开发）",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "副总裁（房地产开发）",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "高级副总裁（房地产开发）",
+        "reason": "10-K、委托书写 Senior Vice President, Real Estate Development；西雅图大学官网写 vice president of real estate development。草稿按SEC文件"
+      },
+      {
+        "field": "careers[总裁兼首席运营官].end",
+        "alternatives": [
+          {
+            "value": "2023-12",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2024-01",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2023-12",
+        "reason": "10-K写任至2023年12月，委托书写至2024年1月；新闻稿称首席执行官任命自2024年1月1日起生效。草稿取2023-12"
+      }
+    ],
+    "unknowns": [
+      "出生年月：未检得一级或二级来源（维基百科称1965年，未采用）；只有年龄陈述，按各文件日期推得生于1965年2月4日至10月7日之间",
+      "出生地：未检得一级或二级来源（维基百科称纽约州斯塔滕岛；地方商业杂志 South Sound Business 称其少年时随父迁居亚利桑那州，均未采用）",
+      "国籍：未检得出生地或官方国籍表述",
+      "格伦代尔社区学院就读起止年份：只知1980年代初高中毕业后入学，未完成学业",
+      "由兼职转为全职的时间、参加工作月份：未检得",
+      "仓库经理助理、仓库经理（科罗拉多州、亚利桑那州）等职务的起止时间：未检得，已与叉车司机合为一条（1982—1999）",
+      "1999年起任圣迭戈地区运营副总裁的确切职务全称与月份：只检得西雅图大学官网表述",
+      "参加工作：1982 年起在 Price Club 是边读格伦代尔社区学院边兼职开叉车（《财富》），转为全职的年份未检得，参加工作留空"
+    ],
+    "excluded": [
+      "格伦代尔社区学院商科学习：起止时间无来源，履历不单列，学位见首段"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Ron Vachris；开市客公司；总裁、首席执行官、董事",
+    "review_items": []
+  }
+}

@@ -1,0 +1,858 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-s000033",
+      "line": "cadre",
+      "subject_id": "s000033",
+      "title": "伯尼·桑德斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "sen 2007-01-04~ VT Independent",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: M",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Bernard Sanders was born on September 8, 1941, in the New York City borough of Brooklyn.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Bernard Sanders was born on September 8, 1941, in the New York City borough of Brooklyn.",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born...in the New York City borough of Brooklyn",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Ranking Member of the Senate Health, Education, Labor and Pensions Committee (assumed January 3, 2025)",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Sanders studied at Brooklyn College for a year in 1959-1960 before transferring",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "transferring to the University of Chicago and graduating with a Bachelor of Arts degree in political science in 1964",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "worked various jobs, including Head Start teacher, psychiatric aide, and carpenter",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "He ran as the Liberty Union candidate for governor of Vermont in 1972 and 1976.",
+          "tier": 3
+        },
+        {
+          "id": "s11",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "After resigning from the Liberty Union Party in 1977, Sanders worked as a writer and as the director of the nonprofit American People's Historical Society.",
+          "tier": 3
+        },
+        {
+          "id": "s12",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Mayor of Burlington, Vermont (1981-1989)",
+          "tier": 3
+        },
+        {
+          "id": "s13",
+          "url": "https://www.fec.gov/data/candidate/H8VT01016/",
+          "title": "www.fec.gov",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "FEC House candidate H8VT01016 (VT at-large)",
+          "tier": 1
+        },
+        {
+          "id": "s14",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. House of Representatives (1991-2007), VT at-large, Independent",
+          "tier": 1
+        },
+        {
+          "id": "s15",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "senior United States senator from Vermont, a seat he has held since 2007",
+          "tier": 1
+        },
+        {
+          "id": "s16",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "senior United States senator from Vermont, a seat he has held since 2007",
+          "tier": 3
+        },
+        {
+          "id": "s17",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "title": "维基百科：Bernie_Sanders",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "After graduating from college, Sanders returned to New York City, where he worked various jobs, including Head Start teacher, psychiatric aide, and carpenter.",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "senate",
+        "state:VT"
+      ],
+      "person": {
+        "name": {
+          "value": "伯尼·桑德斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1941-09-08",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "纽约州纽约市布鲁克林区",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1964",
+          "source_ids": [
+            "s17"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：本科毕业后从事木工、启蒙教育教师、作家等职业；底稿备注：规则①：1964年本科毕业衔接首份职业，取毕业次月6月",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1964",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "芝加哥大学政治学文学学士学位",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "无党派人士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（佛蒙特州）",
+          "role": "",
+          "start": {
+            "value": "2007-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工和养老金委员会",
+          "role": "资深成员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "资深成员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1959",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1960",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "布鲁克林学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1960",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1964",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "芝加哥大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1964",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1971",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "（自由职业）",
+          "role": "作家、木工",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "作家",
+            "木工"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1971",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1977",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佛蒙特州自由联盟党",
+          "role": "候选人、政治组织者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "候选人",
+            "政治组织者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1977",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1981",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国人民历史学会",
+          "role": "主任、作家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "主任",
+            "作家"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1981",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1989",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佛蒙特州伯灵顿市",
+          "role": "市长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "市长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1990",
+            "source_ids": [
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1991",
+            "source_ids": [
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "伯尼·桑德斯国会竞选委员会",
+          "role": "无党籍联邦众议员候选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s13"
+          ],
+          "ongoing": false,
+          "roles": [
+            "无党籍联邦众议员候选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1991",
+            "source_ids": [
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（佛蒙特州单一选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s14"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（佛蒙特州单一选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s15",
+              "s16"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（佛蒙特州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s15",
+            "s16"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（佛蒙特州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2013",
+                "source_ids": [
+                  "s15",
+                  "s16"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2015",
+                "source_ids": [
+                  "s15",
+                  "s16"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国参议院退伍军人事务委员会主席",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s15",
+                "s16"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2015",
+                "source_ids": [
+                  "s15",
+                  "s16"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2016",
+                "source_ids": [
+                  "s15",
+                  "s16"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "伯尼·桑德斯总统竞选委员会总统参选人（民主党党内初选）",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s15",
+                "s16"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2019",
+                "source_ids": [
+                  "s15",
+                  "s16"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2020",
+                "source_ids": [
+                  "s15",
+                  "s16"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "伯尼·桑德斯总统竞选委员会总统参选人（民主党党内初选）",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s15",
+                "s16"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2021",
+                "source_ids": [
+                  "s15",
+                  "s16"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2023",
+                "source_ids": [
+                  "s15",
+                  "s16"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国参议院预算委员会主席",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s15",
+                "s16"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2023",
+                "source_ids": [
+                  "s15",
+                  "s16"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2025",
+                "source_ids": [
+                  "s15",
+                  "s16"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国参议院卫生、教育、劳工和养老金委员会主席",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s15",
+                "s16"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [],
+      "unknowns": [
+        "底稿缺项：1989-1990离任市长后客座讲师/竞选活动（年份模式可容）",
+        "底稿缺项：早年多种职业的精确起止（按稳定身份合并）",
+        "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+      ],
+      "excluded": [
+        "参加工作月份「1964年6月」：底稿推定（规则①：1964年本科毕业衔接首份职业，取毕业次月6月），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

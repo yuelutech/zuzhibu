@@ -1,0 +1,82 @@
+{
+  "id": "2026-10-07-rohit-prasad-appoint",
+  "date": "2026-10-07",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "rohit-prasad",
+  "person": {
+    "name_zh": "罗希特·普拉萨德",
+    "name_en": "Rohit Prasad",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-10-06",
+  "effective_at": "2026-10-07",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "波士顿动力公司",
+      "role": "首席执行官",
+      "organization_en": "Boston Dynamics",
+      "role_en": "Chief Executive Officer",
+      "start": "2026-10-07",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "boston-prasad"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "罗希特·普拉萨德出任波士顿动力公司首席执行官",
+  "summary": "波士顿动力公司10月6日宣布任命普拉萨德为首席执行官，10月7日生效。其加入董事会仍待批准。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "boston-prasad",
+      "url": "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/",
+      "title": "Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer",
+      "publisher": "Boston Dynamics",
+      "published_at": "2026-10-06",
+      "excerpt": "appointment of Rohit Prasad as Chief Executive Officer (CEO), effective October 7, 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094711",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（boston-prasad：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-oct-rohit-prasad",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 rohit-prasad（库里没有此人）",
+      "现任职务新增：波士顿动力公司首席执行官",
+      "履历新增：2026-10 波士顿动力公司首席执行官",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "rohit-prasad",
+    "reason": "主要职务“波士顿动力公司 首席执行官”：企业职务，原属二局"
+  }
+}

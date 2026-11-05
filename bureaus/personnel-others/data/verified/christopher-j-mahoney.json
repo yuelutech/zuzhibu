@@ -1,0 +1,321 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-christopher-j-mahoney",
+      "line": "cadre",
+      "subject_id": "christopher-j-mahoney",
+      "title": "克里斯托弗·马奥尼简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.dvidshub.net/feature/VCJCS13",
+          "title": "Vice Chairman of the Joint Chiefs of Staff, Gen. Christopher J. Mahoney",
+          "excerpt": "Marine Corps General Mahoney was sworn in as the 13th Vice Chairman of the Joint Chiefs of Staff on October 1, 2025.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://docs.house.gov/meetings/AS/AS03/20250506/118206/HHRG-119-AS03-20250506-SD003.pdf",
+          "title": "General Christopher J. Mahoney — official Marine Corps biography",
+          "excerpt": "General Mahoney was sworn in as the 37th Assistant Commandant of the Marine Corps on November 3, 2023.",
+          "published_at": "2025-05-06",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "克里斯托弗·马奥尼",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国籍",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1965-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "出生年月未公布；本科毕业年减22，月份取7月。",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "1987",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1987-06",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "来源毕业月为1987年6月，按军校及军官培养毕业授衔规则记录入伍月。",
+          "inference": {
+            "rule": "commission_month",
+            "from_date": "1987-06",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "堪培拉大学、美国空军大学",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "双硕士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": {
+          "value": "海军陆战队上将",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国参谋长联席会议",
+          "role": "副主席",
+          "start": {
+            "value": "2025-10-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1983-09",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "按毕业年减四年及美国学年9月推算本科入学。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1987",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1987-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "圣十字学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1987-06",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "来源毕业月为1987年6月，按军校及军官培养毕业授衔规则记录入伍月。",
+            "inference": {
+              "rule": "commission_month",
+              "from_date": "1987-06",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "美国海军陆战队",
+          "role": "军官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-11-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-10",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "按2025年10月1日转任参联会副主席的相邻任职记录衔接。",
+            "inference": {
+              "rule": "adjacent_entry",
+              "from_date": "2025-10-01",
+              "duration_years": null
+            }
+          },
+          "organization": "美国海军陆战队",
+          "role": "副司令",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-10-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国参谋长联席会议",
+          "role": "副主席",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "出生年月按本科毕业年推算。",
+        "官方简历列战斗攻击机中队、第3航空联队等指挥职务及规划资源副司令经历，均缺交接日期；1987年至2023年历次具体任期未填。",
+        "硕士专业、毕业年月未载；本科专业、学位类别未载。",
+        "副司令结束月份按新职到任月份衔接，精确离任日未取得。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": null,
+      "review_items": [
+        "表外中文名待复核。"
+      ]
+    }
+  ],
+  "source_task": "wuju"
+}

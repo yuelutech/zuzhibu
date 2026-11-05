@@ -1,0 +1,717 @@
+{
+  "id": "tom-emmer",
+  "name_zh": "汤姆·埃默",
+  "name_en": "Tom Emmer",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "E000294"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "tom-emmer.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tom_Emmer_official_portrait_114th_Congress_(cropped_2).jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Congress；https://emmer.house.gov/about/full-biography），File:Tom Emmer official portrait 114th Congress (cropped 2).jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tom_Emmer_official_portrait_114th_Congress_%28cropped_2%29.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-e000294",
+    "line": "cadre",
+    "subject_id": "e000294",
+    "title": "汤姆·埃默简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "House Majority Whip since January 3, 2023",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "House Majority Whip since January 3, 2023",
+        "tier": 3
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Emmer was born in South Bend, Indiana (1961-03-03)",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Emmer was born in South Bend, Indiana (1961-03-03)",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Emmer was born in South Bend, Indiana.",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "House Majority Whip; member of the Financial Services Committee",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Emmer attended Boston College and the University of Alaska Fairbanks, graduating from the latter in 1984 with a Bachelor of Arts in political science",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "In 1988, Emmer received a Juris Doctor from William Mitchell College of Law",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Emmer began his legal career representing cities and counties through the League of Minnesota Cities Insurance Trust",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Member of the Minnesota House of Representatives from the 19B district, In office January 4, 2005 - January 3, 2011; Lost the 2010 Minnesota gubernatorial election to Mark Dayton",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "private practice / political commentary between 2011 and 2015",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office January 3, 2015; House Majority Whip assumed office January 3, 2023",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office January 3, 2015; House Majority Whip assumed office January 3, 2023",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Emmer began his legal career representing cities and counties through the League of Minnesota Cities Insurance Trust.",
+        "tier": 3
+      },
+      {
+        "id": "s16",
+        "url": "https://en.wikipedia.org/wiki/Tom_Emmer",
+        "title": "维基百科：Tom_Emmer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Emmer, the Republican candidate, defeated Democrat Lori M. Schmidt...in the November 2004 general election",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "house",
+      "state:MN"
+    ],
+    "person": {
+      "name": {
+        "value": "汤姆·埃默",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1961-03-03",
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "印第安纳州南本德",
+        "source_ids": [
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1988",
+        "source_ids": [
+          "s15"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：执业律师（代理市县事务）；底稿备注：规则①：1988年法学院毕业衔接执业律师",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1988",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "威廉·米切尔法学院法学博士学位",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2004-11",
+        "source_ids": [
+          "s16"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次以共和党身份当选明尼苏达州众议员（2004年11月普选）；来源：https://en.wikipedia.org/wiki/Tom_Emmer；底稿备注：维基明示2004年11月普选当选；Codex取9月初选；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2004-11",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（明尼苏达州第6选区）",
+        "role": "",
+        "start": {
+          "value": "2023-01",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国众议院多数党党鞭",
+        "role": "",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院金融服务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s7"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1980",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1984倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1984",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1984",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "波士顿学院、阿拉斯加大学费尔班克斯分校",
+        "role": null,
+        "program": "政治学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1985",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1988倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1988",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1988",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "威廉·米切尔法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1988",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2004",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "（律师执业）",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "明尼苏达州议会众议院",
+        "role": "明尼苏达州众议员（第19B选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "明尼苏达州众议员（第19B选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2010",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2010",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "共和党明尼苏达州州长候选人",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "（律师执业）",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "s13",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（明尼苏达州第6选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13",
+          "s14"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦众议员（明尼苏达州第6选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2019",
+              "source_ids": [
+                "s13",
+                "s14"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2023",
+              "source_ids": [
+                "s13",
+                "s14"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "全国共和党国会委员会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s13",
+              "s14"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2023",
+              "source_ids": [
+                "s13",
+                "s14"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国众议院多数党党鞭",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s13",
+              "s14"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：本科/法学院入学年（按学制倒推）",
+      "底稿缺项：1988-2004律师期具体雇主细分",
+      "底稿缺项：众议院 PTR 明细（须人工到书记官入口核取）"
+    ],
+    "excluded": [
+      "参加工作月份「1988年6月」：底稿推定（规则①：1988年法学院毕业衔接执业律师），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

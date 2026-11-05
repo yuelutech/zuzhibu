@@ -1,0 +1,76 @@
+{
+  "id": "2026-09-28-christian-ehrhardt-nominate",
+  "date": "2026-09-28",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "christian-ehrhardt",
+  "person": {
+    "name_zh": "克里斯蒂安·埃尔哈特",
+    "name_en": "Christian Ehrhardt",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-09-28",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国政府",
+      "role": "驻喀麦隆特命全权大使",
+      "organization_en": "United States of America",
+      "role_en": "Ambassador Extraordinary and Plenipotentiary to the Republic of Cameroon",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "克里斯蒂安·埃尔哈特获提名出任美国驻喀麦隆大使",
+  "summary": "白宫9月28日将提名送交参议院。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "美国白宫",
+      "published_at": "2026-09-28",
+      "excerpt": "Christian Ehrhardt, of New York,",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 christian-ehrhardt（库里没有此人）",
+      "现任职务新增：美国政府驻喀麦隆特命全权大使",
+      "履历新增：2026-09 美国政府驻喀麦隆特命全权大使",
+      "所属局：按提名职务定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "christian-ehrhardt"
+  }
+}

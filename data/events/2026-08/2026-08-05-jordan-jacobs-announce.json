@@ -1,0 +1,95 @@
+{
+  "id": "2026-08-05-jordan-jacobs-announce",
+  "date": "2026-08-05",
+  "kind": "announce",
+  "kind_label": "宣布",
+  "person_id": "jordan-jacobs",
+  "person": {
+    "name_zh": "乔丹·雅各布斯",
+    "name_en": "Jordan Jacobs",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-05",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "探索循环公司",
+      "role": "董事",
+      "organization_en": "Discovery Loop",
+      "role_en": "Board member",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "jacobs-wired"
+      ]
+    }
+  ],
+  "other_current_roles": [
+    {
+      "organization": "Radical Ventures",
+      "role": "管理合伙人",
+      "organization_en": "Radical Ventures",
+      "role_en": "Managing Partner",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "jacobs-wired"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "乔丹·雅各布斯将任探索循环公司董事",
+  "summary": "8月5日的报道宣布，Radical Ventures管理合伙人乔丹·雅各布斯将加入探索循环公司董事会；具体生效日未公布。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "jacobs-wired",
+      "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+      "publisher": "WIRED",
+      "published_at": "2026-08-05",
+      "excerpt": "Radical managing partner Jordan Jacobs, who will join the startup’s board.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094711",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（jacobs-wired：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-aug-jordan-jacobs",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 jordan-jacobs（库里没有此人）",
+      "现任职务新增：探索循环公司董事",
+      "履历新增：2026-08 探索循环公司董事",
+      "所属局：按宣布职务定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "jordan-jacobs"
+  }
+}

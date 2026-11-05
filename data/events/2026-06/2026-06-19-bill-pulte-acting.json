@@ -1,0 +1,124 @@
+{
+  "id": "2026-06-19-bill-pulte-acting",
+  "date": "2026-06-19",
+  "kind": "acting",
+  "kind_label": "代理",
+  "person_id": "bill-pulte",
+  "person": {
+    "name_zh": "比尔·普尔特",
+    "name_en": "William J. Pulte",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-06-02",
+  "effective_at": "2026-06-19",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国国家情报总监办公室",
+      "role": "代理国家情报总监",
+      "organization_en": "Office of the Director of National Intelligence",
+      "role_en": "Acting Director of National Intelligence",
+      "start": "2026-06-19",
+      "end": "2026-08-03",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "s1",
+        "c1",
+        "c2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "普尔特获指定代理国家情报总监",
+  "summary": "特朗普于2026年6月2日宣布指定普尔特代理国家情报总监，白宫6月4日公告确认任命。普尔特6月19日接任，同时保留FHFA局长职务；8月3日向克莱顿交接。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/",
+      "title": "Strong Support for President Trump’s Appointment of William J. Pulte as Acting Director of National Intelligence",
+      "publisher": "The White House",
+      "published_at": "2026-06-04",
+      "excerpt": "appointment of William J. Pulte to serve as Acting Director of National Intelligence",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "s2",
+      "url": "https://www.reed.senate.gov/news/releases/reed-trumps-cynical-pick-for-acting-top-spy-chief-is-dangerously-unqualified",
+      "title": "Reed: Trump’s Cynical Pick for Acting Top Spy Chief is Dangerously Unqualified",
+      "publisher": "U.S. Senator Jack Reed",
+      "published_at": "2026-06-02",
+      "excerpt": "Today, after President Donald Trump tapped Bill Pulte",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "c1",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence",
+      "title": "Bill Pulte assumes role of US acting director of national intelligence",
+      "publisher": "",
+      "published_at": "2026-06-19",
+      "excerpt": "Bill Pulte, the Federal Housing Finance Agency director, became the acting director of national intelligence (DNI) on Friday",
+      "supports": [
+        "effective_at",
+        "new_roles[0].start"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true,
+      "note": "报道发于 2026 年 6 月 19 日（周五）"
+    },
+    {
+      "id": "c2",
+      "url": "https://www.odni.gov/14064/pr-12-26/",
+      "title": "Jay Clayton Sworn In As Director Of National Intelligence",
+      "publisher": "",
+      "published_at": "2026-08-03",
+      "excerpt": "Today, Jay Clayton was sworn in as the nation’s ninth Director of National Intelligence",
+      "supports": [
+        "new_roles[0].end"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": null,
+      "note": "克莱顿当日宣誓就任国家情报总监，普尔特代理随之结束"
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-095635",
+    "corrections": [
+      "effective_at → 2026-06-19（来源 c1）",
+      "new_roles[0].start → 2026-06-19（来源 c1）",
+      "new_roles[0].end → 2026-08-03（来源 c2）",
+      "summary_zh → 特朗普于2026年6月2日宣布指定普尔特代理国家情报总监，白宫6月4日公告确认任命。普尔特6月19日接任，同时保留FHFA局长职务；8月3日向克莱顿交接。"
+    ],
+    "reasons": [],
+    "precheck": [
+      "announced_at：2026-06-02 不在核实来源的网页上"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "“美国国家情报总监办公室代理国家情报总监”：履历里这段任职已结束（至 2026-08-03），不再列为现任"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "bill-pulte",
+    "reason": "主要职务“美国联邦住房金融局 局长”：总统、白宫、内阁与独立机构"
+  }
+}

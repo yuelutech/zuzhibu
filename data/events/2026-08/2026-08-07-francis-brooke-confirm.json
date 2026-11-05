@@ -1,0 +1,89 @@
+{
+  "id": "2026-08-07-francis-brooke-confirm",
+  "date": "2026-08-07",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "francis-brooke",
+  "person": {
+    "name_zh": "弗朗西斯·布鲁克",
+    "name_en": "Francis Brooke",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国财政部",
+      "role": "常务副部长",
+      "organization_en": "United States Department of the Treasury",
+      "role_en": "Deputy Secretary of the Treasury",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "美国参议院确认弗朗西斯·布鲁克出任财政部副部长",
+  "summary": "参议院8月7日确认布鲁克的财政部副部长提名。财政部现任官员页已列明其担任该职，具体就职日期未见于已打开的原文。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/LIS/floor_activity/08_07_2026_Senate_Floor.htm",
+      "title": "Senate Floor Activity — Friday, August 7, 2026",
+      "publisher": "美国参议院",
+      "published_at": "2026-08-07",
+      "excerpt": "Francis Brooke, of Virginia,",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    },
+    {
+      "id": "e2",
+      "url": "https://home.treasury.gov/about/general-information/officials/francis-brooke",
+      "title": "Francis Brooke",
+      "publisher": "美国财政部",
+      "published_at": null,
+      "excerpt": "He was confirmed by the United States Senate in August 2026.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [
+      "new_roles[0].role → 常务副部长（Deputy Secretary of the Treasury，来源 e2；译名表 v1.4 职务表：部内第二把手写“常务副部长”；2026-10-22 维护者定）"
+    ],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 francis-brooke（库里没有此人）",
+      "现任职务新增：美国财政部副部长",
+      "履历新增：2026-08 美国财政部副部长",
+      "所属局：按确认职务定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "francis-brooke"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "stephen-cohen-20261018",
+      "line": "cadre",
+      "subject_id": "stephen-cohen",
+      "title": "斯蒂芬·科恩简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://investors.palantir.com/governance/executive-management",
+          "title": "Palantir Executive Management",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Stephen Cohen.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm",
+          "title": "Palantir 2026 Proxy Statement — Stephen Cohen",
+          "published_at": "2026-04-23",
+          "checked_at": "2026-10-18",
+          "excerpt": "Stephen Cohen 43.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://stvp.stanford.edu/people/stephen-cohen",
+          "title": "Stephen Cohen — Stanford Technology Ventures Program",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Prior to joining Palantir, Stephen worked at Clarium Capital Management.",
+          "tier": 1
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "斯蒂芬·科恩",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1982-10",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2026-04-06为43岁，出生区间1982-04-07至1983-04-06，中间月份1982-10。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2026-04-06",
+            "duration_years": 43
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "斯坦福大学计算机科学理学学士学位",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "学士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "帕兰蒂尔公司",
+          "role": "联合创始人、总裁、秘书、董事",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "联合创始人",
+            "总裁",
+            "秘书",
+            "董事"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "帕兰蒂尔公司",
+          "role": "董事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "董事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "帕兰蒂尔公司",
+      "conflicts": [],
+      "unknowns": [
+        "Clarium Capital Management任职时间和具体岗位、本科学习年月未找到。",
+        "总裁、秘书职务到任时间未找到；未把董事任期开始日期当作主职起点。",
+        "国籍：已查所列来源，未找到可采用依据。",
+        "参加工作时间：已查所列来源，未找到可采用依据。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": [
+        "斯蒂芬·科恩为译音拟译，待审。",
+        "有来源的无起始日期经历：斯坦福大学；计算机科学；终点：未找到；来源：s3",
+        "来源s1阅读记录：联合创始人、总裁、秘书、董事；斯坦福计算机科学理学学士。",
+        "来源s2阅读记录：2005年起担任董事。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

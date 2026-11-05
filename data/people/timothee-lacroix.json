@@ -1,0 +1,317 @@
+{
+  "id": "timothee-lacroix",
+  "name_zh": "蒂莫泰·拉克鲁瓦",
+  "name_en": "Timothee Lacroix",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“米斯特拉尔人工智能公司 Co-founder and CTO Mistral AI Co-founder and CTO”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/timothee-lacroix.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://mistral.ai/_astro/timothee-lacroix_1JAtuG.webp?dpl=6ad1d7b6946342e26a4d2b4f",
+    "source": "https://mistral.ai/about/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Mistral AI",
+      "role_en": "Co-founder and CTO"
+    }
+  ],
+  "notes": [
+    "since refers to the co-founder affiliation."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“米斯特拉尔人工智能公司 Co-founder and CTO Mistral AI Co-founder and CTO”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "timothee-lacroix-20261018",
+    "line": "cadre",
+    "subject_id": "timothee-lacroix",
+    "title": "蒂莫泰·拉克鲁瓦简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://mistral.ai/about/",
+        "title": "About Mistral — founders",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Timothee Lacroix; Co-founder and CTO.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://ainowsummit.com/speakers/timothee-lacroix/",
+        "title": "AI Now Summit — Timothée Lacroix",
+        "published_at": "2026-05-28",
+        "checked_at": "2026-10-18",
+        "excerpt": "He began his career as an engineer at Facebook AI Research in 2015 in New York.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.pappers.fr/entreprise/mistral-ai-952418325/documents/MISTRAL%20AI%20-%20Copie%20des%20statuts%2019-11-2025.pdf",
+        "title": "Mistral AI — company articles (copy of filed document)",
+        "published_at": "2025-11-19",
+        "checked_at": "2026-10-18",
+        "excerpt": "Timothée Lacroix, de nationalité française, né le 7 juillet 1991, à Epinal (88).",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "蒂莫泰·拉克鲁瓦",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "法国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1991-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2015-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "官方简历明确2015年开始工程师生涯；月份取7月。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "2015",
+          "duration_years": null
+        }
+      },
+      "education": null,
+      "degree": {
+        "value": "巴黎萨克雷大学数学、视觉与学习硕士学位",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "米斯特拉尔人工智能公司",
+        "role": "联合创始人、首席技术官",
+        "start": {
+          "value": "2023",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "联合创始人",
+          "首席技术官"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "公司活动官方简历载2015年开始工程师生涯；未给月份，按规则取7月。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2015",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2021",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Facebook 公司",
+        "role": "人工智能研究工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "人工智能研究工程师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2023",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "元宇宙平台公司（Meta）",
+        "role": "人工智能研究工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "人工智能研究工程师"
+        ],
+        "role_category": null,
+        "role_basis": "同一Facebook/Meta任职段按公司2021年改名分段，不表示新任命。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "米斯特拉尔人工智能公司",
+        "role": "联合创始人、首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联合创始人",
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "米斯特拉尔人工智能公司",
+    "conflicts": [],
+    "unknowns": [
+      "巴黎高等师范学院计算机科学学习2015年毕业，入学年和学位名称未披露。",
+      "硕士毕业年月未找到。",
+      "官方介绍称2016—2019年与国立路桥学校合作完成论文，未明确授予博士学位，最高学位先取已明确取得的硕士。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": [
+      "来源s3为公司签署并公开提交的章程副本，经企业登记文件平台取得。",
+      "中文名为拟译，待译名表审核。"
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "id": "beau-harrison",
+  "name_zh": "博·哈里森",
+  "name_en": "Beau Harrison",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Assistant to the President and Deputy Chief of Staff for Operations The White House Assistant to the President and Deputy Chief of Staff for Operations”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/beau-harrison.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "The White House",
+      "role_en": "Assistant to the President and Deputy Chief of Staff for Operations"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Assistant to the President and Deputy Chief of Staff for Operations The White House Assistant to the President and Deputy Chief of Staff for Operations”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/beau-harrison.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-beau-harrison",
+    "line": "cadre",
+    "subject_id": "beau-harrison",
+    "title": "博·哈里森简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf",
+        "title": "2026 Annual Report to Congress on White House Staff",
+        "published_at": "2026-07-01",
+        "checked_at": "2026-10-18",
+        "excerpt": "HARRISON, WILLIAM B. ... ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF FOR OPERATIONS",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://en.wikipedia.org/wiki/Beau_Harrison",
+        "title": "Beau Harrison",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "William Blalock Harrison ... January 20, 1993; ... deputy assistant ... operations",
+        "tier": 3
+      },
+      {
+        "id": "s3",
+        "url": "https://trumpwhitehouse.archives.gov/presidential-actions/president-donald-j-trump-announces-appointments-executive-office-president-4/",
+        "title": "President Announces Appointments for the Executive Office",
+        "published_at": "2019-02-02",
+        "checked_at": "2026-10-18",
+        "excerpt": "William B. Harrison ... Special Assistant to the President for Operations",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://d3n8a8pro7vhmx.cloudfront.net/mdrepublicans/pages/44/attachments/original/1445973539/2015_Fall_Convention_Packet.pdf?1445973539=",
+        "title": "Maryland Republican Party 2015 Fall Convention",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "GOP Data Center - Beau Harrison, RNC – Point Patience",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "博·哈里森",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "白宫",
+        "role": "总统助理、运营事务副幕僚长",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [
+          "总统助理、运营事务副幕僚长"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-02",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "白宫",
+        "role": "总统运营事务特别助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总统运营事务特别助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "学历与学位尚无锁定本人身份的合格来源；同名体育名单和医疗从业者资料未采用。",
+      "RNC具体入职日和更早全职经历未查清，参加工作年月按最早可核实年度推算。",
+      "总统运营事务副助理经历有来源，但晋升时间未核准，未强行拆分。",
+      "2022年后Command Group经历仅见人员聚合页，未取得本人或机构资料，不写事实。",
+      "出生地、入党锚点未查清；RNC一般工作人员不直接推断入党时间。",
+      "维基所列出生年月未找到原始出处；出生年月留空。2015年党组织活动资料证明其当时任职，未证明这是第一份全职工作的起始年，参加工作时间留空。",
+      "2021年后特朗普办公室具体任职及2025年副幕僚长到任日未获原始日期记录，不采用维基日期。",
+      "已查事实：美国共和党全国委员会；数据业务工作人员；起始时间未查明；结束时间未查明。来源：s4。缺少时间或机构，暂不编入有日期的履历。",
+      "已查事实：美国白宫；运营事务副幕僚长特别助理；起始时间未查明；结束时间未查明。来源：s3。缺少时间或机构，暂不编入有日期的履历。",
+      "已查事实：美国白宫；总统助理、运营事务副幕僚长；起始时间未查明；结束时间未查明。来源：s1、s2。缺少时间或机构，暂不编入有日期的履历。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Beau Harrison；美国白宫",
+    "review_items": []
+  }
+}

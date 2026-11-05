@@ -1,0 +1,92 @@
+{
+  "id": "2026-10-01-laurence-socha-appoint",
+  "date": "2026-10-01",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "laurence-socha",
+  "person": {
+    "name_zh": "劳伦斯·索查",
+    "name_en": "Laurence Socha",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-10-14",
+  "effective_at": "2026-10",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国驻冈比亚大使馆",
+      "role": "特命全权大使",
+      "organization_en": "U.S. Embassy Banjul",
+      "role_en": "Ambassador",
+      "start": "2026-10",
+      "end": null,
+      "source_ids": [
+        "s2",
+        "s3"
+      ],
+      "sector": "politics",
+      "concurrent": false
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "劳伦斯·索查于2026年10月递交国书，正式出任美国驻冈比亚大使",
+  "summary": "劳伦斯·索查于2026年10月向冈比亚总统巴罗递交国书，正式开始担任美国驻冈比亚大使。两篇报道的发布日期分别为10月14日和15日；Senegambia Times正文未写明递交国书的具体日期，生效日期保留到月。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s2",
+      "url": "https://thepoint.gm/africa/gambia/headlines/u-s-ambassador-socha-presents-credentials-to-barrow",
+      "title": "U.S. Ambassador Socha presents credentials to Barrow",
+      "publisher": "The Point",
+      "published_at": "2026-10-15",
+      "excerpt": "Socha today presented his Letter of Credence",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "s3",
+      "url": "https://senegambiatimes.com/us-ambassador-presents-credentials-to-barrow-signals-oush-for-trade-economic-cooperation/",
+      "title": "US Ambassador presents credentials to Barrow",
+      "publisher": "Senegambia Times",
+      "published_at": "2026-10-14",
+      "excerpt": "presenting his Letter of Credence",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-103425",
+    "corrections": [
+      "summary_zh → 劳伦斯·索查于2026年10月向冈比亚总统巴罗递交国书，正式开始担任美国驻冈比亚大使。两篇报道的发布日期分别为10月14日和15日；Senegambia Times正文未写明递交国书的具体日期，生效日期保留到月。",
+      "new_roles[0].role → 特命全权大使（原写“大使”；同一职务写法与参议院确认一致，2026-10-22 维护者定）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（s2：不是一级来源；s3：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "新任“美国驻冈比亚大使馆大使”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "laurence-socha",
+    "reason": "主要职务“美国驻冈比亚大使馆 大使”：总统、白宫、内阁与独立机构"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "2026-06-01-laurence-socha-nominate",
+  "date": "2026-06-01",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "laurence-socha",
+  "person": {
+    "name_zh": "劳伦斯·索查",
+    "name_en": "Laurence Socha",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-06-01",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国驻冈比亚大使馆",
+      "role": "特命全权大使提名人选",
+      "organization_en": "U.S. Embassy Banjul",
+      "role_en": "Nominee for U.S. Ambassador to The Gambia",
+      "start": null,
+      "end": null,
+      "source_ids": [
+        "s1"
+      ],
+      "sector": "politics",
+      "concurrent": false
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "劳伦斯·索查获提名担任美国驻冈比亚大使",
+  "summary": "劳伦斯·索查获提名担任美国驻冈比亚大使。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/",
+      "title": "Nominations and Withdrawal Sent to the Senate",
+      "publisher": "The White House",
+      "published_at": "2026-06-01",
+      "excerpt": "Laurence Socha, of Illinois, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of The Gambia.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-103425",
+    "corrections": [
+      "new_roles[0].role_en → Nominee for U.S. Ambassador to The Gambia",
+      "new_roles[0].role → 特命全权大使提名人选（原写“大使提名人选”；同一职务写法与参议院确认一致，2026-10-22 维护者定）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "new_roles[0]：“Ambassador-designate”不在核实来源的摘录和网页标题里"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "“美国驻冈比亚大使馆大使”：此人已于 2026-10 在同一机构到任（大使），提名阶段不另写"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "laurence-socha"
+  }
+}

@@ -1,0 +1,55 @@
+# 字体：不进仓库，由使用者本机安装
+*.ttf
+*.TTF
+*.otf
+*.OTF
+*.ttc
+*.TTC
+*.woff
+*.woff2
+
+# 凭据与密钥
+.env
+.env.*
+*.env
+auth.json
+.credentials.json
+*.credentials*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+config.toml
+.codex/
+
+# 公开前移出的目录：本机留着的原料不再进仓库（docs/公开前检查.md 第十二节第 2、3 项）
+bureaus/personnel-congress/import/
+shared/skills/cadre-resume/rules/
+
+# 成品样张与私有资料
+output/
+exports/
+private/
+
+# 安装包构建（tools/installer/build.py）：嵌入版 Python 缓存、待装目录、成品
+build/
+dist/
+
+# 临时文件与缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+*.tmp
+*.log
+~$*
+.~*
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 桌面外壳（desktop/）的依赖：npm ci 装，锁文件 package-lock.json 提交
+node_modules/

@@ -1,0 +1,574 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "cadre-a000370",
+      "line": "cadre",
+      "subject_id": "a000370",
+      "title": "阿尔玛·亚当斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/15032409256",
+          "title": "ADAMS, Alma | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "born in High Point, Guilford County, N.C., May 27, 1946;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/A000370",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Alma S. Adams\nNorth Carolina (NC) – 12th, Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.ncat.edu/vote/aggie-activism.php",
+          "title": "Aggie Activism | North Carolina A&T State University",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "She continued her education at Ohio State University, where she earned a Ph.D. Art Education/Multicultural Education in 1981.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?clear=10&p10_accession_num=osu1487158729330436&session=108485073076803",
+          "title": "OhioLINK ETD: Adams, Alma Shealey",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "1981, Doctor of Philosophy, Ohio State University, Graduate School.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://relations.ncat.edu/pubs/alumnitimes/2018/may24/arw2018.html",
+          "title": "N.C. A&T Alumni Times - May 24",
+          "published_at": "2018-05-24",
+          "checked_at": "2026-10-17",
+          "excerpt": "The golden class of 1968 was chaired by Jessie Barnes",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://crdl.usg.edu/people/adams_alma_shealey_1947",
+          "title": "Adams, Alma Shealey, 1947- - Civil Rights Digital Library",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Alma Adams was born in High Point, North Carolina, in 1947",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://clerk.house.gov/Committees/AG00",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Alma S. Adams, NC",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.fec.gov/data/candidate/H4NC12100/",
+          "title": "ADAMS, ALMA SHEALEY - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Political party: Democratic Party",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:NC"
+      ],
+      "person": {
+        "name": {
+          "value": "阿尔玛·亚当斯",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1946-05-27",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "北卡罗来纳州海波因特",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "俄亥俄州立大学艺术教育与多元文化教育哲学博士学位",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": null
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（北卡罗来纳州第12选区）",
+          "role": "",
+          "start": {
+            "value": "2014-11-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院农业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院教育与劳动力委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1965",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "北卡罗来纳农业技术州立大学 Aggie Activism 页面记载1969年取得理学学士学位；按本科毕业年减4推算：1969－4＝1965。毕业年来源冲突见 conflicts。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1969",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1969",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北卡罗来纳农业技术州立大学",
+          "role": null,
+          "program": "艺术教育",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1972",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "贝内特学院",
+          "role": "教师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "教师"
+          ],
+          "role_category": {
+            "value": "faculty",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "众议院官方简历写 faculty，概括为教师；不据此补写教授职称、系主任或美术馆馆长。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1984",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1986",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "格林斯伯勒市学校董事会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s7"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1987",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1994",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "格林斯伯勒市议会",
+              "role": "议员",
+              "roles": [
+                "议员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s7"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北卡罗来纳州众议院",
+          "role": "州众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014-11-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（北卡罗来纳州第12选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（北卡罗来纳州第12选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers[0].end",
+          "alternatives": [
+            {
+              "value": "1969",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1968",
+              "source_ids": [
+                "s1",
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1969",
+          "reason": "学校现行 Aggie Activism 页面明确记载1969年取得理学学士，按学历优先采用学校官方页面选1969年。众议院现行简历记1968年，学校2018年校友报道也将她列为1968届同学；两种原值并列，交AI政见确认。推算本科入学年随所选毕业年采用1965年。"
+        },
+        {
+          "field": "person.birth_date",
+          "alternatives": [
+            {
+              "value": "1946-05-27",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1947",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1946-05-27",
+          "reason": "采用众议院现行官方人物页的完整出生日期；北卡罗来纳农业技术州立大学页面亦记出生于1946年。Civil Rights Digital Library 转引的旧传记记1947年，保留原值供AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "work_start：查阅众议院官方简历、学校传记及 Civil Rights Digital Library。众议院确认1972年开始在贝内特学院任教，但图书馆传记另记此前在 Palmer Institute 任艺术系主任、教师，未给起止年；第一份全职工作的开始时间未确定，留 null。",
+        "硕士学习起始时间：众议院官方简历及北卡罗来纳农业技术州立大学页面确认1972年取得硕士学位，学校页面写艺术教育理学硕士；没有找到入学日期，不沿用底稿1969年起读的说法，未列独立学习条目。1969—1972年经历仍有日期缺口。",
+        "博士学习起始时间及学习方式：众议院简历、学校传记和 OhioLINK 学位论文记录确认1981年取得博士学位；没有找到入学时间、学习年限或全日制与在职性质的依据，未列学习条目或同期学习括注。",
+        "贝内特学院具体职务：已打开的国会官方简历只明确 faculty 及1972—2012年任职范围；教授、系主任、Steel Hall Art Gallery 馆长各职的起止时间未确定。",
+        "party_joined_at：已检索公开选民登记线索、州民主党党职线索、FEC 候选人和委员会页面、北卡罗来纳州选举委员会历史结果入口及州议会历史资料。未取得第1级登记党籍日期、第2级党组织职务日期或1994年首次州级参选登记的原文证据。FEC 确认联邦竞选委员会2013-06-27登记，但存在更早的1994年州议会任职及党派选举线索；未核实首次州级登记、宣布参选或初选锚点，暂留 null。",
+        "州众议院任职具体月份：已打开的国会和学校官方履历只支持1994—2014年，未取得就任、任命生效及离任月日原文。",
+        "现任委员会职务起始日期：众议院书记官现行个人页及两个委员会名单确认委员身份，未给出个人任命或生效日期，current_roles.start 留 null。",
+        "honorary_degree：已查阅国会人物页和学校传记，本次未取得荣誉学位授予原文，留 null。",
+        "African American Atelier：底稿所列1990年共同创始人条目未取得可用的机构原文及任职起止证据，未列入履历。"
+      ],
+      "excluded": [
+        "底稿『北卡罗来纳农业技术州立大学艺术教育理学硕士学位』作为最高学位：官方履历及学位论文记录确认1981年已取得俄亥俄州立大学博士学位，改列博士。",
+        "底稿『1972—1981年帕尔默学院艺术系主任、教师』：没有起止日期依据，且与众议院官方记载1972年开始在贝内特学院任教不符。",
+        "底稿『1981—1994年贝内特学院教授、斯蒂尔厅美术馆馆长』及『1994—2012年兼任』：原拆分日期无依据，合并采用官方明确的1972—2012年教师任职范围。",
+        "底稿『1978—1981年俄亥俄州立大学在职博士研究生学习』：只有1981年博士学位取得年份获证，1978年入学及在职性质未获证。",
+        "底稿『1969年开始硕士学习』：没有入学依据，不用本科毕业年代替硕士入学年。",
+        "底稿『1972年参加工作』：存在更早的 Palmer Institute 任职线索，其日期未确定，不能将贝内特学院任职开始年确定为首次全职工作开始年。",
+        "底稿『1981年6月参加工作』：没有事实依据，月份为旧规则推定。",
+        "底稿『2025年1月开始担任现选区联邦众议员』：这是本届国会任期起点；同一选区连续任职的官方起点为2014-11-04。",
+        "底稿『1994年4月加入美国民主党』：没有符合规则的原始锚点和月份依据。",
+        "底稿所涉入党时间若改取『2013年6月联邦竞选委员会登记』：晚于更早的州级党派经历线索，本次不据此生成入党日期。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

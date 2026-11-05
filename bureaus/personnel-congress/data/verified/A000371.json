@@ -1,0 +1,748 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "cadre-a000371",
+      "line": "cadre",
+      "subject_id": "a000371",
+      "title": "皮特·阿圭拉简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/15032411662",
+          "title": "AGUILAR, Peter Rey | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "born in Fontana, San Bernardino County, Calif., June 19, 1979; ... B.S., University of Redlands, Redlands, Calif., 2001",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/A000371",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Pete Aguilar ... California (CA) – 33rd, Democrat ... Oath of Office: Jan. 03, 2025 ... Committee on Appropriations",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://aguilar.house.gov/about/",
+          "title": "About – Pete Aguilar",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Pete Aguilar represents the 33rd Congressional District of California. He was most recently re-elected in 2024.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://aguilar.house.gov/committees-and-caucuses/",
+          "title": "Committees and Caucuses – Pete Aguilar",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Representative Aguilar serves as Chair of the House Democratic Caucus ... He serves on the House Appropriations Committee",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2026-02-20/text/CDIR-2026-02-20.txt",
+          "title": "Congressional Directory, 119th Congress — February 20, 2026",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "education: B.S., government and business administration, University of Redlands, Redlands, CA, 2001",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.ballotready.org/people/pete-aguilar",
+          "title": "Pete Aguilar | BallotReady",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Arrowhead Credit Union, Director of Governmental Affairs (2003 - 2010) ... Office of Governor Gray Davis, District Office Staff (2001 - 2003) ... MBA, University of Redlands",
+          "tier": null
+        },
+        {
+          "id": "s9",
+          "url": "https://www.fec.gov/data/committee/C00510461/?cycle=2022",
+          "title": "PETE AGUILAR FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Registration date: January 24, 2012 ... AGUILAR, PETE ... House candidate California - 33 Democratic Party",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://history.house.gov/Exhibitions-and-Publications/HAIC/Historical-Data/Hispanic-Americans-in-Party-Leadership/",
+          "title": "Hispanic Americans in Party Leadership Positions",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "117th (2021–2023) ... AGUILAR, Peter Rey ... Democratic Caucus ... Vice Chair ... 118th (2023–2025) ... AGUILAR, Peter Rey ... Democratic Caucus ... Chair",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://aguilar.house.gov/2017/01/04/aguilar-named-assistant-whip-house-democratic-caucus/",
+          "title": "Aguilar Named Assistant Whip of House Democratic Caucus",
+          "published_at": "2017-01-04",
+          "checked_at": "2026-10-17",
+          "excerpt": "he’s been appointed by Democratic Whip Steny H. Hoyer to serve as an Assistant Whip",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://www.redlands.edu/bulldog-bites/2023/commencement-ceremonies-honor-three-classes-in-new-venue",
+          "title": "2023 Commencement | Three Classes Honored | Redlands | University of Redlands",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Pete Aguilar ‘01 of the 33rd District offered the commencement address and received an Honorary Doctor of Humane Letters.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:CA"
+      ],
+      "person": {
+        "name": {
+          "value": "皮特·阿圭拉",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1979-06-19",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "加利福尼亚州丰塔纳",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2001",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "按首份毕业后正式任职的开始年份推算：2001年任加利福尼亚州州长内陆帝国地区办公室副主任、代理主任；国会官方履历记载开始年为2001年，JoinCalifornia记载州长办公室任职为2001—2003年。来源：https://history.house.gov/People/Detail/15032411662；https://www.joincalifornia.com/candidate/13909。少年时期食堂工作和在校服务经历不计。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2001",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "雷德兰兹大学政府和工商管理理学学士学位",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": {
+          "value": "雷德兰兹大学荣誉人文学博士学位",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2012-01",
+          "source_ids": [
+            "s9",
+            "s12"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：主竞选委员会PETE AGUILAR FOR CONGRESS（C00510461）在联邦选举委员会登记，2012-01-24；来源：https://www.fec.gov/data/committee/C00510461/?cycle=2022。Roll Call于2012-01-12报道其以民主党身份公开宣布参选，来源：https://rollcall.com/2012/01/12/redlands-mayor-to-run-for-congress/。检索未找到可打开的选民党籍登记日期或2012年以前的党组织职务就任日期。2017年获任民主党党团助理党鞭的公告晚于已有2012年锚点，按禁止晚于更早有效锚点的规则不采用；来源：https://aguilar.house.gov/2017/01/04/aguilar-named-assistant-whip-house-democratic-caucus/。2006年市议员任职属于无党派市政公职，不作锚点；2015年民主党联邦众议员就任属于较低级且较晚锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2012-01-24",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": null
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（加利福尼亚州第33选区）",
+          "role": "",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s6"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": null
+        },
+        {
+          "organization": "美国众议院民主党党团主席",
+          "role": "",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s1",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s11"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "国会官方履历记载2001年取得雷德兰兹大学理学学士学位，按本科毕业年减4推算：2001－4＝1997。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2001",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2001",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "雷德兰兹大学",
+          "role": null,
+          "program": "政府和工商管理",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2001",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2003",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州州长内陆帝国地区办公室",
+          "role": "副主任、代理主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "副主任",
+            "代理主任"
+          ],
+          "role_category": null,
+          "role_basis": "国会官方履历列副主任、代理主任；JoinCalifornia和BallotReady所列州长办公室任职为2001—2003年，两个职务的交接日期未载。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Arrowhead Credit Union",
+          "role": "政府事务主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "政府事务主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2006",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2014",
+                "source_ids": [
+                  "s1",
+                  "s6"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "加利福尼亚州雷德兰兹市",
+              "role": "市议员",
+              "roles": [
+                "市议员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s6"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州雷德兰兹市",
+          "role": "市长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "市长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（加利福尼亚州第31、第33选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（加利福尼亚州第31选区）",
+            "联邦众议员（加利福尼亚州第33选区）"
+          ],
+          "role_category": null,
+          "role_basis": "同一单位合并记录：第114至第117届国会代表第31选区，2015—2023年；第118届国会起代表第33选区，2023年至今。选区沿革依据国会名录。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2017",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "众议院拨款委员会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s2",
+                "s4"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2019",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2021",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国众议院民主党党团",
+              "role": "首席副党鞭",
+              "roles": [
+                "首席副党鞭"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s11"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2021",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2023",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国众议院民主党党团",
+              "role": "副主席",
+              "roles": [
+                "副主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s11"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2023",
+                "source_ids": [
+                  "s1",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "美国众议院民主党党团",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s4",
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.degree",
+          "alternatives": [
+            {
+              "value": "雷德兰兹大学政府和工商管理理学学士学位",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "雷德兰兹大学工商管理硕士学位",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": "BallotReady的Degrees栏列有MBA, University of Redlands。",
+              "inference": null
+            }
+          ],
+          "selected_value": "雷德兰兹大学政府和工商管理理学学士学位",
+          "reason": "采用国会现行官方人物履历和第119届国会名录共同记载的理学学士；BallotReady未给出MBA的授予年份或原始依据，学校官网已打开的材料也未证实MBA。冲突留交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "本科实际入学日期及全日制状态：检索众议院官方履历、国会名录和雷德兰兹大学官网，没有找到直接记载；入学年按2001年毕业减4推算，full_time留null。",
+        "州长办公室各职务交接日期：国会官方履历列副主任、代理主任，JoinCalifornia列2001—2003年任职，没有找到两职交接日期。",
+        "Arrowhead Credit Union任职：起止年份和具体职务取自已打开的BallotReady；Vote Smart传记打开返回403，Credit Union Times文章打开后未显示正文，未取得第二份可打开且含完整起止年份的来源。",
+        "私人企业经历：国会官方履历和名录列business owner，未给出企业名称、职务及起止日期，未编入履历。",
+        "现选区任职、党团领导职务和拨款委员会任职的具体月日：本次采用的国会名录、官方历史名单只支持相应年份，未扩大日期精度。Clerk页面2025-01-03为本届宣誓日期。",
+        "2017年助理党鞭：已打开官方任命公告，未找到明确就任或生效日期，未以公告日建立履历条目。",
+        "其他历史委员会及协会兼职：官方人物页另列农业、军事、众议院行政委员会的历史届次；本次未取得各项准确生效和终止日期，未补作逐项兼职履历。",
+        "入党锚点较高级别：检索选民党籍登记及地方党组织职务资料，未找到2012年以前可打开且载明登记或就任日期的记录；采用FEC竞选委员会登记锚点。"
+      ],
+      "excluded": [
+        "底稿『2025年1月开始担任加利福尼亚州第33选区联邦众议员』：2025年为本届宣誓年份，国会名录记载其已当选第118届国会第33选区议员，现选区起点改为2023年。",
+        "底稿『2001—2006年加利福尼亚州州长内陆帝国地区办公室副主任、代理主任』：2006年结束没有依据；已打开资料记载州长办公室任职为2001—2003年。",
+        "底稿『1997年本科入学』：未取得直接入学记录，改为有毕业年依据的推算项。",
+        "底稿『2001年6月参加工作』：没有月份依据，仅保留2001年。",
+        "底稿『2006年4月加入美国民主党』：没有党籍登记或党组织任职依据，市政公职不作入党锚点，改用2012年1月FEC登记。",
+        "底稿『2012—2015年民主党联邦众议员候选人』兼职：参选身份不作为任职履历，且该连续起止区间没有依据。",
+        "底稿将2021—2023年党团副主席附在2023年开始的现选区履历下：改附于2015年至今的众议院任职条目。",
+        "底稿『出生地无来源』：国会官方履历和名录均记载出生于加利福尼亚州丰塔纳，已补证。",
+        "查到的雷德兰兹大学荣誉人文学博士学位：单列honorary_degree，不替代最高已取得的非荣誉学位。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

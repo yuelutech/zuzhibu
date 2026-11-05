@@ -1,0 +1,77 @@
+{
+  "id": "2026-06-16-jay-clayton-nominate",
+  "date": "2026-06-16",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "jay-clayton",
+  "person": {
+    "name_zh": "杰伊·克莱顿",
+    "name_en": "Jay Clayton",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-06-16",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国国家情报总监办公室",
+      "role": "国家情报总监",
+      "organization_en": "Office of the Director of National Intelligence",
+      "role_en": "Director of National Intelligence",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "白宫通报克莱顿获提名国家情报总监",
+  "summary": "白宫6月16日发布提名说明；该日为所用公告的发布日期，首次宣布日期未核明。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.whitehouse.gov/releases/2026/06/excellent-choice-jay-clayton-earns-broad-praise-as-president-trumps-dni-nominee/",
+      "title": "Excellent Choice: Jay Clayton Earns Broad Praise as President Trump’s DNI Nominee",
+      "publisher": "The White House",
+      "published_at": "2026-06-16",
+      "excerpt": "President Donald J. Trump’s nomination of Jay Clayton as Director of National Intelligence",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-095635",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：s1"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "新任“美国国家情报总监办公室国家情报总监”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "jay-clayton"
+  }
+}

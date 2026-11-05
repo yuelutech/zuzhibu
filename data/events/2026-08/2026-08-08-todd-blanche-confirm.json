@@ -1,0 +1,76 @@
+{
+  "id": "2026-08-08-todd-blanche-confirm",
+  "date": "2026-08-08",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "todd-blanche",
+  "person": {
+    "name_zh": "托德·布兰奇",
+    "name_en": "Todd Blanche",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-08-08",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国司法部",
+      "role": "司法部长",
+      "organization_en": "United States Department of Justice",
+      "role_en": "Attorney General",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "美国参议院确认托德·布兰奇出任司法部长",
+  "summary": "参议院8月8日以50票赞成、49票反对确认布兰奇的司法部长提名。",
+  "bureaus": [
+    "justice"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00230.htm",
+      "title": "Roll Call Vote 119th Congress — 2nd Session, Vote 230",
+      "publisher": "美国参议院",
+      "published_at": "2026-08-08",
+      "excerpt": "Nomination Description: Todd Blanche, of Florida, to be Attorney General",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 todd-blanche（库里没有此人）",
+      "现任职务新增：美国司法部司法部长",
+      "履历新增：2026-08 美国司法部司法部长",
+      "所属局：按确认职务定为六局·公检法干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "justice",
+    "person_id": "todd-blanche"
+  }
+}

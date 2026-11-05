@@ -1,0 +1,725 @@
+{
+  "id": "mazie-k-hirono",
+  "name_zh": "广野庆子",
+  "name_en": "Mazie K. Hirono",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "H001042"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "mazie-k-hirono.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mazie_Hirono,_official_portrait,_113th_Congress.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Senate；https://bioguide.congress.gov/bioguide/photo/H/H001042.jpg），File:Mazie Hirono, official portrait, 113th Congress.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mazie_Hirono%2C_official_portrait%2C_113th_Congress.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-h001042",
+    "line": "cadre",
+    "subject_id": "h001042",
+    "title": "广野庆子简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2013-01-03~2031-01-03 HI Democrat",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: F",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "November 3, 1947 in Koori, Fukushima Prefecture, Japan",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Mazie_Hirono",
+        "title": "维基百科：Mazie_Hirono",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "November 3, 1947 in Koori, Fukushima Prefecture, Japan",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Mazie_Hirono",
+        "title": "维基百科：Mazie_Hirono",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Armed Services; Energy and Natural Resources; Small Business and Entrepreneurship; Judiciary; Veterans' Affairs",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Mazie_Hirono",
+        "title": "维基百科：Mazie_Hirono",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "University of Hawaii at Manoa: BA in Psychology (1970)",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Mazie_Hirono",
+        "title": "维基百科：Mazie_Hirono",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Georgetown University Law Center: JD (1978)",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Mazie_Hirono",
+        "title": "维基百科：Mazie_Hirono",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Hawaii deputy attorney general, antitrust division",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Mazie_Hirono",
+        "title": "维基百科：Mazie_Hirono",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Hawaii House of Representatives: 1981–1994",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Mazie_Hirono",
+        "title": "维基百科：Mazie_Hirono",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Hawaii Lieutenant Governor: December 2, 1994 – December 2, 2002",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Mazie_Hirono",
+        "title": "维基百科：Mazie_Hirono",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "founder, Patsy Mink PAC",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "rep 2007-2013 HI-2 Democrat",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office January 3, 2013",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Mazie_Hirono",
+        "title": "维基百科：Mazie_Hirono",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Hawaii deputy attorney general (antitrust)",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:HI"
+    ],
+    "person": {
+      "name": {
+        "value": "广野庆子",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1947-11-03",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "日本福岛县桑折町",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1978",
+        "source_ids": [
+          "s14"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：任夏威夷州总检察长办公室反垄断处副总检察长；底稿备注：法学院1978年毕业衔接；月份按毕业次月推定",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1978",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "乔治城大学法律中心法学博士学位",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "1980-11",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次以民主党身份当选夏威夷州众议员（1980年11月当选，1981年就任）；来源：https://en.wikipedia.org/wiki/Mazie_Hirono；底稿备注：取最早以民主党当选州众议员节点(1980)；月份按当选(11月)；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "1980-11",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（夏威夷州）",
+        "role": "",
+        "start": {
+          "value": "2013-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院军事委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院能源与自然资源委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院小企业与创业委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院司法委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院退伍军人事务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1966",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1970倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1970",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1970",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "夏威夷大学马诺阿分校",
+        "role": null,
+        "program": "心理学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1975",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1978倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1978",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1978",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "乔治城大学法律中心",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1978",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1980",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "夏威夷州总检察长办公室",
+        "role": "反垄断处副总检察长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "反垄断处副总检察长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1981",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1994",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "夏威夷州众议院",
+        "role": "议员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "议员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1994",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "夏威夷州",
+        "role": "副州长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副州长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "帕齐·明克政治行动委员会",
+        "role": "创始人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "创始人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007-01",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（夏威夷州第2选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联邦众议员（夏威夷州第2选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-01-03",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（夏威夷州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（夏威夷州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：1970-1975（本科毕业至乔治城法学院之间）",
+      "底稿缺项：2002-2004（卸任副州长后、含2002年州长竞选）",
+      "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1978年6月」：底稿推定（法学院1978年毕业衔接；月份按毕业次月推定），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

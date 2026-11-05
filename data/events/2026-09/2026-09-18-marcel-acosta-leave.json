@@ -1,0 +1,84 @@
+{
+  "id": "2026-09-18-marcel-acosta-leave",
+  "date": "2026-09-18",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "marcel-acosta",
+  "person": {
+    "name_zh": "马塞尔·阿科斯塔",
+    "name_en": "Marcel Acosta",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-03",
+  "effective_at": "2026-09-18",
+  "ended_roles": [
+    {
+      "organization": "美国国家首都规划委员会",
+      "organization_en": "National Capital Planning Commission",
+      "role": "执行主任",
+      "role_en": "Executive Director",
+      "start": null,
+      "end": "2026-09-18",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "马塞尔·阿科斯塔按公告于9月18日卸任NCPC执行主任",
+  "summary": "NCPC于2026年9月3日宣布，马塞尔·阿科斯塔将于9月18日退休离任，并已接受私营部门职位。本人随后确认已于9月18日离任，并披露新工作方向为交通规划；本次检索未找到新雇主、具体职称和到任日期。他另任美国规划协会城市设计与保护分会上届主席。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.ncpc.gov/participate/releases/2026/NCPC_Executive_Director_Marcel_Acosta_to_Retire_After_25_Years_of_Federal_Service.pdf",
+      "title": "NCPC Executive Director Marcel Acosta to Retire After 25 Years of Federal Service",
+      "publisher": "National Capital Planning Commission",
+      "published_at": "2026-09-03",
+      "excerpt": "Executive Director Marcel Acosta will retire from federal service effective September 18, 2026, following his acceptance of a private-sector position.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094540",
+    "corrections": [
+      "summary_zh → NCPC于2026年9月3日宣布，马塞尔·阿科斯塔将于9月18日退休离任，并已接受私营部门职位。本人随后确认已于9月18日离任，并披露新工作方向为交通规划；本次检索未找到新雇主、具体职称和到任日期。他另任美国规划协会城市设计与保护分会上届主席。"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 marcel-acosta（库里没有此人）"
+    ],
+    "notes": [
+      "原任“美国国家首都规划委员会 执行主任 National Capital Planning Commission Executive Director”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局",
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "marcel-acosta",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

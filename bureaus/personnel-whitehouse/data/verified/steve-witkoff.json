@@ -1,0 +1,585 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-steve-witkoff",
+      "line": "cadre",
+      "subject_id": "steve-witkoff",
+      "title": "史蒂夫·威特科夫简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf",
+          "title": "2026 Annual Report to Congress on White House Staff",
+          "published_at": "2026-07-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "WITKOFF, STEVEN C.; ASSISTANT TO THE PRESIDENT AND SPECIAL ENVOY FOR PEACE MISSIONS",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.govinfo.gov/content/pkg/DCPD-202500565/html/DCPD-202500565.htm",
+          "title": "Witkoff swearing-in ceremony",
+          "published_at": "2025-05-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "May 6, 2025; assistant to the president, senior adviser, and special envoy to the Middle East; cofounding the Stellar Management Company in 1985; in 1997 he founded the Witkoff Group",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://news.hofstra.edu/2018/04/25/gala-honors-steven-witkoff-and-teachers-of-the-year/",
+          "title": "Gala Honors Steven Witkoff",
+          "published_at": "2018-04-25",
+          "checked_at": "2026-10-18",
+          "excerpt": "Steven Witkoff, BA ’80, JD ’83; chairman and CEO; founding the firm in 1997",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://apnews.com/article/steve-witkoff-special-envoy-russia-ukraine-mideast-d26c80c87a57fd3a811e4b0aa0eda58e",
+          "title": "Who is Steve Witkoff?",
+          "published_at": "2025-03-13",
+          "checked_at": "2026-10-18",
+          "excerpt": "Witkoff, who turns 68 on Saturday",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://www.justsecurity.org/wp-content/uploads/2024/01/Just-Security-N.Y.-Civil-Fraud-Trump-Clearinghouse-%E2%80%94-Transcripts-of-Proceedings-November-13-2023-to-November-17-2023-Jan.-4-2024.pdf",
+          "title": "Court transcript, November 14, 2023, printed pages 4170–4172",
+          "published_at": "2024-01-04",
+          "checked_at": "2026-10-18",
+          "excerpt": "born in the Bronx; Union College; Hofstra University; Law School 1983; when you got out of law school ... Dreyer & Traub",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/",
+          "title": "Statement on President Trump’s Comprehensive Plan to End the Gaza Conflict",
+          "published_at": "2026-01-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "founding Executive Board ... Steve Witkoff; Gaza Executive Board ... Steve Witkoff",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.witkoff.com/people",
+          "title": "Witkoff: People",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Alex Witkoff — Chief Executive Officer",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.whitehouse.gov/gallery/u-s-envoys-visit-russia-and-ukraine/",
+          "title": "U.S. Envoys Visit Russia and Ukraine",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Special Envoy Steve Witkoff and Jared Kushner ... September 5, 2026 ... meeting with Russian President Vladimir Putin",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/2025-Annual-Report-to-Congress-on-White-House-Staff.pdf",
+          "title": "2025 Annual Report to Congress on White House Staff",
+          "published_at": "2025-07-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "As of Date: July 1, 2025; WITKOFF, STEVEN C.; ASSISTANT TO THE PRESIDENT AND SPECIAL ENVOY FOR PEACE MISSIONS",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "史蒂夫·威特科夫",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1957-03",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "2025-03-13报道周六将满68岁，该周六为3月15日，倒推1957年3月",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2025-03-15",
+            "duration_years": 68
+          }
+        },
+        "birth_place": {
+          "value": "美国纽约州纽约布朗克斯区",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1983-06",
+          "source_ids": [
+            "s3",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "1983年法学院毕业即到Dreyer & Traub工作，毕业月按5月、工作月取6月",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1983",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法律博士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "白宫",
+          "role": "总统助理、和平使命特使",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s1",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "roles": [
+            "总统助理、和平使命特使"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "和平委员会创始执行委员会",
+          "role": "成员",
+          "start": {
+            "value": "2026-01-16",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "成员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "加沙执行委员会",
+          "role": "成员",
+          "start": {
+            "value": "2026-01-16",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "成员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1976",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "本科1980年毕业，按四年制倒推；联合学院转霍夫斯特拉大学的时间未知",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1980",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1980",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "联合学院、霍夫斯特拉大学",
+          "role": "本科阶段学习",
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "本科阶段学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1980",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "1983年JD毕业，按三年制倒推",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1983",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1983",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "霍夫斯特拉大学法学院",
+          "role": "法律专业研究生学习",
+          "program": null,
+          "degree_awarded": {
+            "value": "法律博士",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律专业研究生学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1983",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Dreyer & Traub律师事务所",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Stellar Management公司",
+          "role": "联合创始人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Witkoff集团",
+          "role": "创始人、董事长兼首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始人、董事长兼首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s1",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "白宫",
+          "role": "总统助理、和平使命特使",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "ongoing": true,
+          "roles": [
+            "总统助理、和平使命特使"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "和平委员会创始执行委员会",
+          "role": "成员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "成员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "加沙执行委员会",
+          "role": "成员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "成员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "和平使命特使准确到任月份未查到；2025年7月1日白宫名册已列该职，不沿用百科7月3日说法。",
+        "2025年5月6日为公开宣誓日，此前已经开展中东特使工作，未把宣誓日当首次履职日。",
+        "本科转学时间、Dreyer & Traub离任及Rosenman & Colin任职起止未查到。",
+        "Witkoff集团现行领导页列Alex Witkoff为CEO，史蒂夫的董事长及其他企业职务现状未取得明确现行依据，暂不列现职。",
+        "未查到党籍及可用入党锚点；大学及其他咨询兼职现状未查清。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "Steve Witkoff；白宫",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

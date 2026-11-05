@@ -1,0 +1,103 @@
+{
+  "id": "2026-10-01-jeffrey-s-sutton-transfer",
+  "date": "2026-10-01",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "jeffrey-s-sutton",
+  "person": {
+    "name_zh": "杰弗里·S.萨顿",
+    "name_en": "Jeffrey S. Sutton",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": null,
+  "effective_at": "2026-10-01",
+  "ended_roles": [
+    {
+      "organization": "美国联邦第六巡回上诉法院",
+      "role": "首席法官",
+      "organization_en": "United States Court of Appeals for the Sixth Circuit",
+      "role_en": "Chief Judge",
+      "start": "2021-05-01",
+      "end": "2026-09-30",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "美国联邦第六巡回上诉法院",
+      "role": "资深法官",
+      "organization_en": "United States Court of Appeals for the Sixth Circuit",
+      "role_en": "Senior Judge",
+      "start": "2026-10-01",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e3"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "杰弗里·S.萨顿卸任美国联邦第六巡回上诉法院首席法官并转任资深法官",
+  "summary": "萨顿的首席法官任期9月30日结束，10月1日转为资深法官；法院现任法官名册列有其资深法官职务。",
+  "bureaus": [
+    "justice"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.ca6.uscourts.gov/news/honorable-raymond-m-kethledge-assumed-position-chief-judge",
+      "title": "The Honorable Raymond M. Kethledge assumed the position of Chief Judge",
+      "publisher": "美国联邦第六巡回上诉法院",
+      "published_at": "2026-10-01",
+      "excerpt": "September 30, 2026.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e3",
+      "url": "https://www.ca6.uscourts.gov/judges",
+      "title": "Judges",
+      "publisher": "美国联邦第六巡回上诉法院",
+      "published_at": null,
+      "excerpt": "Senior Judge Jeffrey S. Sutton",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 jeffrey-s-sutton（库里没有此人）",
+      "现任职务新增：美国联邦第六巡回上诉法院资深法官",
+      "履历新增：2026-10 美国联邦第六巡回上诉法院资深法官",
+      "所属局：定为六局·公检法干部局"
+    ],
+    "notes": [
+      "原任“美国联邦第六巡回上诉法院 首席法官 United States Court of Appeals for the Sixth Circuit Chief Judge”：记录里本来就没有现任职务"
+    ],
+    "bureau_before": null,
+    "bureau_after": "justice",
+    "person_id": "jeffrey-s-sutton",
+    "reason": "主要职务“美国联邦第六巡回上诉法院 资深法官”：法院、司法部与执法机构"
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "id": "lauren-boebert",
+  "name_zh": "劳伦·博伯特",
+  "name_en": "Lauren Boebert",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "reverified",
+  "ids": {
+    "bioguide": "B000825"
+  },
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入，reverify.py 重核通过",
+  "portrait": {
+    "file": "lauren-boebert.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lauren_Boebert_117th_U.S_Congress.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（House Creative Services；https://twitter.com/laurenboebert/status/1330299144041361412 [1]），File:Lauren Boebert 117th U.S Congress.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lauren_Boebert_117th_U.S_Congress.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-b000825",
+    "line": "cadre",
+    "subject_id": "b000825",
+    "title": "劳伦·博伯特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://history.house.gov/People/Listing/B/BOEBERT,-Lauren-(B000825)/",
+        "title": "BOEBERT, Lauren | US House of Representatives: History, Art & Archives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "born in Altamonte Springs, Seminole County, Fla., December 19, 1986; ... (January 3, 2021-present).",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://clerk.house.gov/Members/B000825",
+        "title": "Office of the Clerk, U.S. House of Representatives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Lauren Boebert ... Colorado (CO) – 4th, Republican ... Oath of Office: Jan. 03, 2025",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://boebert.house.gov/about/biography",
+        "title": "Biography | Representative Lauren Boebert",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "U.S. Congresswoman Lauren Boebert is serving her third term as a member of Congress, representing Colorado’s Fourth Congressional District.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+        "title": "The Constitution of the United States: A Transcription | National Archives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "and been seven Years a Citizen of the United States",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-CO-H-3.htm",
+        "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "born in Orlando, FL, December 19, 1986; ... elected to the 117th Congress on November 3, 2020.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://naturalresources.house.gov/about/members.htm",
+        "title": "Meet Our Members | House Committee on Natural Resources",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Republican Members ... Lauren Boebert ... Colorado, 4th District",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://oversight.house.gov/subcommittee/full-committee/",
+        "title": "Full Committee on Oversight and Government Reform - United States House Committee on Oversight and Government Reform",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Republican Members ... Lauren Boebert ... CO-04",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.fec.gov/data/committee/C00728238/?cycle=2020&tab=about-committee",
+        "title": "LAUREN BOEBERT FOR CONGRESS - committee overview | FEC",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Registration date: November 21, 2019 ... BOEBERT, LAUREN ... House candidate Colorado - 03 Republican Party",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.coloradopolitics.com/2020/08/02/the-race-for-cd3-about-the-candidate-lauren-boebert/",
+        "title": "THE RACE FOR CD3 | About the candidate: Lauren Boebert",
+        "published_at": "2020-08-02",
+        "checked_at": "2026-10-18",
+        "excerpt": "has taken business classes at Colorado State University ... Owner, Shooters Grill in Rifle since 2013",
+        "tier": 2
+      },
+      {
+        "id": "s10",
+        "url": "https://www.wdrbwave.com/2022/07/14/shooters-grill-lauren-boeberts-gun-themed-restaurant-has-closed/",
+        "title": "Shooters Grill, Lauren Boebert’s gun-themed restaurant, has closed",
+        "published_at": "2022-07-14",
+        "checked_at": "2026-10-18",
+        "excerpt": "the grill closed last Sunday. ... The restaurant opened in 2013",
+        "tier": 2
+      },
+      {
+        "id": "s12",
+        "url": "https://coloradosun.com/2020/09/14/lauren-boebert-congress-guns-trump/",
+        "title": "How Lauren Boebert rose from unknown to a candidate for Congress to someone in Donald Trump’s orbit",
+        "published_at": "2020-09-14",
+        "checked_at": "2026-10-18",
+        "excerpt": "on Dec. 15 or 19, 1986. (Police reports list two dates.)",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "reverified",
+      "house",
+      "state:CO"
+    ],
+    "person": {
+      "name": {
+        "value": "劳伦·博伯特",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1986-12-19",
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "佛罗里达州阿尔塔蒙特斯普林斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2019-11",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": true,
+        "basis": "第3级锚点：共和党众议员参选人 Lauren Boebert 的主要竞选委员会 LAUREN BOEBERT FOR CONGRESS（C00728238）在联邦选举委员会登记，2019-11-21；来源：https://www.fec.gov/data/committee/C00728238/?cycle=2020&tab=about-committee 。第1级选民登记沿革有“2006年登记民主党、2008年转共和党”的检索线索，但其所引 Grand Junction Daily Sentinel 原文及存档均未能打开，未取得可采用的登记记录，不将该沿革写为已证事实；未找到可打开原文支持的第2级党组织任职锚点。较低级的2020年共和党候选人参选及2021年共和党众议员就任不替代已找到的第3级锚点。底稿2008年6月无证据，不采用。",
+        "inference": {
+          "rule": "party_anchor_candidacy_filing",
+          "from_date": "2019-11-21",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（科罗拉多州第4选区）",
+        "role": "",
+        "start": {
+          "value": "2025-01-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院自然资源委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6",
+          "s3"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院监督和政府改革委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s7",
+          "s3"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s9",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-07",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Shooters Grill",
+        "role": "业主",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s9",
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "业主"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2019-11-21",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2020-11-03",
+              "source_ids": [
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国国会众议院",
+            "role": "科罗拉多州第3选区共和党联邦众议员参选人、候选人",
+            "roles": [
+              "科罗拉多州第3选区共和党联邦众议员参选人",
+              "科罗拉多州第3选区共和党联邦众议员候选人"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s8",
+              "s9",
+              "s5"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025-01-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（科罗拉多州第3选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联邦众议员（科罗拉多州第3选区）"
+        ],
+        "role_category": null,
+        "role_basis": "s1记载2021年1月3日起任职；s5确认第117届国会代表第3选区；s2记载2025年1月3日起代表第4选区。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-01-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（科罗拉多州第4选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦众议员（科罗拉多州第4选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [
+      {
+        "field": "person.birth_date",
+        "alternatives": [
+          {
+            "value": "1986-12-19",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "1986-12-15 或 1986-12-19",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": "报道明确说警方记录列有两个日期，没有确定其中一个。",
+            "inference": null
+          }
+        ],
+        "selected_value": "1986-12-19",
+        "reason": "采用现行众议院官方人物页；2022年国会名录亦记载12月19日。底稿12月15日不沿用。"
+      },
+      {
+        "field": "person.birth_place",
+        "alternatives": [
+          {
+            "value": "佛罗里达州阿尔塔蒙特斯普林斯",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "佛罗里达州奥兰多",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "佛罗里达州阿尔塔蒙特斯普林斯",
+        "reason": "现行众议院官方人物页与2022年国会名录存在一级来源冲突，按现行官方页面选用阿尔塔蒙特斯普林斯，并列入AI政见复核清单。"
+      }
+    ],
+    "unknowns": [
+      "参加工作时间：查阅议员官方传记、KUNC早期经历报道、Colorado Sun人物报道及竞选网站转载访谈，找到麦当劳经历，但没有找到首份全职工作的明确开始日期；15岁开始受雇、18岁晋升的年龄陈述不能确定全职转入日期，work_start留null。",
+      "早期履历：官方传记列有天然气产品技术员、GIS技术员、管道完整性协调员，但未给出雇主名称和任职起止；KUNC记载麦当劳助理经理经历但未给出起止，未建立带日期履历。",
+      "学历、学位：s1记载2020年取得GED；s9记载曾修读科罗拉多州立大学商业课程。未找到已取得大学学位、明确退学、学习起止、学位层次或全日制性质的原文依据，education、degree、dropout留null，课程经历不建立无日期学习条目。",
+      "现任委员会起始日期：s6、s7确认当前委员身份，s1记载所属届次，但未取得本届实际就任或生效日期，current_roles.start留null。",
+      "入党时间第1级锚点：检索到2006年登记民主党、2008年转共和党的线索，所引Grand Junction Daily Sentinel原文及存档打开失败；登记沿革与准确月份未核实，本包采用已打开的FEC第3级锚点。",
+      "其他兼职：议员官网记载第二修正案党团共同主席及自然资源委员会小组委员会副主席等，但没有取得就任日期；未建立履历括注，小组委员会不单列现任。",
+      "族裔：所查国会官方人物页、议员传记及媒体报道没有提供符合本批要求的本人明确族裔自述或官方统计分类，ethnicity留null。",
+      "荣誉学位、国家级院士、军衔：所查国会官方人物页及议员官方传记未找到对应依据。",
+      "完整简历卡条件：参加工作时间缺证，本项保留候选事实包，不标为完整简历卡。",
+      "日期粒度：保留来源实际精度；餐厅开业仅到年，其余已证日期分别到月或日，未补月份，date_granularity留null交后续程序计算。"
+    ],
+    "excluded": [
+      "底稿『1986-12-15出生』：现行国会官方人物页及已打开国会名录均写1986-12-19。",
+      "底稿『2004年参加工作』『2004年6月参加工作』：没有首份全职工作开始时间依据，年份及月份均不沿用。",
+      "底稿『2004—2013年科罗拉多州餐饮业员工、能源企业家庭服务机构工作人员』：未取得该合并单位名称、任职日期或家庭服务机构职务依据，整条删除。",
+      "底稿『2008年6月加入美国共和党』：未取得对应登记记录或可打开原文；不将2008年线索补成6月。",
+      "底稿『2020年高中同等学历考试合格』作为兼职：GED属于高中同等教育证书，不作为工作兼职或大学学位。",
+      "底稿『2020—2021年共和党联邦众议员候选人』：FEC竞选委员会登记可追溯至2019年11月；候选阶段止于2020年选举，未延长至2021年就职。",
+      "底稿两项委员会兼职均从2025年开始：当前身份已有官网证据，具体就任日期未证，取消该日期并改入current_roles。",
+      "检索线索『科罗拉多州立大学课程经历』：没有学位或明确退学证据，不写大学学历、大学肄业或学位。",
+      "旧国会名录『Orlando, FL』：与现行众议院人物页冲突，不作为出生地选值。"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "美国联邦众议员（科罗拉多州第4选区）＋美国国会众议院；Bioguide B000825",
+    "review_items": [
+      "AI政见确认出生地一级来源冲突：现行众议院人物页为阿尔塔蒙特斯普林斯，2022年国会名录为奥兰多。",
+      "补取选民登记原始记录或可打开的权威报道，核对2008年转共和党线索；若证实，按第1级锚点替换2019年11月。",
+      "补取首份全职工作起始证据后再判断完整简历卡资格。",
+      "第3选区任期结束日以第4选区实际就职日界定，后续独立会话复核该任期边界。"
+    ]
+  }
+}

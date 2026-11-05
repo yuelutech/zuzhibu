@@ -1,0 +1,163 @@
+{
+  "id": "michael-mcdonald",
+  "name_zh": "迈克尔·麦克唐纳",
+  "name_en": "Michael McDonald",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-michael-mcdonald",
+    "line": "cadre",
+    "subject_id": "michael-mcdonald",
+    "title": "迈克尔·麦克唐纳简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.senate.gov/legislative/nom_confc.htm",
+        "title": "Nominations Confirmed (Civilian)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Michael McDonald, of the District of Columbia, to be Chairperson of the National Endowment for the Humanities for a term of four years.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.forth.news/lists/neh/CfNwSpN18wYwTw2vdYrhL",
+        "title": "Michael McDonald Sworn in as NEH Chairman, NEH Announces $41.4 Million for 81 Humanities Projects, Student Art Contest Regional and National Winners",
+        "published_at": "2026-09-24",
+        "checked_at": "2026-10-21",
+        "excerpt": "Following confirmation by the United States Senate in August, Michael McDonald was sworn in as the thirteenth Chairman of the National Endowment for the Humanities.",
+        "tier": null
+      },
+      {
+        "id": "s3",
+        "url": "https://www.neh.gov/about/chair",
+        "title": "Office of the Chair",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Michael McDonald\nChairman, National Endowment for the Humanities",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "迈克尔·麦克唐纳",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国国家人文基金会",
+        "role": "主席",
+        "start": {
+          "value": "2026-09-24",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-09-24",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国家人文基金会",
+        "role": "主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "events": [
+    "2026-08-07-michael-mcdonald-confirm",
+    "2026-09-24-michael-mcdonald-appoint"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "三局规则补进独立机构（第五节“独立机构归三局”）：主要职务“美国国家人文基金会 主席”：总统、白宫、内阁与独立机构"
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true
+}

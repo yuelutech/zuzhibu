@@ -1,0 +1,363 @@
+{
+  "id": "joshua-m-rudd",
+  "name_zh": "约书亚·M.鲁德",
+  "name_en": "Joshua M. Rudd",
+  "name_zh_pending": true,
+  "bureau": "military",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“U.S. Cyber Command General, Commander, U.S. Cyber Command U.S. Cyber Command General, Commander, U.S. Cyber Command”：国防部与军队）；补采简历 bureaus/personnel-others/data/verified/joshua-m-rudd.json（wuju，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://media.defense.gov/2026/Mar/20/2003901325/-1/-1/0/260320-D-IM742-2026.JPG",
+    "source": "https://www.af.mil/News/Photos/igphoto/2003901296/",
+    "file": "joshua-m-rudd.jpg",
+    "source_kind": "官方照片（军方官网）",
+    "license": "公有领域：美国联邦政府职务作品，U.S. Cyber Command（This photograph is considered public domain and has been cleared for release.）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Cyber Command",
+      "role_en": "General, Commander, U.S. Cyber Command"
+    },
+    {
+      "organization_en": "National Security Agency",
+      "role_en": "Director, National Security Agency"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "military",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“U.S. Cyber Command General, Commander, U.S. Cyber Command U.S. Cyber Command General, Commander, U.S. Cyber Command”：国防部与军队）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-joshua-m-rudd",
+    "line": "cadre",
+    "subject_id": "joshua-m-rudd",
+    "title": "约书亚·M.鲁德简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.nsa.gov/About/Leadership/Leadership-View/Article/4439868/general-joshua-m-rudd-usa/",
+        "title": "General Joshua M. Rudd, USA",
+        "excerpt": "General Joshua M. Rudd assumed his present role as the 5th Commander, U.S. Cyber Command and 20th Director, National Security Agency/15th Chief, Central Security Service on 20 March 2026.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.furman.edu/academics/tocqueville-program/lectures/alexander-stubb-joshua-rudd-furman/",
+        "title": "Alexander Stubb and Gen. Joshua Rudd Return to Furman",
+        "excerpt": "Stubb framed the evening by comparing the world he and Rudd entered as freshmen in 1989 with the one facing students today.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "约书亚·M.鲁德",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国籍",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1971-07",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "出生年月未公布；本科毕业年减22，月份取7月。",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1993",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1993-05",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "军校后备军官训练毕业授衔，月份未载，按美国毕业月5月。",
+        "inference": {
+          "rule": "academic_calendar",
+          "from_date": "1993",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "海军战争学院战略与国家安全硕士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": {
+        "value": "陆军上将",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国网络司令部",
+        "role": "司令",
+        "start": {
+          "value": "2026-03-20",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国国家安全局",
+        "role": "局长",
+        "start": {
+          "value": "2026-03-20",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国中央安全局",
+        "role": "局长",
+        "start": {
+          "value": "2026-03-20",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1989-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "校方记载1989年入学，月份按美国学年9月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1993-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "毕业月份未载，按美国学年默认5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "organization": "弗曼大学",
+        "role": null,
+        "program": "政治学",
+        "degree_awarded": {
+          "value": "学士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "军校后备军官训练毕业授衔，月份未载，按美国毕业月5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "美国陆军",
+        "role": "军需军官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-03-20",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国网络司令部、美国国家安全局、美国中央安全局",
+        "role": "司令、局长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月未见直接记录，按1993年本科毕业减22年、月份取7月。",
+      "已核实曾任印度—太平洋司令部副司令、参谋长、太平洋特种作战司令部司令；本次已打开的官方简历未列各岗位起止年月，未编造日期。",
+      "1996年完成特种部队考核选拔；具体转入特种部队岗位、各级指挥任期未载。",
+      "海军战争学院硕士毕业及入学日期未载。",
+      "国籍依据官方美国陆军军官身份记录；未见独立国籍声明。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

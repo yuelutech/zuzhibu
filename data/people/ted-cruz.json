@@ -1,0 +1,917 @@
+{
+  "id": "ted-cruz",
+  "name_zh": "泰德·科鲁兹",
+  "name_en": "Ted Cruz",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "C001098"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "ted-cruz.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ted_Cruz_senatorial_portrait.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（U.S. Senate Photographic Studio；https://www.facebook.com/SenatorTedCruz/photos/a.315504525228521/2031200933658863/），File:Ted Cruz senatorial portrait.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Ted_Cruz_senatorial_portrait.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-c001098",
+    "line": "cadre",
+    "subject_id": "c001098",
+    "title": "泰德·科鲁兹简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2013-01-03~ TX Republican; Commerce Chair since 2025-01-03",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Rafael Edward Cruz was born on December 22, 1970...in Calgary, Alberta, Canada",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Rafael Edward Cruz was born on December 22, 1970...in Calgary, Alberta, Canada",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "born...in Calgary, Alberta, Canada",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Chair of the Senate Commerce Committee...Assumed office January 3, 2025",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Cruz graduated from Princeton in 1992 with a Bachelor of Arts, cum laude.",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Cruz graduated from Harvard Law in 1995 with a Juris Doctor degree, magna cum laude.",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "law clerk for Judge J. Michael Luttig...from 1995 to 1996",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "for Chief Justice William Rehnquist...from 1996 to 1997",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "private practice (Cooper, Carvin & Rosenthal) before joining the Bush campaign",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "joined the George W. Bush presidential campaign in 1999 as a domestic policy adviser",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "served as an associate deputy attorney general...and as the director of policy planning at the Federal Trade Commission",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "In 2003...appointed Cruz to be the solicitor general of Texas (through 2008)",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "After leaving the Solicitor General position in 2008, Cruz joined the Houston office...Morgan, Lewis & Bockius",
+        "tier": 3
+      },
+      {
+        "id": "s16",
+        "url": "https://www.fec.gov/data/candidate/S2TX00312/",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "FEC Senate candidate S2TX00312 (committee registered 2011-01-28)",
+        "tier": 1
+      },
+      {
+        "id": "s17",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "junior United States senator from Texas since 2013; On March 23, 2015, Cruz started his 2016 presidential campaign",
+        "tier": 1
+      },
+      {
+        "id": "s18",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "junior United States senator from Texas since 2013; On March 23, 2015, Cruz started his 2016 presidential campaign",
+        "tier": 3
+      },
+      {
+        "id": "s19",
+        "url": "https://en.wikipedia.org/wiki/Ted_Cruz",
+        "title": "维基百科：Ted_Cruz",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "served as a law clerk for Judge J. Michael Luttig...from 1995 to 1996",
+        "tier": 3
+      },
+      {
+        "id": "s20",
+        "url": "https://www.fec.gov/data/committee/C00492785/",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Ted Cruz's principal campaign committee for Senate was registered with the FEC on January 28, 2011.",
+        "tier": 1
+      },
+      {
+        "id": "s21",
+        "url": "https://www.fec.gov/data/candidate/S2TX00312/",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Ted Cruz's principal campaign committee for Senate was registered with the FEC on January 28, 2011.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:TX"
+    ],
+    "person": {
+      "name": {
+        "value": "泰德·科鲁兹",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1970-12-22",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "加拿大艾伯塔省卡尔加里",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1995",
+        "source_ids": [
+          "s19"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：任美国联邦第四巡回上诉法院法官法律助理；底稿备注：规则①：1995年法学院毕业衔接司法助理",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1995",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哈佛大学法学院法学博士学位",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2011-01",
+        "source_ids": [
+          "s20",
+          "s21"
+        ],
+        "inferred": true,
+        "basis": "第3级锚点：FEC 参选声明（首次自身竞选）：竞选委员会 TED CRUZ FOR SENATE（C00492785）2011年1月28日在 FEC 登记；来源：https://www.fec.gov/data/committee/C00492785/、https://www.fec.gov/data/candidate/S2TX00312/；底稿备注：schema锚点优先级：FEC F2/参选委员会登记(2011)高于Codex采用的1999布什竞选幕僚(官方任职党籍，最低优先级)；月份有确切登记日",
+        "inference": {
+          "rule": "party_anchor_candidacy_filing",
+          "from_date": "2011-01-28",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（得克萨斯州）",
+        "role": "",
+        "start": {
+          "value": "2013-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院商业、科学和交通委员会",
+        "role": "主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1988",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1992倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1992",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1992",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "普林斯顿大学",
+        "role": null,
+        "program": "公共政策",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1995倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1995",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1995",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哈佛大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1996",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦第四巡回上诉法院J·迈克尔·卢蒂格法官办公室",
+        "role": "法律助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法律助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1996",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国最高法院首席大法官威廉·伦奎斯特办公室",
+        "role": "法律助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法律助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1999",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "私人执业",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1999",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2000",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "乔治·W·布什总统竞选委员会",
+        "role": "国内政策顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "国内政策顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2003",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦贸易委员会、美国司法部",
+        "role": "联邦贸易委员会政策规划办公室主任、司法部副助理副总检察长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联邦贸易委员会政策规划办公室主任",
+          "司法部副助理副总检察长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "得克萨斯州总检察长办公室",
+        "role": "得克萨斯州副检察长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "得克萨斯州副检察长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012",
+          "source_ids": [
+            "s15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "摩根路易斯律师事务所",
+        "role": "合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s15"
+        ],
+        "ongoing": false,
+        "roles": [
+          "合伙人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012",
+          "source_ids": [
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "泰德·科鲁兹参议员竞选委员会",
+        "role": "共和党联邦参议员候选人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s16"
+        ],
+        "ongoing": false,
+        "roles": [
+          "共和党联邦参议员候选人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s17",
+            "s18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（得克萨斯州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s17",
+          "s18"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（得克萨斯州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2015",
+              "source_ids": [
+                "s17",
+                "s18"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2016",
+              "source_ids": [
+                "s17",
+                "s18"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "泰德·科鲁兹总统竞选委员会总统参选人（共和党党内初选）",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s17",
+              "s18"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [
+                "s17",
+                "s18"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国参议院商业、科学和交通委员会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s17",
+              "s18"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：普林斯顿/哈佛法学院入学年（按学制倒推）",
+      "底稿缺项：1997-1999律所确名（Cooper Carvin，未充分核实写通用'律师'）",
+      "底稿缺项：119届除商业委员会外的委员会续任（待 congress.gov 核）",
+      "底稿缺项：2020年后及最新 eFD 申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1995年6月」：底稿推定（规则①：1995年法学院毕业衔接司法助理），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

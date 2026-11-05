@@ -1,0 +1,80 @@
+{
+  "id": "2026-09-14-junaid-munir-nominate",
+  "date": "2026-09-14",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "junaid-munir",
+  "person": {
+    "name_zh": "朱奈德·穆尼尔",
+    "name_en": "Junaid Munir",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-14",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国驻吉布提大使馆",
+      "role": "特命全权大使",
+      "organization_en": "United States Embassy — Republic of Djibouti",
+      "role_en": "Ambassador Extraordinary and Plenipotentiary to the Republic of Djibouti",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "朱奈德·穆尼尔获提名出任美国驻吉布提大使",
+  "summary": "白宫于2026-09-14向参议院提交Junaid Munir出任美国驻吉布提大使的提名。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "The White House",
+      "published_at": "2026-09-14",
+      "excerpt": "Junaid Munir, of Michigan, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Djibouti.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 junaid-munir（库里没有此人）",
+      "现任职务新增：美国驻吉布提大使馆特命全权大使",
+      "履历新增：2026-09 美国驻吉布提大使馆特命全权大使",
+      "所属局：按提名职务定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "junaid-munir"
+  }
+}

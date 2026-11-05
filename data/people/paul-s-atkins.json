@@ -1,0 +1,566 @@
+{
+  "id": "paul-s-atkins",
+  "name_zh": "保罗·阿特金斯",
+  "name_en": "Paul S. Atkins",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Securities and Exchange Commission Chairman U.S. Securities and Exchange Commission Chairman”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/paul-s-atkins.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": {
+    "file": "paul-s-atkins.jpg",
+    "source": "https://www.sec.gov/about/sec-commissioners/paul-s-atkins",
+    "source_kind": "官方照片（机构官网）",
+    "license": "公有领域：证券交易委员会网站隐私与安全页：“Information presented on sec.gov is considered public information and may be copied or further distributed by users of the web site without the；已换蓝白渐变底",
+    "url": "https://www.sec.gov/files/images/paul-atkins_0.jpg"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Securities and Exchange Commission",
+      "role_en": "Chairman"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Securities and Exchange Commission Chairman U.S. Securities and Exchange Commission Chairman”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/paul-s-atkins.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-paul-s-atkins",
+    "line": "cadre",
+    "subject_id": "paul-s-atkins",
+    "title": "保罗·阿特金斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/about/sec-commissioners/paul-s-atkins",
+        "title": "Paul S. Atkins — SEC",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Chairman ... April 21, 2025; AB ... 1980; JD ... 1983",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-108shrg20216/pdf/CHRG-108shrg20216.pdf",
+        "title": "Senate nomination hearing — Paul S. Atkins qualifications, Schedule B",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Associate, Davis Polk & Wardwell, New York and Paris, 1983-90",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "保罗·阿特金斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1958-07",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "本科1980年毕业减22年，月份按7月",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1980",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1983-06",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "1983年JD毕业后加入达维律师事务所，月份按6月",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "1983",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "范德比尔特大学法学院研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法律博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国证券交易委员会",
+        "role": "主席",
+        "start": {
+          "value": "2025-04-21",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1976",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "1980年本科毕业减4",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1980",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1980",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "沃福德学院",
+        "role": "本科学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "本科学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1980",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "1983年JD毕业减3",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1983",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1983",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "范德比尔特大学法学院",
+        "role": "法律专业学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "法律博士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法律专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1983",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1990",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "达维律师事务所",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1990",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1994",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国证券交易委员会",
+        "role": "主席幕僚长、顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "主席幕僚长、顾问"
+        ],
+        "role_category": {
+          "value": "chief of staff and counselor",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "两位主席时期分别任幕僚长和顾问，分任日期未公布，保留先后合并表述",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国证券交易委员会",
+        "role": "委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "委员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Patomak Global Partners公司",
+        "role": "创始人兼首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "创始人兼首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2009",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2010",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "不良资产救助计划国会监督小组",
+            "role": "成员",
+            "roles": [
+              "成员"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s1"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "BATS Global Markets公司",
+        "role": "独立董事兼非执行董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "独立董事兼非执行董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-04-21",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国证券交易委员会",
+        "role": "主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月和参加工作月份为规则推算；党籍、入党时间未查到合格锚点。",
+      "1994至2002年咨询经历的单位和起止时间、Patomak离任具体日期未查清。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Paul S. Atkins；美国证券交易委员会",
+    "review_items": []
+  }
+}

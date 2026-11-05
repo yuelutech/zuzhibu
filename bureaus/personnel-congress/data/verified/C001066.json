@@ -1,0 +1,789 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001066",
+      "line": "cadre",
+      "subject_id": "c001066",
+      "title": "凯西·卡斯特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/11796",
+          "title": "CASTOR, Kathy | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Miami, Miami-Dade County, Fla., August 20, 1966",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/C001066",
+          "title": "Office of the Clerk, U.S. House of Representatives — Kathy Castor",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Kathy Castor\nFlorida (FL) – 14th, Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://castor.house.gov/biography/default.aspx",
+          "title": "Biography | U.S. Representative Kathy Castor",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "She started her professional legal career with the Florida Department of Community Affairs",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-FL.htm",
+          "title": "Congressional Directory for the 111th Congress (2009-2010), December 2009 — Florida",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Department of Community Affairs, 1991-94; attorney, Icard Merrill, 1994-95; partner, Broad and Cassel, 1995-2000",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://news.fsu.edu/wp-content/uploads/2016/10/fstimes-2007-02-01.pdf",
+          "title": "Florida State Times — February 2007",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Castor earned her Juris Doctor degree from the FSU College of Law in 1991.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.tampabay28.com/news/national/election-2020/election-2020-candidate-profiles/kathy-castor-us-house-of-representatives-district-14",
+          "title": "Kathy Castor, US House of Representatives, District 14",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Assistant General Counsel, State of Florida, Department of Community Affairs - 1991-1994",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://results.elections.myflorida.com/SummaryRpt.asp?COUNTY=HIL&DATAMODE=&ElectionDate=11/7/2000&PARTY=",
+          "title": "November 7, 2000 General Election — Official Results",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "State Senator\nDistrict: 13\nVictor Crist\n(REP)\nKathy Castor\n(DEM)",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.fec.gov/data/committee/C00410761/?cycle=2024&tab=about-committee",
+          "title": "CASTOR FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Principal campaign committee ID: C00410761 Registration date: April 11, 2005",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2014-02-18/pdf/CDIR-2014-02-18-FL.pdf",
+          "title": "Congressional Directory — 113th Congress — Florida",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "FOURTEENTH DISTRICT\nKATHY CASTOR, Democrat, of Tampa, FL",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-FL.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Florida",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "B.A., political science, Emory University, 1988; J.D., Florida State University, 1991",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:FL"
+      ],
+      "person": {
+        "name": {
+          "value": "凯西·卡斯特",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1966-08-20",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "佛罗里达州迈阿密",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1991",
+          "source_ids": [
+            "s4",
+            "s5",
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "议员官方传记明确其法律职业始于佛罗里达州社区事务部；国会名录和本人公开提交的履历均记载，1991—1994年任该部助理总法律顾问。按第一份全职工作的开始年份取1991年，不补月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1991",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s6",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "佛罗里达州立大学法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s6",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2000",
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：2000年以民主党候选人身份参加佛罗里达州第13选区州参议员选举，州选务机构2000-11-07大选结果列明Kathy Castor（DEM）；来源：https://results.elections.myflorida.com/SummaryRpt.asp?COUNTY=HIL&DATAMODE=&ElectionDate=11/7/2000&PARTY= 。本次未取得更早的选民党籍登记、本人加入声明、党组织任职或州参选首次登记日期，也未取得其2000年初选上票日期，暂保留到年。FEC竞选委员会2005-04-11登记晚于已证实的2000年民主党参选经历，按禁止采用晚于更早有效锚点日期的规则排除；底稿2002年9月亦不采用。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2000",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（佛罗里达州第14选区）",
+          "role": "",
+          "start": {
+            "value": "2013",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院能源和商业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院美国与中国共产党战略竞争特别委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1984",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s11"
+            ],
+            "inferred": true,
+            "basis": "国会官方传记和国会名录记载1988年获埃默里大学文学学士学位；本科入学年按1988－4＝1984推算。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1988",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1988",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "埃默里大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1991",
+            "source_ids": [
+              "s5",
+              "s7",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s5",
+              "s7",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佛罗里达州社区事务部",
+          "role": "助理总法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5",
+            "s7",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "助理总法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s5",
+              "s7",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1995",
+            "source_ids": [
+              "s5",
+              "s7",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Icard Merrill",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s7",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s5",
+              "s7",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2000",
+            "source_ids": [
+              "s5",
+              "s7",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Broad and Cassel",
+          "role": "合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s7",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "合伙人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2000",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2000-11-07",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佛罗里达州参议院",
+          "role": "第13选区参议员候选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "第13选区参议员候选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佛罗里达州希尔斯伯勒县委员会",
+          "role": "委员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "委员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（佛罗里达州第11选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（佛罗里达州第11选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（佛罗里达州第14选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4",
+            "s10"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（佛罗里达州第14选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2019",
+                "source_ids": [
+                  "s1",
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2022",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "众议院气候危机特别委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s4",
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.美国国会众议院.佛罗里达州第14选区.start",
+          "alternatives": [
+            {
+              "value": "2007",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2013",
+              "source_ids": [
+                "s1",
+                "s5",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2013",
+          "reason": "本人2020年问卷将整体国会任期写在现选区名称之下；第111届国会名录列其为第11选区议员，第113届名录列其为第14选区议员，选用2013年作为开始代表现选区的年份。"
+        },
+        {
+          "field": "careers.annotations.众议院气候危机特别委员会主席.end",
+          "alternatives": [
+            {
+              "value": "2022",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2023",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": "众议院历史页按第116、117届国会列示，对应2019—2023年。",
+              "inference": null
+            }
+          ],
+          "selected_value": "2022",
+          "reason": "议员现行官方传记明确写2019—2022年担任主席；历史页以国会届次列示，采用现行传记的明确年份，交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "法学院学习起始时间：查过众议院历史人物页、议员官方传记、国会名录、佛罗里达州立大学校报及法学院校友杂志，确认1991年取得法学博士，未找到入学年份；按本批不作法学院学制倒推的要求，未列起止不全的学习条目。",
+        "参加工作月份及早期履历月份：国会名录和本人公开履历仅写1991、1994、1995、2000、2002及2006等年份，没有找到月份。",
+        "2000—2002年职业经历：查过国会名录、议员官方传记及本人公开履历，确认2000年州参议员竞选和2002年起县委员任职，未找到两者之间持续职业及单位的起止依据。",
+        "现选区任职起始月日：已打开的官方名录确认第113届国会任第14选区议员，未取得明确记载该选区任职起始月日的原文，保留2013年。",
+        "入党更早锚点及2000年首次上票日期：检索过选民登记线索、党组织任职、州参选登记、参选公告及初选结果；未取得可打开的更早锚点或本人初选上票记录，现按2000年民主党候选人记录保留到年。",
+        "第119届国会两项委员会职务起始日期：书记官现行名单和议员传记确认在任，未找到本届实际就任或生效日期，current_roles.start留null。",
+        "兼职起止日期：官方传记列有希尔斯伯勒县环境保护委员会主席、佛罗里达州女律师协会主席及民主党众议院指导和政策委员会经历，未找到完整起止日期，未写入履历括注。",
+        "族裔：检索到罗格斯大学CAWP数据库将其列为White，但未取得符合本批要求的本人自述或官方统计原文，ethnicity留null。",
+        "学习形式：已打开的学历来源未明确全日制或非全日制，full_time留null。"
+      ],
+      "excluded": [
+        "底稿『1991—2002年佛罗里达州公共行政法律师、州政府法律顾问』：国会名录明确分为1991—1994年州社区事务部助理总法律顾问、1994—1995年Icard Merrill律师、1995—2000年Broad and Cassel合伙人，原合并条目不采用。",
+        "底稿『1991年6月参加工作』：已打开来源只支持1991年，不采用6月。",
+        "底稿『2002年9月加入美国民主党』：无原始锚点，且州官方结果已确认2000年以民主党身份参加州参议员选举。",
+        "底稿『1988—1991年佛罗里达州立大学法学院学习』：1991年毕业有依据，1988年入学未取得依据，不直接沿用。",
+        "底稿『现职起于2025年1月』：2025年是本届宣誓年份，现选区任职起始年份采用2013年。",
+        "底稿『2025年起兼任众议院能源和商业委员会委员』：官方历史页及早期国会名录已记载更早的委员会经历，2025年不是首次任职年份。",
+        "底稿『2019—2023年气候危机特别委员会主席』：现行议员官方传记明确写2019—2022年，差异已列conflicts。",
+        "查到『CASTOR FOR CONGRESS于2005-04-11登记』：晚于已确认的2000年民主党参选经历，不作为入党推断日期。",
+        "查到『能源小组委员会资深成员』：属于小组委员会职务，按本批要求不在current_roles单列。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（佛罗里达州第14选区），美国国会众议院；Bioguide C001066",
+      "review_items": [
+        "复核入党锚点：补查2000年州参选首次登记和初选上票记录，现值保留到年。",
+        "AI政见确认气候危机特别委员会主席终止年份冲突。",
+        "表外机构译名复核：佛罗里达州社区事务部、众议院美国与中国共产党战略竞争特别委员会。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "2026-08-06-douglas-a-schiess-confirm",
+  "date": "2026-08-06",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "douglas-a-schiess",
+  "person": {
+    "name_zh": "道格拉斯·A.希斯",
+    "name_en": "Douglas A. Schiess",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-08-06",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国太空军",
+      "role": "太空作战部长",
+      "organization_en": "U.S. Space Force",
+      "role_en": "Chief of Space Operations",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "美国参议院确认道格拉斯·A.希斯出任太空作战部长",
+  "summary": "参议院8月6日以口头表决确认希斯的晋升提名；《星条旗报》报道其太空作战部长任职及上将军衔同获确认。",
+  "bureaus": [
+    "military"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/LIS/floor_activity/08_06_2026_Senate_Floor.htm",
+      "title": "Senate Floor Activity — Thursday, August 6, 2026",
+      "publisher": "美国参议院",
+      "published_at": "2026-08-06",
+      "excerpt": "Lt. Gen. Douglas A. Schiess, in the Space Force, to be General",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    },
+    {
+      "id": "e2",
+      "url": "https://www.stripes.com/branches/space_force/2026-08-07/next-space-force-chief-schiess-confirmed-22483523.html",
+      "title": "Senate confirms Schiess to lead Space Force",
+      "publisher": "星条旗报",
+      "published_at": "2026-08-07",
+      "excerpt": "He was confirmed to the role and the rank of four-star general in a voice vote Thursday night.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": "roster-douglas-a-schiess",
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-17",
+    "changes": [],
+    "notes": [
+      "新任“美国太空军太空作战部长”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "military",
+    "bureau_after": "military",
+    "person_id": "douglas-a-schiess"
+  }
+}

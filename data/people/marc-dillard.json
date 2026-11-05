@@ -1,0 +1,405 @@
+{
+  "id": "marc-dillard",
+  "name_zh": "马克·迪拉德",
+  "name_en": "Marc Dillard",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "resume": {
+    "id": "cadre-marc-dillard",
+    "line": "cadre",
+    "subject_id": "marc-dillard",
+    "title": "马克·迪拉德简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://pi-sf.com/speaker/marc-dillard/",
+        "title": "Marc Dillard | Parliamentary Intelligence-Security Forum",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Marc Dillard arrived in August 2025 as Deputy Chief of Mission at the U.S. Embassy in Pretoria.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
+        "title": "Nominations Sent to the Senate",
+        "published_at": "2026-08-07",
+        "checked_at": "2026-10-18",
+        "excerpt": "Marc Dillard ... to be Ambassador ... to the Republic of Madagascar ... concurrently ... to the Union of the Comoros.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.foreign.senate.gov/download/093026_dillard_testimonypdf",
+        "title": "Opening Statement of Marc Dillard",
+        "published_at": "2026-09-30",
+        "checked_at": "2026-10-18",
+        "excerpt": "Having come to the Department of State after teaching at a business school and being a consultant",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://xpatloop.com/interviews/2020/08/marc-dillard-deputy-chief-of-mission-u-s-embassy-budapest.html",
+        "title": "Interview: Marc Dillard",
+        "published_at": "2020-08-17",
+        "checked_at": "2026-10-18",
+        "excerpt": "My family and I arrived in August 2019 ... a bachelor’s degree in history ... a Ph.D. in political economy and public policy.",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://thekenyatimes.com/latest-kenya-times-news/marc-dillard-meet-diplomat-set-to-replace-meg-whitman-on-a-temporary-basis/",
+        "title": "Marc Dillard: Meet Diplomat Set to Replace Meg Whitman",
+        "published_at": "2024-11-13",
+        "checked_at": "2026-10-18",
+        "excerpt": "Deputy Chief of Mission ... Nairobi since August 2022; Budapest from 2019 to 2022.",
+        "tier": 2
+      },
+      {
+        "id": "s6",
+        "url": "https://nairobileo.co.ke/news/article/18166/marc-dillard-sends-message-to-kenyans-as-he-assumes-meg-whitmans-role/",
+        "title": "Marc Dillard Sends Message to Kenyans as He Assumes Meg Whitman’s Role",
+        "published_at": "2024-11-27",
+        "checked_at": "2026-10-18",
+        "excerpt": "The new Charge d’Affaires at the US Embassy in Kenya Marc Dillard",
+        "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://www.senate.gov/legislative/nom_cmtec.htm",
+        "title": "Nominations in Committee (Civilian)",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Marc Dillard ... to be Ambassador ... to the Republic of Madagascar ... concurrently ... to the Union of the Comoros.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "马克·迪拉德",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "研究生",
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哲学博士",
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国驻南非大使馆",
+        "role": "副馆长",
+        "start": {
+          "value": "2025-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "副馆长"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国驻马达加斯加大使馆",
+        "role": "大使",
+        "start": {
+          "value": "2026-08-07",
+          "source_ids": [
+            "s2",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s7"
+        ],
+        "roles": [
+          "大使"
+        ],
+        "sector": "politics",
+        "appointment_state": "提名人选"
+      },
+      {
+        "organization": "美国驻科摩罗大使馆",
+        "role": "大使",
+        "start": {
+          "value": "2026-08-07",
+          "source_ids": [
+            "s2",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s7"
+        ],
+        "roles": [
+          "大使"
+        ],
+        "sector": "politics",
+        "appointment_state": "提名人选"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：原来源仅载年份，月份按缺月取7月推测；不是来源所载具体月份。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1998",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "美国国务院",
+        "role": "外交官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "外交官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": true
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-08",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-08",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：原来源仅载年份，月份按同年下一条任职开始月份衔接推测；不是来源所载具体月份。",
+          "inference": {
+            "rule": "adjacent_entry",
+            "from_date": "2022",
+            "duration_years": null
+          }
+        },
+        "organization": "美国驻匈牙利大使馆",
+        "role": "副馆长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副馆长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-08",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国驻肯尼亚大使馆",
+        "role": "副馆长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副馆长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国驻南非大使馆",
+        "role": "副馆长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "副馆长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月、出生城市未查到；芝加哥附近为成长地。",
+      "杜克大学历史学文学学士、南加州大学政治经济学与公共政策哲学博士已核实，就读及授予年份未查到。",
+      "进入国务院前曾任顾问并在商学院授课，机构和起止年份未查到，参加工作时间留空。",
+      "国务院经济政策分析和公共外交办公室主任、驻保加利亚政治经济参赞及其他早期外派任期未查到。",
+      "2024年11月27日已任驻肯尼亚临时代办，具体到任日和离任日未查到；未把报道日当到任日。",
+      "未查到党籍、入党锚点和族裔。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Marc Dillard；美国驻南非大使馆",
+    "review_items": [
+      "出生和首次工作年份缺失，保留seed级。"
+    ]
+  },
+  "data_cutoff": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-18",
+  "events": [
+    "2026-08-07-marc-dillard-nominate"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-08-07",
+      "event": "2026-08-07-marc-dillard-nominate",
+      "reason": ""
+    }
+  ],
+  "origin": "一局动态新建；补采简历 bureaus/personnel-whitehouse/data/verified/marc-dillard.json（sanju-baigong，程序检查通过，待独立核查）",
+  "name_zh_pending": true
+}

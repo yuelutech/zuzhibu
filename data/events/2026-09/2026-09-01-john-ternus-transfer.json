@@ -1,0 +1,118 @@
+{
+  "id": "2026-09-01-john-ternus-transfer",
+  "date": "2026-09-01",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "john-ternus",
+  "person": {
+    "name_zh": "约翰·特努斯",
+    "name_en": "John Ternus",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-04-20",
+  "effective_at": "2026-09-01",
+  "ended_roles": [
+    {
+      "organization": "苹果公司",
+      "role": "硬件工程高级副总裁",
+      "organization_en": "Apple",
+      "role_en": "senior vice president of Hardware Engineering",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e3"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "苹果公司",
+      "role": "首席执行官",
+      "organization_en": "Apple",
+      "role_en": "chief executive officer",
+      "start": "2026-09-01",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e3",
+        "e4"
+      ]
+    },
+    {
+      "organization": "苹果公司",
+      "role": "董事",
+      "organization_en": "Apple",
+      "role_en": "member of the board of directors",
+      "start": "2026-09-01",
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "e3",
+        "e4"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "约翰·特努斯任苹果公司首席执行官",
+  "summary": "苹果公司4月20日宣布，特努斯9月1日接替蒂姆·库克担任首席执行官，并于同日加入董事会。特努斯此前任硬件工程高级副总裁，库克转任执行董事长。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e3",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "title": "Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO",
+      "publisher": "Apple",
+      "published_at": "2026-04-20",
+      "excerpt": "effective on September 1, 2026.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e4",
+      "url": "https://www.apple.com/leadership/",
+      "title": "Apple Leadership",
+      "publisher": "Apple",
+      "published_at": null,
+      "excerpt": "John Ternus CEO",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": "roster-john-ternus",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "现任职务新增：苹果公司董事",
+      "履历新增：2026-09 苹果公司董事"
+    ],
+    "notes": [
+      "原任“苹果公司 硬件工程高级副总裁 Apple senior vice president of Hardware Engineering”在记录的现任职务里找不到对应项，未移出",
+      "新任“苹果公司首席执行官”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "ai",
+    "bureau_after": "ai",
+    "person_id": "john-ternus",
+    "reason": "主要职务“苹果公司 首席执行官”：AI 与科技机构名单"
+  }
+}

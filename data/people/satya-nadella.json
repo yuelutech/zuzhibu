@@ -1,0 +1,357 @@
+{
+  "id": "satya-nadella",
+  "name_zh": "萨蒂亚·纳德拉",
+  "name_en": "Satya Nadella",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“微软公司 董事长兼首席执行官 Microsoft Chairman and Chief Executive Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/satya-nadella.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://news.microsoft.com/source/wp-content/uploads/2024/10/MS-Exec-Nadella-Satya.jpg",
+    "source": "维护者提供（萨蒂亚·纳德拉_Satya-Nadella_微软.jpg）",
+    "file": "satya-nadella.jpg",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Microsoft",
+      "role_en": "Chairman and Chief Executive Officer"
+    }
+  ],
+  "notes": [
+    "since refers to the combined Chairman and CEO roles; CEO since 2014-02."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“微软公司 董事长兼首席执行官 Microsoft Chairman and Chief Executive Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "satya-nadella-20261018",
+    "line": "cadre",
+    "subject_id": "satya-nadella",
+    "title": "萨蒂亚·纳德拉简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://news.microsoft.com/source/exec/satya-nadella/",
+        "title": "Satya Nadella — Microsoft",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Chairman and Chief Executive Officer.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://economictimes.indiatimes.com/panache/panache-people-101/satya-nadella/profileshow/80265863.cms",
+        "title": "Satya Nadella — The Economic Times",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Birth Details August 19, 1967; Nationality American",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://uwm.edu/news/uwm-alum-ms-ceo/",
+        "title": "UW-Milwaukee alum named Microsoft CEO",
+        "published_at": "2014-02-04",
+        "checked_at": "2026-10-18",
+        "excerpt": "After graduation from UWM he joined Sun Microsystems’ Chicago office.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://news.uchicago.edu/story/microsoft-ceo-honed-business-skills-booth",
+        "title": "Microsoft CEO honed business skills at Booth",
+        "published_at": "2014-09-02",
+        "checked_at": "2026-10-18",
+        "excerpt": "Satya Nadella, MBA’97.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "萨蒂亚·纳德拉",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1967-08",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1990-06",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "UWM记1990年硕士毕业后进入Sun；首份全职工作的年取毕业年，月份按美国学年取6月。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1990",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "威斯康星大学密尔沃基分校计算机科学硕士、芝加哥大学工商管理硕士双硕士学位",
+        "source_ids": [
+          "s1",
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "硕士",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "微软公司",
+        "role": "董事长、首席执行官",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "董事长",
+          "首席执行官"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1990-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "UWM记1990年硕士毕业后进入Sun；首份全职工作的年取毕业年，月份按美国学年取6月。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1990",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1992-07",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "来源仅载1992年，按 cadre.md 3.3 缺月份取7月规则补齐。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1992",
+            "duration_years": null
+          }
+        },
+        "organization": "太阳微系统公司",
+        "role": "技术人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "技术人员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "来源仅载2011年，按 cadre.md 3.3 缺月份取7月规则补齐。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "微软公司",
+        "role": "服务器及工具业务总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "服务器及工具业务总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2014-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "微软公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "微软公司",
+    "conflicts": [
+      {
+        "field": "education.MBA.graduation",
+        "alternatives": [
+          {
+            "value": "1997",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "1996",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "1997",
+        "reason": "采用授予学位的芝加哥大学官方校友报道；财经媒体记载不同。"
+      }
+    ],
+    "unknowns": [
+      "本科及计算机硕士入学年月、董事长到任月、微软前期各内部职位交接年月未找到。",
+      "1992年至2011年微软历次职位起止日期未核定。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "1992年为进入微软之年，商业部门及在线服务部门职务为合并的先后职位，未主张均于1992年就任。",
+      "1997年获芝加哥大学在职MBA，学习起止月份未找到。",
+      "有来源的无起始日期经历：门格洛尔大学；电气工程；终点：未找到；来源：s1",
+      "有来源的无起始日期经历：威斯康星大学密尔沃基分校；计算机科学；终点：1990；来源：s3",
+      "有来源的无起始日期经历：微软公司；云与企业部门执行副总裁；终点：2014-02；来源：s1",
+      "1992年进入微软；商业部门副总裁、在线服务部门研发高级副总裁的各自任期未查明，暂保留在来源记录，避免以入职年替代任职开始年。来源s1。",
+      "来源s1阅读记录：CEO始于2014年2月，1992年进入微软，列此前管理职位及三项学位。",
+      "来源s3阅读记录：1990年获计算机科学硕士；2011年任服务器及工具业务总裁。",
+      "来源s4阅读记录：在职周末MBA，实际学习两年半。"
+    ]
+  }
+}

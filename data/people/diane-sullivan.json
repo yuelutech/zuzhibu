@@ -1,0 +1,140 @@
+{
+  "id": "diane-sullivan",
+  "name_zh": "黛安·沙利文",
+  "name_en": "Diane Sullivan",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-diane-sullivan",
+    "line": "cadre",
+    "subject_id": "diane-sullivan",
+    "title": "黛安·沙利文简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.ncpc.gov/participate/releases/2026/NCPC_Executive_Director_Marcel_Acosta_to_Retire_After_25_Years_of_Federal_Service.pdf",
+        "title": "NCPC Executive Director Marcel Acosta to Retire After 25 Years of Federal Service",
+        "published_at": "2026-09-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "NCPC Chairman Mark Paoletta announced that Current Planning Division Director Diane Sullivan will serve as Acting Executive Director, effective upon Acosta’s departure.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "黛安·沙利文",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国国家首都规划委员会",
+        "role": "代理执行主任",
+        "start": {
+          "value": "2026-09-18",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "代理"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-09-18",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国家首都规划委员会",
+        "role": "代理执行主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "代理",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "events": [
+    "2026-09-18-diane-sullivan-acting"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "三局规则补进独立机构（第五节“独立机构归三局”）：主要职务“美国国家首都规划委员会 代理执行主任”：总统、白宫、内阁与独立机构"
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true
+}

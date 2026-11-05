@@ -1,0 +1,677 @@
+{
+  "id": "larry-ellison",
+  "name_zh": "拉里·埃里森",
+  "name_en": "Larry Ellison",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“甲骨文公司 Executive Chairman of the Board and Chief Technology Officer Oracle Executive Chairman of the Board and Chief Technology Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/larry-ellison.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.oracle.com/a/ocom/img/cimg1x1sm-larry-ellison.webp",
+    "source": "https://www.oracle.com/corporate/executives/larry-ellison/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Oracle",
+      "role_en": "Executive Chairman of the Board and Chief Technology Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“甲骨文公司 Executive Chairman of the Board and Chief Technology Officer Oracle Executive Chairman of the Board and Chief Technology Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "larry-ellison-20261018",
+    "line": "cadre",
+    "subject_id": "larry-ellison",
+    "title": "拉里·埃里森简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.oracle.com/corporate/executives/larry-ellison/",
+        "title": "Larry Ellison — Oracle",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Chairman of the Board and Chief Technology Officer",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526402816/orcl-20260925.htm",
+        "title": "Oracle 2026 proxy statement",
+        "published_at": "2026-09-25",
+        "checked_at": "2026-10-18",
+        "excerpt": "Executive Chair, Chief Technology Officer and Founder",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://kesq.com/news/national-world/cnn-national/2021/08/08/larry-ellison-fast-facts/",
+        "title": "Larry Ellison Fast Facts — CNN",
+        "published_at": "2021-08-08",
+        "checked_at": "2026-10-18",
+        "excerpt": "Birth date: August 17, 1944; Birth place: New York, New York",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.maxim.com/maxim-man/larry-ellison-profile-2015-11/",
+        "title": "The Rise (and Rise) of Larry Ellison",
+        "published_at": "2015-11-25",
+        "checked_at": "2026-10-18",
+        "excerpt": "his first job was to help people find employment",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://www.biography.com/business-figure/larry-ellison/",
+        "title": "Larry Ellison — Biography",
+        "published_at": "2025-09-11",
+        "checked_at": "2026-10-18",
+        "excerpt": "American businessman",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "拉里·埃里森"
+    ],
+    "person": {
+      "name": {
+        "value": "拉里·埃里森",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1944-08",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "纽约",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1966-07",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "1966年第一份工作为就业介绍；月份缺失取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1966",
+          "duration_years": null
+        }
+      },
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": {
+        "value": "芝加哥大学",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "甲骨文公司",
+        "role": "执行董事长、首席技术官",
+        "roles": [
+          "执行董事长",
+          "首席技术官"
+        ],
+        "start": {
+          "value": "2014-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1962",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1964",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "伊利诺伊大学厄巴纳—香槟分校",
+        "role": null,
+        "program": "肄业",
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1966",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1966",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "芝加哥大学",
+        "role": null,
+        "program": "肄业",
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1966-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "1966年开始；月份取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1966",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "伯克利就业介绍机构",
+        "role": "就业介绍员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "就业介绍员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1977-06",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1978",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Software Development Laboratories 公司（甲骨文前身）",
+        "role": "首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1978",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1990",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "甲骨文公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1990",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1992",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "甲骨文公司",
+        "role": "董事长、总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长",
+          "总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1995-05",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "甲骨文公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995-05",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1996",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "甲骨文公司",
+        "role": "董事长、总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长",
+          "总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1996",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2004-01",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "甲骨文公司",
+        "role": "董事长、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004-01",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2014-09",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "甲骨文公司",
+        "role": "首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2014-09",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "甲骨文公司",
+        "role": "执行董事长、首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "执行董事长",
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "甲骨文公司",
+    "conflicts": [],
+    "unknowns": [
+      "早期就业介绍机构名称未公开，按来源的机构类别记载。",
+      "IBM、Fireman’s Fund、Wells Fargo、Amdahl的职务起止日期未齐；未补造连续履历。",
+      "1966年就业机构职位为来源所述职责概括。",
+      "未核到族裔自述。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Larry Ellison；甲骨文公司；执行董事长、首席技术官",
+    "review_items": [
+      "学习条目的肄业表述需随展示稿复核；未填写未取得的学位。"
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "id": "alexander-karp",
+  "name_zh": "亚历山大·卡普",
+  "name_en": "Alexander Karp",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“帕兰蒂尔公司 联合创始人、首席执行官 Palantir Co-founder and Chief Executive Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/alexander-karp.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://s26.q4cdn.com/381064750/files/images/mgmt/A_Karp_Headshot.png",
+    "source": "维护者提供（亚历山大·卡普_Alexander-Karp_Palantir.jpg）",
+    "file": "alexander-karp.jpg",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Palantir",
+      "role_en": "Co-founder and Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“帕兰蒂尔公司 联合创始人、首席执行官 Palantir Co-founder and Chief Executive Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "alexander-karp-20261018",
+    "line": "cadre",
+    "subject_id": "alexander-karp",
+    "title": "亚历山大·卡普简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm",
+        "title": "Palantir 2026 Proxy Statement",
+        "excerpt": "He has served as our Chief Executive Officer (“CEO”) since 2005",
+        "published_at": "2026-04-24",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.munzinger.de/register/portrait/biographien/Alex%2BKarp/00/33077",
+        "title": "Alex Karp — Munzinger Biographie",
+        "excerpt": "amerikanischer Unternehmer; Mitgründer von Palantir Technologies 2003, seither CEO; Gründer Caedmon Group 2002",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://www.news.cn/milpro/20241114/884acf247be343cf8f14ce579808f682/c.html",
+        "title": "美国如何把俄乌冲突作为AI运用试验场",
+        "excerpt": "美国帕兰蒂尔技术公司行政总裁卡普",
+        "published_at": "2024-11-14",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "亚历山大·卡普"
+    ],
+    "person": {
+      "name": {
+        "value": "亚历山大·卡普",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1967-10",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "纽约",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2002-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "第一份全职工作按有来源的最早任职：2002 年创办 Caedmon Group（Munzinger；写法第 3 节：创业也算参加工作）；读博期间在法兰克福弗洛伊德研究所的研究工作无年月来源；月份沿用履历该条（7 月）",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "2002",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "歌德大学",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "社会理论博士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "帕兰蒂尔公司",
+        "role": "联合创始人、首席执行官、董事",
+        "start": {
+          "value": "2005-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2005",
+            "duration_years": null
+          }
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1985-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1989减标准学制4年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1989",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1989-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "organization": "哈弗福德学院",
+        "role": null,
+        "program": null,
+        "degree_awarded": {
+          "value": "学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1989-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1992减标准学制3年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1992",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1992-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1992",
+            "duration_years": null
+          }
+        },
+        "organization": "斯坦福大学",
+        "role": null,
+        "program": "法学",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2002",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "Caedmon Group",
+        "role": "创始人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2003",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2005-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2005",
+            "duration_years": null
+          }
+        },
+        "organization": "帕兰蒂尔公司",
+        "role": "联合创始人、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2005",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "帕兰蒂尔公司",
+        "role": "联合创始人、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "帕兰蒂尔公司",
+    "conflicts": [
+      {
+        "field": "current_roles[0].start",
+        "alternatives": [
+          {
+            "value": "2005",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2003",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2005",
+        "reason": "公司2026年监管申报明确写CEO自2005年起；本次已确认采用公司申报。默认月份只用于展示。"
+      }
+    ],
+    "unknowns": [
+      "博士入学年月未知；2002年博士毕业见s2，未编入学日期。",
+      "2026-06-01以来未检出改变现任职务的合格公告。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "表外中文名：姓采用新华网‘卡普’，Alexander按译音规则拟为‘亚历山大’。"
+    ]
+  }
+}

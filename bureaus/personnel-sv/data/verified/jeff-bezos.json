@@ -1,0 +1,683 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "jeff-bezos-20261018",
+      "line": "cadre",
+      "subject_id": "jeff-bezos",
+      "title": "杰夫·贝索斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm",
+          "title": "Amazon 2026 Proxy Statement",
+          "published_at": "2026-04",
+          "checked_at": "2026-10-18",
+          "excerpt": "Founder and Executive Chair ... Co-founded AI company Project Prometheus in February 2025 and has served as co-CEO since November 2025",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://media.corporate-ir.net/media_files/irol/97/97664/reports/123199_10k.pdf",
+          "title": "Amazon 1999 Form 10-K",
+          "published_at": "2000-03-24",
+          "checked_at": "2026-10-18",
+          "excerpt": "From December 1990 to June 1994 ... D.E. Shaw & Co. ... becoming Senior Vice President in 1992.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://sis.pitt.edu/mbsclass/hall_of_fame/bezos.html",
+          "title": "Jeff Bezos — School of Information Science Hall of Fame",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Born: January 12, 1964 ... After graduating from Princeton in 1986 ... Bezos joined FITEL",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://www.forbes.com/profile/jeff-bezos/",
+          "title": "Jeff Bezos — Forbes",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Citizenship United States",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://www.ebsco.com/research-starters/biography/jeff-bezos",
+          "title": "Jeff Bezos — Research Starters",
+          "published_at": "2025",
+          "checked_at": "2026-10-18",
+          "excerpt": "Bezos accepted a position with Fitel ... where he created software to track international stock trades.",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "杰夫·贝索斯"
+      ],
+      "person": {
+        "name": {
+          "value": "杰夫·贝索斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1964-01",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "新墨西哥阿尔伯克基",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1986-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre 3.3、9.6：1986年本科毕业后首份全职工作，毕业默认5月，工作取次月6月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1986-05",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "普林斯顿大学电气工程与计算机科学专业",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "理学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "亚马逊公司",
+          "role": "创始人、执行董事长",
+          "roles": [
+            "创始人",
+            "执行董事长"
+          ],
+          "start": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "普罗米修斯项目公司",
+          "role": "联合创始人、联席首席执行官",
+          "roles": [
+            "联合创始人",
+            "联席首席执行官"
+          ],
+          "start": {
+            "value": "2025-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1982-09",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre 3.3、9.6：本科1986年毕业，减4年，入学取9月。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1986",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1986-05",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "美国毕业默认5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1986",
+              "duration_years": null
+            }
+          },
+          "organization": "普林斯顿大学",
+          "role": null,
+          "program": "电气工程与计算机科学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1986-06",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "1986年毕业后首份全职工作，取6月。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "1986-05",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1988-04",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "与下一任职起点衔接；原始离职月未载。",
+            "inference": {
+              "rule": "adjacent_entry",
+              "from_date": "1988-04",
+              "duration_years": null
+            }
+          },
+          "organization": "Fitel 公司",
+          "role": "软件开发人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "软件开发人员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1988-04",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1990-12",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "银行家信托公司",
+          "role": "技术人员、副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "技术人员",
+            "副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1992-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "晋升年1992，月份默认7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1992",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1994-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "德劭公司",
+          "role": "高级副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "高级副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1996-05",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "亚马逊公司",
+          "role": "创始人、董事长、总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始人",
+            "董事长",
+            "总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996-05",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "亚马逊公司",
+          "role": "董事长、总裁、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "董事长",
+            "总裁",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2000-10",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "亚马逊公司",
+          "role": "董事长、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "董事长",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2000-10",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "亚马逊公司",
+          "role": "董事长、总裁、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "董事长",
+            "总裁",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "亚马逊公司",
+          "role": "创始人、执行董事长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "创始人",
+            "执行董事长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-02",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "普罗米修斯项目公司",
+          "role": "联合创始人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "普罗米修斯项目公司",
+          "role": "联合创始人、联席首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联合创始人",
+            "联席首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "亚马逊公司",
+      "conflicts": [],
+      "unknowns": [
+        "德劭1990-12至1992年晋升前具体职务未载，暂缺该段。",
+        "Fitel软件开发人员、银行家信托技术人员为来源明确职责类别的概括；职务交接月未载。",
+        "蓝色起源创始人、华盛顿邮报所有者有来源，但未核到本次可用的完整起止与治理职务。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Jeff Bezos；亚马逊公司；创始人、执行董事长",
+      "review_items": [
+        "普罗米修斯项目新职早于本批动态窗口，不报2026年6月以来动态。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-2"
+}

@@ -1,0 +1,683 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-christopher-phelan",
+      "line": "cadre",
+      "subject_id": "christopher-phelan",
+      "title": "克里斯托弗·费兰简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.whitehouse.gov/cea/information-resources/",
+          "title": "CEA information and resources",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Christopher Phelan serves as Chairman; on leave as Professor; 1998 to 2026 ... Federal Reserve Bank of Minneapolis",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://cla.umn.edu/about/directory/profile/cphelan",
+          "title": "Christopher Phelan | University of Minnesota",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Ph.D. ... 1990; A.M. ... 1987; A.B. ... 1984; Assistant Professor ... September 1990 - July1994",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.senate.gov/pagelayout/legislative/one_item_and_teasers/nom_confc.htm",
+          "title": "Nominations Confirmed (Civilian)",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "2026-08-07 PN931-6 ... Christopher Phelan ... Chairman of the Council of Economic Advisers",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Christopher_Phelan",
+          "title": "Christopher Phelan",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born February 1963; Term Start: August 10, 2026; Vice Chair ... July 6, 2026",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://www.nber.org/news/phelan-and-rey-take-new-roles-cea-and-bis",
+          "title": "Phelan and Rey Take New Roles at CEA and BIS",
+          "published_at": "2026-09-09",
+          "checked_at": "2026-10-18",
+          "excerpt": "Phelan was confirmed as CEA Chair in early August.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "克里斯托弗·费兰",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1962-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1984年本科毕业减22年；未有原始出生月份，按规则取7月",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "1984",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1990-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "education": {
+          "value": "芝加哥大学经济学专业博士研究生",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "哲学博士",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国总统经济顾问委员会",
+          "role": "主席",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1980",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "1984年学士毕业减本科四年",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1984",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1984",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "杜克大学",
+          "role": "经济学、计算机科学专业学习",
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学、计算机科学专业学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "1987年硕士毕业减标准两年；博士入学时间另缺",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1987",
+              "duration_years": 2
+            }
+          },
+          "end": {
+            "value": "1987",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "芝加哥大学",
+          "role": "经济学专业硕士研究生学习",
+          "program": null,
+          "degree_awarded": {
+            "value": "文学硕士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学专业硕士研究生学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1990-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1994-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "威斯康星大学麦迪逊分校",
+          "role": "经济学系助理教授",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学系助理教授"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1997-08",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "西北大学凯洛格管理学院",
+          "role": "助理教授",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "助理教授"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997-08",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999-08",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "西北大学凯洛格管理学院",
+          "role": "副教授",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "副教授"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1998-08",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2000",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "明尼阿波利斯联邦储备银行",
+          "role": "研究部经济学家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "研究部经济学家"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "明尼苏达大学",
+          "role": "经济学系兼职教授",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学系兼职教授"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2001-08",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007-08",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "明尼阿波利斯联邦储备银行",
+          "role": "研究部高级经济学家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "研究部高级经济学家"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "明尼苏达大学",
+          "role": "经济学系教授",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学系教授"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007-08",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2026",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "明尼阿波利斯联邦储备银行",
+          "role": "研究部顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "研究部顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "明尼苏达大学",
+          "role": "经济学系研究生项目主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学系研究生项目主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "明尼苏达大学",
+          "role": "经济学系主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经济学系主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "芝加哥大学经济学博士1990年取得，博士阶段起始日期未查到，未编学制。",
+        "2000年至2001年8月任职衔接、研究顾问2026年结束月份、大学休假日期未查清。",
+        "大学官网仍列教授，白宫说明处于休假状态；未将大学职务列为同时履职的现任。",
+        "出生地、党籍、入党锚点未查到。",
+        "副主席与主席到任日目前以三级来源补齐；正式现任身份和参院确认均有一级来源。",
+        "维基所列1963年2月出生、2026年7月6日任副主席、8月10日任主席，未取得相应原始记录；不作为确定日期。出生年月按已核本科毕业年推算，主席到任日留空。",
+        "已查事实：美国总统经济顾问委员会；主席；起始时间未查明；结束时间未查明。来源：s1、s3、s5。缺少时间或机构，暂不编入有日期的履历。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Christopher Phelan；美国总统经济顾问委员会",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

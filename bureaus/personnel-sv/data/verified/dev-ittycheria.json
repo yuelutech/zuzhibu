@@ -1,0 +1,375 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "dev-ittycheria-20261018",
+      "line": "cadre",
+      "subject_id": "dev-ittycheria",
+      "title": "德夫·伊蒂切里亚简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.mongodb.com/company/newsroom/press-releases/mongodb-announces-ceo-transition?locale_fallback=de-de",
+          "title": "MongoDB Announces CEO Transition",
+          "excerpt": "Dev Ittycheria Appointed Interim President and Chief Executive Officer",
+          "published_at": "2026-09-28",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026036415/mdb-20260513.htm",
+          "title": "MongoDB 2026 Proxy Statement",
+          "excerpt": "Dev Ittycheria",
+          "published_at": "2026-05-13",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.mongodb.com/company/leadership",
+          "title": "MongoDB Leadership",
+          "excerpt": "Partner and Senior Advisor at Sequoia Capital",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "德夫·伊蒂切里亚"
+      ],
+      "person": {
+        "name": {
+          "value": "德夫·伊蒂切里亚",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1966-11",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2026年5月13日代理声明列59岁，出生区间1966-05-14至1967-05-13，中间月份1966年11月。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2026-05-13",
+            "duration_years": null
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "罗格斯大学",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "电气工程理学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "MongoDB公司",
+          "role": "临时总裁兼首席执行官",
+          "start": {
+            "value": "2026-09-28",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "临时"
+        },
+        {
+          "organization": "MongoDB公司",
+          "role": "董事",
+          "start": {
+            "value": "2014-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "Datadog公司",
+          "role": "首席独立董事",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "红杉资本",
+          "role": "合伙人、高级顾问",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008-04",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010-02",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "BMC软件公司",
+          "role": "企业管理业务总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012-02",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Greylock Partners公司",
+          "role": "风险合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-10",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "OpenView Venture Partners公司",
+          "role": "董事总经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-11",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "MongoDB公司",
+          "role": "总裁、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-09-28",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "MongoDB公司",
+          "role": "临时总裁兼首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "临时",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "MongoDB公司",
+      "conflicts": [],
+      "unknowns": [
+        "国籍、首份全职工作起始时间、罗格斯大学学位年份未知。已核实BladeLogic联合创始人及首席执行官经历，起始时间未知；来源s2。Datadog首席独立董事起始时间未知。",
+        "MongoDB现行领导页列红杉资本合伙人兼高级顾问，起任时间未查到，未作为2026年6月以来已定日期动态。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

@@ -1,0 +1,769 @@
+{
+  "id": "donald-trump",
+  "name_zh": "唐纳德·特朗普",
+  "name_en": "Donald Trump",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "reverified",
+  "ids": {
+    "congress_import": "president"
+  },
+  "data_cutoff": "2026-10-20",
+  "roles_checked_at": "2026-10-20",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入，reverify.py 重核通过",
+  "portrait": {
+    "file": "donald-trump.jpg",
+    "source": "维护者提供（唐纳德·特朗普_Donald-Trump_美国总统_雷达版.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/President-Donald-Trump-Official-Presidential-Portrait.png"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-president",
+    "line": "cadre",
+    "subject_id": "president",
+    "title": "唐纳德·特朗普简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/administration/donald-j-trump/",
+        "title": "President Donald J. Trump",
+        "published_at": null,
+        "checked_at": "2026-10-20",
+        "excerpt": "Donald J. Trump\n45th & 47th President of the United States\nHe won a second time",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.trumplibrary.gov/trumps/president-donald-j-trump",
+        "title": "President Donald J. Trump | Donald J. Trump Presidential Library",
+        "published_at": null,
+        "checked_at": "2026-10-20",
+        "excerpt": "Donald J. Trump was born on June 14, 1946, in Queens, New York\nJanuary 20, 2017\nJanuary 20, 2025",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://millercenter.org/president/trump",
+        "title": "Donald Trump | Miller Center",
+        "published_at": null,
+        "checked_at": "2026-10-20",
+        "excerpt": "Donald John Trump\nJune 14, 1946\nNew York, New York\nDate Ended\nJanuary 20, 2021",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+        "title": "The Constitution of the United States: A Transcription | National Archives",
+        "published_at": null,
+        "checked_at": "2026-10-20",
+        "excerpt": "No Person except a natural born Citizen, or a Citizen of the United States",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://archives.upenn.edu/wp-content/uploads/2018/04/commencement-program-1968.pdf",
+        "title": "1968 Commencement Program",
+        "published_at": null,
+        "checked_at": "2026-10-20",
+        "excerpt": "THE WHARTON SCHOOL OF FINANCE AND COMMERCE\nBACHELOR OF SCIENCE IN ECONOMICS\nMay 20, 1968\nDonald John Trump",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.inquirer.com/education/trump-university-of-pennsylvania-admissionpenn-eric-orts-20200828.html",
+        "title": "Penn professor renews call for investigation into how Trump was admitted to the university",
+        "published_at": "2020-08-28",
+        "checked_at": "2026-10-20",
+        "excerpt": "Starting in 1964, Trump went to Fordham in New York City for his freshman and sophomore years and then transferred in 1966",
+        "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://millercenter.org/president/trump/life-presidency",
+        "title": "Donald Trump: Life Before the Presidency | Miller Center",
+        "published_at": null,
+        "checked_at": "2026-10-20",
+        "excerpt": "Upon completing his undergraduate education in 1968, he returned to New York and joined his father’s business full time.",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://politifact.com/factchecks/2015/aug/24/jeb-bush/bush-says-trump-was-democrat-longer-republican-las/",
+        "title": "Bush says Trump was a Democrat longer than a Republican ‘in the last decade’ – PolitiFact",
+        "published_at": "2015-08-24",
+        "checked_at": "2026-10-20",
+        "excerpt": "He switched back to Republican in April 2012.",
+        "tier": 2
+      },
+      {
+        "id": "s9",
+        "url": "https://www.fec.gov/data/candidate/P80001571/?tab=summary",
+        "title": "TRUMP, DONALD J. - Candidate overview | FEC",
+        "published_at": null,
+        "checked_at": "2026-10-20",
+        "excerpt": "TRUMP, DONALD J.\nCandidate for President ID: P80001571 REPUBLICAN PARTY",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS%2BIndex/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "title": "Donald-J-Trump-2026-278ANNUAL.xlsx - Google Sheets",
+        "published_at": null,
+        "checked_at": "2026-10-20",
+        "excerpt": "Mar-A-Lago Club, L.L.C. Palm Beach, FL Limited Liability Company President 01/24/2021 Present\nChairman 02/12/2025 Present",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS%2BIndex/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "title": "Donald J. Trump — 2025 Annual Public Financial Disclosure Report",
+        "published_at": null,
+        "checked_at": "2026-10-20",
+        "excerpt": "Chairman of the Board & Director 02/2021 03/22/2024\nTrump Media & Technology Group\nCorp. (N/K/A . TMTG Sub Inc.)",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://abcnews.com/Politics/donald-trump-republican-nominee-president/story?id=67473973",
+        "title": "Donald Trump: What you need to know about the Republican nominee for president",
+        "published_at": "2020-10-08",
+        "checked_at": "2026-10-20",
+        "excerpt": "serving as the chairman and president of the Trump Organization from 1971 until he became president.",
+        "tier": 2
+      },
+      {
+        "id": "s13",
+        "url": "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/",
+        "title": "The Inaugural Address – The White House",
+        "published_at": "2025-01-20",
+        "checked_at": "2026-10-20",
+        "excerpt": "January 20, 2025\nI return to the presidency confident and optimistic",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "reverified",
+      "whitehouse"
+    ],
+    "person": {
+      "name": {
+        "value": "唐纳德·特朗普",
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1",
+          "s2",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1946-06-14",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "纽约州纽约市",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1968-07",
+        "source_ids": [
+          "s7",
+          "s12"
+        ],
+        "inferred": true,
+        "basis": "第一份全职工作锚点：1968年完成本科学业后回到纽约，全职加入父亲的房地产企业。米勒中心原文明确写有 joined his father’s business full time；ABC News交叉支持毕业后加入父亲企业。来源：https://millercenter.org/president/trump/life-presidency；https://abcnews.com/Politics/donald-trump-republican-nominee-president/story?id=67473973。来源未给开始月份，保留年精度。；参加工作月份无记载，取 7 月（cadre.md 第 3 节第 3 条）",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1968",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "大学学历",
+        "source_ids": [
+          "s5",
+          "s7",
+          "s12"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "宾夕法尼亚大学沃顿商学院经济学理学学士学位",
+        "source_ids": [
+          "s5",
+          "s7",
+          "s12"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2012-04",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": true,
+        "basis": "第1级锚点：纽约市选举委员会选民登记记录所载最近一次转回共和党，2012-04；来源：https://politifact.com/factchecks/2015/aug/24/jeb-bush/bush-says-trump-was-democrat-longer-republican-las/。PolitiFact依据登记记录列出沿革：1987-07共和党、1999-10独立党（Independence Party）、2001-08民主党、2009-09共和党、2011-12无党派登记、2012-04共和党。1987年登记表提及此前曾在皇后区登记，但该报道未确认更早登记的党籍和日期。1987年和2009年的共和党登记均被后续改登记中断，不取作本次加入时间；2016年共和党提名、2024年FEC共和党候选人记录属于较低级或较晚锚点，不替代2012-04登记锚点。报道所链2012年登记原件打开失败，采用可打开的权威媒体转述，精度保留到月。",
+        "inference": {
+          "rule": "party_anchor_registration",
+          "from_date": "2012-04",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国总统",
+        "role": "",
+        "start": {
+          "value": "2025-01-20",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s13"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "马阿拉歌俱乐部有限责任公司",
+        "role": "总裁",
+        "start": {
+          "value": "2021-01-24",
+          "source_ids": [
+            "s10",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s10",
+          "s11"
+        ],
+        "roles": [
+          "总裁"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1964",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1966",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "福坦莫大学",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s7",
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1966",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1968",
+          "source_ids": [
+            "s5",
+            "s7",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "宾夕法尼亚大学沃顿金融与商业学院",
+        "role": null,
+        "program": "经济学",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s5",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s6",
+          "s7",
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1968",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1971",
+          "source_ids": [
+            "s7",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Elizabeth Trump & Son 公司",
+        "role": "商人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7",
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "商人"
+        ],
+        "role_category": {
+          "value": "joined his father’s business full time",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "米勒中心记载其父企业名称及1968年全职加入的经历；未载这一阶段的具体职衔，采用有来源的稳定身份“商人”。",
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": true
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1971",
+          "source_ids": [
+            "s7",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017",
+          "source_ids": [
+            "s7",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Elizabeth Trump & Son 公司（后称特朗普集团）",
+        "role": "董事长、总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7",
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长",
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": "ABC News记载1971年至出任总统前任董事长和总裁；米勒中心记载1971年接掌、1973年改名、2017年交由两名儿子领导，保留同一企业沿革，起止不补月份。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2004",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2015",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "《学徒》电视节目",
+            "role": "主持人、制作人",
+            "roles": [
+              "主持人",
+              "制作人"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s2",
+              "s7"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-01-20",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021-01-20",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "",
+        "role": "第45任美国总统",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "第45任美国总统"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-01-24",
+          "source_ids": [
+            "s10",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "马阿拉歌俱乐部有限责任公司",
+        "role": "总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s10",
+          "s11"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2021-02",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2024-03-22",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "特朗普媒体与科技集团公司",
+            "role": "董事长、董事",
+            "roles": [
+              "董事长",
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-01-20",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "",
+        "role": "第47任美国总统",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s3",
+          "s13"
+        ],
+        "ongoing": true,
+        "roles": [
+          "第47任美国总统"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025-02-12",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "约翰·肯尼迪表演艺术中心",
+            "role": "主席",
+            "roles": [
+              "主席"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国白宫",
+    "conflicts": [],
+    "unknowns": [
+      "福坦莫大学就读专业：查阅米勒中心、ABC News及《费城问询报》转载的《华盛顿邮报》报道，没有找到明确专业。",
+      "学习形式：已打开的学历来源没有明确标注全日制或非全日制，两个学习条目的full_time均留null。",
+      "1968年参加工作的月份：米勒中心明确记载毕业后全职加入父亲企业，但没有给出开始月份；不补月。",
+      "1968年至1971年具体职衔：米勒中心仅明确全职加入父亲企业，采用稳定身份“商人”。",
+      "1971年企业职务变动及2017年交接月份：米勒中心和ABC News支持年份，未据这些来源扩充到月或日。",
+      "CIC Digital LLC、CIC Ventures LLC的职务组合：两份OGE申报的网页文本提取将职务单元格与公司行分离，本次未将其写入履历。",
+      "共和党登记原件：已尝试打开PolitiFact来源清单所链2012年登记文件，打开失败；入党锚点采用该媒体对选举委员会登记记录的明确转述。",
+      "底稿所列“大英百科1974年出任总裁”：大英百科人物页及早年经历子页均打开失败，未取得可并列的原文，不写入conflicts。",
+      "族裔：本次已打开的官方传记没有本人族裔自述或官方统计分类，ethnicity留null。"
+    ],
+    "excluded": [
+      "底稿『美国国会议员』：本对象为美国总统，按白宫现行页面核实身份；不设置第119届国会委员会职务。",
+      "底稿『1968年6月参加工作』：没有已打开来源支持月份，保留1968年。",
+      "底稿『特朗普管理公司任职』：原职衔没有证据，改用已打开来源记载的企业名称和稳定身份“商人”。",
+      "底稿『1971年至2017年1月特朗普集团总裁』：采用有来源的董事长、总裁组合；企业交接仅保留已核实的年份。",
+      "底稿『2021年1月至2025年1月马阿拉歌俱乐部等家族企业总裁等职务』：拆除含混单位和职务；2026年度OGE申报仍将马阿拉歌俱乐部总裁列为Present，删除2025年1月终止日期。",
+      "底稿『2024年11月当选第47任总统』括注引用OGE申报：该来源关联不匹配，原括注不沿用。",
+      "底稿『1999年登记党派名称冲突』：PolitiFact原文明确为Independence Party，并解释其与纽约州改革党的关系；维基信息框不作为冲突证据。",
+      "底稿『World Liberty Financial收入口径冲突』：收入数字不属于本次干部简历字段，删除。",
+      "底稿维基百科来源：只作为检索线索，不进入本事实包sources。",
+      "荣誉学位、奖项、诉讼、判决、特赦及财产收入金额：不进入简历主线。",
+      "股票交易公开披露：不进入本事实包。"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "美国总统＋美国白宫",
+    "review_items": [
+      "本包为重新联网取证形成的研究候选事实包，交下一会话逐字段独立核查。",
+      "国籍依据对应总统身份，宪法采用第二条第一款总统资格条文。",
+      "最高学位的学校名称按首段通行译名写沃顿商学院，学习履历保留当时的Wharton School of Finance and Commerce名称。",
+      "2026年度OGE申报首页外部职务表用于确认马阿拉歌俱乐部总裁及肯尼迪表演艺术中心主席；机构名和职务译名交译名表复核。",
+      "全篇显示到年；结构化日期保留来源实际提供的月日精度。",
+      "1971年接掌企业及1973年更名依据米勒中心；早期企业条目保留原名和后续名称。"
+    ]
+  }
+}

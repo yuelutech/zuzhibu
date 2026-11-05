@@ -1,0 +1,88 @@
+{
+  "id": "marcel-acosta",
+  "name_zh": "马塞尔·阿科斯塔",
+  "name_en": "Marcel Acosta",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-marcel-acosta",
+    "line": "cadre",
+    "subject_id": "marcel-acosta",
+    "title": "马塞尔·阿科斯塔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.ncpc.gov/participate/releases/2026/NCPC_Executive_Director_Marcel_Acosta_to_Retire_After_25_Years_of_Federal_Service.pdf",
+        "title": "NCPC Executive Director Marcel Acosta to Retire After 25 Years of Federal Service",
+        "published_at": "2026-09-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "Executive Director Marcel Acosta will retire from federal service effective September 18, 2026, following his acceptance of a private-sector position.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "马塞尔·阿科斯塔",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "离任"
+    },
+    "current_roles": [],
+    "careers": [],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "events": [
+    "2026-09-18-marcel-acosta-leave"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "三局规则补进独立机构（第五节“独立机构归三局”）：原任“美国国家首都规划委员会 执行主任 National Capital Planning Commission Executive Director”：总统、白宫、内阁与独立机构"
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true
+}

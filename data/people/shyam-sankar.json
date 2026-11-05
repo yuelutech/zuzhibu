@@ -1,0 +1,224 @@
+{
+  "id": "shyam-sankar",
+  "name_zh": "希亚姆·桑卡尔",
+  "name_en": "Shyam Sankar",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“帕兰蒂尔公司 首席技术官、执行副总裁 Palantir Chief Technology Officer and Executive Vice President”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/shyam-sankar.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://s26.q4cdn.com/381064750/files/images/mgmt/S_Sankar_Headshot.jpg",
+    "source": "https://investors.palantir.com/governance/executive-management"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Palantir",
+      "role_en": "Chief Technology Officer and Executive Vice President"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“帕兰蒂尔公司 首席技术官、执行副总裁 Palantir Chief Technology Officer and Executive Vice President”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "shyam-sankar-20261018",
+    "line": "cadre",
+    "subject_id": "shyam-sankar",
+    "title": "希亚姆·桑卡尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://investors.palantir.com/governance/executive-management",
+        "title": "Palantir Executive Management",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Shyam Sankar.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm",
+        "title": "Palantir 2026 Proxy Statement — Shyam Sankar",
+        "published_at": "2026-04-23",
+        "checked_at": "2026-10-18",
+        "excerpt": "Shyam Sankar 44.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.weforum.org/people/shyam-sankar/",
+        "title": "Shyam Sankar — World Economic Forum",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Joined Palantir in 2006 as the first business hire.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "希亚姆·桑卡尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1981-10",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "2026-04-06年龄44岁，出生区间1981-04-07至1982-04-06，中间月份1981-10。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-04-06",
+          "duration_years": 44
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "斯坦福大学管理科学与工程理学硕士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "硕士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "帕兰蒂尔公司",
+        "role": "首席技术官、执行副总裁",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "首席技术官",
+          "执行副总裁"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "帕兰蒂尔公司",
+        "role": "业务管理岗位",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "业务管理岗位"
+        ],
+        "role_category": {
+          "value": "various positions",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "申报未列此前各职务及交接时间；仅以业务管理岗位概括2006年进入公司后的经历。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "帕兰蒂尔公司",
+    "conflicts": [],
+    "unknowns": [
+      "本科、硕士学习年月及此前初创企业名称、岗位和日期未找到。",
+      "首份全职工作发生于Palantir之前；未以2006年进入Palantir代替参加工作时间。",
+      "国籍：已查所列来源，未找到可采用依据。",
+      "参加工作时间：已查所列来源，未找到可采用依据。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "希亚姆·桑卡尔译名为拟译，待审。",
+      "有来源的无起始日期经历：康奈尔大学；电气与计算机工程；终点：未找到；来源：s1",
+      "有来源的无起始日期经历：斯坦福大学；管理科学与工程；终点：未找到；来源：s1",
+      "有来源的无起始日期经历：Xoom 公司；高管；终点：2006；来源：s3",
+      "有来源的无起始日期经历：帕兰蒂尔公司；首席技术官、执行副总裁；终点：未找到；来源：s1",
+      "来源s1阅读记录：首席技术官、执行副总裁；列康奈尔本科、斯坦福硕士。",
+      "来源s2阅读记录：2006年起在公司任职。",
+      "来源s3阅读记录：此前开发者、初创公司创始人、Xoom高管；未列年份。"
+    ]
+  }
+}

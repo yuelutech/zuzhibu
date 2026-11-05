@@ -1,0 +1,151 @@
+{
+  "id": "john-mcintyre",
+  "name_zh": "约翰·麦金太尔",
+  "name_en": "John McIntyre",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-john-mcintyre",
+    "line": "cadre",
+    "subject_id": "john-mcintyre",
+    "title": "约翰·麦金太尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
+        "title": "Nominations Sent to the Senate",
+        "published_at": "2026-08-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "John McIntyre, of Texas, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Malawi.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.senate.gov/legislative/nom_confc.htm",
+        "title": "Nominations Confirmed (Civilian)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "John McIntyre, of Texas, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Malawi.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "约翰·麦金太尔",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "提名人选"
+    },
+    "current_roles": [
+      {
+        "organization": "美国驻马拉维大使馆",
+        "role": "特命全权大使",
+        "start": {
+          "value": "2026-08-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "提名人选"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-08-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国驻马拉维大使馆",
+        "role": "特命全权大使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "提名人选",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "events": [
+    "2026-08-07-john-mcintyre-nominate",
+    "2026-09-30-john-mcintyre-confirm"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-08-07",
+      "event": "2026-08-07-john-mcintyre-nominate",
+      "reason": ""
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true
+}

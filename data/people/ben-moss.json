@@ -1,0 +1,333 @@
+{
+  "id": "ben-moss",
+  "name_zh": "本·莫斯",
+  "name_en": "Ben Moss",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Assistant to the President and Staff Secretary The White House Assistant to the President and Staff Secretary”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/ben-moss.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "The White House",
+      "role_en": "Assistant to the President and Staff Secretary"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [
+    "2026-09-02-ben-moss-transfer"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Assistant to the President and Staff Secretary The White House Assistant to the President and Staff Secretary”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/ben-moss.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-ben-moss",
+    "line": "cadre",
+    "subject_id": "ben-moss",
+    "title": "本·莫斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.law.uchicago.edu/news/sean-cooksey-14-and-ben-moss-18-join-office-vice-president",
+        "title": "Sean Cooksey, ’14, and Ben Moss, ’18, Join the Office of the Vice President",
+        "published_at": "2025-01-17",
+        "checked_at": "2026-10-18",
+        "excerpt": "Ben Moss, a graduate ... previously an appellate litigator at Vinson & Elkins LLP ... general counsel in Vance’s Senate office.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://world.people.com.cn/n1/2026/0828/c1002-40787712.html",
+        "title": "特朗普宣布本·莫斯将出任总统助理兼白宫秘书",
+        "published_at": "2026-08-28",
+        "checked_at": "2026-10-18",
+        "excerpt": "本·莫斯将于9月2日起出任总统助理兼白宫秘书。",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://www.jns.org/news/u-s-news/trump-names-ben-moss-who-was-president-of-jewish-group-in-law-school-white-house-staff-secretary",
+        "title": "Trump names Ben Moss White House staff secretary",
+        "published_at": "2026-08-27",
+        "checked_at": "2026-10-18",
+        "excerpt": "earned a J.D. in 2018; University of California, Santa Barbara; law clerk to a ... federal appeals court judge",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf",
+        "title": "2026 Annual Report to Congress on White House Staff",
+        "published_at": "2026-07-01",
+        "checked_at": "2026-10-18",
+        "excerpt": "MOSS, BENJAMIN H. — DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY STAFF SECRETARY",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-27-2026",
+        "title": "Truth Social Posts of August 27, 2026",
+        "published_at": "2026-08-27",
+        "checked_at": "2026-10-18",
+        "excerpt": "effective September 2nd, Ben Moss will become Assistant to the President and White House Staff Secretary",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.trumpstruth.org/statuses/41290",
+        "title": "Donald J. Trump statement on Ben Moss appointment",
+        "published_at": "2026-08-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "I am pleased to announce that, effective September 2nd, Ben Moss will become Assistant to the President and White House Staff Secretary, replacing our new White House Counsel, Will Scharf.",
+        "tier": null
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "本·莫斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "芝加哥大学法学院",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法学博士",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "白宫",
+        "role": "总统助理、秘书",
+        "start": {
+          "value": "2026-09-02",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3",
+          "s5"
+        ],
+        "roles": [
+          "总统助理、秘书"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2015-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：原来源仅载年份，月份按美国入学9月、学年结束5月推测；不是来源所载具体月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2015",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2018-05",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：原来源仅载年份，月份按美国入学9月、学年结束5月推测；不是来源所载具体月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2018",
+            "duration_years": null
+          }
+        },
+        "organization": "芝加哥大学法学院",
+        "role": "",
+        "program": null,
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国副总统办公室",
+        "role": "国内政策主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "国内政策主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-09-02",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "白宫",
+        "role": "总统助理、秘书",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3",
+          "s5"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总统助理、秘书"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月、首份全职工作起始年份未查到；不能从法学博士年份减22推出生年。",
+      "加利福尼亚大学圣巴巴拉分校本科就读得到媒体确认，起止年和学位类型未知。",
+      "上诉法院法官法律助理、Vinson & Elkins诉讼律师和万斯参议员办公室总法律顾问的起止日期未知。",
+      "2026年7月1日白宫名册已列副秘书；准确上任月未查到，不能把名册日期当作到任日。",
+      "党籍、族裔没有本人或官方可核实依据。",
+      "副秘书到任年份未查明；2026年7月1日名册证明当时已任职。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Ben Moss；白宫",
+    "review_items": []
+  }
+}

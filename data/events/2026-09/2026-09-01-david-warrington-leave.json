@@ -1,0 +1,113 @@
+{
+  "id": "2026-09-01-david-warrington-leave",
+  "date": "2026-09-01",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "david-warrington",
+  "person": {
+    "name_zh": "戴维·沃灵顿",
+    "name_en": "David Warrington",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-08-09",
+  "effective_at": "2026-09-01",
+  "ended_roles": [
+    {
+      "organization": "美国白宫",
+      "organization_en": "White House",
+      "role": "法律顾问",
+      "role_en": "White House Counsel",
+      "start": null,
+      "end": "2026-09-01",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2",
+        "c1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "戴维·沃灵顿卸任白宫法律顾问",
+  "summary": "特朗普于2026年8月9日宣布沃灵顿离开白宫、转往私营部门，白宫法律顾问职务于9月1日交接，沙夫当日履职。截至10月21日，本次检索未查清沃灵顿的新雇主、具体职务及其他现职。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.aa.com.tr/en/americas/trump-names-will-scharf-as-white-house-counsel/4022683",
+      "title": "Trump names Will Scharf as White House counsel",
+      "publisher": "Anadolu Agency",
+      "published_at": "2026-08-10",
+      "excerpt": "David will be going on to the Private Sector",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://www.jpost.com/influencers-26/50jews-26/article-907916",
+      "title": "No. 42: Will Scharf and Lee Zeldin: Shaping law and policy from inside the Trump administration",
+      "publisher": "The Jerusalem Post",
+      "published_at": "2026-09-10",
+      "excerpt": "On September 1, 2026, Will Scharf became White House counsel",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "c1",
+      "url": "https://www.aa.com.tr/en/americas/trump-names-will-scharf-as-white-house-counsel/4022683",
+      "title": "Trump names Will Scharf as White House counsel",
+      "publisher": "",
+      "published_at": null,
+      "excerpt": "\"It is my Great Honor to announce that, effective September 1st, Will Scharf will become Assistant to the President and White House Counsel, replacing a man, David Warrington",
+      "supports": [
+        "effective_at",
+        "ended_roles[0].end"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "effective_at → 2026-09-01（来源 c1）",
+      "ended_roles[0].end → 2026-09-01（来源 c1）",
+      "summary_zh → 特朗普于2026年8月9日宣布沃灵顿离开白宫、转往私营部门，白宫法律顾问职务于9月1日交接，沙夫当日履职。截至10月21日，本次检索未查清沃灵顿的新雇主、具体职务及其他现职。",
+      "核查只因来源记录问题搁置：删去未核实的来源，其余字段已核实",
+      "ended_roles[0].organization → 美国白宫（原写“白宫”；机构写法统一，2026-10-22 维护者定）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：不是一级来源；e2：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 david-warrington（库里没有此人）"
+    ],
+    "notes": [
+      "原任“白宫 法律顾问 White House White House Counsel”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "david-warrington",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

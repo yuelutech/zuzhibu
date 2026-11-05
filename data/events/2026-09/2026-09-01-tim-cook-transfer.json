@@ -1,0 +1,101 @@
+{
+  "id": "2026-09-01-tim-cook-transfer",
+  "date": "2026-09-01",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "tim-cook",
+  "person": {
+    "name_zh": "蒂姆·库克",
+    "name_en": "Tim Cook",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-04-20",
+  "effective_at": "2026-09-01",
+  "ended_roles": [
+    {
+      "organization": "苹果公司",
+      "role": "首席执行官",
+      "organization_en": "Apple",
+      "role_en": "CEO",
+      "start": null,
+      "end": "2026-09-01",
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e3"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "苹果公司",
+      "role": "执行董事长",
+      "organization_en": "Apple",
+      "role_en": "Executive Chair",
+      "start": "2026-09-01",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e3",
+        "e4"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "蒂姆·库克转任苹果公司执行董事长",
+  "summary": "库克9月1日卸任首席执行官，转任执行董事长。原非执行董事长阿瑟·莱文森于同日转任首席独立董事。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e3",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "title": "Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO",
+      "publisher": "Apple",
+      "published_at": "2026-04-20",
+      "excerpt": "Tim Cook will become executive chairman",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e4",
+      "url": "https://www.apple.com/leadership/",
+      "title": "Apple Leadership",
+      "publisher": "Apple",
+      "published_at": null,
+      "excerpt": "Tim Cook Executive Chair",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": "roster-tim-cook",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [],
+    "notes": [
+      "原任“苹果公司 首席执行官 Apple CEO”在记录的现任职务里找不到对应项，未移出",
+      "新任“苹果公司执行董事长”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "ai",
+    "bureau_after": "ai",
+    "person_id": "tim-cook",
+    "reason": "主要职务“苹果公司 执行董事长”：AI 与科技机构名单"
+  }
+}

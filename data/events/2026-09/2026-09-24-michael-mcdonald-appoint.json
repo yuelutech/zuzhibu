@@ -1,0 +1,91 @@
+{
+  "id": "2026-09-24-michael-mcdonald-appoint",
+  "date": "2026-09-24",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "michael-mcdonald",
+  "person": {
+    "name_zh": "迈克尔·麦克唐纳",
+    "name_en": "Michael McDonald",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-24",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国国家人文基金会",
+      "role": "主席",
+      "organization_en": "National Endowment for the Humanities",
+      "role_en": "Chairperson",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "迈克尔·麦克唐纳就任美国国家人文基金会主席",
+  "summary": "国家人文基金会9月24日通讯确认，McDonald在8月获参议院确认后已宣誓就任第13任主席；通讯未列出宣誓日。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.forth.news/lists/neh/CfNwSpN18wYwTw2vdYrhL",
+      "title": "Michael McDonald Sworn in as NEH Chairman, NEH Announces $41.4 Million for 81 Humanities Projects, Student Art Contest Regional and National Winners",
+      "publisher": "National Endowment for the Humanities newsletter",
+      "published_at": "2026-09-24",
+      "excerpt": "Following confirmation by the United States Senate in August, Michael McDonald was sworn in as the thirteenth Chairman of the National Endowment for the Humanities.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "e2",
+      "url": "https://www.neh.gov/about/chair",
+      "title": "Office of the Chair",
+      "publisher": "National Endowment for the Humanities",
+      "published_at": null,
+      "excerpt": "Michael McDonald\nChairman, National Endowment for the Humanities",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：不是一级来源；e2：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "到任：美国国家人文基金会主席由提名改为正式职务，起始 2026-09"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "michael-mcdonald",
+    "reason": "新任职务不在各局范围（主要职务“美国国家人文基金会 主席”：不在各局范围），暂留原局"
+  }
+}

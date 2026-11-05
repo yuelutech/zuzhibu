@@ -1,0 +1,413 @@
+{
+  "id": "nick-adams",
+  "name_zh": "尼克·亚当斯",
+  "name_en": "Nick Adams",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Special Presidential Envoy for American Tourism, Exceptionalism, and Values The White House Special Presidential Envoy for American Tourism, Exceptionalism, and Values”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/nick-adams.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "The White House",
+      "role_en": "Special Presidential Envoy for American Tourism, Exceptionalism, and Values"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Special Presidential Envoy for American Tourism, Exceptionalism, and Values The White House Special Presidential Envoy for American Tourism, Exceptionalism, and Values”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/nick-adams.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-nick-adams",
+    "line": "cadre",
+    "subject_id": "nick-adams",
+    "title": "尼克·亚当斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.envoynickadams.com/",
+        "title": "Nick Adams, Special Presidential Envoy",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "President Trump’s Special Envoy for American Tourism, Exceptionalism, and Values. Bachelor of Teaching and Bachelor of Arts in Media and Communications",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.nickadamsusa.com/about",
+        "title": "About Nick Adams",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Nick is an Australian immigrant and naturalized American citizen. In 2016 ... he founded the Foundation for Liberty and American Greatness",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.abc.net.au/news/2026-03-28/former-sydney-councillor-nick-adams-special-envoy-for-tourism/106494924",
+        "title": "Trump’s new tourism envoy once proposed banishing pigeons from Sydney streets",
+        "published_at": "2026-03-28",
+        "checked_at": "2026-10-18",
+        "excerpt": "Representing the Liberal Party in 2004, Mr Adams was elected ... Ashfield council’s north ward. He resigned from local government in 2012.",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.propublica.org/article/trump-nick-adams-state-flag-charity-civics-state-department",
+        "title": "Nick Adams’ FLAG charity profile",
+        "published_at": "2026-07-28",
+        "checked_at": "2026-10-18",
+        "excerpt": "Now 41",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://www.whitehouse.gov/releases/2026/07/what-they-are-saying-president-trump-exposes-bombshell-evidence-of-foreign-election-interference-and-deep-state-suppression/",
+        "title": "White House statement quoting Special Envoy Nick Adams",
+        "published_at": "2026-07-17",
+        "checked_at": "2026-10-18",
+        "excerpt": "Special Envoy Nick Adams",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "尼克·亚当斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1985-01",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "2026-07-28报道年龄41岁，出生区间1984-07-29至1985-07-28，取中间月份1985年1月。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-07-28",
+          "duration_years": 41
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "悉尼大学",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "教学、媒体与传播双学士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国总统",
+        "role": "美国旅游、例外主义和价值观特使",
+        "start": {
+          "value": "2026-03-17",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3",
+          "s5"
+        ],
+        "roles": [
+          "美国旅游、例外主义和价值观特使"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "自由与美国伟大基金会（FLAG）",
+        "role": "执行主任",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "执行主任"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "1A Warriors",
+        "role": "负责人",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "负责人"
+        ],
+        "sector": "advisory",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "澳大利亚阿什菲尔德市议会",
+        "role": "北区议员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "北区议员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "澳大利亚阿什菲尔德市",
+        "role": "副市长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副市长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "自由与美国伟大基金会（FLAG）",
+        "role": "创办人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "创办人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国伍德罗·威尔逊国际学者中心",
+        "role": "理事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "理事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-03-17",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国总统",
+        "role": "美国旅游、例外主义和价值观特使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3",
+          "s5"
+        ],
+        "ongoing": true,
+        "roles": [
+          "美国旅游、例外主义和价值观特使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "首份全职工作的单位及开始年月未查到；在校当选市议员不直接填作全职工作起点。",
+      "悉尼大学两项已获学位有本人简介依据，入学及毕业年月未查到。",
+      "2005年副市长任期终止年月未由原始材料核实。",
+      "威尔逊中心2020年任命为六年期，具体起止和截至2026-10-18是否留任未核实，未列现职。",
+      "基金会执行主任、1A Warriors负责人的到任年月未查到。",
+      "美国政党登记或党职锚点未查到；澳大利亚自由党经历不作为加入美国共和党的依据。",
+      "国务院人物页403；现职由本人特使网站、白宫2026-07-17称谓及ABC引述的国务院生效日期交叉核对。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Nick Adams；美国总统",
+    "review_items": []
+  }
+}

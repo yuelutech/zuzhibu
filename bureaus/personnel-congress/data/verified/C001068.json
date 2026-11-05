@@ -1,0 +1,729 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001068",
+      "line": "cadre",
+      "subject_id": "c001068",
+      "title": "史蒂夫·科恩简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/members/C001068",
+          "title": "Office of the Clerk, U.S. House of Representatives — Steve Cohen",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Steve Cohen\nTennessee (TN) – 9th, Democrat\nCommittee on the Judiciary\nPermanent Select Committee on Intelligence",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://cohen.house.gov/about/biography",
+          "title": "Biography | Congressman Steve Cohen",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Born May 24, 1949, Memphis, TN\nB.A. Vanderbilt University, 1971\nJ.D. University of Memphis School of Law, 1973",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://history.house.gov/People/Listing/C/COHEN,-Stephen-(C001068)/",
+          "title": "COHEN, Stephen | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "attorney, Memphis Police Department, 1975-1978;\nDelegate, Democratic National Convention, 1980,\n(January 3, 2007-present).",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-TN-H-9.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022.",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "attorney, Memphis Police\nDepartment, 1975-78; lawyer, private practice;\nmember of the Tennessee State Senate, 1982-2006;",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2016-02-12/html/CDIR-2016-02-12-TN-H-9.htm",
+          "title": "Congressional Directory for the 114th Congress (2015-2016), February 2016.",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "School of Law of Memphis State University\n(renamed University of Memphis), 1973; legal advisor for the Memphis\nPolice Department, 1974-77;",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://cohen.house.gov/about/committees-and-caucuses",
+          "title": "Committees and Caucuses | Congressman Steve Cohen",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Committees and Leadership Roles in the 119th Congress\nMember, House Permanent Select Committee on Intelligence\nMember, House Committee on the Judiciary",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.vanderbilt.edu/government-community-relations/2025/03/25/why-humanities-funding-matters-vanderbilt-undergraduates-make-their-case-in-d-c/",
+          "title": "Why humanities funding matters: Vanderbilt undergraduates make their case in D.C.",
+          "published_at": "2025-03-25",
+          "checked_at": "2026-10-19",
+          "excerpt": "Steve Cohen, D-Tenn., BA'71.",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.americanbar.org/content/dam/aba/administrative/government_affairs_office/nj-lawyers-of-119-congress.pdf",
+          "title": "Lawyers of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Began his career as a legal adviser for the Memphis Police Department before starting his own practice",
+          "tier": 2
+        },
+        {
+          "id": "s12",
+          "url": "https://www.congress.gov/member/steve-cohen/C001068",
+          "title": "Steve Cohen | Congress.gov | Library of Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Party Democratic\nHouse Tennessee, District 9 110th-119th (2007-Present)",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:TN"
+      ],
+      "person": {
+        "name": {
+          "value": "史蒂夫·科恩",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1949-05-24",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "田纳西州孟菲斯",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1975",
+          "source_ids": [
+            "s3",
+            "s5",
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "美国律师协会刊载的人物资料将孟菲斯警察局法律顾问列为职业起点；现行众议院历史人物页和2022年国会名录记载该任职始于1975年，据此推为1975年参加工作。2016年国会名录另载1974—1977年，冲突并列于conflicts，暂按现行官方人物页取值。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1975",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "孟菲斯大学法学院法学博士学位",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1980",
+          "source_ids": [
+            "s3",
+            "s5",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：担任美国民主党全国代表大会代表，1980年；来源：https://history.house.gov/People/Listing/C/COHEN,-Stephen-(C001068)/；2022年及2016年国会名录同载1980年代表经历。按党组织代表职务取年，不补月份。第1级未找到可核实的党籍登记或本人宣布入党日期；官网所述首次选民登记未记载党籍。1970年州议会参选线索未查到党派和登记受理日，不采用。2006-04-14的COHEN FOR CONGRESS委员会登记晚于1980年锚点，不采用；底稿1978年8月无合格来源，不采用。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "1980",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（田纳西州第9选区）",
+          "role": "",
+          "start": {
+            "value": "2007-01-03",
+            "source_ids": [
+              "s3",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s12"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院情报常设特别委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1967",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s8"
+            ],
+            "inferred": true,
+            "basis": "官方传记及范德堡大学官网确认1971年取得文学学士学位；按本科毕业年减4推算：1971－4＝1967。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1971",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1971",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "范德堡大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1978",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "孟菲斯警察局",
+          "role": "法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1977",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1977",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "田纳西州制宪会议",
+          "role": "代表、副主席",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "代表",
+            "副主席"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1978",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1980",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "谢尔比县委员会",
+          "role": "委员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "委员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1978",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "私人执业",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1980",
+                "source_ids": [
+                  "s3",
+                  "s5",
+                  "s6"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1980",
+                "source_ids": [
+                  "s3",
+                  "s5",
+                  "s6"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国民主党全国代表大会",
+              "role": "代表",
+              "roles": [
+                "代表"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s3",
+                "s5",
+                "s6"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1982",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "田纳西州参议院",
+          "role": "州参议员（第30选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员（第30选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007-01-03",
+            "source_ids": [
+              "s3",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（田纳西州第9选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s12"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（田纳西州第9选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.孟菲斯警察局任职起止及person.work_start",
+          "alternatives": [
+            {
+              "value": "1975—1978年；参加工作年据此推为1975年",
+              "source_ids": [
+                "s3",
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1974—1977年；参加工作年据此推为1974年",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1975—1978年；参加工作年暂取1975年",
+          "reason": "候选事实暂按现行众议院历史人物页取值，2022年国会名录提供同值支持。2016年国会名录为不同的一级来源记录，交AI政见确认；该冲突影响完整简历卡放行。"
+        },
+        {
+          "field": "current_roles.美国联邦众议员.start",
+          "alternatives": [
+            {
+              "value": "2006",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2007-01-03",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2007-01-03",
+          "reason": "议员传记开头称自2006年代表第9选区，但其Public Office栏目另列2007年至今。众议院历史人物页明确任期始于2007年1月3日，Congress.gov同列2007年至今，采用正式任期日期。"
+        }
+      ],
+      "unknowns": [
+        "法学院学习起始时间：已查议员官方传记、众议院历史人物页、2016年和2022年国会名录、孟菲斯大学人物专访，确认1973年获J.D.，没有找到入学日期；本批不允许按法学院标准学制倒推，未建立完整学习区间条目。",
+        "本科专业及学习形式：已查范德堡大学官网报道、国会官方传记和名录，只确认1971年获B.A.，未找到专业和全日制属性。",
+        "私人执业结束时间和事务所名称：议员官方传记确认1978年开办法律业务，国会人物页和名录确认私人执业律师身份，未找到可采用的结束时间和事务所正式名称。",
+        "委员会职务开始日期：书记官名单和议员第119届委员会页确认司法委员会、情报常设特别委员会现职，未给出可直接采用的正式生效日期。",
+        "其他兼职起始日期：议员委员会页列欧洲安全与合作委员会资深成员及欧安组织政治犯事务特别代表，未查到可采用的正式就任日期，未建立兼职履历条目。",
+        "族裔：已查国会官方人物页、议员传记和学校人物资料，未找到本人族裔自述或官方族裔统计，ethnicity留空。",
+        "1973年毕业至最早职业起始年份之间的经历：已查国会官方传记、国会名录及美国律师协会人物资料，未找到可支持底稿1973年开始任职的记录。"
+      ],
+      "excluded": [
+        "底稿『1973年参加工作、1973—1978年孟菲斯市律师』：没有找到对应任职来源；官方记录的具体单位为孟菲斯警察局，起止年另有一级来源冲突。",
+        "底稿『1973年6月参加工作』：年份缺原始依据，月份为旧稿推定，不采用。",
+        "底稿『1971—1973年孟菲斯大学法学院学习』：1973年取得学位有官方来源，1971年入学未获证据，不采用该学习区间。",
+        "底稿『1983—2006年田纳西州参议员』：现行众议院历史人物页、议员传记及国会名录均列1982—2006年，候选事实采用1982年。",
+        "底稿『2025年1月开始担任现选区联邦众议员』：书记官页面该日期为本届宣誓日期；其代表第9选区的连续任期始于2007年1月3日。",
+        "底稿『1978年8月加入美国民主党』：没有找到该日期的党籍登记、党职、参选登记或党派选票证据，不采用。",
+        "检索线索『1970年首次参选州议会』：孟菲斯大学官网有记载，但未明确党派、登记受理日期及选举日期，不用作入党时间锚点。",
+        "FEC『COHEN FOR CONGRESS于2006年4月14日登记』：晚于1980年民主党全国代表大会代表锚点，不作为入党时间。",
+        "议员传记中运输与基础设施委员会现职表述：委员会分届页面将其列于第118届，现行书记官名单只列司法委员会和情报常设特别委员会，不列为截止日现职。",
+        "非官方资料中的白人族裔标签：未获得规则要求的本人自述或官方统计支持，不采用。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（田纳西州第9选区），美国国会众议院，Bioguide C001068",
+      "review_items": [
+        "一级来源对一级来源冲突：由AI政见确认孟菲斯警察局任职采用1975—1978年还是1974—1977年；该决定同时影响参加工作年份。",
+        "入党锚点按第2级将1980年民主党全国代表大会代表归为党组织代表职务；独立核查时复核这一职务分类。",
+        "法学院学习起始时间缺证，完整学习履历未齐；本包未标为完整简历卡。",
+        "欧洲安全与合作委员会及欧安组织特别代表职务需补正式就任日期，并核定在现任或履历括注中的归类。"
+      ]
+    }
+  ]
+}

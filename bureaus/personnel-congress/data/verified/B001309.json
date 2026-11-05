@@ -1,0 +1,557 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001309",
+      "line": "cadre",
+      "subject_id": "b001309",
+      "title": "提姆·布歇特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BURCHETT,-Timothy-(B001309)/",
+          "title": "BURCHETT, Timothy | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Knoxville, Knox County, Tenn., August 25, 1964; ... B.S., University of Tennessee, Knoxville, Tenn., 1988;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/B001309",
+          "title": "Office of the Clerk, U.S. House of Representatives — Tim Burchett",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Tim Burchett ... Tennessee (TN) – 2nd, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://burchett.house.gov/about",
+          "title": "About | Representative Tim Burchett",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Rep. Burchett currently serves on the House Committees on Oversight and Government Reform; Foreign Affairs; and Transportation and Infrastructure.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://capitol.tn.gov/senate/archives/105GA/Members/s7.htm",
+          "title": "Tennessee Senate Member — Tim Burchett",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Born August 25, 1964, Knoxville, Tennessee ... B.S. in Education from the University of Tennessee at Knoxville",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.capitol.tn.gov/house/archives/99GA/Members/h18.htm",
+          "title": "Tennessee House Member, 99th General Assembly — Tim Burchett",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "TIM BURCHETT ... District 18 - Knox County ... Date of Birth 08/25/64 ... Political Preference Republican",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://our.tennessee.edu/ut-alumni-on-the-hill-2023/",
+          "title": "UT Alumni on the Hill — Our Tennessee",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "U.S. Rep. Tim Burchett ... UT Knoxville ’88",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://sigmachi.org/sigma-chi-represented-in-congress/",
+          "title": "Sigma Chi Represented in Congress – Sigma Chi",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "He was twice reelected, serving from 1999 to 2010.",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://burchettforcongress.com/meet-tim/",
+          "title": "Meet Tim - Tim Burchett for Congress",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Tim is also a former small businessman who started his own business",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.fec.gov/data/candidate/H8TN02119/",
+          "title": "BURCHETT, TIM - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Candidate for House Tennessee - 02 ID: H8TN02119 REPUBLICAN PARTY",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:TN"
+      ],
+      "person": {
+        "name": {
+          "value": "提姆·布歇特",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1964-08-25",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "田纳西州诺克斯维尔",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "田纳西大学诺克斯维尔分校教育学理学学士学位",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（田纳西州第2选区）",
+          "role": "",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院监督与政府改革委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院外交事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院交通和基础设施委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1984",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "众议院官方传记记载1988年取得学士学位，田纳西大学校友页面列为1988届；按本科标准学制4年倒推：1988－4＝1984。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1988",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1988",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "田纳西大学诺克斯维尔分校",
+          "role": null,
+          "program": "教育学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1998",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "田纳西州众议院",
+          "role": "州众议员（第18选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员（第18选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1998",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s1",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "田纳西州参议院",
+          "role": "州参议员（第7选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员（第7选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010",
+            "source_ids": [
+              "s1",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "田纳西州诺克斯县政府",
+          "role": "县长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "县长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（田纳西州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（田纳西州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers[2].start",
+          "alternatives": [
+            {
+              "value": "1998",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": "众议院现行官方传记记载州参议院任期为1998—2010年。",
+              "inference": null
+            },
+            {
+              "value": "1999",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": "Sigma Chi人物介绍将1998年列为赢得州参议院选举的年份，将任职期间列为1999—2010年。",
+              "inference": null
+            }
+          ],
+          "selected_value": "1998",
+          "reason": "按规则暂取众议院现行官方人物页；1998年当选与1999年开始履职的区别列入复核清单，交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过众议院官方传记、议员官网、州议会历史人物页及本人竞选网站，确认其有小企业经营经历，未找到第一份全职工作的开始年份及月份；work_start留空。",
+        "早期经商履历：官方与本人网站记载商人、小企业经营者以及覆盖物、堆肥和卡车拖车业务，未找到企业名称及可核实的任职起止日期，未单列履历。",
+        "本科实际入学年份及月份：查过众议院传记、州议会人物页和田纳西大学校友页面，未找到；1984年为毕业年减4的规则推算。",
+        "本科毕业月份、学习是否全日制：上述官方及学校页面未明确记载。",
+        "入党时间第1级：检索选民党籍登记及本人公开宣布加入共和党的记录，未找到可用日期。",
+        "入党时间第2级：检索早期青年共和党组织职务，发现曾任组织主席的线索，未取得能确定就任年份的合格原文。",
+        "入党时间第3级：查过FEC候选人页及州级参选登记线索，未取得其首次共和党参选登记的受理日；FEC页面显示的2025年现行版本不作首次登记。",
+        "入党时间第4至5级：检索1994年州众议院初选、州选务历史结果和州议会档案；1994年初选报道原文打不开，州议会人物页没有直接写出首次以共和党身份就任的公历日期，首次有效锚点未定，party_joined_at留空。",
+        "州众议院任期：众议院官方人物页写1994—1998年，州议会历史人物页只列第99、100届议会；1994年当选与正式履职日期的衔接仍需核定。",
+        "三个现任委员会席位的开始日期：查过众议院书记官成员页和议员官网传记，未找到就任或生效日期，start均留空。",
+        "族裔：查过国会官方人物页及议员官网传记，未找到本人自述或官方统计依据，ethnicity留空。"
+      ],
+      "excluded": [
+        "底稿『1988年参加工作』：没有第一份全职工作于1988年开始的来源。",
+        "底稿『1988年6月参加工作』：年份与月份均无本次取得的依据。",
+        "底稿『1988—1994年诺克斯维尔市小企业业主』：经营者身份有依据，起止年份和单位名称无依据，删除该条。",
+        "底稿『1982年入读田纳西大学』：未取得实际入学年份的合格原文，改用1988年毕业减4的规则推算。",
+        "底稿『1995—1999年田纳西州众议员』：本次暂按众议院现行官方页记录1994—1998年，履职日期差异列入复核。",
+        "底稿『1999—2010年田纳西州参议员』：与众议院现行官方页的1998—2010年不同，已并列记录冲突。",
+        "底稿『2025年1月开始担任现职』：这是本届任期起点，连续担任田纳西州第2选区联邦众议员始于2019年1月3日。",
+        "底稿『1994年8月加入美国共和党』：本次没有取得支持该月份的首次有效锚点原文。",
+        "官网所列DOGE小组委员会主席及其他小组委员会席位：本批规则不单列小组委员会。",
+        "国会名录2026年PDF的搜索摘要：整份PDF打开时超过工具内容长度限制，未列入sources。",
+        "议员官网Committees and Caucuses页面：直接打开返回403，改用书记官成员页及已打开的官网About页面。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（田纳西州第2选区）＋美国国会众议院；Bioguide B001309",
+      "review_items": [
+        "参加工作时间缺证，完整简历卡五项必填条件未齐，保留候选事实包。",
+        "交AI政见确认州议会当选年份与正式履职年份的处理；当前暂采用众议院现行官方人物页。",
+        "继续取得早期党组织职务或1994年共和党初选的原始记录，确定入党推断锚点。",
+        "本事实包为研究候选稿，下一会话逐字段重新联网核查。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "mohamed-awad",
+  "name_zh": "穆罕默德·阿瓦德",
+  "name_en": "Mohamed Awad",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Arm公司 Executive Vice President, Cloud AI Business Unit Arm Executive Vice President, Cloud AI Business Unit”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/mohamed-awad.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.arm.com/-/media/global/company/leadership/mohamed-awad-leadership-204x204-v2.png?h=204&hash=15D3A06908A1C22B5112D43AC5BADF3C&la=en&rev=cb093fc65f9c488e97f69d6c964bc863&revision=cb093fc6-5f9c-488e-97f6-9d6c964bc863&w=204",
+    "source": "https://www.arm.com/company/leadership"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Arm",
+      "role_en": "Executive Vice President, Cloud AI Business Unit"
+    }
+  ],
+  "notes": [
+    "SEC field blank: no individual biography in the latest Arm annual report on Form 20-F."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Arm公司 Executive Vice President, Cloud AI Business Unit Arm Executive Vice President, Cloud AI Business Unit”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "mohamed-awad-20261018",
+    "line": "cadre",
+    "subject_id": "mohamed-awad",
+    "title": "穆罕默德·阿瓦德简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://newsroom.arm.com/author/mohamed-awad",
+        "title": "Mohamed Awad – Arm Newsroom",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Executive Vice President of Arm’s Cloud AI Business Unit ... he led Arm’s IoT business ... BS in Computer Science from the University of Massachusetts.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://newsroom.arm.com/blog/change-drives-innovation-at-arm",
+        "title": "Change Drives Innovation",
+        "published_at": "2022-10-18",
+        "checked_at": "2026-10-18",
+        "excerpt": "Mohamed Awad ... will join the Arm Executive Committee and lead the Infrastructure team as SVP and GM of the Infrastructure LoB.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "穆罕默德·阿瓦德",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "大学本科",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "马萨诸塞大学计算机科学理学学士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "Arm 公司",
+        "role": "云 AI 事业部执行副总裁",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "云 AI 事业部执行副总裁"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-10-18",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Arm 公司",
+        "role": "基础设施事业部高级副总裁兼总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "基础设施事业部高级副总裁兼总经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "Arm 公司",
+    "conflicts": [],
+    "unknowns": [
+      "现职到任年月、大学毕业年及早期全职工作开始时间未查到。",
+      "官网列出 Broadcom、Ember、Lucent、Nortel、Avici 经历，未载各职务与日期，未补造。",
+      "现职相较2022年职务有变化，但变化生效日期未核到，未生成2026年6月以来动态。",
+      "国籍：已查所列来源，未找到可采用依据。",
+      "出生年月：已查所列来源，未找到可采用依据。",
+      "参加工作时间：已查所列来源，未找到可采用依据。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Arm 云 AI 事业部执行副总裁；排除同名足球运动员及高校研究者。",
+    "review_items": [
+      "表外中文名按译音规则拟作穆罕默德·阿瓦德，待审；搜索命中的同名足球运动员不作汉名依据。"
+    ]
+  }
+}

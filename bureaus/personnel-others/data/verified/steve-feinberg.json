@@ -1,0 +1,430 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-steve-feinberg",
+      "line": "cadre",
+      "subject_id": "steve-feinberg",
+      "title": "斯蒂夫·费恩伯格简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.war.gov/About/Deputy-Secretary-of-War/messages-to-the-team/",
+          "title": "Deputy Secretary of War",
+          "excerpt": "The Honorable Steve Feinberg is the deputy secretary of war. He was sworn in on March 17, 2025, as the 36th deputy secretary of defense.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.govinfo.gov/content/pkg/CHRG-119shrg62893/pdf/CHRG-119shrg62893.pdf",
+          "title": "Nomination of Stephen A. Feinberg—Biographical Information, printed p.135",
+          "excerpt": "Princeton University 1978-1982 A.B. 1982; Drexel Burnham Lambert, Inc. 1982-1985 Trader; Gruntal & Co. 1985-1992 Asset Manager; Cerberus Capital Management, L.P. 1992-Present Chief Executive Officer.",
+          "published_at": "2025-02-25",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://breakingdefense.com/2025/04/whos-who-in-defense-stephen-feinberg-deputy-secretary-of-defense-dsd/",
+          "title": "Who’s Who in Defense: Stephen Feinberg",
+          "excerpt": "Stephen Andrew Feinberg was born March 29, 1960.",
+          "published_at": "2025-04-01",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://www.hagerty.senate.gov/press-releases/2025/02/25/hagerty-introduces-steve-feinberg-trumps-nominee-for-deputy-secretary-of-defense/",
+          "title": "Hagerty Introduces Steve Feinberg",
+          "excerpt": "Feinberg previously was co-founder, co-CEO, and chief investment officer of Cerberus Capital Management.",
+          "published_at": "2025-02-25",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "斯蒂夫·费恩伯格",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国籍",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1960-03",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1982-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1982年毕业后在德崇证券参加工作，按毕业次月6月推算。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1982-05",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "普林斯顿大学本科",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "文学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国国防部（战争部）",
+          "role": "常务副部长",
+          "start": {
+            "value": "2025-03-17",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1978-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "问卷载1978年入学，月份按美国学年9月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1978",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1982-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "毕业月份未载，按美国学年默认5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1982",
+              "duration_years": null
+            }
+          },
+          "organization": "普林斯顿大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1982-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "1982年毕业后在德崇证券参加工作，按毕业次月6月推算。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "1982-05",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1985-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "来源仅记年份，按规则以7月记录。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1985",
+              "duration_years": null
+            }
+          },
+          "organization": "德崇证券公司",
+          "role": "交易员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "来源仅记年份，按规则以7月记录。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1985",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1992-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "来源仅记年份，按规则以7月记录。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1992",
+              "duration_years": null
+            }
+          },
+          "organization": "Gruntal & Co.",
+          "role": "资产经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1992-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "来源仅记年份，按规则以7月记录。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1992",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "瑟伯勒斯资本管理公司",
+          "role": "联合创始人、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "来源仅记年份，按规则以7月记录。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2018",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2021-01",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：来源记该职务止于2021年；按新一届总统任期于2021年1月开始推算上一届总统任内职务的结束月。",
+            "inference": {
+              "rule": "statutory_term_start",
+              "from_date": "2021",
+              "duration_years": null
+            }
+          },
+          "organization": "美国总统情报顾问委员会",
+          "role": "主席",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-03-17",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国防部（战争部）",
+          "role": "常务副部长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "瑟伯勒斯离任日期未查到；2025年2月问卷记至今，同月参议员介绍稿已称此前任职，离任日期留空。",
+        "党籍及入党时间未取得合格锚点。",
+        "本科专业未在已读取的问卷中列出。",
+        "国籍按美国政府高级公职官方身份记录；官网未单列国籍字段。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "wuju"
+}

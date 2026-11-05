@@ -1,0 +1,413 @@
+{
+  "id": "chris-a-malachowsky",
+  "name_zh": "克里斯·马拉霍夫斯基",
+  "name_en": "Chris A. Malachowsky",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“英伟达公司 Founder and NVIDIA Fellow NVIDIA Founder and NVIDIA Fellow”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/chris-a-malachowsky.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://iprsoftwaremedia.com/219/files/202604/95edf2075f793100ab4c84cf078b2b5d/69e6b94d3d633260ecc67809_chris-1920x1920/chris-1920x1920_cacffdb9-b7c1-4175-9f9f-79e620d7de1f-prv.jpg?v=cacffdb9-b7c1-4175-9f9f-79e620d7de1f",
+    "source": "https://nvidianews.nvidia.com/bios/chris-a-malachowsky"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "NVIDIA",
+      "role_en": "Founder and NVIDIA Fellow"
+    }
+  ],
+  "notes": [
+    "SEC field blank: no individual biography in the latest NVIDIA annual report or proxy statement."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“英伟达公司 Founder and NVIDIA Fellow NVIDIA Founder and NVIDIA Fellow”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "chris-a-malachowsky-20261018",
+    "line": "cadre",
+    "subject_id": "chris-a-malachowsky",
+    "title": "克里斯·马拉霍夫斯基简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://nvidianews.nvidia.com/bios/chris-a-malachowsky",
+        "title": "NVIDIA：Chris A. Malachowsky",
+        "excerpt": "Chris Malachowsky founded NVIDIA in 1993",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://ece.ufl.edu/people/hall-of-fame/",
+        "title": "University of Florida ECE Hall of Fame",
+        "excerpt": "received his MSCS from Santa Clara University in 1986.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001045810/e198721c-58f6-4772-8633-cb95ca474654.pdf",
+        "title": "NVIDIA历年证券申报：高管履历",
+        "excerpt": "From 1980 to 1986, Mr. Malachowsky was a manufacturing design engineer at Hewlett-Packard Company.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "克里斯·马拉霍夫斯基"
+    ],
+    "person": {
+      "name": {
+        "value": "克里斯·马拉霍夫斯基",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1958-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md第3节第3条：1980年本科毕业减22得1958年，出生月默认7月。",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1980",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1980-06",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1980",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "圣克拉拉大学计算机科学专业",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "理学硕士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "英伟达公司",
+        "role": "联合创始人、资深研究员",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1976-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1980减标准学制4年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1980",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1980-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1980",
+            "duration_years": null
+          }
+        },
+        "organization": "佛罗里达大学",
+        "role": null,
+        "program": "电气工程专业",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1984-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1986减标准学制2年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1986",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1986-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1986",
+            "duration_years": null
+          }
+        },
+        "organization": "圣克拉拉大学",
+        "role": null,
+        "program": "计算机科学专业",
+        "degree_awarded": {
+          "value": "理学硕士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1980-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1980",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1986-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1986",
+            "duration_years": null
+          }
+        },
+        "organization": "惠普公司",
+        "role": "制造设计工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1987-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1987",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1993-04",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Sun Microsystems 公司",
+        "role": "高级主任工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993-04",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "英伟达公司",
+        "role": "联合创始人兼工程副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "英伟达公司",
+    "conflicts": [],
+    "unknowns": [
+      "国籍和有日期依据的出生记录未查明，出生年月暂按本科毕业年推算。",
+      "英伟达工程副总裁离任时间及资深研究员任职开始时间未查明。",
+      "硕士是否在职学习未查明。",
+      "已核实经历，开始时间未知：英伟达公司；联合创始人、资深研究员。来源：s1。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

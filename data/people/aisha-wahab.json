@@ -1,0 +1,352 @@
+{
+  "id": "aisha-wahab",
+  "name_zh": "艾莎·瓦哈卜",
+  "name_en": "Aisha Wahab",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {
+    "bioguide": "W000832"
+  },
+  "resume": {
+    "id": "cadre-aisha-wahab",
+    "line": "cadre",
+    "subject_id": "aisha-wahab",
+    "title": "艾莎·瓦哈卜简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://history.house.gov/Institution/Vacancies-Successors/Vacancies-Successors/",
+        "title": "Vacancies & Successors",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "The Honorable Aisha Wahab (D) was elected August 18, 2026, in a special election. Representative Wahab was added to the rolls of the House upon executing the oath of office on September 2, 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://clerk.house.gov/Members/ViewVacancies",
+        "title": "Vacancies of the 119th Congress",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "Resigned April 14, 2026",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current）",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "bio.gender: F; bio.birthday: 1987-01-11",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://blogs.sjsu.edu/wsq/?p=9275",
+        "title": "Aisha Wahab: Of and For the Community（圣何塞州立大学校刊《华盛顿广场》）",
+        "published_at": "2019-12-05",
+        "checked_at": "2026-10-22",
+        "excerpt": "Aisha Wahab, ’10 Political Science. ... Born in New York to parents who had fled Afghanistan",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.aishawahab.com/about",
+        "title": "Meet Aisha（本人竞选网站自述）",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "Doctorate in Social Work (focus on housing, inequality, and justice) - University of Southern California Master’s in Business Administration - CSU East Bay - Hayward, CA BA in Political Science - San Jose State University - San Jose, CA",
+        "tier": 2
+      },
+      {
+        "id": "s6",
+        "url": "https://web.archive.org/web/20221202122005/https://hayward-ca.gov/your-government/city-council/council-member-aisha-wahab",
+        "title": "Councilmember Aisha Wahab（海沃德市政府网站，网页存档 2022-12-02）",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "Councilmember Aisha Wahab was elected to the Hayward City Council in November 2018.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://web.archive.org/web/20260824095749/https://sd10.senate.ca.gov/biography",
+        "title": "Biography | Senator Aisha Wahab（加利福尼亚州参议院官网，网页存档 2026-08-24）",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "Senator Aisha Wahab was elected in 2022 representing the cities of Hayward, Union City, Newark, Fremont, Milpitas, Sunnyvale, San Jose and Santa Clara.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s4",
+          "s1"
+        ],
+        "basis": "出生于美国纽约；现任须具美国公民身份的联邦众议员",
+        "inferred": false,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1987-01-11",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "纽约",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "南加州大学社会工作博士学位",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "name": {
+        "value": "艾莎·瓦哈卜",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（加利福尼亚州第14选区）",
+        "role": "",
+        "start": {
+          "value": "2026-09-02",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-09-02",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国联邦众议员（加利福尼亚州第14选区）",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "按下一条2022年当选加利福尼亚州参议员衔接。",
+          "inference": {
+            "rule": "adjacent_entry",
+            "from_date": "2022",
+            "duration_years": null
+          }
+        },
+        "organization": "海沃德市议会",
+        "role": "议员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "议员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "按下一条2026年9月就任联邦众议员衔接。",
+          "inference": {
+            "rule": "adjacent_entry",
+            "from_date": "2026-09",
+            "duration_years": null
+          }
+        },
+        "organization": "加利福尼亚州参议院",
+        "role": "议员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [
+          "议员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作时间未见来源；本科、工商管理硕士、社会工作博士的就读起止年份未见来源（本科 2010 年毕业）"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-17",
+  "updated_at": "2026-10-22",
+  "roles_checked_at": "2026-10-17",
+  "events": [
+    "2026-09-02-aisha-wahab-appoint"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-09-02",
+      "event": "2026-09-02-aisha-wahab-appoint",
+      "reason": "主要职务“美国联邦众议员（加利福尼亚州第14选区）”：参众两院"
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true,
+  "portrait": {
+    "file": "aisha-wahab.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aisha_Wahab,_2024.jpg",
+    "source_kind": "维基共享资源（国会议员官方照）",
+    "license": "公有领域：维基共享资源标为公有领域（California State Senate），File:Aisha Wahab, 2024.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Aisha_Wahab%2C_2024.jpg"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-paul-r-lawrence",
+      "line": "cadre",
+      "subject_id": "paul-r-lawrence",
+      "title": "保罗·R.劳伦斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://department.va.gov/staff-biographies/paul-lawrence/",
+          "title": "Paul R. Lawrence, Ph.D.",
+          "excerpt": "Confirmed March 27, 2025 and sworn in the following day; BA economics, MA and PhD economics.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://news.va.gov/press-room/va-announces-paul-lawrence-as-new-under-secretary-for-benefits/",
+          "title": "VA announces Paul Lawrence as new Under Secretary for Benefits",
+          "excerpt": "Paul R. Lawrence will assume office Tuesday, May 15.",
+          "published_at": "2018-05-14",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-neige",
+        "research"
+      ],
+      "person": {
+        "name": {
+          "value": "保罗·R.劳伦斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": null,
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "经济学博士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国退伍军人事务部",
+          "role": "常务副部长",
+          "start": {
+            "value": "2025-03-28",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-05-15",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国退伍军人事务部",
+          "role": "分管福利事务次长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-03-28",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国退伍军人事务部",
+          "role": "常务副部长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国政要",
+      "conflicts": [],
+      "unknowns": [
+        "出生年月、国籍直接陈述、首次全职工作时间、入党锚点和大学毕业年份未取得。",
+        "历任咨询公司职务缺准确起止，未将任职顺序编成年表。",
+        "VA网页标题还列受委托履行信息技术助理部长及首席信息官职责，兼任起始及截至日状态待核，未写入现职。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": "Deputy Secretary | Department of Veterans Affairs",
+      "review_items": [
+        "表外译名待审：保罗·R.劳伦斯",
+        "完整简历卡缺项：nationality、birth_date、work_start。保留seed级事实包。"
+      ]
+    }
+  ],
+  "source_task": "sanju-neige"
+}

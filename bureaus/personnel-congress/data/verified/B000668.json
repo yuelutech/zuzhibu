@@ -1,0 +1,667 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b000668",
+      "line": "cadre",
+      "subject_id": "b000668",
+      "title": "克里夫·本茨简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/25769816863?current_search_qs=%3FAsianPacificAmericansInCongress%3Dfalse%26BlackAmericansInCongress%3Dfalse%26Command%3D3%26CongressNumberList%3D119%26ContinentalCongress%3Dfalse%26CurrentPage%3D2%26HispanicAmericansInCongress%3Dfalse%26Leadership%3D%26Office%3D%26Party%3D%26PreviousSearch%3DSearch%252cLastName%252c%252c%252c%252c%252cFalse%252cFalse%252cFalse%252c119%252cMostRecommended%26ResultType%3DList%26SearchIn%3DLastName%26ShowNonMember%3Dfalse%26SortOrder%3DMostRecommended%26State%3D%26Term%3DSearch%26WomenInCongress%3Dfalse",
+          "title": "BENTZ, Cliff | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Salem, Marion County, Oreg., January 12, 1952",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.house.gov/representatives",
+          "title": "Representatives | house.gov",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Bentz, Cliff | Oregon 2nd | R | 409 CHOB | (202) 225-6730 | Energy and Commerce|Natural Resources",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+          "title": "Oregon Secretary of State : U.S. Representatives : Government : State of Oregon",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Born January 12, 1952, in Salem, Oregon. Eastern Oregon State College, B.S., 1974; Lewis & Clark Law School, J.D., 1977.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.lclark.edu/live/news/8962-class-notes-1970s",
+          "title": "Class Notes - 1970s • L&C Magazine • Lewis & Clark",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "1977\nCliff Bentz JD has been elected state representative for District 60 in southeastern Oregon.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.osbar.org/publications/bulletin/14febmar/legislature.html",
+          "title": "Welcome to the Oregon State Bar Online",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "After graduating from Lewis & Clark’s Northwestern School of Law in 1977, Bentz joined Yturri Rose in Ontario",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.ustravel.org/sites/default/files/media_root/document/2020_Election-Profiles.pdf",
+          "title": "2020 Election Profiles（National Journal 人物资料，U.S. Travel Association 托管）",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "JD, Lewis and Clark Northwestern School of Law, 1974-1977; BS, History, Eastern Oregon State College, 1970-1974",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://naturalresources.house.gov/about/members.htm",
+          "title": "Meet Our Members | House Committee on Natural Resources",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Cliff Bentz\nOregon, 2nd District",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Record/6873621/File/document",
+          "title": "Official Results of May 20 2008 primary election",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "May 20, 2008, Primary Election Abstract of Votes\nSTATE REPRESENTATIVE, 60TH DISTRICT\nRepublican\n*Bentz Smith Misc.\nCounty Cliff Tim K.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:OR"
+      ],
+      "person": {
+        "name": {
+          "value": "克里夫·本茨",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1952-01-12",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "俄勒冈州塞勒姆",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1977",
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "俄勒冈州律师协会人物报道记载，本茨1977年法学院毕业后加入安大略市 Yturri Rose 律师事务所；National Journal 人物资料将律师列为其职业起点。按首份全职律师工作的开始年份取1977年；来源：https://www.osbar.org/publications/bulletin/14febmar/legislature.html",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1977",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "刘易斯与克拉克法学院法学博士学位",
+          "source_ids": [
+            "s4",
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2008-05",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以共和党候选人身份参加俄勒冈州第60选区州众议员初选，2008-05-20；来源：https://records.sos.state.or.us/ORSOSWebDrawer/Record/6873621/File/document 。已检索选民登记、本人公开宣布、党组织任职及州参选登记线索，未取得可读取原文支持的更高级锚点。搜索另见第三方托管候选人名单出现2007-09-19登记日期，正文读取持续超时，未采用；该线索列入复核清单。底稿2008年1月未附党籍锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2008-05-20",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（俄勒冈州第2选区）",
+          "role": "",
+          "start": {
+            "value": "2021-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院能源和商业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院自然资源委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1970",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1974",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "东俄勒冈州立学院",
+          "role": null,
+          "program": "历史学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1974",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1977",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "刘易斯与克拉克西北法学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1977",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Yturri Rose 律师事务所",
+          "role": "律师、合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师",
+            "合伙人"
+          ],
+          "role_category": null,
+          "role_basis": "俄勒冈州律师协会报道记载1977年毕业后加入该所，1981年成为合伙人；按同一单位合并记录。报道发表于2014年，未据此主张任职持续至截止日。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1988",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1996",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "俄勒冈州水资源委员会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1994",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1996",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "俄勒冈州水资源委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄勒冈州众议院",
+          "role": "州众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2020",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄勒冈州参议院",
+          "role": "州参议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（俄勒冈州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（俄勒冈州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.俄勒冈州参议院.end",
+          "alternatives": [
+            {
+              "value": "2020",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2019",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2020",
+          "reason": "采用美国众议院历史办公室现行传记所列2018—2020年；俄勒冈州蓝皮书列2018—2019年。一级来源之间的差异列入复核清单，交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "族裔：查过国会历史办公室、议员官网检索结果和俄勒冈州蓝皮书，未找到本人自述或官方族裔统计。",
+        "参加工作月份：已打开的俄勒冈州律师协会报道只有1977年毕业后进入律所的记载，没有具体月份。",
+        "律所任职结束时间：查过律师协会报道、议员官网和州议会履历线索，没有取得可读取原文支持的结束日期；不沿用底稿2008年。",
+        "律所当年完整名称：已读取的律师协会报道使用 Yturri Rose，议员官网含完整名称的传记持续打开失败，故采用已读取的名称。",
+        "学习形式及法学院具体专业：已打开的学校校友资料、官方传记和 National Journal 人物资料没有明确记载，不填 full_time 和法学院 program。",
+        "州议会任职具体月日及州众议员选区：搜索发现州议会历史记录和活动资料线索，相关详情页、PDF持续读取失败；履历保留可读取国会官方传记支持的年份和职务。",
+        "州参议员离任具体日期：搜索发现州参议院2020年议事录及议员官网记载2020-01-02的线索，正文读取失败，事实字段只保留已读取官方传记支持的2020年。",
+        "委员会开始日期：已打开众议院议员名录、自然资源委员会成员页和州蓝皮书确认现任委员会，未取得其首次正式获选进入各委员会的日期。",
+        "入党高级锚点：检索选民登记、公开宣布加入共和党、党组织任职、州参选登记及FEC候选人页，未取得可读取原文支持的第1—3级早期锚点。第三方托管的2008年候选人名单搜索结果出现2007-09-19登记日期，PDF正文持续读取超时。",
+        "其他兼职和农场、商业地产经营经历：官方传记确认农牧业及律师身份，未取得相应单位、就任起止日期，不补列履历。",
+        "2020年至2021年间竞选身份：已读取资料确认竞选及当选事实，但未完整取得参选、提名各阶段的起始日期，未补造连续时间线。"
+      ],
+      "excluded": [
+        "底稿『2025年1月起任美国联邦众议员』：这是本届任期起点；现选区职务实际开始日期为2021-01-03。",
+        "底稿『文学学士』：国会历史办公室和俄勒冈州蓝皮书均记载B.S.，改为理学学士。",
+        "底稿『1977—1980年律师、1980—2008年合伙人』：俄勒冈州律师协会报道记载1981年成为合伙人，且未给出2008年结束依据；同一律所合并一条。",
+        "底稿『1977年6月参加工作』：未取得月份来源，保留1977年。",
+        "底稿『2008年1月加入美国共和党』：未附合格党籍锚点，未采用。",
+        "搜索线索『2007-09-19以共和党身份登记参选』：第三方托管PDF正文持续读取超时，未列入来源或采用为推断日期。",
+        "底稿来源 congress-legislators 仓库首页：不作为本轮字段证据。",
+        "搜索结果中的维基百科及其镜像：只作检索线索，不列入来源。",
+        "议员官网 About 页面、州议会 CoastEconomic2018.pdf 等：未成功读到支持事实的原文，不列入来源。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（俄勒冈州第2选区）＋美国国会众议院；Bioguide B000668",
+      "review_items": [
+        "优先重新打开2008年候选人登记名单或查找州选务机构原件，核实2007-09-19登记线索；若成立，应以第3级锚点替换当前2008-05第4级锚点。",
+        "州参议员离任年份存在一级来源差异：国会历史办公室为2020年，州蓝皮书为2019年；当前选2020年，交AI政见确认。",
+        "本科及法学院入学年份由 National Journal 人物资料直接记载；下一会话复核托管PDF第54页及来源署名。",
+        "律所任职结束时间未知，ongoing=false不表示已经离任。",
+        "本轮为研究候选事实包，下一会话逐字段重新联网核验。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "2026-08-21-glen-smith-transfer",
+  "date": "2026-08-21",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "glen-smith",
+  "person": {
+    "name_zh": "格伦·史密斯",
+    "name_en": "Glen Smith",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-24",
+  "effective_at": "2026-08-21",
+  "ended_roles": [
+    {
+      "organization": "美国农业信贷管理局",
+      "organization_en": "Farm Credit Administration",
+      "role": "理事",
+      "role_en": "Board Member",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "c1"
+      ]
+    },
+    {
+      "organization": "美国农业信贷系统保险公司",
+      "organization_en": "Farm Credit System Insurance Corporation",
+      "role": "理事会主席",
+      "role_en": "Chairman of the Board",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e2",
+        "c1"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "美国农业部",
+      "organization_en": "U.S. Department of Agriculture",
+      "role": "副部长（农村发展）",
+      "role_en": "Under Secretary for Rural Development",
+      "start": "2026-08-21",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "c1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": {
+    "organization": "美国农业部",
+    "organization_en": "U.S. Department of Agriculture",
+    "role": "副部长（农村发展）",
+    "role_en": "Under Secretary for Rural Development",
+    "start": null,
+    "end": null,
+    "concurrent": false,
+    "sector": "politics",
+    "source_ids": [
+      "e1"
+    ]
+  },
+  "new_appointment_checked": true,
+  "headline": "格伦·史密斯离开农业信贷管理局，转任农业部副部长",
+  "summary": "美国农业信贷管理局2026年8月24日宣布格伦·史密斯离任，转任美国农业部主管农村发展的副部长，并结束农业信贷系统保险公司理事会主席职务。农业部公告确认，他已于8月21日宣誓就任新职；两项原职务的具体离任日期未公布。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.fca.gov/newsroom/pr_detail/glen-smith-departs-fca-to-serve-as-under-secretary-for-rural-development-at-usda",
+      "title": "Glen Smith departs FCA to serve as under secretary for rural development at USDA",
+      "publisher": "Farm Credit Administration",
+      "published_at": "2026-08-24",
+      "excerpt": "Today, the Farm Credit Administration announced the departure of Board Member Glen Smith following his Senate confirmation as under secretary for rural development for the U.S. Department of Agriculture.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "e2",
+      "url": "https://www.fca.gov/newsroom/pr_detail/glen-smith-departs-fca-to-serve-as-under-secretary-for-rural-development-at-usda",
+      "title": "Glen Smith departs FCA to serve as under secretary for rural development at USDA",
+      "publisher": "Farm Credit Administration",
+      "published_at": "2026-08-24",
+      "excerpt": "Following Smith’s departure, the FCA and FCSIC boards will each have one remaining member.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "c1",
+      "url": "https://www.rd.usda.gov/newsroom/news-release/glen-smith-sworn-under-secretary-rural-development",
+      "title": "Glen Smith Sworn in as Under Secretary for Rural Development",
+      "publisher": "",
+      "published_at": "2026-08-21",
+      "excerpt": "(Washington, D.C., Aug. 21, 2026) – U.S. Secretary of Agriculture Brooke Rollins officially swore in Glen R. Smith of Atlantic, Iowa, as U.S. Department of Agriculture Under Secretary for Rural Development.",
+      "supports": [
+        "effective_at",
+        "new_roles[0].start"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "effective_at → 2026-08-21（来源 c1）",
+      "new_roles[0].start → 2026-08-21（来源 c1）",
+      "summary_zh → 美国农业信贷管理局2026年8月24日宣布格伦·史密斯离任，转任美国农业部主管农村发展的副部长，并结束农业信贷系统保险公司理事会主席职务。农业部公告确认，他已于8月21日宣誓就任新职；两项原职务的具体离任日期未公布。"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等）；e2：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "到任：美国农业部副部长（农村发展）由提名改为正式职务，起始 2026-08"
+    ],
+    "notes": [
+      "原任“美国农业信贷管理局 理事 Farm Credit Administration Board Member”在记录的现任职务里找不到对应项，未移出",
+      "原任“美国农业信贷系统保险公司 理事会主席 Farm Credit System Insurance Corporation Chairman of the Board”在记录的现任职务里找不到对应项，未移出"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "glen-smith",
+    "reason": "主要职务“美国农业部 副部长（农村发展）”：总统、白宫、内阁与独立机构"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "2026-09-01-will-scharf-transfer",
+  "date": "2026-09-01",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "will-scharf",
+  "person": {
+    "name_zh": "威尔·沙夫",
+    "name_en": "Will Scharf",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-08-09",
+  "effective_at": "2026-09-01",
+  "ended_roles": [
+    {
+      "organization": "美国白宫",
+      "organization_en": "White House",
+      "role": "幕僚秘书",
+      "role_en": "Staff Secretary",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "美国白宫",
+      "organization_en": "White House",
+      "role": "总统助理兼白宫法律顾问",
+      "role_en": "Assistant to the President and White House Counsel",
+      "start": "2026-09-01",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "威尔·沙夫由白宫幕僚秘书转任总统助理兼白宫法律顾问",
+  "summary": "特朗普8月9日宣布任命沙夫；9月10日报道确认沙夫于9月1日就任白宫法律顾问，接替戴维·沃灵顿。幕僚秘书原职的具体结束日未知。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.aa.com.tr/en/americas/trump-names-will-scharf-as-white-house-counsel/4022683",
+      "title": "Trump names Will Scharf as White House counsel",
+      "publisher": "Anadolu Agency",
+      "published_at": "2026-08-10",
+      "excerpt": "Will Scharf will become Assistant to the President and White House Counsel",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://www.jpost.com/influencers-26/50jews-26/article-907916",
+      "title": "No. 42: Will Scharf and Lee Zeldin: Shaping law and policy from inside the Trump administration",
+      "publisher": "The Jerusalem Post",
+      "published_at": "2026-09-10",
+      "excerpt": "On September 1, 2026, Will Scharf became White House counsel",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "new_roles[0].organization → 美国白宫（原写“白宫”；机构写法统一，2026-10-22 维护者定）",
+      "ended_roles[0].organization → 美国白宫（原写“白宫”；机构写法统一，2026-10-22 维护者定）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：不是一级来源；e2：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "原任“白宫 幕僚秘书 White House Staff Secretary”在记录的现任职务里找不到对应项，未移出",
+      "新任“白宫总统助理兼白宫法律顾问”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "will-scharf",
+    "reason": "主要职务“白宫 总统助理、法律顾问”：总统、白宫、内阁与独立机构"
+  }
+}

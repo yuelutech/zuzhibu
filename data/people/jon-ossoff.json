@@ -1,0 +1,611 @@
+{
+  "id": "jon-ossoff",
+  "name_zh": "乔恩·奥索夫",
+  "name_en": "Jon Ossoff",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "O000174"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "jon-ossoff.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jon_Ossoff_Senate_Portrait_2021.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（U.S. Senate Photographic Studio；https://twitter.com/SenOssoff/status/1404795009342349316），File:Jon Ossoff Senate Portrait 2021.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Jon_Ossoff_Senate_Portrait_2021.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-o000174",
+    "line": "cadre",
+    "subject_id": "o000174",
+    "title": "乔恩·奥索夫简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2021-01-20~2027-01-03 GA Democrat",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "February 16, 1987 in Atlanta, Georgia",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
+        "title": "维基百科：Jon_Ossoff",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "February 16, 1987 in Atlanta, Georgia",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
+        "title": "维基百科：Jon_Ossoff",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "February 16, 1987 in Atlanta, Georgia, U.S.",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
+        "title": "维基百科：Jon_Ossoff",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Committee on Appropriations; Committee on Rules and Administration; Select Committee on Intelligence",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
+        "title": "维基百科：Jon_Ossoff",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Georgetown University: BS from Walsh School of Foreign Service, 2009",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
+        "title": "维基百科：Jon_Ossoff",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Master of science degree in international political economy earned in 2013",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
+        "title": "维基百科：Jon_Ossoff",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "2007–2012: National security staffer for Hank Johnson",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
+        "title": "维基百科：Jon_Ossoff",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "2013–2021: Managing director and CEO of Insight: The World Investigates",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office January 20, 2021",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
+        "title": "维基百科：Jon_Ossoff",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "2007–2012: National security staffer and legislative assistant for U.S. Representative Hank Johnson",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
+        "title": "维基百科：Jon_Ossoff",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "2017: Ran in special election for Georgia's 6th congressional district",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:GA"
+    ],
+    "person": {
+      "name": {
+        "value": "乔恩·奥索夫",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1987-02-16",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "佐治亚州亚特兰大",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2007",
+        "source_ids": [
+          "s12"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：任联邦众议员汉克·约翰逊办公室国家安全工作人员；底稿备注：在乔治城就读期间起任约翰逊办公室工作人员；月份按入职年推定",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "2007",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "伦敦政治经济学院国际政治经济理学硕士学位",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2017",
+        "source_ids": [
+          "s13"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次以民主党身份参选联邦众议员（2017年佐治亚州第6选区特别选举）；来源：https://en.wikipedia.org/wiki/Jon_Ossoff；底稿备注：取最早以民主党参选节点(2017众议院特别选举初选，4月)；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2017",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（佐治亚州）",
+        "role": "",
+        "start": {
+          "value": "2021-01-20",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院拨款委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院规则与行政委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院情报特别委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自2009倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "2009",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "乔治城大学埃德蒙·沃尔什外交学院",
+        "role": null,
+        "program": "外交",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦众议员汉克·约翰逊办公室",
+        "role": "国家安全工作人员、立法助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "国家安全工作人员",
+          "立法助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "study",
+            "start": {
+              "value": "2011",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2013",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "伦敦政治经济学院",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": {
+              "value": "理学硕士",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "concurrent": true,
+            "source_ids": [
+              "s9"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：硕士约2年自2013倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "2013",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "伦敦政治经济学院",
+        "role": null,
+        "program": "国际政治经济",
+        "degree_awarded": {
+          "value": "理学硕士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "洞察TWI影视制作公司",
+        "role": "首席执行官、董事总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官",
+          "董事总经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-01-20",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（佐治亚州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（佐治亚州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：乔治城/伦敦政治经济学院入学年（按学制倒推）",
+      "底稿缺项：约翰逊办公室任职精确起止月份",
+      "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「2007年6月」：底稿推定（在乔治城就读期间起任约翰逊办公室工作人员；月份按入职年推定），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包",
+      "入党月份「2017年4月」：底稿推定（取最早以民主党参选节点(2017众议院特别选举初选，4月)），不采用，只写到年"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

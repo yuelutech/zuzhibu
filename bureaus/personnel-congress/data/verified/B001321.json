@@ -1,0 +1,629 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001321",
+      "line": "cadre",
+      "subject_id": "b001321",
+      "title": "汤姆·巴雷特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BARRETT,-Tom-(B001321)/",
+          "title": "BARRETT, Tom | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Southfield, Oakland County, Mich., April 30, 1981; graduated from Lamphere High School, Madison Heights, Mich., 2000;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://mdoe.state.mi.us/legislators/Legislator/LegislatorDetail/5420",
+          "title": "Legislator Details - Legislators — Tom Barrett",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Gender: Male\nBA in political science; Western Michigan University\nHe was an analyst at the Michigan Department of Treasury;",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://clerk.house.gov/Members/B001321",
+          "title": "Office of the Clerk, U.S. House of Representatives — Tom Barrett",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Michigan (MI) – 7th, Republican\nOath of Office: Jan. 03, 2025\nCommittee on Transportation and Infrastructure\nCommittee on Veterans' Affairs",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2026-02-20/text/CDIR-2026-02-20.txt",
+          "title": "Official Congressional Directory, 119th Congress (2025–2026), February 20, 2026",
+          "published_at": "2026-02-20",
+          "checked_at": "2026-10-18",
+          "excerpt": "B.A., political science, Western Michigan University,\nKalamazoo, MI, 2007; military service: U.S. Army, 2000-22; professional\nhistory: Michigan Department of Treasury, 2009-14;",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres31eh/xhtml/BILLS-119hres31eh.html",
+          "title": "H. Res. 31 — Election to standing committees",
+          "published_at": "2025-01-13",
+          "checked_at": "2026-10-18",
+          "excerpt": "January 13, 2025.\nCommittee on Veterans’ Affairs:\nMrs. King-Hinds, Mr. Barrett.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://wmugop.blogspot.com/2006/07/wmu-college-republican-tom-barrett.html?m=1",
+          "title": "The Western Right: WMU College Republican Tom Barrett Runs for County Commission",
+          "published_at": "2006-07-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "My name is Tom Barrett, and I am the new Chairman of the WMU College Republicans.",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://barrett.house.gov/",
+          "title": "Representative Tom Barrett",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Congressman Tom Barrett is currently serving his first term in Congress as the Representative of the 7th district of Michigan.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:MI"
+      ],
+      "person": {
+        "name": {
+          "value": "汤姆·巴雷特",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1981-04-30",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "密歇根州南菲尔德",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2000",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "国会历史人物页和官方国会名录均记载美国陆军服役始于2000年；本人2006年署名自述明确大学入学前为现役陆军士兵。按第一份全职工作为现役军职确定入伍年份，未补月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2000",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "西密歇根大学政治学文学学士学位",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2006",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：2006年就任西密歇根大学共和党学生组织主席。2006-07-07刊载的本人署名自述称其为该组织新任主席，未提供就任月日，因此锚点只取2006年；来源：https://wmugop.blogspot.com/2006/07/wmu-college-republican-tom-barrett.html?m=1 。检索未找到第1级选民党籍登记或本人宣布加入、改投共和党的记录。第3级联邦竞选委员会登记日期2021-11-10较晚且优先级较低，不采用；底稿2014年8月无原始锚点，不采用。未发现转党沿革。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "2006",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（密歇根州第7选区）",
+          "role": "",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s9"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院交通和基础设施委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院退伍军人事务委员会",
+          "role": "委员",
+          "start": {
+            "value": "2025-01-13",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2000",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2022",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国陆军",
+          "role": "军人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "军人"
+          ],
+          "role_category": {
+            "value": "soldier",
+            "source_ids": [
+              "s2",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "州政府人物数据库列职业为soldier；本人署名自述记载曾为现役陆军士兵、其后仍在密歇根州陆军国民警卫队服役。具体职务和军衔未取得可用原始证据，概括为军人。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "官方履历记载2007年获得西密歇根大学文学学士学位；按允许的美国本科标准学制4年倒推：2007－4＝2003。实际入学年份未在已打开的合格来源中核实。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2007",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "西密歇根大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "密歇根州财政厅",
+          "role": "分析师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "分析师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "密歇根州众议院",
+          "role": "众议员（第71选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "众议员（第71选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "密歇根州参议院",
+          "role": "参议员（第24选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "参议员（第24选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "discharge",
+          "start": {
+            "value": "2022",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "密歇根州陆军国民警卫队",
+          "role": "退出现役",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "退出现役"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（密歇根州第7选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s9"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（密歇根州第7选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "入伍月份：查过国会历史人物页、官方国会名录、密歇根州人物数据库及本人署名自述，已确认2000年开始服役，未找到合格来源明确记载月份。",
+        "实际本科入学年份及学习形式：查过国会历史人物页、官方国会名录、密歇根州人物数据库和大学官网检索，已确认2007年毕业，实际入学年、全日制或在职学习形式未核实；结构化入学年按获准规则暂推2003年。",
+        "军职、军衔及国民警卫队转入时间：已打开的国会和州政府人物记录未给出完整交接日期及二级准尉军衔；州参议院致敬决议、州议会手册原文打开失败。",
+        "族裔：州政府人物数据库列Race为Caucasian or White；本轮未找到本人族裔自述或符合要求的官方统计，字段留空。",
+        "交通和基础设施委员会任职起始日期：书记官现行页面和官方国会名录确认委员身份，未取得载明正式选任生效日期的原文。",
+        "州议会任职月日：国会历史人物页和官方名录提供2015—2019、2019—2023；州数据库分别列2015-01-14和2019-01-09为宣誓日期，未将宣誓日直接作为任期起始日。",
+        "州财政厅任职月日：官方国会名录确认2009—2014，州数据库确认分析师职务，未核实起止月份。",
+        "2006年党组织主席任期：本人署名自述确认当年为新任主席，未找到准确就任月日及离任日期；仅作为入党年份锚点，未另造完整任职区间。",
+        "竞选履历：国会历史人物页确认2022年参选落选；FEC确认联邦竞选委员会于2021-11-10登记。2022年及2024年参选、获提名、当选各阶段的完整起止日期未完成取证，未沿用底稿2023—2024年候选人条目。",
+        "2023年至2025年1月就任国会前的职业主线：已查国会历史人物页、官方国会名录、州人物数据库及FEC，未取得可完整列入的职业任职区间。"
+      ],
+      "excluded": [
+        "底稿『2001年参加工作』：国会历史人物页和官方国会名录均记载陆军服役始于2000年；本人自述确认大学前为现役士兵，改为2000年入伍。",
+        "底稿『2015年6月参加工作』：晚于已核实的首次现役服役年份，且没有月份依据。",
+        "底稿『2014年8月加入美国共和党』：没有原始锚点；本轮发现2006年党组织主席的更高优先级锚点。",
+        "底稿『美国陆军、密歇根州陆军国民警卫队军官，至二级准尉军衔』：已取得服役依据，具体职务、军衔和转任日期未取得可用原始证据，不沿用完整表述。",
+        "底稿『2003—2007年本科』：2007年毕业已核实，2003年没有直接证据；本次只按毕业年减4记录为推算值。",
+        "底稿『赴韩国、关塔那摩湾、科威特、伊拉克执行军事任务，2001—2022』：没有证据支持将各次任务合并成覆盖整个服役期的兼职条目。",
+        "底稿『2023—2024年共和党联邦众议员候选人』：未核实提名生效和终止日期，不将整个区间写成正式候选人身份。",
+        "底稿『众议院军事委员会委员』：书记官现行委员会名单及官方国会名录列交通和基础设施委员会、退伍军人事务委员会，删除军事委员会。",
+        "底稿『2025年起兼任委员会委员』：退伍军人事务委员会按正式选任决议写2025-01-13；交通和基础设施委员会起始日留空。",
+        "检索发现的2021-11-10联邦竞选委员会登记锚点：晚于2006年党组织主席锚点且优先级较低，不用于入党时间。",
+        "州政府数据库『军旅21年』：不据此倒推入伍年；采用国会官方直接列明的2000—2022年。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（密歇根州第7选区），美国国会众议院，Bioguide B001321；区别于威斯康星州同名政治人物。",
+      "review_items": [
+        "首段必填的入伍月份缺证，完整简历卡暂不定型。",
+        "本科入学年份2003为标准学制推算；检索线索另有2002年入学说法，原始报道未打开，需优先复核后确定学习起点。",
+        "入党年份采用本人署名自述中的2006年新任党组织主席信息；原文发布日期未当作就任日，保留到年。",
+        "军旅跨越州财政厅和州议会任职；现役、国民警卫队及各次动员区间未厘清，现有重叠条目只记录有来源的总区间。",
+        "州人物数据库部分届次的选举日期存在明显录入异常，本包未采用这些异常日期。",
+        "本包为研究候选事实包，下一会话逐字段重新打开来源。"
+      ]
+    }
+  ]
+}

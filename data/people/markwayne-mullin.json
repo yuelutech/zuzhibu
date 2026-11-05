@@ -1,0 +1,430 @@
+{
+  "id": "markwayne-mullin",
+  "name_zh": "马克韦恩·马林",
+  "name_en": "Markwayne Mullin",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Department of Homeland Security 美国国土安全部长 U.S. Department of Homeland Security Secretary of Homeland Security”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/markwayne-mullin.json（sanju-neige，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2026/03/Markwayne-Mullin.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:DHS_Secretary_Markwayne_Mullin_Official_Portrait_(55166865268).jpg",
+    "file": "markwayne-mullin.jpg",
+    "source_kind": "维基共享资源（官方肖像）",
+    "license": "公有领域：国土安全部官方肖像（维基共享资源 File:DHS Secretary Markwayne Mullin Official Portrait (55166865268).jpg，来源国土安全部 Flickr）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Department of Homeland Security",
+      "role_en": "Secretary of Homeland Security"
+    }
+  ],
+  "notes": [
+    "补采任务 sanju-neige（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Department of Homeland Security 美国国土安全部长 U.S. Department of Homeland Security Secretary of Homeland Security”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/markwayne-mullin.json（sanju-neige，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-markwayne-mullin",
+    "line": "cadre",
+    "subject_id": "markwayne-mullin",
+    "title": "马克韦恩·马林简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/administration/cabinet/",
+        "title": "The Cabinet",
+        "excerpt": "Markwayne Mullin — Secretary of Homeland Security",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.whitehouse.gov/releases/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/",
+        "title": "Secretary Markwayne Mullin Is Ready to Deliver on President Trump's Agenda",
+        "excerpt": "Today ... officially sworn in as the ninth Secretary.",
+        "published_at": "2026-03-24",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://history.house.gov/People/Detail/15032387502",
+        "title": "MULLIN, Markwayne",
+        "excerpt": "Born Tulsa July 26, 1977; Cherokee Nation; A.A.S. 2010; House 2013–2023; Senate 2023–March 23, 2026.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.mullin.senate.gov/wp-content/uploads/Senator_Markwayne_Mullin_Biography.pdf",
+        "title": "Senator Markwayne Mullin Biography",
+        "excerpt": "attended Missouri Valley College until age 20; postponed studies to take over Mullin Plumbing; Applied Science in Construction Technology 2010.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.britannica.com/biography/Markwayne-Mullin",
+        "title": "Markwayne Mullin | Britannica",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Mullin was born in Tulsa, Oklahoma, in 1977, the youngest of Jim and Brenda Mullin’s seven children.",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-neige",
+      "research"
+    ],
+    "person": {
+      "name": {
+        "value": "马克韦恩·马林",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3",
+          "s5"
+        ],
+        "basis": "出生于美国俄克拉何马州塔尔萨（按美国宪法第十四修正案为美国公民）",
+        "inferred": false,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1977-07-26",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "俄克拉何马州塔尔萨",
+        "source_ids": [
+          "s3",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1997-07",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：本人官方简历称20岁接手家庭公司，1977+20=1997；月份未公开，取7月。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "1977-07-26",
+          "duration_years": 20
+        }
+      },
+      "education": {
+        "value": "专科",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "建筑技术应用科学副学士",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": {
+        "value": "原住民",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国国土安全部",
+        "role": "部长",
+        "start": {
+          "value": "2026-03-24",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1996-07",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1996",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "密苏里谷学院",
+        "role": "学生",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997-07",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：本人官方简历称20岁接手家庭公司，1977+20=1997；月份未公开，取7月。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "1977-07-26",
+            "duration_years": 20
+          }
+        },
+        "end": null,
+        "organization": "Mullin Plumbing公司",
+        "role": "经营者",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": true
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-01-03",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2023-01-03",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦众议院",
+        "role": "众议员（俄克拉何马州第2选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-01-03",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-03-23",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦参议院",
+        "role": "参议员（俄克拉何马州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-03-24",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国土安全部",
+        "role": "部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国政要",
+    "conflicts": [],
+    "unknowns": [
+      "国籍直接陈述及共和党最早登记或参选锚点未补证。",
+      "2010年副学士学习的开始日期、就读方式未取得，学位已记录，未按四年本科倒推。",
+      "20岁接手公司只能确定1997—1998年龄区间，现按规则推年；家族企业的正式卸任日期未核。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "Secretary of Homeland Security | U.S. Department of Homeland Security",
+    "review_items": [
+      "完整简历卡缺项：nationality。保留seed级事实包。"
+    ]
+  }
+}

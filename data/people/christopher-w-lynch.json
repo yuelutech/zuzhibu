@@ -1,0 +1,140 @@
+{
+  "id": "christopher-w-lynch",
+  "name_zh": "克里斯托弗·W.林奇",
+  "name_en": "Christopher W. Lynch",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-christopher-w-lynch",
+    "line": "cadre",
+    "subject_id": "christopher-w-lynch",
+    "title": "克里斯托弗·W.林奇简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-16/",
+        "title": "Federal Movers & Shakers | October 19, 2026",
+        "published_at": "2026-10-19",
+        "checked_at": "2026-10-20",
+        "excerpt": "Special Assistant to the President and Associate Counsel",
+        "tier": null
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "克里斯托弗·W.林奇",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国白宫法律顾问办公室",
+        "role": "总统特别助理兼助理法律顾问",
+        "start": {
+          "value": "2026-10-20",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-10-20",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国白宫法律顾问办公室",
+        "role": "总统特别助理兼助理法律顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-20",
+  "updated_at": "2026-10-20",
+  "roles_checked_at": "2026-10-20",
+  "events": [
+    "2026-10-20-christopher-w-lynch-transfer"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": "2026-10-20-christopher-w-lynch-transfer",
+      "reason": "主要职务“美国白宫法律顾问办公室 总统特别助理兼助理法律顾问”：总统、白宫、内阁与独立机构"
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true
+}

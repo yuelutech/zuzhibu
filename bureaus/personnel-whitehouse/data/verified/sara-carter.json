@@ -1,0 +1,720 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-sara-carter",
+      "line": "cadre",
+      "subject_id": "sara-carter",
+      "title": "萨拉·卡特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.judiciary.senate.gov/imo/media/doc/carter_sjq.pdf",
+          "title": "Sara Carter — Senate Questionnaire",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Sara Anne Bailey, Sara Anne Carter, Sara Anne Rodgers; Birthplace: Pomona, CA; Cal Poly Pomona 2000–2003, Bachelor of Science conferred 2013; UCLA 1990–1992, no degree; employment record pp. 2–3",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.whitehouse.gov/releases/2026/01/sara-carter-confirmed-as-drug-czar/",
+          "title": "Sara Carter Confirmed As Drug Czar",
+          "published_at": "2026-01-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "January 6, 2026; 52-48 vote; 10th Director of the White House Office of National Drug Control Policy; first woman",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.whitehouse.gov/releases/2026/10/drug-czar-sara-carter-senator-roger-marshall-announce-first-ever-youth-led-primary-prevention-toolkit/",
+          "title": "Drug Czar Sara Carter announces youth-led prevention toolkit",
+          "published_at": "2026-10-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "October 7, 2026; Director of the Office of National Drug Control Policy ... Sara Carter",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.scmp.com/magazines/style/entertainment/article/3304841/meet-sara-carter-journalist-hired-donald-trump-be-his-drug-tsar-saudi-arabian-childhood-being",
+          "title": "Meet Sara Carter, the journalist hired by Donald Trump to be his drug tsar",
+          "published_at": "2025-04-02",
+          "checked_at": "2026-10-18",
+          "excerpt": "44-year-old",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://www.presidency.ucsb.edu/documents/white-house-press-release-inaugural-meeting-the-us-india-drug-policy-executive-working",
+          "title": "Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group",
+          "published_at": "2026-01-26",
+          "checked_at": "2026-10-18",
+          "excerpt": "January 20-21 ... Director, Sara Carter, opened the meeting",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "萨拉·卡特",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": null,
+        "birth_place": {
+          "value": "美国加利福尼亚州波莫纳",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2003-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "education": {
+          "value": "大学",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "理学学士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国国家药物管制政策办公室",
+          "role": "主任",
+          "start": {
+            "value": "2026-01",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "roles": [
+            "主任"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2000-09",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：原来源仅载年份，月份按美国入学9月、学年结束5月推测；不是来源所载具体月份。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2000",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2003-05",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：原来源仅载年份，月份按美国入学9月、学年结束5月推测；不是来源所载具体月份。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2003",
+              "duration_years": null
+            }
+          },
+          "organization": "加利福尼亚州立理工大学波莫纳分校",
+          "role": "本科阶段学习",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "本科阶段学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "洛杉矶报业集团、Inland Valley Daily Bulletin",
+          "role": "移民事务记者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "移民事务记者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "华盛顿时报",
+          "role": "五角大楼及国际事务记者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "五角大楼及国际事务记者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "华盛顿观察家报",
+          "role": "国家安全专栏作家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "国家安全专栏作家"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015-05",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "The Blaze Network",
+          "role": "高级记者、For the Record节目主持人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "高级记者、For the Record节目主持人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-05",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "American Media Institute",
+          "role": "高级国际记者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "高级国际记者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Sinclair News Group、Circa News",
+          "role": "高级调查记者、国际记者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "高级调查记者、国际记者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "福克斯新闻频道、Darkwire公司",
+          "role": "撰稿人、调查专栏作家、节目主持人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "撰稿人、调查专栏作家、节目主持人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：原来源仅载年份，月份按缺月取7月推测；不是来源所载具体月份。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2018",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2019-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：原来源仅载年份，月份按缺月取7月推测；不是来源所载具体月份。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2019",
+              "duration_years": null
+            }
+          },
+          "organization": "独立女性论坛",
+          "role": "访问研究员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "访问研究员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：原来源仅载年份，月份按缺月取7月推测；不是来源所载具体月份。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2018",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2024-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：原来源仅载年份，月份按缺月取7月推测；不是来源所载具体月份。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2024",
+              "duration_years": null
+            }
+          },
+          "organization": "DarkWire Foundation",
+          "role": "创始人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-06",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2026-01",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国家药物管制政策办公室",
+          "role": "特别顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "特别顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-01",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国家药物管制政策办公室",
+          "role": "主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "ongoing": true,
+          "roles": [
+            "主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [
+        {
+          "field": "person.birth_date / careers.study",
+          "alternatives": [
+            {
+              "value": "本人问卷：1990—1992年UCLA就读，未获学位",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2025-04-02报道44岁",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "reason": "按本次明确选择采用本人问卷的学习经历；媒体年龄与该时间线不一致，出生年月不取媒体推算。",
+          "selected_value": "本人问卷1990—1992年UCLA学习；出生年月留空"
+        }
+      ],
+      "unknowns": [
+        "出生年月未定：媒体年龄与本人早期就读年份不相容，已请求用户决定，暂留空。",
+        "UCLA经历暂记冲突，待用户确定后列入履历。",
+        "2026-01-06为参议院确认日，1月20—21日已以主任身份出席会议；具体宣誓日未查到，到任只写2026年1月。",
+        "本科专业、1992—2000年经历、党籍及入党锚点未查到。",
+        "本人问卷中2016年3—4月两份媒体工作有重叠，原样保留。",
+        "本人问卷列本科就读2000—2003年，2013年完成最后一项要求并授予学位；学习条目不写为2003年授予。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "Sara Carter；美国国家药物管制政策办公室",
+      "review_items": [
+        "出生年月待核。"
+      ]
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

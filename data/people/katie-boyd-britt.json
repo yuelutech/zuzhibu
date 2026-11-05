@@ -1,0 +1,904 @@
+{
+  "id": "katie-boyd-britt",
+  "name_zh": "凯蒂·布里特",
+  "name_en": "Katie Boyd Britt",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "B001319"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "katie-boyd-britt.jpg",
+    "source": "美国政府出版局国会议员指南官方照片（unitedstates/images 收录）",
+    "source_kind": "国会照片库（证件照）",
+    "license": "公有领域：美国政府出版局发布的国会议员官方照片；已换蓝白渐变底",
+    "url": "https://unitedstates.github.io/images/congress/original/B001319.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-b001319",
+    "line": "cadre",
+    "subject_id": "b001319",
+    "title": "凯蒂·布里特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2023-01-03~2029-01-03 AL Republican",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: F",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "February 2, 1982 in Enterprise, Alabama",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "February 2, 1982 in Enterprise, Alabama",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-to-chair-homeland-security-subcommittee-on-appropriations",
+        "title": "www.britt.senate.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Chair of the Homeland Security Subcommittee on Appropriations (119th); Chair, Banking Subcommittee on Housing, Transportation, and Community Development",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Bachelor of Science in political science, 2004",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "University of Alabama School of Law: Juris Doctor, 2013",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Deputy press secretary, promoted to press secretary (from May 2004)",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "special assistant to University of Alabama president Robert Witt (2007)",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Johnston Barton Proctor & Rose; Butler Snow LLP (March 2014, government affairs)",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Shelby reelection campaign (November 2015): Deputy campaign manager and communications director",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Senator Shelby's office (2016): chief of staff",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Business Council of Alabama (January 2, 2019–June 2021): president and CEO",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://www.fec.gov/data/candidates/?q=Katie+Britt",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "FEC candidate S2AL00145",
+        "tier": 1
+      },
+      {
+        "id": "s15",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Term start: January 3, 2023",
+        "tier": 1
+      },
+      {
+        "id": "s16",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Term start: January 3, 2023",
+        "tier": 3
+      },
+      {
+        "id": "s17",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Senator Richard Shelby's office (May 2004): Deputy press secretary",
+        "tier": 3
+      },
+      {
+        "id": "s18",
+        "url": "https://www.fec.gov/data/candidates/?q=Katie+Britt",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "launched 2022 Senate campaign in 2021; FEC S2AL00145",
+        "tier": 1
+      },
+      {
+        "id": "s19",
+        "url": "https://en.wikipedia.org/wiki/Katie_Britt",
+        "title": "维基百科：Katie_Britt",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "launched 2022 Senate campaign in 2021; FEC S2AL00145",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:AL"
+    ],
+    "person": {
+      "name": {
+        "value": "凯蒂·布里特",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1982-02-02",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "阿拉巴马州恩特普赖斯",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2004-05",
+        "source_ids": [
+          "s17"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：联邦参议员理查德·谢尔比办公室副新闻秘书",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "2004-05",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "阿拉巴马大学法学院法学博士学位",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2021",
+        "source_ids": [
+          "s18",
+          "s19"
+        ],
+        "inferred": true,
+        "basis": "第3级锚点：首次以共和党身份参选联邦参议员，2021年启动凯蒂·布里特参议员竞选委员会（FEC ID S2AL00145）；来源：https://www.fec.gov/data/candidates/?q=Katie+Britt、https://en.wikipedia.org/wiki/Katie_Britt；底稿备注：采项目惯例取最早以该党身份参选节点（联邦参议员竞选启动，2021年6月）；月份按竞选启动推定",
+        "inference": {
+          "rule": "party_anchor_candidacy_filing",
+          "from_date": "2021",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（阿拉巴马州）",
+        "role": "",
+        "start": {
+          "value": "2023-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院拨款委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院拨款委员会国土安全小组委员会",
+        "role": "主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院银行、住房与城市事务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院银行、住房与城市事务委员会住房、运输与社区发展小组委员会",
+        "role": "主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院司法委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院规则与行政委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2000",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自2004倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "2004",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "2004",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "阿拉巴马大学",
+        "role": null,
+        "program": "政治学",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦参议员理查德·谢尔比办公室",
+        "role": "副新闻秘书、新闻秘书",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副新闻秘书",
+          "新闻秘书"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "阿拉巴马大学校长办公室",
+        "role": "校长特别助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "校长特别助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "study",
+            "start": {
+              "value": "2009",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2013",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "阿拉巴马大学法学院",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": {
+              "value": "法学博士",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "concurrent": true,
+            "source_ids": [
+              "s9"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "阿拉巴马大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "约翰斯顿巴顿、巴特勒斯诺律师事务所",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "理查德·谢尔比参议员竞选委员会",
+        "role": "副竞选经理、传播主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副竞选经理",
+          "传播主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦参议员理查德·谢尔比办公室",
+        "role": "办公室主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "办公室主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "阿拉巴马州商业委员会",
+        "role": "总裁兼首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁兼首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2023",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "凯蒂·布里特参议员竞选委员会",
+        "role": "共和党联邦参议员候选人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "共和党联邦参议员候选人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-01-03",
+          "source_ids": [
+            "s15",
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（阿拉巴马州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s15",
+          "s16"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（阿拉巴马州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：阿拉巴马大学本科入学年（按学制倒推2000）",
+      "底稿缺项：eFD 最新年度申报的申报日期与完整持仓（自动化访问被拒）"
+    ],
+    "excluded": [
+      "股票交易公开披露（disclosure.filings）不进事实包",
+      "入党月份「2021年6月」：底稿推定（采项目惯例取最早以该党身份参选节点（联邦参议员竞选启动，2021年6月）；月份按竞选启动推定），不采用，只写到年"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

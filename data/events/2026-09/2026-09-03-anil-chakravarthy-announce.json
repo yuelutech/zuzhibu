@@ -1,0 +1,111 @@
+{
+  "id": "2026-09-03-anil-chakravarthy-announce",
+  "date": "2026-09-03",
+  "kind": "announce",
+  "kind_label": "宣布",
+  "person_id": "anil-chakravarthy",
+  "person": {
+    "name_zh": "阿尼尔·查克拉瓦蒂",
+    "name_en": "Anil Chakravarthy",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-03",
+  "effective_at": "2026-12-01",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "Adobe公司",
+      "role": "总裁兼首席执行官",
+      "organization_en": "Adobe",
+      "role_en": "President and Chief Executive Officer",
+      "start": "2026-12-01",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "adobe-anil",
+        "c1"
+      ]
+    },
+    {
+      "organization": "Adobe公司",
+      "role": "董事",
+      "organization_en": "Adobe",
+      "role_en": "Director",
+      "start": "2026-12-01",
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "adobe-anil",
+        "c1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "Adobe宣布阿尼尔·查克拉瓦蒂将于12月1日任总裁兼首席执行官",
+  "summary": "Adobe于9月3日宣布，查克拉瓦蒂将于12月1日出任总裁兼首席执行官并加入董事会。截至10月18日，该任命尚未生效。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "adobe-anil",
+      "url": "https://news.adobe.com/news/2026/09/adobe-announces-anil-chakravarthy-to-become-president-and-ceo",
+      "title": "Adobe Announces Anil Chakravarthy to Become President and CEO and Shantanu Narayen to Become Executive Chair on December 1, 2026",
+      "publisher": "Adobe",
+      "published_at": "2026-09-03",
+      "excerpt": "will become Adobe’s next president and chief executive officer and join the Board of Directors",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "c1",
+      "url": "https://news.adobe.com/news/2026/09/adobe-announces-anil-chakravarthy-to-become-president-and-ceo",
+      "title": "Adobe Announces Anil Chakravarthy to Become President and CEO and Shantanu Narayen to Become Executive Chair on December 1, 2026",
+      "publisher": "",
+      "published_at": "2026-09-03",
+      "excerpt": "will become Adobe’s next president and chief executive officer and join the Board of Directors effective December 1, 2026. Shantanu Narayen will transition to executive chair",
+      "supports": [
+        "effective_at"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094711",
+    "corrections": [
+      "effective_at → 2026-12-01（来源 c1）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（adobe-anil：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-sep-anil-chakravarthy",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 anil-chakravarthy（库里没有此人）",
+      "拟于 2026-12-01 任Adobe公司总裁兼首席执行官（生效日之前不改现任）",
+      "拟于 2026-12-01 任Adobe公司董事（生效日之前不改现任）",
+      "所属局：按宣布职务定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "anil-chakravarthy"
+  }
+}

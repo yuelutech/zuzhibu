@@ -1,0 +1,774 @@
+{
+  "id": "rick-scott",
+  "name_zh": "里克·斯科特",
+  "name_en": "Rick Scott",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "S001217"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "rick-scott.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Official_Portrait_of_Senator_Rick_Scott_(R-FL).jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Senate Photographic Studio；https://www.rickscott.senate.gov/biography），File:Official Portrait of Senator Rick Scott (R-FL).jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Official_Portrait_of_Senator_Rick_Scott_%28R-FL%29.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-s001217",
+    "line": "cadre",
+    "subject_id": "s001217",
+    "title": "里克·斯科特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2019-01-08~2031-01-03 FL Republican",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "December 1, 1952 in Bloomington, Illinois",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+        "title": "维基百科：Rick_Scott",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "December 1, 1952 in Bloomington, Illinois",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+        "title": "维基百科：Rick_Scott",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Armed Services (Seapower Subcommittee Chair); Special Committee on Aging (Chair); Homeland Security; Budget; Foreign Relations",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+        "title": "维基百科：Rick_Scott",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "University of Missouri–Kansas City: Bachelor of Business Administration (1975)",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+        "title": "维基百科：Rick_Scott",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Southern Methodist University: Juris Doctor; Texas Bar licensed 1978",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+        "title": "维基百科：Rick_Scott",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "radarman on the USS Glover, c. 1971–1974",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+        "title": "维基百科：Rick_Scott",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Law Practice: Johnson & Swanson (Dallas, Texas)",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+        "title": "维基百科：Rick_Scott",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Columbia Hospital Corporation co-founded 1988; Columbia/HCA CEO until 1997",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+        "title": "维基百科：Rick_Scott",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Richard L. Scott Investments (post-1997); Solantic co-founded 2001",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+        "title": "维基百科：Rick_Scott",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Governor of Florida: January 4, 2011 – January 7, 2019",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office January 8, 2019",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Rick_Scott",
+        "title": "维基百科：Rick_Scott",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "United States Navy, c. 1971–1974, radarman on the USS Glover",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:FL"
+    ],
+    "person": {
+      "name": {
+        "value": "里克·斯科特",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1952-12-01",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "伊利诺伊州布卢明顿",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1971",
+        "source_ids": [
+          "s14"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：入美国海军任雷达兵；底稿备注：高中毕业后入伍美国海军；月份按入伍年推定",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1971",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "南卫理公会大学法学院法学博士学位",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2010-11",
+        "source_ids": [
+          "s12"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次以共和党身份参选并当选佛罗里达州州长（2010年11月当选）；来源：https://en.wikipedia.org/wiki/Rick_Scott；底稿备注：其从政首役即2010年共和党州长竞选；取该最早以共和党参选当选节点，月份按当选(11月)；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2010-11",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（佛罗里达州）",
+        "role": "",
+        "start": {
+          "value": "2019-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院军事委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院军事委员会海权小组委员会",
+        "role": "主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院老龄问题特别委员会",
+        "role": "主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院国土安全与政府事务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院预算委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院外交关系委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1971",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1974",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国海军格洛弗号护卫舰",
+        "role": "雷达兵",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "雷达兵"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1974",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：退伍后入学、约1975取得",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1975",
+            "duration_years": 1
+          }
+        },
+        "end": {
+          "value": "1975",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "密苏里大学堪萨斯城分校",
+        "role": null,
+        "program": "工商管理",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1975",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1978倒推（1978年得州律师执照）",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1978",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1978",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "南卫理公会大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1978",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1987",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "约翰逊与斯旺森律师事务所",
+        "role": "律师、合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师",
+          "合伙人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哥伦比亚医院公司、哥伦比亚/HCA医疗公司",
+        "role": "联合创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联合创始人",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "理查德·L·斯科特投资公司",
+        "role": "董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2001",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2001",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "联合创办索兰蒂克医疗公司",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "佛罗里达州",
+        "role": "州长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "州长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-01",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（佛罗里达州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（佛罗里达州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：海军入伍/退伍精确月份；UMKC、SMU入学年",
+      "底稿缺项：1978-1987得州执业与1987年创办哥伦比亚之间衔接细节",
+      "底稿缺项：eFD 2021年后周期交易与最新年度申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1971年6月」：底稿推定（高中毕业后入伍美国海军；月份按入伍年推定），不采用，只写到年",
+      "军旅记录（military）未单独转换，服役经历以履历条目为准",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

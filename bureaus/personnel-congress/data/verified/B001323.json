@@ -1,0 +1,757 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001323",
+      "line": "cadre",
+      "subject_id": "b001323",
+      "title": "尼克·贝吉奇简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/members/B001323/",
+          "title": "Office of the Clerk — Nicholas J. Begich III",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Nicholas J. Begich III\nAlaska (AK) – At Large, Republican\nOath of Office: Jan. 03, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://history.house.gov/People/Detail/36507225692",
+          "title": "BEGICH, Nicholas J., III | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "B.B.A., Baylor University, Waco, Tex., 1999; M.B.A., Indiana University, Bloomington, Ind., 2002",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.elections.alaska.gov/doc/oep/2024/Begich,%20Nick_US%20Rep_Eng_06.24.24-PWeb.pdf",
+          "title": "Position Sought: United States Representative — Nick Begich, Registered Republican",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Alaska Republican Party Finance Committee Co-chair (2017 - 2019)",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://thelawmakers.org/conversations-with-lawmakers/discussing-effective-lawmaking-with-alaska-congressman-nick-begich",
+          "title": "Discussing Effective Lawmaking with Alaska Congressman Nick Begich",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "He managed Dashfire from 2009 until stepping down in January 2025 upon taking office in Congress.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://clerk.house.gov/Committees/II00",
+          "title": "Office of the Clerk — Committee on Natural Resources",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Nicholas J. Begich III, AK",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://clerk.house.gov/Committees/SY00",
+          "title": "Office of the Clerk — Committee on Science, Space, and Technology",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Nicholas J. Begich III, AK",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://clerk.house.gov/Committees/PW00",
+          "title": "Office of the Clerk — Committee on Transportation and Infrastructure",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Nicholas J. Begich III, AK",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-congress-u-s-house/",
+          "title": "Alaska Congress U.S. House | Voter Guide: 2026 Voter Guide",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Alaska Republican Party, Finance Committee, Co-chair (2017-2019); Alaska Policy Forum, Board President (2018- 2021)",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://www.fec.gov/data/candidate/H2AK01083/",
+          "title": "BEGICH, NICHOLAS III — Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Candidate for House Alaska - 00 ID: H2AK01083 REPUBLICAN PARTY",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://alaskapublic.org/news/2021-10-22/a-republican-begich-runs-for-us-house-challenging-rep-young",
+          "title": "A Republican Begich runs for Alaska's US House seat, challenging Rep. Young",
+          "published_at": "2021-10-22",
+          "checked_at": "2026-10-18",
+          "excerpt": "Nicholas Begich III has filed federal paperwork to run for Alaska’s sole U.S. House seat",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:AK"
+      ],
+      "person": {
+        "name": {
+          "value": "尼克·贝吉奇",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s5",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1977-10-21",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "阿拉斯加州安克雷奇",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "印第安纳大学布卢明顿分校工商管理硕士学位",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2017",
+          "source_ids": [
+            "s4",
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：担任阿拉斯加州共和党财务委员会共同主席，任期2017—2019年，取起始年2017；来源：https://www.elections.alaska.gov/doc/oep/2024/Begich,%20Nick_US%20Rep_Eng_06.24.24-PWeb.pdf；交叉来源：https://alaskabeacon.com/voter-guides/contests/2026-alaska-congress-u-s-house/。第1级检索：候选人自述标明Registered Republican，但未给登记日期；DCCC研究材料关于1999—2007年佛罗里达州共和党登记的说法只作线索，未取得可直接核对的选务登记原件，不采用。未找到有日期的本人公开宣布加入或改投共和党的记录。第3级FEC参选及2021年参选报道晚于党职锚点；2016年安克雷奇市议会竞选属于无党派选举，不作锚点；底稿2016年4月无依据，不采用。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "2017",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（阿拉斯加州）",
+          "role": "",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院自然资源委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院科学、空间和技术委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院交通和基础设施委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "众议院官方传记记载1999年获贝勒大学工商管理学士学位；按允许规则以1999减4，推算本科入学年为1995。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1999",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "贝勒大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "工商管理学士",
+            "source_ids": [
+              "s2",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2004",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "福特汽车公司",
+          "role": "产品营销经理、技术经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "产品营销经理",
+            "技术经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "FarShore Partners 公司",
+          "role": "创始人、执行董事长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始人",
+            "执行董事长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2016",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2022",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "MTA",
+              "role": "董事",
+              "roles": [
+                "董事"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s4"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2017",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2019",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "阿拉斯加州共和党财务委员会",
+              "role": "共同主席",
+              "roles": [
+                "共同主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s4",
+                "s9"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2017",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2021",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "MTA 基金会",
+              "role": "董事会主席",
+              "roles": [
+                "董事会主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s4"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2018",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2021",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "阿拉斯加政策论坛",
+              "role": "董事会主席",
+              "roles": [
+                "董事会主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s4",
+                "s9"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2020",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2020",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "Alaskans for Don Young 竞选组织",
+              "role": "共同主席",
+              "roles": [
+                "共同主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s4",
+                "s9",
+                "s11"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2021-10",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2022",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国联邦众议员（阿拉斯加州）选举",
+              "role": "共和党参选人",
+              "roles": [
+                "共和党参选人"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-01",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Dashfire 公司",
+          "role": "联合创始人、管理合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人",
+            "管理合伙人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（阿拉斯加州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（阿拉斯加州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：已打开的候选人自述和大学研究中心页面确认2002年进入福特汽车公司；检索另发现1999—2000年Sensormatic投资者关系专员经历，但原始领英页面无法打开，未确认该经历及其全职性质。首份全职工作的起始时间留null，不把2002年直接认定为首次参加工作。",
+        "硕士学习起止：官方传记确认2002年获得印第安纳大学工商管理硕士学位；检索到的2000—2002年学习区间来自无法打开的领英页面，未列入careers。未找到可打开的学校原始履历确认入学年、学院及专业。",
+        "本科专业和实际入学年：已打开的国会传记、州选举自述和大学研究中心页面未明确专业及实际入学年；program留null，入学年按毕业年减4记录推算。",
+        "1999—2002年、2004—2006年履历：查过国会官方传记、州选举自述、大学研究中心访谈及早期职业经历检索；Sensormatic和Northern Trust Real Estate任职尚缺可打开的合格原始来源。",
+        "委员会任职起始时间：众议院书记官个人页及三个委员会名单确认现任委员，未给具体生效日期，start均留null。",
+        "2024年竞选及当选人阶段：官方传记确认当选第119届国会，但本次未取得可打开的参选起始、结果确认及当选人生效日期证据，未沿用底稿2024—2025年的候选人条目。",
+        "族裔：已查国会官方传记及个人背景检索，未找到本人自述或官方统计明确对应规定分类，留null。",
+        "出生日期第二来源：州选举自述确认出生地，未给完整出生日期；完整生日目前采用众议院官方历史人物页。",
+        "卡片放行：参加工作时间缺证，保留候选事实包，card_type留null。",
+        "入党第1级原始记录：已检索佛罗里达州登记线索及本人公开表态；未取得可直接核对登记日期的选务原件。2017年党职锚点供下一会话继续复核。"
+      ],
+      "excluded": [
+        "底稿『2003年参加工作／2003年6月参加工作』：没有首份全职工作证据；已打开来源记载更早的2002年福特任职，原推算撤销。",
+        "底稿『1996—1999年贝勒大学工商管理专业』：1996年入学及专业缺证；保留已证实的1999年工商管理学士，入学年按允许规则推算。",
+        "底稿『2001—2003年印第安纳大学凯利商学院』：国会官方传记记载硕士毕业年为2002；学院名及入学年未取得可打开的合格来源。",
+        "底稿『2003—2024年FarShore Partners创始人、执行董事长』：候选人提交的州选举材料写2006—2024年，改用有来源的年份。",
+        "底稿『2003—2024年Dashfire管理人员』：大学研究中心访谈记载2009年起管理Dashfire、2025年1月卸任，改用该区间。",
+        "底稿『2003—2024年阿拉斯加政策论坛董事』：候选人自述写董事会主席、2018—2021年，改用原文职务和年份。",
+        "底稿『2003—2024年阿拉斯加共和党财务委员会共同主席』：候选人自述及2026年选民指南均写2017—2019年。",
+        "底稿『2016年4月加入美国共和党』：未找到登记、公开宣布或党职锚点支持该日期；2016年市议会竞选不作党派选举锚点。",
+        "底稿『2024—2025年共和党联邦众议员候选人』：未取得完整阶段日期依据，且当选至就职阶段须另记当选人，不沿用整段候选人身份。",
+        "检索所得DCCC研究材料、ContactOut及BallotReady早期职业和登记信息：仅作追查线索，不作为本包事实字段来源。",
+        "小组委员会副主席和非正式议员党团职务：按本批口径不单列为current_roles。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（阿拉斯加州）＋美国国会众议院；Bioguide B001323；FEC H2AK01083",
+      "review_items": [
+        "独立核查会话重新打开全部采用来源，逐字段复核。",
+        "优先取得Sensormatic首份全职工作证据，以确定work_start。",
+        "追查佛罗里达州共和党选民登记原件；若确认更高一级锚点，替换2017年党职推断。",
+        "补证硕士入学时间、学院和专业后，再增加硕士学习履历。",
+        "s4为选务机关托管的候选人公开自述，按二级来源记录。",
+        "FarShore同一条目合并创始人与执行董事长身份，不主张执行董事长职务自2006年持续担任。",
+        "本科入学年1995为规则推算，实际入学及转学经历继续核对。"
+      ]
+    }
+  ]
+}

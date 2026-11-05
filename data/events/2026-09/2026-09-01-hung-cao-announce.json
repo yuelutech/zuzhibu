@@ -1,0 +1,89 @@
+{
+  "id": "2026-09-01-hung-cao-announce",
+  "date": "2026-09-01",
+  "kind": "announce",
+  "kind_label": "宣布",
+  "person_id": "hung-cao",
+  "person": {
+    "name_zh": "高雄",
+    "name_en": "Hung Cao",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-01",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国海军部",
+      "role": "部长提名人选",
+      "organization_en": "Department of the Navy",
+      "role_en": "Nominee for Secretary of the Navy",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "特朗普宣布拟提名高雄为海军部长",
+  "summary": "特朗普于9月1日宣布拟提名代理海军部长高雄正式担任海军部长。",
+  "bureaus": [
+    "military"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://news.usni.org/2026/09/15/cao-toti-breckenridge-formally-nominated-for-top-navy-jobs",
+      "title": "Cao, Toti, Breckenridge Formally Nominated for Top Navy Jobs",
+      "publisher": "USNI News",
+      "published_at": "2026-09-15",
+      "excerpt": "President Donald Trump announced his intent to nominate Cao on Sept. 1.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "s2",
+      "url": "https://www.investing.com/news/stock-market-news/trump-selects-hung-cao-to-serve-as-us-navy-secretary-4884719",
+      "title": "Trump selects Hung Cao to serve as US Navy secretary",
+      "publisher": "Reuters / Investing.com",
+      "published_at": "2026-09-01",
+      "excerpt": "he plans to nominate Hung Cao to become the next U.S. Navy secretary.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-104850",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（s1：不是一级来源；s2：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "现任职务新增：美国海军部部长",
+      "履历新增：2026-09 美国海军部部长"
+    ],
+    "notes": [],
+    "bureau_before": "military",
+    "bureau_after": "military",
+    "person_id": "hung-cao"
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "id": "john-fetterman",
+  "name_zh": "约翰·费特曼",
+  "name_en": "John Fetterman",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "F000479"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "john-fetterman.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:John_Fetterman_US_Senate_portrait.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Senate；https://twitter.com/SenFettermanPA），File:John Fetterman US Senate portrait.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/John_Fetterman_US_Senate_portrait.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-f000479",
+    "line": "cadre",
+    "subject_id": "f000479",
+    "title": "约翰·费特曼简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2023-01-03~ PA Democrat",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Fetterman was born at Reading Hospital in West Reading, Pennsylvania",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Fetterman was born at Reading Hospital in West Reading, Pennsylvania",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "born at Reading Hospital in West Reading, Pennsylvania",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Committee on Agriculture, Nutrition, and Forestry; Committee on Banking, Housing, and Urban Affairs; Committee on Environment and Public Works; Joint Economic Committee; Special Committee on Aging",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "In 1991, Fetterman graduated from Albright College...with a bachelor's in finance.",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "received a Master of Business Administration (MBA) from the University of Connecticut (UConn) in 1993",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "graduating in 1999 with a Master of Public Policy degree.",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "worked in Pittsburgh as a risk-management underwriter for Chubb",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Fetterman left Chubb in 1995 to join the recently founded AmeriCorps",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "In 2001, Fetterman led the creation of the Braddock Out-of-School-Youth Program",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Mayor of Braddock...In office January 2, 2006 - January 8, 2019",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Lieutenant Governor...In office January 15, 2019 - January 3, 2023",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office (U.S. Senator) January 3, 2023",
+        "tier": 1
+      },
+      {
+        "id": "s16",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office (U.S. Senator) January 3, 2023",
+        "tier": 3
+      },
+      {
+        "id": "s17",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "For two years Fetterman worked in Pittsburgh as a risk-management underwriter for Chubb.",
+        "tier": 3
+      },
+      {
+        "id": "s18",
+        "url": "https://en.wikipedia.org/wiki/John_Fetterman",
+        "title": "维基百科：John_Fetterman",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Mayor of Braddock...In office January 2, 2006 (won Democratic primary May 2005 by one vote)",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:PA"
+    ],
+    "person": {
+      "name": {
+        "value": "约翰·费特曼",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1969-08-15",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "宾夕法尼亚州西雷丁",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1993",
+        "source_ids": [
+          "s17"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：任丘博保险公司风险管理核保人；底稿备注：规则①：1993年取得MBA后衔接保险公司岗位",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1993",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哈佛大学肯尼迪政府学院公共政策硕士学位",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2005-05",
+        "source_ids": [
+          "s18"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次以民主党身份参选并胜出党内初选：2005年5月布拉多克市长民主党初选；来源：https://en.wikipedia.org/wiki/John_Fetterman；底稿备注：宾州市政为党派制选举；5月初选有据（以1票之差胜出）；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2005-05",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（宾夕法尼亚州）",
+        "role": "",
+        "start": {
+          "value": "2023-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院农业、营养和林业委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院银行、住房和城市事务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院环境与公共工程委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院老龄问题特别委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "国会联合经济委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1991倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1991",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1991",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "奥尔布赖特学院",
+        "role": null,
+        "program": "金融",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1991",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：硕士学制2年自1993倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1993",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "康涅狄格大学",
+        "role": null,
+        "program": "工商管理",
+        "degree_awarded": {
+          "value": "工商管理硕士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1995",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "丘博保险公司",
+        "role": "风险管理核保人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "风险管理核保人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国志愿队",
+        "role": "项目成员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "项目成员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：硕士学制2年自1999倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1999",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1999",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哈佛大学肯尼迪政府学院",
+        "role": null,
+        "program": "公共政策",
+        "degree_awarded": {
+          "value": "公共政策硕士",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "布拉多克校外青年项目",
+        "role": "创办人、负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "创办人",
+          "负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "宾夕法尼亚州布拉多克市",
+        "role": "市长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "市长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2023",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "宾夕法尼亚州",
+        "role": "副州长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副州长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023",
+          "source_ids": [
+            "s15",
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（宾夕法尼亚州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s15",
+          "s16"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（宾夕法尼亚州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：奥尔布赖特/康涅狄格/哈佛入学年（按学制倒推）",
+      "底稿缺项：1999-2001哈佛毕业至布拉多克青年项目间过渡（年份模式可容）",
+      "底稿缺项：最新 eFD 申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1993年6月」：底稿推定（规则①：1993年取得MBA后衔接保险公司岗位），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

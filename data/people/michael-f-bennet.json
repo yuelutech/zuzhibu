@@ -1,0 +1,769 @@
+{
+  "id": "michael-f-bennet",
+  "name_zh": "迈克尔·贝内特",
+  "name_en": "Michael F. Bennet",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "B001267"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "michael-f-bennet.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Michael_Bennet_Official_Photo.jpg",
+    "source_kind": "维基共享资源（国会议员官方照）",
+    "license": "公有领域：维基共享资源标为公有领域（US Senate），File:Michael Bennet Official Photo.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Michael_Bennet_Official_Photo.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-b001267",
+    "line": "cadre",
+    "subject_id": "b001267",
+    "title": "迈克尔·贝内特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2009-01-22~2029-01-03 CO Democrat",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "November 28, 1964 in New Delhi, India",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "November 28, 1964 in New Delhi, India",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "born November 28, 1964 in New Delhi, India",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Agriculture, Nutrition and Forestry; Finance; Rules and Administration; Select Committee on Intelligence",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Wesleyan University: Bachelor of Arts in history, 1987",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Yale Law School: Juris Doctor, 1993 (editor-in-chief of the Yale Law Journal)",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "1988–1990: Aide to Ohio Governor Richard Celeste",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Law clerk, 4th Circuit Court of Appeals",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Counsel to the U.S. Deputy Attorney General (Clinton Administration)",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "1997–2003: Managing director, Anschutz Investment Company",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "2003–2005: Chief of staff to Denver Mayor John Hickenlooper",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "2005–2009: Superintendent of Denver Public Schools (took office July 1, 2005)",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2009-01-22~ CO Democrat (appointment; elected 2010/16/22)",
+        "tier": 1
+      },
+      {
+        "id": "s16",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "title": "维基百科：Michael_Bennet",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "On January 3, 2009, Bennet was named by Colorado governor Bill Ritter to fill the seat",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:CO"
+    ],
+    "person": {
+      "name": {
+        "value": "迈克尔·贝内特",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1964-11-28",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "印度新德里",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1988",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：任俄亥俄州州长理查德·塞莱斯特办公室助理；底稿备注：卫斯理1987年毕业，1988年起任州长助理；月份按入职年推定",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1988",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "耶鲁大学法学院法学博士学位",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2009-01",
+        "source_ids": [
+          "s16"
+        ],
+        "inferred": true,
+        "basis": "第5级锚点：2009年1月被科罗拉多州州长比尔·里特任命为民主党联邦参议员（递补肯·萨拉查空出席位）；来源：https://en.wikipedia.org/wiki/Michael_Bennet；底稿备注：此前任丹佛公立学校总监、丹佛市长办公室主任(非选举)；首个党派身份为2009年民主党参议员任命；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_office",
+          "from_date": "2009-01",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（科罗拉多州）",
+        "role": "",
+        "start": {
+          "value": "2009-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院农业、营养与林业委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院财政委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院规则与行政委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院情报特别委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1983",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1987倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1987",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1987",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "卫斯理大学",
+        "role": null,
+        "program": "历史",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1988",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1990",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "俄亥俄州州长理查德·塞莱斯特办公室",
+        "role": "助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1990",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1993倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1993",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "耶鲁大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1994",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦第四巡回上诉法院",
+        "role": "法官办公室法律助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法官办公室法律助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1994",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国司法部副部长办公室",
+        "role": "法律顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法律顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2003",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "安舒茨投资公司",
+        "role": "董事总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事总经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2005",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "丹佛市市长办公室",
+        "role": "办公室主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "办公室主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "丹佛公立学校",
+        "role": "总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总监"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009-01",
+          "source_ids": [
+            "s15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（科罗拉多州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s15"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（科罗拉多州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：卫斯理毕业(1987)至州长助理(1988)之间约一年",
+      "底稿缺项：1990年前后耶鲁法学院入学与各职务衔接月份",
+      "底稿缺项：eFD 2021年后周期交易与最新年度申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1988年6月」：底稿推定（卫斯理1987年毕业，1988年起任州长助理；月份按入职年推定），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

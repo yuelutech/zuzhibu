@@ -1,0 +1,88 @@
+{
+  "id": "2026-10-12-katie-zacharia-appoint",
+  "date": "2026-10-12",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "katie-zacharia",
+  "person": {
+    "name_zh": "凯蒂·扎卡里亚",
+    "name_en": "Katie Zacharia",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-10-09",
+  "effective_at": "2026-10-12",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国白宫",
+      "role": "新闻秘书",
+      "organization_en": "White House",
+      "role_en": "White House Press Secretary",
+      "start": "2026-10-12",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e3"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "凯蒂·扎卡里亚任美国白宫新闻秘书",
+  "summary": "特朗普10月9日宣布任命扎卡里亚；她10月12日上任，接替莱维特。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://apnews.com/article/trump-white-house-press-secretary-katie-zacharia-aaabf8627035da9bc4cd44173f22e02e",
+      "title": "Trump names commentator Katie Zacharia of his media company as next White House press secretary",
+      "publisher": "美联社",
+      "published_at": "2026-10-09",
+      "excerpt": "will succeed Karoline Leavitt as White House press secretary.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    },
+    {
+      "id": "e3",
+      "url": "https://www.whitehouse.gov/releases/2026/10/katie-zacharia-delivers-powerful-inaugural-briefing-as-37th-white-house-press-secretary/",
+      "title": "Katie Zacharia Delivers Powerful Inaugural Briefing as the 37th White House Press Secretary",
+      "publisher": "美国白宫",
+      "published_at": "2026-10-13",
+      "excerpt": "as the 37th White House Press Secretary.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 katie-zacharia（库里没有此人）",
+      "现任职务新增：美国白宫新闻秘书",
+      "履历新增：2026-10 美国白宫新闻秘书",
+      "所属局：定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "katie-zacharia",
+    "reason": "主要职务“美国白宫 新闻秘书”：总统、白宫、内阁与独立机构"
+  }
+}

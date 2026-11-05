@@ -1,0 +1,105 @@
+{
+  "id": "2026-09-01-arthur-levinson-transfer",
+  "date": "2026-09-01",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "arthur-levinson",
+  "person": {
+    "name_zh": "亚瑟·莱文森",
+    "name_en": "Arthur Levinson",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-04-20",
+  "effective_at": "2026-09-01",
+  "ended_roles": [
+    {
+      "organization": "苹果公司",
+      "role": "非执行董事长",
+      "organization_en": "Apple",
+      "role_en": "non-executive chairman",
+      "start": null,
+      "end": "2026-09-01",
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e3"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "苹果公司",
+      "role": "首席独立董事",
+      "organization_en": "Apple",
+      "role_en": "lead independent director",
+      "start": "2026-09-01",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e3",
+        "e4"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "阿瑟·莱文森转任苹果公司首席独立董事",
+  "summary": "莱文森9月1日由非执行董事长转任首席独立董事，库克同日出任执行董事长。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e3",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "title": "Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO",
+      "publisher": "Apple",
+      "published_at": "2026-04-20",
+      "excerpt": "will become its lead independent director on September 1, 2026.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e4",
+      "url": "https://www.apple.com/leadership/",
+      "title": "Apple Leadership",
+      "publisher": "Apple",
+      "published_at": null,
+      "excerpt": "Arthur Levinson Lead Independent Director",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 arthur-levinson（库里没有此人）",
+      "现任职务新增：苹果公司首席独立董事",
+      "履历新增：2026-09 苹果公司首席独立董事",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [
+      "原任“苹果公司 非执行董事长 Apple non-executive chairman”：记录里本来就没有现任职务"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "arthur-levinson",
+    "reason": "主要职务“苹果公司 首席独立董事”：AI 与科技机构名单"
+  }
+}

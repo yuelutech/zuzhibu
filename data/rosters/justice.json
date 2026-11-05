@@ -1,0 +1,144 @@
+{
+  "id": "justice",
+  "title": "司法",
+  "groups": [
+    {
+      "title": "最高法院",
+      "style": "lead",
+      "members": [
+        {
+          "person": "john-g-roberts-jr",
+          "post": "首席大法官"
+        }
+      ]
+    },
+    {
+      "title": "最高法院",
+      "note": "按资历排列",
+      "style": "row",
+      "members": [
+        {
+          "person": "clarence-thomas",
+          "post": "大法官"
+        },
+        {
+          "person": "samuel-a-alito-jr",
+          "post": "大法官"
+        },
+        {
+          "person": "sonia-sotomayor",
+          "post": "大法官"
+        },
+        {
+          "person": "elena-kagan",
+          "post": "大法官"
+        },
+        {
+          "person": "neil-m-gorsuch",
+          "post": "大法官"
+        },
+        {
+          "person": "brett-m-kavanaugh",
+          "post": "大法官"
+        },
+        {
+          "person": "amy-coney-barrett",
+          "post": "大法官"
+        },
+        {
+          "person": "ketanji-brown-jackson",
+          "post": "大法官"
+        }
+      ]
+    },
+    {
+      "title": "司法部",
+      "style": "lead",
+      "members": [
+        {
+          "person": "todd-blanche",
+          "post": "司法部长"
+        }
+      ]
+    },
+    {
+      "title": "司法部",
+      "style": "row",
+      "members": [
+        {
+          "person": "trent-mccotter",
+          "post": "代理常务副部长"
+        },
+        {
+          "person": "stanley-e-woodward-jr",
+          "post": "副部长"
+        },
+        {
+          "person": "d-john-sauer",
+          "post": "首席政府律师"
+        }
+      ]
+    },
+    {
+      "title": "司法部",
+      "style": "row",
+      "members": [
+        {
+          "person": "kash-patel",
+          "post": "联邦调查局局长"
+        },
+        {
+          "person": "terrance-c-terry-cole",
+          "post": "缉毒局局长"
+        },
+        {
+          "person": "robert-cekada",
+          "post": "烟酒枪炮及爆炸物管理局局长"
+        },
+        {
+          "person": "gadyaces-s-serralta",
+          "post": "法警局局长"
+        }
+      ]
+    },
+    {
+      "title": "监管机构",
+      "note": "按英文姓氏字母排列",
+      "style": "grid",
+      "members": [
+        {
+          "person": "paul-s-atkins",
+          "post": "证券交易委员会主席"
+        },
+        {
+          "person": "brendan-carr",
+          "post": "联邦通信委员会主席"
+        },
+        {
+          "person": "andrew-n-ferguson",
+          "post": "联邦贸易委员会主席"
+        },
+        {
+          "person": "travis-hill",
+          "post": "联邦存款保险公司董事长"
+        },
+        {
+          "person": "ho-k-nieh",
+          "post": "核管理委员会主席"
+        },
+        {
+          "person": "mark-paoletta",
+          "post": "消费者金融保护局代理局长"
+        },
+        {
+          "person": "michael-s-selig",
+          "post": "商品期货交易委员会主席"
+        },
+        {
+          "person": "kevin-warsh",
+          "post": "联邦储备委员会主席"
+        }
+      ]
+    }
+  ]
+}

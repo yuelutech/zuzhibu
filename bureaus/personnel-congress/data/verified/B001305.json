@@ -1,0 +1,569 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001305",
+      "line": "cadre",
+      "subject_id": "b001305",
+      "title": "泰德·巴德简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.budd.senate.gov/about-senator-ted-budd/",
+          "title": "About - U.S. Senator Ted Budd",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Senator Budd also holds a Master of Business Administration from Wake Forest University, which he earned in 2007.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Budd, Ted (R-NC)",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been nine Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-NC-H-13.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "TED BUDD, Republican, of Advance, NC; born in Winston-Salem, NC, October 21, 1971;",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-NC-H-13.htm",
+          "title": "Congressional Directory for the 116th Congress (2019-2020), July 2020.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "TED BUDD, Republican, of Advance, NC; born in Winston-Salem, NC, October 21, 1971;",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.senate.gov/senators/NewSenators.htm",
+          "title": "U.S. Senate: New Senators 2001-present",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Ted Budd | R-NC | General election | January 3, 2023",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.fec.gov/data/committee/C00614776/?cycle=2026&tab=about-committee",
+          "title": "TED BUDD FOR SENATE - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Registration date: April 14, 2016",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.fec.gov/data/candidate/H6NC13129/",
+          "title": "BUDD, THEODORE P. - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Candidate for House North Carolina - 13 ID: H6NC13129 REPUBLICAN PARTY",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.washingtonpost.com/politics/ted-budd-trump-endorsement-farmers-bankruptcy/2021/08/30/816991a6-003f-11ec-825d-01701f9ded64_story.html",
+          "title": "Trump’s pick in a key Senate race touts his agriculture ties. He doesn’t mention his role in a bankruptcy that cost farmers millions.",
+          "published_at": "2021-08-31",
+          "checked_at": "2026-10-18",
+          "excerpt": "He joined the Budd Group in January 1999",
+          "tier": 2
+        },
+        {
+          "id": "s13",
+          "url": "https://tmcf.org/wp-content/uploads/TMCF_Member_Profiles_103023_vfinal.pdf",
+          "title": "TMCF Member Profiles — Fayetteville State University Profiles",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Representative for North Carolina’s 13th District, 2017-2023",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "reverified",
+        "senate",
+        "state:NC"
+      ],
+      "person": {
+        "name": {
+          "value": "泰德·巴德",
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1971-10-21",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "北卡罗来纳州温斯顿-塞勒姆",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "维克森林大学工商管理硕士学位",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s2",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2016-04",
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：巴德的竞选委员会C00614776在联邦选举委员会登记，2016-04-14；来源：https://www.fec.gov/data/committee/C00614776/?cycle=2026&tab=about-committee 。该委员会现名TED BUDD FOR SENATE；共和党联邦众议员候选人身份由https://www.fec.gov/data/candidate/H6NC13129/确认。检索未找到可打开并确认日期的第1级选民党籍登记、本人宣布加入或改党记录，以及第2级党组织职务锚点。2016-06-07共和党初选属于第4级，2017年共和党公职属于第5级，均不优先采用。首次F2原件未读到，不将现行修订版的2021年受理日作为首次登记日。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2016-04-14",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（北卡罗来纳州）",
+          "role": "",
+          "start": {
+            "value": "2023-01-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院军事委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院商务、科学和运输委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院小企业和创业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院与众议院经济联合委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院情报特别委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1990",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "参议员官网及117届国会名录记载本科毕业于1994年；按美国本科4年学制倒推：1994－4＝1990。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1994",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "阿巴拉契亚州立大学",
+          "role": null,
+          "program": "工商管理",
+          "degree_awarded": {
+            "value": "工商管理学士",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "ProShots Indoor Range & Training",
+          "role": "所有者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "所有者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023",
+            "source_ids": [
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（北卡罗来纳州第13选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s13"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（北卡罗来纳州第13选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-01-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（北卡罗来纳州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（北卡罗来纳州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "person.work_start",
+          "alternatives": [
+            {
+              "value": "1998",
+              "source_ids": [
+                "s13"
+              ],
+              "inferred": false,
+              "basis": "INDY援引其领英履历；TMCF人物资料也列此年。",
+              "inference": null
+            },
+            {
+              "value": "1999-01",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": "《华盛顿邮报》援引当年的法院材料。",
+              "inference": null
+            }
+          ],
+          "selected_value": null,
+          "reason": "两种记载冲突，未取得原始领英履历或法院材料进一步核对；参加工作时间及该公司任职条目搁置。"
+        },
+        {
+          "field": "careers[阿巴拉契亚州立大学].degree_awarded",
+          "alternatives": [
+            {
+              "value": "Bachelor of Business Administration",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "B.S.B.A., business management",
+              "source_ids": [
+                "s4",
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "工商管理学士",
+          "reason": "采用参议员现行官方传记的学位表述；保留国会名录中的B.S.B.A.原值供复核。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过参议员官方传记、国会名录、INDY、《华盛顿邮报》和TMCF人物资料；The Budd Group入职时间存在1998年与1999年1月冲突，work_start留null，完整简历卡搁置。",
+        "The Budd Group履历：国会名录确认其执行副总裁经历；起始日期存在冲突，结束日期未取得可靠原始依据，未生成任职条目。",
+        "达拉斯神学院学习：参议员官网确认1998年取得硕士学位，国会名录记载教育领导与家庭生活方向；未从已打开的官方原文找到入学时间，未沿用底稿1994年入学。",
+        "维克森林大学学习：参议员官网确认2007年取得工商管理硕士学位；未找到可确认入学时间、学制和在职学习性质的学校或本人原文，未生成学习条目或在职学习括注。",
+        "ProShots履历：2010年购入射击场及所有者身份有依据；截至截止日是否仍持有、是否仍经营及终止时间未查明，ongoing填false，不列为企业现职。",
+        "AgriTiva LLC履历：TMCF人物资料列2005—2015年合伙人；未取得本人、企业或监管原始记录确认，不列入履历。",
+        "众议院任职日期：已打开的TMCF人物资料支持2017—2023年；Bioguide、history.house.gov人物页及Congress.gov人物页未能读到可用正文，起止日期保留到年。",
+        "委员会起始日期：参议院119届委员会名单和议员官网确认五项现任委员身份，未确认各项任职的生效日期，start均留null。",
+        "入党锚点：检索选民党籍登记、本人宣布加入或改党、党组织职务和FEC申报；未找到可打开并确认日期的第1、2级锚点，首次F2原件未读到。现有第3级委员会登记锚点采用2016年4月。",
+        "族裔：查过参议员官网和国会名录，未取得本人自述或官方统计分类，ethnicity留null。",
+        "其他任职：参议员官网提到童子军助理领队及North Carolinians for Home Education董事经历，未给任职起止日期，未生成括注。"
+      ],
+      "excluded": [
+        "底稿『1998—2016年普罗肖茨射击训练公司所有者、经营者』：官方传记记载2010年购入射击场；1998年起始和2016年终止均不沿用。",
+        "底稿『1998年参加工作』：原依据为无来源的射击场经历；新检索发现早期入职时间冲突，改为null。",
+        "底稿『达拉斯神学院神学硕士学位』作为首段最高学位：官网另确认2007年取得维克森林大学工商管理硕士，首段采用后取得的同层级学位。",
+        "底稿『1994—1998年达拉斯神学院学习』：毕业年份有官方依据，入学年份未从已打开的官方原文证实。",
+        "底稿『2005—2007年在职攻读维克森林大学工商管理硕士』：毕业年有依据，入学年和在职性质未证实。",
+        "底稿『2016—2017年共和党联邦众议员候选人』：候选人状态在当选后发生变化，不能将候选人状态连续写至2017年；未沿用该条。",
+        "底稿『2022—2023年共和党联邦参议员候选人』：官网记载2021年开始参选、2022年11月8日当选，底稿未区分参选、获提名和当选状态，未沿用该条。",
+        "底稿发布稿『2016年6月参加工作』：2016年前已有企业经历，不采用。",
+        "底稿发布稿『2016年6月加入美国共和党』：存在更高等级的2016年4月FEC登记锚点，不采用6月初选锚点。",
+        "检索中打不开或仅返回错误页的Bioguide、history.house.gov、Congress.gov及达拉斯神学院校友页面：不列入sources。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（北卡罗来纳州）＋美国国会参议院；Bioguide B001305；FEC众议员候选人编号H6NC13129",
+      "review_items": [
+        "优先补取The Budd Group原始任职记录，处理参加工作时间冲突后再判断完整简历卡条件。",
+        "补取首次F2及委员会初始F1，核对首次受理日和委员会当时名称。",
+        "经济联合委员会为两院联合机构，中文名称采用『参议院与众议院经济联合委员会』，待译名表核定。",
+        "本科BBA与B.S.B.A.表述已并列；交AI政见确认。",
+        "研究候选事实包，未完成另会话独立核查。"
+      ]
+    }
+  ]
+}

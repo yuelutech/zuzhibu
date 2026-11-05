@@ -1,0 +1,179 @@
+{
+  "id": "ali-ghodsi",
+  "name_zh": "阿里·戈德西",
+  "name_en": "Ali Ghodsi",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Databricks公司 联合创始人、首席执行官 Databricks Co-founder and Chief Executive Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/ali-ghodsi.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.databricks.com/sites/default/files/2022-11/ali-ghodsi-speaker.jpg",
+    "source": "https://www.databricks.com/company/founders"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Databricks",
+      "role_en": "Co-founder and Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Databricks公司 联合创始人、首席执行官 Databricks Co-founder and Chief Executive Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "ali-ghodsi-20261018",
+    "line": "cadre",
+    "subject_id": "ali-ghodsi",
+    "title": "阿里·戈德西简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.databricks.com/dataaisummit/speaker/ali-ghodsi",
+        "title": "Ali Ghodsi | Databricks",
+        "excerpt": "before taking the role of CEO in January 2016.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "阿里·戈德西"
+    ],
+    "person": {
+      "name": {
+        "value": "阿里·戈德西",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "瑞典皇家理工学院",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "分布式计算博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "Databricks公司",
+        "role": "联合创始人、首席执行官",
+        "start": {
+          "value": "2016-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Databricks公司",
+        "role": "联合创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "Databricks公司",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月、国籍和首份全职工作起始年月未核实。",
+      "公司官方简历列2003年中瑞典大学MBA、2006年瑞典皇家理工学院博士；未取得博士入学年份，学业未编造起止。",
+      "此前工程与产品管理副总裁的起始年月未知。",
+      "伯克利兼职教授与RiseLab董事起始年月未知。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

@@ -1,0 +1,1039 @@
+{
+  "generated_at": "2026-10-16",
+  "summary": {
+    "total": 538,
+    "valid": 538,
+    "invalid": 0,
+    "pass_rate": "100.0%",
+    "by_tier": {
+      "gold": {
+        "total": 60,
+        "valid": 60
+      },
+      "draft": {
+        "total": 478,
+        "valid": 478
+      }
+    }
+  },
+  "fields": {
+    "person.gender": {
+      "filled": 538,
+      "empty": 0
+    },
+    "person.birth_date": {
+      "filled": 538,
+      "empty": 0
+    },
+    "person.birth_place": {
+      "filled": 60,
+      "empty": 478
+    },
+    "person.work_start": {
+      "filled": 538,
+      "empty": 0,
+      "month_dropped": 58
+    },
+    "person.education": {
+      "filled": 495,
+      "empty": 43
+    },
+    "person.degree": {
+      "filled": 495,
+      "empty": 43
+    },
+    "person.party": {
+      "filled": 538,
+      "empty": 0
+    },
+    "person.party_joined_at": {
+      "kept": 59,
+      "month_dropped": 13,
+      "empty_no_anchor": 476,
+      "empty_independent": 3
+    },
+    "current_roles": {
+      "politics_entries": 571,
+      "committee_entries": 260,
+      "items_with_committee": 118
+    },
+    "careers": {
+      "total": 3510,
+      "work": 2665,
+      "study": 845,
+      "with_sources": 452,
+      "without_sources": 3058,
+      "work_role_unsplit": 2332,
+      "study_parsed_t2": 714,
+      "study_unparsed_t2": 12,
+      "study_start_inferred_rule": 47,
+      "study_start_inferred_duration": 56,
+      "study_start_inferred_other": 0,
+      "study_dropped_no_start": 0,
+      "study_highschool_excluded": 3,
+      "work_dropped_no_start": 0,
+      "t2_line_unparsed": 0
+    },
+    "annotations": {
+      "parsed": 1331,
+      "unparsed": 4
+    },
+    "conflicts": {
+      "items_with_conflicts": 12
+    },
+    "unknowns": {
+      "total": 1737
+    },
+    "excluded": {
+      "total": 1096
+    }
+  },
+  "review": {
+    "invalid_items": [],
+    "tiering_mismatch": [
+      {
+        "id": "B001261",
+        "note": "TIERING.md 的 T1 名单列出，但底稿仍是 Codex 初稿（未精做），按底稿标 draft"
+      },
+      {
+        "id": "C000880",
+        "note": "TIERING.md 的 T1 名单列出，但底稿仍是 Codex 初稿（未精做），按底稿标 draft"
+      },
+      {
+        "id": "C001035",
+        "note": "TIERING.md 的 T1 名单列出，但底稿仍是 Codex 初稿（未精做），按底稿标 draft"
+      },
+      {
+        "id": "D000563",
+        "note": "TIERING.md 的 T1 名单列出，但底稿仍是 Codex 初稿（未精做），按底稿标 draft"
+      },
+      {
+        "id": "W000779",
+        "note": "TIERING.md 的 T1 名单列出，但底稿仍是 Codex 初稿（未精做），按底稿标 draft"
+      },
+      {
+        "id": "W000802",
+        "note": "TIERING.md 的 T1 名单列出，但底稿仍是 Codex 初稿（未精做），按底稿标 draft"
+      }
+    ],
+    "tiering_listed_count": 53,
+    "gold_not_listed_by_id": [
+      "B001267",
+      "B001277",
+      "B001319",
+      "E000295",
+      "G000386",
+      "H000273",
+      "H001042",
+      "M001153",
+      "O000174",
+      "P000145",
+      "S001150",
+      "S001217",
+      "W000790"
+    ],
+    "party_joined_at_kept": [
+      {
+        "id": "B001236",
+        "name_zh": "约翰·布兹曼",
+        "value": "2001-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "B001267",
+        "name_zh": "迈克尔·贝内特",
+        "value": "2009-01",
+        "level": 5,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "B001277",
+        "name_zh": "理查德·布卢门撒尔",
+        "value": "1984",
+        "level": 4,
+        "month_dropped": true,
+        "wiki_only": true
+      },
+      {
+        "id": "B001288",
+        "name_zh": "科里·布克",
+        "value": "2013-08",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "B001303",
+        "name_zh": "莉萨·布伦特·罗切斯特",
+        "value": "2016",
+        "level": 4,
+        "month_dropped": true,
+        "wiki_only": true
+      },
+      {
+        "id": "B001319",
+        "name_zh": "凯蒂·布里特",
+        "value": "2021",
+        "level": 3,
+        "month_dropped": true,
+        "wiki_only": false
+      },
+      {
+        "id": "C001056",
+        "name_zh": "约翰·康宁",
+        "value": "1990",
+        "level": 4,
+        "month_dropped": true,
+        "wiki_only": true
+      },
+      {
+        "id": "C001088",
+        "name_zh": "克里斯·孔斯",
+        "value": "2000-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "C001095",
+        "name_zh": "汤姆·科顿",
+        "value": "2011",
+        "level": 3,
+        "month_dropped": true,
+        "wiki_only": false
+      },
+      {
+        "id": "C001098",
+        "name_zh": "泰德·科鲁兹",
+        "value": "2011-01",
+        "level": 3,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "C001108",
+        "name_zh": "詹姆士·卡莫",
+        "value": "2000-05",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "C001130",
+        "name_zh": "贾丝明·克罗克特",
+        "value": "2020-07",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "E000294",
+        "name_zh": "汤姆·埃默",
+        "value": "2004-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "E000295",
+        "name_zh": "乔妮·恩斯特",
+        "value": "2004-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "F000479",
+        "name_zh": "约翰·费特曼",
+        "value": "2005-05",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "G000359",
+        "name_zh": "林赛·格雷姆",
+        "value": "1992-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "G000386",
+        "name_zh": "查克·格拉斯利",
+        "value": "1958-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "G000574",
+        "name_zh": "鲁本·加列戈",
+        "value": "2010-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "H000273",
+        "name_zh": "约翰·希肯卢珀",
+        "value": "2010-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "H001042",
+        "name_zh": "广野庆子",
+        "value": "1980-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "H001089",
+        "name_zh": "乔希·霍利",
+        "value": "2016-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "H001104",
+        "name_zh": "乔恩·赫斯特德",
+        "value": "2000-03",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "J000289",
+        "name_zh": "吉姆·乔丹",
+        "value": "1994-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "J000294",
+        "name_zh": "哈基姆·杰弗里斯",
+        "value": "2006-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "J000299",
+        "name_zh": "迈克·约翰逊",
+        "value": "2015-02",
+        "level": 5,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "K000367",
+        "name_zh": "艾米·克罗布彻",
+        "value": "2006-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "K000377",
+        "name_zh": "马克·凯利",
+        "value": "2019-02",
+        "level": 3,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "K000389",
+        "name_zh": "罗·康纳",
+        "value": "2004",
+        "level": 4,
+        "month_dropped": true,
+        "wiki_only": true
+      },
+      {
+        "id": "M000133",
+        "name_zh": "爱德华·马基",
+        "value": "1972-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "M000355",
+        "name_zh": "米奇·麦康诺",
+        "value": "1977",
+        "level": 4,
+        "month_dropped": true,
+        "wiki_only": false
+      },
+      {
+        "id": "M001153",
+        "name_zh": "丽莎·穆尔科斯基",
+        "value": "1998-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "M001169",
+        "name_zh": "克里斯·墨菲",
+        "value": "1998-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "M001184",
+        "name_zh": "托马斯·马斯",
+        "value": "2010-05",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "M001211",
+        "name_zh": "玛丽·米勒",
+        "value": "2020-03",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "M001244",
+        "name_zh": "阿什利·穆迪",
+        "value": "2018-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "N000147",
+        "name_zh": "埃莉诺·霍姆斯·诺顿",
+        "value": "1990-04",
+        "level": 3,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "O000172",
+        "name_zh": "亚历山德里娅·奥卡西奥-科尔特斯",
+        "value": "2018-06",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "O000173",
+        "name_zh": "伊尔汉·奥马尔",
+        "value": "2016-08",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "O000174",
+        "name_zh": "乔恩·奥索夫",
+        "value": "2017",
+        "level": 4,
+        "month_dropped": true,
+        "wiki_only": true
+      },
+      {
+        "id": "P000145",
+        "name_zh": "亚历克斯·帕迪利亚",
+        "value": "2006-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "P000197",
+        "name_zh": "南希·佩洛西",
+        "value": "1976",
+        "level": 2,
+        "month_dropped": true,
+        "wiki_only": true
+      },
+      {
+        "id": "P000603",
+        "name_zh": "兰德·保罗",
+        "value": "2010-05",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "president",
+        "name_zh": "唐纳德·特朗普",
+        "value": "2012-04",
+        "level": 1,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "R000584",
+        "name_zh": "吉姆·里施",
+        "value": "1970-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "R000606",
+        "name_zh": "杰米·拉斯金",
+        "value": "2006-09",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "S000148",
+        "name_zh": "查克·舒默",
+        "value": "1974-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "S001150",
+        "name_zh": "亚当·希夫",
+        "value": "1996-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "S001176",
+        "name_zh": "史蒂夫·斯卡莱斯",
+        "value": "1995",
+        "level": 4,
+        "month_dropped": true,
+        "wiki_only": true
+      },
+      {
+        "id": "S001184",
+        "name_zh": "蒂姆·斯科特",
+        "value": "1995-02",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "S001194",
+        "name_zh": "布赖恩·沙茨",
+        "value": "1998-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "S001196",
+        "name_zh": "埃莉斯·斯蒂芬尼克",
+        "value": "2013-08",
+        "level": 3,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "S001198",
+        "name_zh": "丹·沙利文",
+        "value": "2013",
+        "level": 3,
+        "month_dropped": true,
+        "wiki_only": false
+      },
+      {
+        "id": "S001217",
+        "name_zh": "里克·斯科特",
+        "value": "2010-11",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "T000250",
+        "name_zh": "约翰·图恩",
+        "value": "1989",
+        "level": 2,
+        "month_dropped": true,
+        "wiki_only": true
+      },
+      {
+        "id": "T000278",
+        "name_zh": "汤米·图伯维尔",
+        "value": "2019-04",
+        "level": 3,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "T000481",
+        "name_zh": "拉什达·特莱布",
+        "value": "2008-08",
+        "level": 4,
+        "month_dropped": false,
+        "wiki_only": true
+      },
+      {
+        "id": "vice-president",
+        "name_zh": "詹姆斯·大卫·万斯",
+        "value": "2021-07",
+        "level": 3,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "W000790",
+        "name_zh": "拉斐尔·沃诺克",
+        "value": "2020-01",
+        "level": 3,
+        "month_dropped": false,
+        "wiki_only": false
+      },
+      {
+        "id": "W000817",
+        "name_zh": "伊莉莎白·华伦",
+        "value": "1996",
+        "level": 1,
+        "month_dropped": true,
+        "wiki_only": true
+      }
+    ],
+    "party_anchor_unclassified": [],
+    "work_start_military": [
+      {
+        "id": "A000148",
+        "organization": "美国海军陆战队军官"
+      },
+      {
+        "id": "A000369",
+        "organization": "美国陆军军法署军官、上尉"
+      },
+      {
+        "id": "B001260",
+        "organization": "密歇根空军国民警卫队军人"
+      },
+      {
+        "id": "B001291",
+        "organization": "美国空军军官"
+      },
+      {
+        "id": "B001295",
+        "organization": "美国海军陆战队士兵，至下士军衔"
+      },
+      {
+        "id": "B001296",
+        "organization": "美国国防部海军海上系统司令部顾问"
+      },
+      {
+        "id": "B001298",
+        "organization": "美国空军军官"
+      },
+      {
+        "id": "B001301",
+        "organization": "美国海军陆战队、海军陆战队预备役军官，至中将军衔"
+      },
+      {
+        "id": "B001307",
+        "organization": "美国陆军军官"
+      },
+      {
+        "id": "B001321",
+        "organization": "美国陆军、密歇根州陆军国民警卫队军官，至二级准尉军衔"
+      },
+      {
+        "id": "C001087",
+        "organization": "美国陆军爆炸物处理部队士兵，陆军中士"
+      },
+      {
+        "id": "C001112",
+        "organization": "美国海军陆战队预备役军人"
+      },
+      {
+        "id": "C001116",
+        "organization": "美国海军军官"
+      },
+      {
+        "id": "C001120",
+        "organization": "美国海军海豹突击队军官"
+      },
+      {
+        "id": "C001121",
+        "organization": "美国陆军军官"
+      },
+      {
+        "id": "C001123",
+        "organization": "美国海军补给军官，海军少校"
+      },
+      {
+        "id": "C001126",
+        "organization": "美国陆军国民警卫队军人"
+      },
+      {
+        "id": "C001132",
+        "organization": "美国海军服役，美国海军“海豹”突击队第3分队队员"
+      },
+      {
+        "id": "C001136",
+        "organization": "美国空军医务兵团军医、上尉"
+      },
+      {
+        "id": "D000230",
+        "organization": "美国空军军官，至上尉军衔"
+      },
+      {
+        "id": "D000530",
+        "organization": "美国海军军官"
+      },
+      {
+        "id": "D000622",
+        "organization": "美国陆军预备役、伊利诺伊州陆军国民警卫队军官，陆军中校"
+      },
+      {
+        "id": "D000626",
+        "organization": "美国陆军军人、军官"
+      },
+      {
+        "id": "D000628",
+        "organization": "美国陆军军医"
+      },
+      {
+        "id": "E000071",
+        "organization": "美国海军军官、战斗机飞行员"
+      },
+      {
+        "id": "E000300",
+        "organization": "弗吉尼亚陆军国民警卫队军人"
+      },
+      {
+        "id": "F000246",
+        "organization": "美国空军军官"
+      },
+      {
+        "id": "F000472",
+        "organization": "美国海军飞行员"
+      },
+      {
+        "id": "F000485",
+        "organization": "美国空军军法官"
+      },
+      {
+        "id": "G000558",
+        "organization": "美国陆军第101空降师炮兵军官，至上尉军衔"
+      },
+      {
+        "id": "G000592",
+        "organization": "美国海军陆战队士兵，至下士军衔"
+      },
+      {
+        "id": "H001077",
+        "organization": "美国陆军宪兵、路易斯安那州国民警卫队队员"
+      },
+      {
+        "id": "H001085",
+        "organization": "美国空军军官"
+      },
+      {
+        "id": "H001095",
+        "organization": "美国陆军军官"
+      },
+      {
+        "id": "H001101",
+        "organization": "美国陆军步兵、特种部队军官，至上尉军衔"
+      },
+      {
+        "id": "I000056",
+        "organization": "美国陆军现役军人"
+      },
+      {
+        "id": "J000304",
+        "organization": "美国海军军医"
+      },
+      {
+        "id": "J000307",
+        "organization": "美国陆军航空兵军官，至上尉军衔"
+      },
+      {
+        "id": "K000388",
+        "organization": "美国陆军国民警卫队、密西西比州国民警卫队军官，至少将军衔"
+      },
+      {
+        "id": "K000399",
+        "organization": "美国海军直升机飞行员"
+      },
+      {
+        "id": "L000582",
+        "organization": "美国空军现役军法官"
+      },
+      {
+        "id": "L000583",
+        "organization": "美国空军通信运行专业人员"
+      },
+      {
+        "id": "L000596",
+        "organization": "美国空军军人"
+      },
+      {
+        "id": "L000598",
+        "organization": "美国海军水面作战军官、上尉"
+      },
+      {
+        "id": "L000603",
+        "organization": "美国海军海豹突击队军官"
+      },
+      {
+        "id": "M001196",
+        "organization": "美国海军陆战队军官，至上尉军衔"
+      },
+      {
+        "id": "M001199",
+        "organization": "美国陆军爆炸物处理军士"
+      },
+      {
+        "id": "M001215",
+        "organization": "美国陆军士兵、护士"
+      },
+      {
+        "id": "M001216",
+        "organization": "美国陆军军人"
+      },
+      {
+        "id": "M001218",
+        "organization": "美国海军陆战队、美国海军军官"
+      },
+      {
+        "id": "M001219",
+        "organization": "美国陆军军官"
+      },
+      {
+        "id": "M001239",
+        "organization": "美国海军海豹突击队队员"
+      },
+      {
+        "id": "M001243",
+        "organization": "美国陆军第82空降师军官，陆军上尉"
+      },
+      {
+        "id": "N000026",
+        "organization": "美国陆军预备役军官"
+      },
+      {
+        "id": "P000048",
+        "organization": "美国空军军官"
+      },
+      {
+        "id": "P000605",
+        "organization": "宾夕法尼亚陆军国民警卫队服役"
+      },
+      {
+        "id": "R000122",
+        "organization": "美国陆军军官"
+      },
+      {
+        "id": "R000579",
+        "organization": "美国陆军军事情报军官、上尉"
+      },
+      {
+        "id": "R000610",
+        "organization": "美国海军军法署军官"
+      },
+      {
+        "id": "S001214",
+        "organization": "美国陆军军法官"
+      },
+      {
+        "id": "S001224",
+        "organization": "美国陆军军官"
+      },
+      {
+        "id": "S001232",
+        "organization": "美国海军海豹突击队军官，海军上尉"
+      },
+      {
+        "id": "T000460",
+        "organization": "美国陆军军人"
+      },
+      {
+        "id": "T000491",
+        "organization": "美国陆军预备役军人"
+      },
+      {
+        "id": "V000135",
+        "organization": "美国海军海豹突击队队员"
+      },
+      {
+        "id": "V000138",
+        "organization": "美国陆军军官、军法署律师"
+      },
+      {
+        "id": "V000139",
+        "organization": "美国陆军军官"
+      },
+      {
+        "id": "W000437",
+        "organization": "美国空军军法署军官"
+      },
+      {
+        "id": "Y000064",
+        "organization": "美国海军陆战队军官，海军陆战队上尉"
+      },
+      {
+        "id": "Z000018",
+        "organization": "美国海军海豹突击队军官，至中校军衔"
+      }
+    ],
+    "generated_names": [
+      {
+        "id": "A000383",
+        "name_zh": "艾伦·阿姆斯特朗"
+      },
+      {
+        "id": "B001326",
+        "name_zh": "贾内尔·拜纳姆"
+      },
+      {
+        "id": "B001327",
+        "name_zh": "罗伯特·布雷斯纳汉"
+      },
+      {
+        "id": "C001126",
+        "name_zh": "迈克·凯里"
+      },
+      {
+        "id": "C001129",
+        "name_zh": "迈克·柯林斯"
+      },
+      {
+        "id": "C001132",
+        "name_zh": "伊莱贾·克兰"
+      },
+      {
+        "id": "C001136",
+        "name_zh": "赫伯特·科纳韦"
+      },
+      {
+        "id": "D000530",
+        "name_zh": "克里斯托弗·德卢齐奥"
+      },
+      {
+        "id": "D000634",
+        "name_zh": "特洛伊·唐宁"
+      },
+      {
+        "id": "D000635",
+        "name_zh": "玛克辛·德克斯特"
+      },
+      {
+        "id": "E000301",
+        "name_zh": "萨拉·埃尔弗雷思"
+      },
+      {
+        "id": "F000481",
+        "name_zh": "绍马里·菲格斯"
+      },
+      {
+        "id": "G000602",
+        "name_zh": "劳拉·吉伦"
+      },
+      {
+        "id": "G000604",
+        "name_zh": "玛吉·古德兰德"
+      },
+      {
+        "id": "H001099",
+        "name_zh": "迈克·哈里多波洛斯"
+      },
+      {
+        "id": "H001103",
+        "name_zh": "巴勃罗·何塞·埃尔南德斯"
+      },
+      {
+        "id": "K000403",
+        "name_zh": "迈克·肯尼迪"
+      },
+      {
+        "id": "K000404",
+        "name_zh": "金伯林·金-海因兹"
+      },
+      {
+        "id": "M001230",
+        "name_zh": "瑞安·麦肯齐"
+      },
+      {
+        "id": "M001231",
+        "name_zh": "约翰·曼尼恩"
+      },
+      {
+        "id": "M001234",
+        "name_zh": "凯利·莫里森"
+      },
+      {
+        "id": "M001237",
+        "name_zh": "克丽丝滕·麦克唐纳·里维特"
+      },
+      {
+        "id": "M001239",
+        "name_zh": "约翰·麦圭尔"
+      },
+      {
+        "id": "M001245",
+        "name_zh": "克里斯蒂安·梅尼菲"
+      },
+      {
+        "id": "M001246",
+        "name_zh": "阿纳利利娅·梅希亚"
+      },
+      {
+        "id": "O000177",
+        "name_zh": "罗伯特·翁德"
+      },
+      {
+        "id": "P000621",
+        "name_zh": "内莉·波"
+      },
+      {
+        "id": "R000619",
+        "name_zh": "迈克尔·鲁利"
+      },
+      {
+        "id": "R000620",
+        "name_zh": "卢兹·里瓦斯"
+      },
+      {
+        "id": "R000621",
+        "name_zh": "埃米莉·兰德尔"
+      },
+      {
+        "id": "R000622",
+        "name_zh": "乔什·赖利"
+      },
+      {
+        "id": "S001214",
+        "name_zh": "格雷格·斯图比"
+      },
+      {
+        "id": "S001225",
+        "name_zh": "埃里克·索伦森"
+      },
+      {
+        "id": "S001229",
+        "name_zh": "杰斐逊·施里夫"
+      },
+      {
+        "id": "S001230",
+        "name_zh": "苏哈斯·苏布拉马尼亚姆"
+      },
+      {
+        "id": "V000139",
+        "name_zh": "马特·范埃普斯"
+      }
+    ]
+  }
+}

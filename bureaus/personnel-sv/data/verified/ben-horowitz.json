@@ -1,0 +1,341 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "ben-horowitz-20261018",
+      "line": "cadre",
+      "subject_id": "ben-horowitz",
+      "title": "本·霍罗威茨简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://a16z.com/author/ben-horowitz/",
+          "title": "Ben Horowitz — Andreessen Horowitz",
+          "excerpt": "Ben Horowitz is a cofounder and general partner at the venture capital firm Andreessen Horowitz.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://samueli.ucla.edu/ucla-engineering-to-host-ben-horowitz-ms-90-on-april-13/",
+          "title": "UCLA Engineering to host Ben Horowitz MS ’90",
+          "excerpt": "Ben Horowitz is an American businessman",
+          "published_at": "2017-04-05",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://a16z.com/the-future-of-networking/",
+          "title": "The Future of Networking — Ben Horowitz",
+          "excerpt": "When I was a young man in 1990, I designed and deployed Silicon Graphics’ first wide area network",
+          "published_at": "2012-02-06",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "本·霍罗威茨"
+      ],
+      "person": {
+        "name": {
+          "value": "本·霍罗威茨",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1966-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1988年本科毕业减22年得1966年，出生月无来源取7月。",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "1988",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1990-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1990",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "加利福尼亚大学洛杉矶分校",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "计算机科学理学硕士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "安德森霍罗威茨公司",
+          "role": "联合创始人、普通合伙人",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1984-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1988减标准学制4年，入学月取9月。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1988",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1988-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1988",
+              "duration_years": null
+            }
+          },
+          "organization": "哥伦比亚大学",
+          "role": null,
+          "program": "计算机科学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1988-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1990减标准学制2年，入学月取9月。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1990",
+              "duration_years": 2
+            }
+          },
+          "end": {
+            "value": "1990-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1990",
+              "duration_years": null
+            }
+          },
+          "organization": "加利福尼亚大学洛杉矶分校",
+          "role": null,
+          "program": "计算机科学",
+          "degree_awarded": {
+            "value": "理学硕士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1990-06",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1990",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "硅图公司",
+          "role": "网络工程师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2007",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "惠普公司",
+          "role": "软件业务技术优化副总裁、总经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "安德森霍罗威茨公司",
+      "conflicts": [],
+      "unknowns": [
+        "多段任职起止日期未核实；1995年7月是加入网景时间，目录与安全产品线副总裁任命时间未知，未套用加入时间；a16z创立年月及董事兼职起止时间待核。",
+        "已核实经历，开始时间未知：莲花发展公司；高级产品营销人员。来源：s1。",
+        "已核实经历，开始时间未知：网景通信公司；目录与安全产品线副总裁。来源：s1。",
+        "已核实经历，开始时间未知：美国在线公司；电子商务平台部副总裁、总经理。来源：s1。",
+        "已核实经历，开始时间未知：Opsware公司；联合创始人、首席执行官；结束2007-07。来源：s1。",
+        "已核实经历，开始时间未知：安德森霍罗威茨公司；联合创始人、普通合伙人。来源：s1。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

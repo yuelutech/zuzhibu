@@ -1,0 +1,77 @@
+{
+  "id": "2026-09-30-peter-lord-confirm",
+  "date": "2026-09-30",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "peter-lord",
+  "person": {
+    "name_zh": "彼得·洛德",
+    "name_en": "Peter Lord",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-30",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国驻贝宁大使馆",
+      "role": "特命全权大使",
+      "organization_en": "United States Embassy — Republic of Benin",
+      "role_en": "Ambassador Extraordinary and Plenipotentiary to the Republic of Benin",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "参议院确认彼得·洛德出任美国驻贝宁大使",
+  "summary": "参议院于2026-09-30确认Peter Lord出任美国驻贝宁大使（PN1255-12）。到任日期未由确认记录给出。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Peter Lord, of Florida, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Benin.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "新任“美国驻贝宁大使馆特命全权大使”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "peter-lord"
+  }
+}

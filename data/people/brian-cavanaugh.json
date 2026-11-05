@@ -1,0 +1,140 @@
+{
+  "id": "brian-cavanaugh",
+  "name_zh": "布赖恩·卡瓦诺",
+  "name_en": "Brian Cavanaugh",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-brian-cavanaugh",
+    "line": "cadre",
+    "subject_id": "brian-cavanaugh",
+    "title": "布赖恩·卡瓦诺简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.senate.gov/legislative/nom_confc.htm",
+        "title": "Nominations Confirmed (Civilian)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Brian Cavanaugh, of Maryland, to be Under Secretary for Management, Department of Homeland Security.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "布赖恩·卡瓦诺",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "提名人选"
+    },
+    "current_roles": [
+      {
+        "organization": "美国国土安全部",
+        "role": "副部长（管理事务）",
+        "start": {
+          "value": "2026-08-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "提名人选"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-08-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国土安全部",
+        "role": "副部长（管理事务）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "提名人选",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "events": [
+    "2026-08-07-brian-cavanaugh-confirm"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-08-07",
+      "event": "2026-08-07-brian-cavanaugh-confirm",
+      "reason": ""
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true
+}

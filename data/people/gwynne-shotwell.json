@@ -1,0 +1,525 @@
+{
+  "id": "gwynne-shotwell",
+  "name_zh": "格温·肖特韦尔",
+  "name_en": "Gwynne Shotwell",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“SpaceX and xAI 总裁、首席运营官 SpaceX and xAI President and Chief Operating Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/gwynne-shotwell.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "source": "https://www.nasa.gov/people/ms-gwynne-shotwell/",
+    "url": "https://www.nasa.gov/wp-content/uploads/2020/06/gwynne_shotwell.jpg"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "SpaceX and xAI",
+      "role_en": "President and Chief Operating Officer"
+    }
+  ],
+  "notes": [
+    "SpaceX acquired xAI in 2026-02. SEC field blank: SpaceX has no annual report or proxy statement in its SEC submissions through 2026-10-17."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“SpaceX and xAI 总裁、首席运营官 SpaceX and xAI President and Chief Operating Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "gwynne-shotwell-20261018",
+    "line": "cadre",
+    "subject_id": "gwynne-shotwell",
+    "title": "格温·肖特韦尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://ir.spacex.com/leadership/",
+        "title": "SpaceX — Leadership",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Gwynne Shotwell President & Chief Operating Officer",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.northwestern.edu/magazine/spring2012/feature/rocket-maam.html",
+        "title": "Rocket Ma’am",
+        "published_at": "2012",
+        "checked_at": "2026-10-18",
+        "excerpt": "After graduating with honors, she went to work for Chrysler Motors in Detroit. Promoted to president in 2008",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.nasa.gov/people/ms-gwynne-shotwell/",
+        "title": "Ms. Gwynne Shotwell",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "She joined SpaceX in 2002 as Vice President of Business Development",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.mccormick.northwestern.edu/news/articles/2019/03/alumna-gwynne-shotwell-awarded-prestigious-ralph-coats-roe-medal.html",
+        "title": "Alumna Gwynne Shotwell Awarded Prestigious Ralph Coats Roe Medal",
+        "published_at": "2019-03-06",
+        "checked_at": "2026-10-18",
+        "excerpt": "Northwestern Engineering alumna Gwynne Shotwell (’86, MS ’88)",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.forbes.com/profile/gwynne-shotwell/",
+        "title": "Gwynne Shotwell — Forbes",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Citizenship United States",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "格温·肖特韦尔"
+    ],
+    "person": {
+      "name": {
+        "value": "格温·肖特韦尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1964-07",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：本科1986年减22推1964年，出生月取7月；未使用打不开的1963年档案条目。",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1986",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1986-06",
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3及9.6：本科1986年毕业后就职克莱斯勒，毕业月取5月、工作月取6月。",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "1986-05",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "西北大学应用数学",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "理学硕士",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "太空探索技术公司（SpaceX）",
+        "role": "总裁、首席运营官",
+        "roles": [
+          "总裁",
+          "首席运营官"
+        ],
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1982",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：本科1986年减4年。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1986",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1986",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "西北大学",
+        "role": null,
+        "program": "机械工程",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1986-06",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "毕业后入职；cadre.md 9.6取6月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1986-05",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "Chrysler Motors",
+        "role": "管理培训生",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "管理培训生"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "来源称读九个月即完成硕士，1988年毕业，按学习年限倒推上一年。",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1988",
+            "duration_years": 1
+          }
+        },
+        "end": {
+          "value": "1988",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "西北大学",
+        "role": null,
+        "program": "应用数学",
+        "degree_awarded": {
+          "value": "理学硕士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1988",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1998年离开，此前10年；按原文时长倒推。",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1998",
+            "duration_years": 10
+          }
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Aerospace Corporation",
+        "role": "空间系统工程、技术及项目管理人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "空间系统工程",
+          "技术及项目管理人员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Microcosm",
+        "role": "空间系统部门主管",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "空间系统部门主管"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "太空探索技术公司（SpaceX）",
+        "role": "业务发展副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "业务发展副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "太空探索技术公司（SpaceX）",
+        "role": "总裁、首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总裁",
+          "首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "太空探索技术公司（SpaceX）",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月暂为毕业年规则推算；大学档案的1963年条目打开失败，未采用。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Gwynne Shotwell；太空探索技术公司（SpaceX）；总裁、首席运营官",
+    "review_items": [
+      "表外译名建议格温·肖特韦尔。",
+      "公司名称按SpaceX官方页规范；库内SpaceX and xAI为分组标签，不据此增写xAI职务。"
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "id": "werner-vogels",
+  "name_zh": "沃纳·沃格尔斯",
+  "name_en": "Werner Vogels",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Amazon and AWS Vice President and Chief Technology Officer, Amazon.com Amazon and AWS Vice President and Chief Technology Officer, Amazon.com”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/werner-vogels.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/executive-insight/approved/images/a7e3654aad5be12d42e083c083b98218.42104142e067856c549d87f8395562da5bc924f1.jpeg",
+    "source": "https://aws.amazon.com/executive-insights/content/werner-vogels-2026-tech-predictions/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Amazon and AWS",
+      "role_en": "Vice President and Chief Technology Officer, Amazon.com"
+    }
+  ],
+  "notes": [
+    "SEC field blank: no individual biography in the latest Amazon annual report or proxy statement."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Amazon and AWS Vice President and Chief Technology Officer, Amazon.com Amazon and AWS Vice President and Chief Technology Officer, Amazon.com”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "werner-vogels-20261018",
+    "line": "cadre",
+    "subject_id": "werner-vogels",
+    "title": "沃纳·沃格尔斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.amazon.science/author/werner-vogels",
+        "title": "Werner Vogels — Amazon Science",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Werner Vogels is chief technology officer at Amazon.com; Vogels joined Amazon in 2004 from Cornell University.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.allthingsdistributed.com/2008/07/info.html",
+        "title": "Werner Vogels — official bio on personal website",
+        "published_at": "2008-07-28",
+        "checked_at": "2026-10-18",
+        "excerpt": "Dr. Werner Vogels is Vice President & Chief Technology Officer at Amazon.com.",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2024/rohstoffe/werner-vogels-sobald-etwas-funktioniert-nennt-es-niemand-mehr-ki",
+        "title": "Interview with Werner Vogels — brand eins",
+        "published_at": "2024-05",
+        "checked_at": "2026-10-18",
+        "excerpt": "geboren 1958 in den Niederlanden; Ich bin Niederländer.",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.europeanceo.com/profiles/dr-werner-vogels-amazon/",
+        "title": "Dr Werner Vogels — European CEO",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "senior researcher at INESC in Lisbon from 1991 to 1994; joined in September 2004 as Director of Systems Research.",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "沃纳·沃格尔斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "荷兰",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1958-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "访谈明确出生年1958；未取得出生月原始依据，依规则取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1958",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": {
+        "value": "阿姆斯特丹自由大学计算机科学博士学位",
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "亚马逊公司",
+        "role": "首席技术官",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "首席技术官"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "亚马逊公司",
+        "role": "副总裁",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "roles": [
+          "副总裁"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1991-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "来源仅载1991年；按 cadre.md 3.3 的缺月份取7月规则补齐。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1991",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1994-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "来源仅载1994年；按 cadre.md 3.3 的缺月份取7月规则补齐。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1994",
+            "duration_years": null
+          }
+        },
+        "organization": "系统与计算机工程研究所（INESC）",
+        "role": "高级研究员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级研究员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1994-07",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "来源仅载1994年；按 cadre.md 3.3 的缺月份取7月规则补齐。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1994",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2004-09",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "来源仅载2004年；按 cadre.md 3.3 的上下条衔接规则，与2004年9月亚马逊入职衔接。",
+          "inference": {
+            "rule": "adjacent_entry",
+            "from_date": "2004",
+            "duration_years": null
+          }
+        },
+        "organization": "康奈尔大学",
+        "role": "研究科学家",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研究科学家"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "亚马逊公司",
+        "role": "系统研究总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "系统研究总监"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "亚马逊公司",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作时间未找到；早期海军服役、医院放射技术岗位仅查到线索，未以其后研究职位代替首份全职工作。",
+      "本科学习与博士学位起止日期未取得可打开原文。",
+      "亚马逊副总裁、首席技术官的任命起始日期未取得本次可用原文。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "副总裁由本人官方简历支持，首席技术官有亚马逊一级来源。",
+      "中文名拟译，待审。"
+    ]
+  }
+}

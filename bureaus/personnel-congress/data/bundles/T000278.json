@@ -1,0 +1,970 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-t000278",
+      "line": "cadre",
+      "subject_id": "t000278",
+      "title": "汤米·图伯维尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.britannica.com/biography/Tommy-Tuberville",
+          "title": "www.britannica.com",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "He was sworn into office on January 3, 2021.",
+          "tier": 2
+        },
+        {
+          "id": "s2",
+          "url": "https://api.congress.gov/v3/member/T000278",
+          "title": "api.congress.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "\"honorificName\": \"Mr.\"",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "born in Camden, AR, September 18, 1954",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://web.archive.org/web/20260314123912/https://www.tuberville.senate.gov/about/committee-assignments/",
+          "title": "web.archive.org",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "",
+          "tier": null
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "B.S., physical education, Southern Arkansas University, Magnolia, AR, 1976",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Hermitage High School assistant and head football coach, 1976-79",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Arkansas State University, assistant football coach, 1980-84",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "University of Miami football assistant and defensive coordinator, 1986-93",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Texas A&M defensive coordinator, 1994",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "University of Mississippi head football coach, 1995-98",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Auburn University head football coach, 1999-2008",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "ESPN and ESPNU studio analyst, 2008",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "Texas Tech University head football coach, 2010-12",
+          "tier": 1
+        },
+        {
+          "id": "s14",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "University of Cincinnati head football coach, 2013-16",
+          "tier": 1
+        },
+        {
+          "id": "s15",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "ESPN, full-time broadcast analyst, 2017 / elected to the 117th Congress on November 3, 2020",
+          "tier": 1
+        },
+        {
+          "id": "s16",
+          "url": "https://api.congress.gov/v3/member/T000278",
+          "title": "api.congress.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "\"chamber\": \"Senate\", \"startYear\": 2021, \"currentMember\": true",
+          "tier": 1
+        },
+        {
+          "id": "s17",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-AL-S-2.htm",
+          "title": "www.govinfo.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "professional: Hermitage High School assistant and head football coach, 1976-79",
+          "tier": 1
+        },
+        {
+          "id": "s18",
+          "url": "https://api.open.fec.gov/v1/candidate/S0AL00230/filings/?form_type=F2",
+          "title": "api.open.fec.gov",
+          "published_at": null,
+          "checked_at": "2026-06-12",
+          "excerpt": "F2 | 2019-04-08 | Statement of Candidacy 2019 (TUBERVILLE, THOMAS H, S0AL00230)",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "gold",
+        "senate",
+        "state:AL"
+      ],
+      "person": {
+        "name": {
+          "value": "汤米·图伯维尔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1954-09-18",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "阿肯色州卡姆登",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1976",
+          "source_ids": [
+            "s17"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：毕业后任阿肯色州赫米蒂奇高中橄榄球队助理教练、主教练",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1976",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "南阿肯色大学体育教育理学学士学位",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2019-04",
+          "source_ids": [
+            "s18"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：首次以共和党身份参选：FEC参选声明（F2）受理2019-04-08；2019-04-06经推特宣布参选；来源：https://api.open.fec.gov/v1/candidate/S0AL00230/filings/?form_type=F2；底稿备注：无更早党籍登记记录；按RULES.md三.1以参选节点转写。国会记录党籍起点2021为任职口径",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2019-04-08",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（阿拉巴马州）",
+          "role": "",
+          "start": {
+            "value": "2021-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院军事委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院军事委员会人事小组委员会",
+          "role": "主席",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院农业、营养与林业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院退伍军人事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工与养老金委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工与养老金委员会教育与美国家庭小组委员会",
+          "role": "主席",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院老龄问题特别委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1972",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：底稿按学制倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1976",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1976",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "南阿肯色大学",
+          "role": null,
+          "program": "体育教育",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1976",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1979",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "阿肯色州赫米蒂奇高中橄榄球队",
+          "role": "助理教练、主教练",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "助理教练",
+            "主教练"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1980",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1984",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "阿肯色州立大学橄榄球队",
+          "role": "助理教练",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "助理教练"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1986",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "迈阿密大学橄榄球队",
+          "role": "助理教练、防守协调员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "助理教练",
+            "防守协调员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "德克萨斯农工大学橄榄球队",
+          "role": "防守协调员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "防守协调员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1998",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "密西西比大学橄榄球队",
+          "role": "主教练",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "主教练"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2008",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "奥本大学橄榄球队",
+          "role": "主教练",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "主教练"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": true,
+            "basis": "推算：讫年以2010年就任德州理工主教练封顶；来源仅载始年",
+            "inference": null
+          },
+          "organization": "ESPN、ESPNU",
+          "role": "演播室分析员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "演播室分析员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010",
+            "source_ids": [
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "德克萨斯理工大学橄榄球队",
+          "role": "主教练",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s13"
+          ],
+          "ongoing": false,
+          "roles": [
+            "主教练"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013",
+            "source_ids": [
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016",
+            "source_ids": [
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "辛辛那提大学橄榄球队",
+          "role": "主教练",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s14"
+          ],
+          "ongoing": false,
+          "roles": [
+            "主教练"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s15"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021-01",
+            "source_ids": [
+              "s15"
+            ],
+            "inferred": true,
+            "basis": "推算：讫点以2021.01就任参议员封顶；来源仅载始年",
+            "inference": null
+          },
+          "organization": "ESPN",
+          "role": "全职解说分析员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s15"
+          ],
+          "ongoing": false,
+          "roles": [
+            "全职解说分析员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2020-11-03",
+                "source_ids": [
+                  "s15"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2020-11",
+                "source_ids": [
+                  "s15"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "当选美国联邦参议员",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s15"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-01",
+            "source_ids": [
+              "s16"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（阿拉巴马州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s16"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（阿拉巴马州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "奥本大学主教练始点",
+          "alternatives": [
+            {
+              "value": "官方国会名录：1999-2008",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "senate.gov官网/Britannica：1998年底获聘",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1999（执教赛季口径，官方名录）",
+          "reason": "底稿（Care 2026-06）记录的取舍，官方来源优先；待本机复核"
+        }
+      ],
+      "unknowns": [
+        "底稿缺项：共和党选民登记类记录（入党字段已以FEC参选节点转写）",
+        "底稿缺项：南阿肯色大学入学年份（发布稿按学士学制4年倒推1972，置信中）",
+        "底稿缺项：各执教任职的起止月份（来源仅给年份）",
+        "底稿缺项：1984-1986经历",
+        "底稿缺项：参议员任期届满精确日期（官方页仅'Class II，2027年届满'）"
+      ],
+      "excluded": [
+        "参加工作月份「1976年6月」：底稿推定（按旧规则推定），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

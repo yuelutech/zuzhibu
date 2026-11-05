@@ -1,0 +1,714 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001061",
+      "line": "cadre",
+      "subject_id": "c001061",
+      "title": "伊曼纽·克莱弗简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/11786",
+          "title": "CLEAVER, Emanuel, II | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Waxahachie, Ellis County, Tex., October 26, 1944;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/C001061",
+          "title": "Office of the Clerk, U.S. House of Representatives — Emanuel Cleaver",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Emanuel Cleaver\nMissouri (MO) – 5th, Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-MO.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Missouri",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "professional: senior pastor, St. James United Methodist Church, 1973-\n    2009;",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/GPO-CDOC-108hdoc224/pdf/GPO-CDOC-108hdoc224-3-7.pdf",
+          "title": "Black Americans in Congress, 1870–2007 — Emanuel Cleaver II",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "earning a bachelor of science degree in sociology from Prairie View A&M University in Prairie View, Texas, in 1972.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://clerk.house.gov/Committees/BA00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on Financial Services",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Emanuel Cleaver, MO",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2003-10-08/pdf/CREC-2003-10-08-pt1-PgE2008-2.pdf",
+          "title": "Congressional Record — Extensions of Remarks, October 8, 2003, E2008",
+          "published_at": "2003-10-08",
+          "checked_at": "2026-10-19",
+          "excerpt": "was a member of the Democratic Platform Committee in 1996",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.encyclopedia.com/people/social-sciences-and-law/social-reformers/emanuel-cleaver-ii",
+          "title": "Emanuel Cleaver II | Encyclopedia.com — Contemporary Black Biography",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "quit his directorship at the YMCA in 1972",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://www.sos.mo.gov/cmsimages/bluebook/2011-2012/3_Fed.pdf",
+          "title": "Missouri Official Manual 2011–2012 — Federal Government",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Elected chair of the Congressional Black Caucus, 2011–2013. Democrat.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:MO"
+      ],
+      "person": {
+        "name": {
+          "value": "伊曼纽·克莱弗",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1944-10-26",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "得克萨斯州沃克萨哈奇",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "圣保罗神学院神学硕士学位",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1996",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：担任美国民主党党纲委员会委员，1996年；来源：https://www.govinfo.gov/content/pkg/CREC-2003-10-08/pdf/CREC-2003-10-08-pt1-PgE2008-2.pdf 。未找到第1级党籍登记或本人宣布加入该党的公开记录。1988年民主党党纲委员会名单为更早的同级检索线索，但原文未能稳定打开读到姓名，未采用。第3级锚点为 CLEAVER FOR CONGRESS 于2004-02-06在FEC登记（https://www.fec.gov/data/committee/C00395848/），因级别较低未采用。1979年市议会及1991年市长选举不作党派选举锚点。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "1996",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": {
+          "value": "非洲裔",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（密苏里州第5选区）",
+          "role": "",
+          "start": {
+            "value": "2005-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院金融服务委员会",
+          "role": "委员",
+          "start": {
+            "value": "2005",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1968",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "本科毕业年为1972年，按美国本科标准学制4年倒推：1972－4＝1968；未查到实际入学年。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1972",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1972",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "草原景农工大学",
+          "role": null,
+          "program": "社会学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1973",
+            "source_ids": [
+              "s4",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2009",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "堪萨斯城圣詹姆斯联合卫理公会教堂",
+          "role": "主任牧师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s5",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "主任牧师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1999",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2004",
+                "source_ids": [
+                  "s4"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "KCUR 电台",
+              "role": "《Under the Clock》节目主持人",
+              "roles": [
+                "《Under the Clock》节目主持人"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s4",
+                "s5"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1979",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1991",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "堪萨斯城市议会",
+          "role": "第5选区议员、代市长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "第5选区议员",
+            "代市长"
+          ],
+          "role_category": null,
+          "role_basis": "mayor pro tempore 译为代市长；该职与市议员任职重叠，不据此增造代理市长任期。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1991-04-10",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "堪萨斯城市政府",
+          "role": "市长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "市长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1996",
+                "source_ids": [
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": false,
+              "organization": "美国民主党党纲委员会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s7"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（密苏里州第5选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（密苏里州第5选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2005",
+                "source_ids": [
+                  "s1",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "众议院金融服务委员会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s2",
+                "s6"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2011",
+                "source_ids": [
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2013",
+                "source_ids": [
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国国会黑人核心小组",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s10"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.bachelor.end",
+          "alternatives": [
+            {
+              "value": "1972，理学学士",
+              "source_ids": [
+                "s1",
+                "s4",
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1968；部分条目写文学学士",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1972，理学学士",
+          "reason": "采用众议院现行官方人物页及国会名录；本科入学年仅据所选1972年毕业年按规则倒推。"
+        },
+        {
+          "field": "careers.congress.annotations.congressional_black_caucus",
+          "alternatives": [
+            {
+              "value": "2011－2013年任主席",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2010－2012年任主席",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2011－2013年任主席",
+          "reason": "采用任期同期的密苏里州官方名录；2022年国会名录记载不同，列入一级来源冲突复核。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过众议院官方人物页、国会名录、国会人物专章、Contemporary Black Biography及基督教青年会公开资料；已知1972年前有基督教青年会负责人经历，但没有找到该职起始日期和首次全职工作的明确依据，work_start留空。",
+        "硕士学习起始时间及学习方式：国会官方来源确认1974年取得M.Div.，没有提供入学日期或全日制、在职属性；不沿用底稿1972年入学，不生成起点无据的硕士学习条目。",
+        "学历学校来源：圣保罗神学院Hall of Honor及校友书目页面未能打开读到正文；搜索出现1976年毕业线索，留待重新打开学校原文核对。",
+        "本科实际入学时间、是否曾转学及此前Murray State College就读起止：国会官方传记未载，二级来源只有就读线索，未生成该校学习条目。",
+        "更早入党锚点：检索未找到党籍登记或本人宣布加入民主党的记录；1988年民主党党纲委员会名单PDF未能稳定打开读到相关原文，1996年锚点须继续向前核查。",
+        "牧师起始日期：教会历史页面搜索出现1972年任命线索，但页面打开失败，未列为来源；已打开国会名录采用1973年，具体月日未知。",
+        "赫尔辛基委员会职务：议员官网搜索出现现任委员线索，但传记、委员会页及委员会个人页打开失败，未写入current_roles。",
+        "市议员、牧师、金融服务委员会委员等条目的具体起止月份：已打开来源只提供年份，未补月份。",
+        "民主党党纲委员会委员具体就任日和卸任日、民主党全国委员会委员任职起止：国会记录未提供，未补造。",
+        "1999－2000年住房和城市发展部长特别城市顾问经历：二级来源有记载，未找到就任或生效日期，暂不生成履历条目。"
+      ],
+      "excluded": [
+        "底稿『1974年参加工作』：牧师经历起点经国会名录核为1973年，且另有更早职业线索，不能作为首次全职工作日期。",
+        "底稿『1972年6月参加工作』：没有首次全职工作及具体月份依据。",
+        "底稿『1974－2009年任圣詹姆斯联合卫理公会教堂牧师』：起点改用已打开国会名录记载的1973年。",
+        "底稿『1972－1974年在圣保罗神学院学习』：仅1974年学位取得有证据，1972年入学缺证。",
+        "底稿『1979年4月加入美国民主党』：没有合格党派锚点，不采用市议会选举推断。",
+        "底稿『现职始于2025年1月』：该日期是本届宣誓时间；同一选区的联邦众议员任职始于2005年1月3日。",
+        "底稿『1999－2004年民主党政治人士』：没有具体单位、职务和任职依据。",
+        "底稿『2025年起任众议院金融服务委员会委员』：官方国会履历及人物专章显示2005年已任该委员会委员。",
+        "底稿『市议员、市长均作为牧师条目下兼职』：正式公职改为独立主线条目。",
+        "查得的荣誉博士学位：不作为最高已取得学位写入首段。",
+        "国会名录『2010－2012年任国会黑人核心小组主席』：与同期州官方名录冲突，选用2011－2013年并保留冲突记录。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（密苏里州第5选区），美国国会众议院；Bioguide C001061",
+      "review_items": [
+        "参加工作时间缺证，当前保留seed级，不满足完整简历卡的五项必备字段要求。",
+        "重新打开1988年民主党党纲委员会名单，确认是否存在更早的第二级入党锚点。",
+        "重新打开圣保罗神学院校友原文，核对1974年与1976年毕业线索。",
+        "一级来源冲突：国会黑人核心小组主席任期暂选2011－2013年，交AI政见确认。",
+        "复核牧师起点1972年任命线索与1973年任职记录的关系。",
+        "核对mayor pro tempore的表内中文译名。"
+      ]
+    }
+  ]
+}

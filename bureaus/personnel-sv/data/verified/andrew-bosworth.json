@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "andrew-bosworth-20261018",
+      "line": "cadre",
+      "subject_id": "andrew-bosworth",
+      "title": "安德鲁·博斯沃思简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://investor.atmeta.com/leadership-and-governance/default.aspx",
+          "title": "Meta — Leadership & Governance",
+          "excerpt": "Andrew Bosworth — or Boz, as most people know him — is the CTO of Meta, leading the Reality Labs team.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://seas.harvard.edu/news/alumni-profile-andrew-bosworth-ab-04",
+          "title": "Alumni profile: Andrew Bosworth, A.B. ’04",
+          "excerpt": "After graduation, Bosworth began working as a programmer at Microsoft",
+          "published_at": "2020-03-25",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "安德鲁·博斯沃思"
+      ],
+      "person": {
+        "name": {
+          "value": "安德鲁·博斯沃思",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1982-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：本科毕业年2004减22得1982；出生月未核实，取7月。",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "2004",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "2004-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2004",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "哈佛大学",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "计算机科学文学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": {
+          "value": "美国陆军预备役中校",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "元宇宙平台公司（Meta）",
+          "role": "首席技术官",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2000-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：毕业年2004减标准学制4年，入学月取9月。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "2004",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2004-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2004",
+              "duration_years": null
+            }
+          },
+          "organization": "哈佛大学",
+          "role": null,
+          "program": "计算机科学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2004-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给首份工作年份，月份按规则取6月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2004",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2006-01",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "微软公司",
+          "role": "软件开发工程师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Facebook 公司",
+          "role": "工程师、工程总监、副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "元宇宙平台公司（Meta）",
+      "conflicts": [],
+      "unknowns": [
+        "国籍未获明确来源。",
+        "现任首席技术官起始年月、内部历次职务交接年月待核；未编造连续任期。",
+        "美国陆军预备役中校任命日期未核实。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

@@ -1,0 +1,3743 @@
+{
+  "id": "congress",
+  "title": "国会",
+  "groups": [
+    {
+      "title": "参议院领导",
+      "style": "row",
+      "members": [
+        {
+          "person": "jd-vance",
+          "post": "参议院议长"
+        },
+        {
+          "person": "chuck-grassley",
+          "post": "参议院临时议长"
+        },
+        {
+          "person": "john-thune",
+          "post": "参议院多数党领袖"
+        },
+        {
+          "person": "charles-e-schumer",
+          "post": "参议院少数党领袖"
+        },
+        {
+          "person": "john-barrasso",
+          "post": "参议院多数党党鞭"
+        },
+        {
+          "person": "richard-j-durbin",
+          "post": "参议院少数党党鞭"
+        }
+      ]
+    },
+    {
+      "title": "参议员",
+      "note": "按州名英文字母排列，同州资深者在前",
+      "style": "grid",
+      "members": [
+        {
+          "person": "tommy-tuberville",
+          "post": "阿拉巴马州",
+          "party": "共和党",
+          "state": "阿拉巴马州"
+        },
+        {
+          "person": "katie-boyd-britt",
+          "post": "阿拉巴马州",
+          "party": "共和党",
+          "state": "阿拉巴马州"
+        },
+        {
+          "person": "lisa-murkowski",
+          "post": "阿拉斯加州",
+          "party": "共和党",
+          "state": "阿拉斯加州"
+        },
+        {
+          "person": "dan-sullivan",
+          "post": "阿拉斯加州",
+          "party": "共和党",
+          "state": "阿拉斯加州"
+        },
+        {
+          "person": "mark-kelly",
+          "post": "亚利桑那州",
+          "party": "民主党",
+          "state": "亚利桑那州"
+        },
+        {
+          "person": "ruben-gallego",
+          "post": "亚利桑那州",
+          "party": "民主党",
+          "state": "亚利桑那州"
+        },
+        {
+          "person": "john-boozman",
+          "post": "阿肯色州",
+          "party": "共和党",
+          "state": "阿肯色州"
+        },
+        {
+          "person": "tom-cotton",
+          "post": "阿肯色州",
+          "party": "共和党",
+          "state": "阿肯色州"
+        },
+        {
+          "person": "alex-padilla",
+          "post": "加利福尼亚州",
+          "party": "民主党",
+          "state": "加利福尼亚州"
+        },
+        {
+          "person": "adam-b-schiff",
+          "post": "加利福尼亚州",
+          "party": "民主党",
+          "state": "加利福尼亚州"
+        },
+        {
+          "person": "michael-f-bennet",
+          "post": "科罗拉多州",
+          "party": "民主党",
+          "state": "科罗拉多州"
+        },
+        {
+          "person": "john-w-hickenlooper",
+          "post": "科罗拉多州",
+          "party": "民主党",
+          "state": "科罗拉多州"
+        },
+        {
+          "person": "richard-blumenthal",
+          "post": "康涅狄格州",
+          "party": "民主党",
+          "state": "康涅狄格州"
+        },
+        {
+          "person": "christopher-murphy",
+          "post": "康涅狄格州",
+          "party": "民主党",
+          "state": "康涅狄格州"
+        },
+        {
+          "person": "christopher-a-coons",
+          "post": "特拉华州",
+          "party": "民主党",
+          "state": "特拉华州"
+        },
+        {
+          "person": "lisa-blunt-rochester",
+          "post": "特拉华州",
+          "party": "民主党",
+          "state": "特拉华州"
+        },
+        {
+          "person": "rick-scott",
+          "post": "佛罗里达州",
+          "party": "共和党",
+          "state": "佛罗里达州"
+        },
+        {
+          "person": "ashley-moody",
+          "post": "佛罗里达州",
+          "party": "共和党",
+          "state": "佛罗里达州"
+        },
+        {
+          "person": "jon-ossoff",
+          "post": "佐治亚州",
+          "party": "民主党",
+          "state": "佐治亚州"
+        },
+        {
+          "person": "raphael-g-warnock",
+          "post": "佐治亚州",
+          "party": "民主党",
+          "state": "佐治亚州"
+        },
+        {
+          "person": "brian-schatz",
+          "post": "夏威夷州",
+          "party": "民主党",
+          "state": "夏威夷州"
+        },
+        {
+          "person": "mazie-k-hirono",
+          "post": "夏威夷州",
+          "party": "民主党",
+          "state": "夏威夷州"
+        },
+        {
+          "person": "mike-crapo",
+          "post": "爱达荷州",
+          "party": "共和党",
+          "state": "爱达荷州"
+        },
+        {
+          "person": "james-e-risch",
+          "post": "爱达荷州",
+          "party": "共和党",
+          "state": "爱达荷州"
+        },
+        {
+          "person": "richard-j-durbin",
+          "post": "伊利诺伊州",
+          "party": "民主党",
+          "state": "伊利诺伊州"
+        },
+        {
+          "person": "tammy-duckworth",
+          "post": "伊利诺伊州",
+          "party": "民主党",
+          "state": "伊利诺伊州"
+        },
+        {
+          "person": "todd-young",
+          "post": "印第安纳州",
+          "party": "共和党",
+          "state": "印第安纳州"
+        },
+        {
+          "person": "jim-banks",
+          "post": "印第安纳州",
+          "party": "共和党",
+          "state": "印第安纳州"
+        },
+        {
+          "person": "chuck-grassley",
+          "post": "爱荷华州",
+          "party": "共和党",
+          "state": "爱荷华州"
+        },
+        {
+          "person": "joni-ernst",
+          "post": "爱荷华州",
+          "party": "共和党",
+          "state": "爱荷华州"
+        },
+        {
+          "person": "roger-marshall",
+          "post": "堪萨斯州",
+          "party": "共和党",
+          "state": "堪萨斯州"
+        },
+        {
+          "person": "jerry-moran",
+          "post": "堪萨斯州",
+          "party": "共和党",
+          "state": "堪萨斯州"
+        },
+        {
+          "person": "mitch-mcconnell",
+          "post": "肯塔基州",
+          "party": "共和党",
+          "state": "肯塔基州"
+        },
+        {
+          "person": "rand-paul",
+          "post": "肯塔基州",
+          "party": "共和党",
+          "state": "肯塔基州"
+        },
+        {
+          "person": "bill-cassidy",
+          "post": "路易斯安那州",
+          "party": "共和党",
+          "state": "路易斯安那州"
+        },
+        {
+          "person": "john-kennedy",
+          "post": "路易斯安那州",
+          "party": "共和党",
+          "state": "路易斯安那州"
+        },
+        {
+          "person": "susan-m-collins",
+          "post": "缅因州",
+          "party": "共和党",
+          "state": "缅因州"
+        },
+        {
+          "person": "angus-s-king-jr",
+          "post": "缅因州",
+          "party": "无党派",
+          "state": "缅因州"
+        },
+        {
+          "person": "chris-van-hollen",
+          "post": "马里兰州",
+          "party": "民主党",
+          "state": "马里兰州"
+        },
+        {
+          "person": "angela-d-alsobrooks",
+          "post": "马里兰州",
+          "party": "民主党",
+          "state": "马里兰州"
+        },
+        {
+          "person": "elizabeth-warren",
+          "post": "马萨诸塞州",
+          "party": "民主党",
+          "state": "马萨诸塞州"
+        },
+        {
+          "person": "edward-j-markey",
+          "post": "马萨诸塞州",
+          "party": "民主党",
+          "state": "马萨诸塞州"
+        },
+        {
+          "person": "gary-c-peters",
+          "post": "密歇根州",
+          "party": "民主党",
+          "state": "密歇根州"
+        },
+        {
+          "person": "elissa-slotkin",
+          "post": "密歇根州",
+          "party": "民主党",
+          "state": "密歇根州"
+        },
+        {
+          "person": "amy-klobuchar",
+          "post": "明尼苏达州",
+          "party": "民主党",
+          "state": "明尼苏达州"
+        },
+        {
+          "person": "tina-smith",
+          "post": "明尼苏达州",
+          "party": "民主党",
+          "state": "明尼苏达州"
+        },
+        {
+          "person": "cindy-hyde-smith",
+          "post": "密西西比州",
+          "party": "共和党",
+          "state": "密西西比州"
+        },
+        {
+          "person": "roger-f-wicker",
+          "post": "密西西比州",
+          "party": "共和党",
+          "state": "密西西比州"
+        },
+        {
+          "person": "josh-hawley",
+          "post": "密苏里州",
+          "party": "共和党",
+          "state": "密苏里州"
+        },
+        {
+          "person": "eric-schmitt",
+          "post": "密苏里州",
+          "party": "共和党",
+          "state": "密苏里州"
+        },
+        {
+          "person": "steve-daines",
+          "post": "蒙大拿州",
+          "party": "共和党",
+          "state": "蒙大拿州"
+        },
+        {
+          "person": "tim-sheehy",
+          "post": "蒙大拿州",
+          "party": "共和党",
+          "state": "蒙大拿州"
+        },
+        {
+          "person": "pete-ricketts",
+          "post": "内布拉斯加州",
+          "party": "共和党",
+          "state": "内布拉斯加州"
+        },
+        {
+          "person": "deb-fischer",
+          "post": "内布拉斯加州",
+          "party": "共和党",
+          "state": "内布拉斯加州"
+        },
+        {
+          "person": "catherine-cortez-masto",
+          "post": "内华达州",
+          "party": "民主党",
+          "state": "内华达州"
+        },
+        {
+          "person": "jacky-rosen",
+          "post": "内华达州",
+          "party": "民主党",
+          "state": "内华达州"
+        },
+        {
+          "person": "jeanne-shaheen",
+          "post": "新罕布什尔州",
+          "party": "民主党",
+          "state": "新罕布什尔州"
+        },
+        {
+          "person": "margaret-wood-hassan",
+          "post": "新罕布什尔州",
+          "party": "民主党",
+          "state": "新罕布什尔州"
+        },
+        {
+          "person": "cory-a-booker",
+          "post": "新泽西州",
+          "party": "民主党",
+          "state": "新泽西州"
+        },
+        {
+          "person": "andy-kim",
+          "post": "新泽西州",
+          "party": "民主党",
+          "state": "新泽西州"
+        },
+        {
+          "person": "ben-ray-lujan",
+          "post": "新墨西哥州",
+          "party": "民主党",
+          "state": "新墨西哥州"
+        },
+        {
+          "person": "martin-heinrich",
+          "post": "新墨西哥州",
+          "party": "民主党",
+          "state": "新墨西哥州"
+        },
+        {
+          "person": "charles-e-schumer",
+          "post": "纽约州",
+          "party": "民主党",
+          "state": "纽约州"
+        },
+        {
+          "person": "kirsten-e-gillibrand",
+          "post": "纽约州",
+          "party": "民主党",
+          "state": "纽约州"
+        },
+        {
+          "person": "thom-tillis",
+          "post": "北卡罗来纳州",
+          "party": "共和党",
+          "state": "北卡罗来纳州"
+        },
+        {
+          "person": "ted-budd",
+          "post": "北卡罗来纳州",
+          "party": "共和党",
+          "state": "北卡罗来纳州"
+        },
+        {
+          "person": "john-hoeven",
+          "post": "北达科他州",
+          "party": "共和党",
+          "state": "北达科他州"
+        },
+        {
+          "person": "kevin-cramer",
+          "post": "北达科他州",
+          "party": "共和党",
+          "state": "北达科他州"
+        },
+        {
+          "person": "bernie-moreno",
+          "post": "俄亥俄州",
+          "party": "共和党",
+          "state": "俄亥俄州"
+        },
+        {
+          "person": "jon-husted",
+          "post": "俄亥俄州",
+          "party": "共和党",
+          "state": "俄亥俄州"
+        },
+        {
+          "person": "james-lankford",
+          "post": "俄克拉何马州",
+          "party": "共和党",
+          "state": "俄克拉何马州"
+        },
+        {
+          "person": "alan-armstrong",
+          "post": "俄克拉何马州",
+          "party": "共和党",
+          "state": "俄克拉何马州"
+        },
+        {
+          "person": "jeff-merkley",
+          "post": "俄勒冈州",
+          "party": "民主党",
+          "state": "俄勒冈州"
+        },
+        {
+          "person": "ron-wyden",
+          "post": "俄勒冈州",
+          "party": "民主党",
+          "state": "俄勒冈州"
+        },
+        {
+          "person": "john-fetterman",
+          "post": "宾夕法尼亚州",
+          "party": "民主党",
+          "state": "宾夕法尼亚州"
+        },
+        {
+          "person": "david-mccormick",
+          "post": "宾夕法尼亚州",
+          "party": "共和党",
+          "state": "宾夕法尼亚州"
+        },
+        {
+          "person": "jack-reed",
+          "post": "罗得岛州",
+          "party": "民主党",
+          "state": "罗得岛州"
+        },
+        {
+          "person": "sheldon-whitehouse",
+          "post": "罗得岛州",
+          "party": "民主党",
+          "state": "罗得岛州"
+        },
+        {
+          "person": "tim-scott",
+          "post": "南卡罗来纳州",
+          "party": "共和党",
+          "state": "南卡罗来纳州"
+        },
+        {
+          "person": "darline-graham",
+          "post": "南卡罗来纳州",
+          "party": "共和党",
+          "state": "南卡罗来纳州"
+        },
+        {
+          "person": "john-thune",
+          "post": "南达科他州",
+          "party": "共和党",
+          "state": "南达科他州"
+        },
+        {
+          "person": "mike-rounds",
+          "post": "南达科他州",
+          "party": "共和党",
+          "state": "南达科他州"
+        },
+        {
+          "person": "bill-hagerty",
+          "post": "田纳西州",
+          "party": "共和党",
+          "state": "田纳西州"
+        },
+        {
+          "person": "marsha-blackburn",
+          "post": "田纳西州",
+          "party": "共和党",
+          "state": "田纳西州"
+        },
+        {
+          "person": "john-cornyn",
+          "post": "得克萨斯州",
+          "party": "共和党",
+          "state": "得克萨斯州"
+        },
+        {
+          "person": "ted-cruz",
+          "post": "得克萨斯州",
+          "party": "共和党",
+          "state": "得克萨斯州"
+        },
+        {
+          "person": "mike-lee",
+          "post": "犹他州",
+          "party": "共和党",
+          "state": "犹他州"
+        },
+        {
+          "person": "john-r-curtis",
+          "post": "犹他州",
+          "party": "共和党",
+          "state": "犹他州"
+        },
+        {
+          "person": "bernard-sanders",
+          "post": "佛蒙特州",
+          "party": "无党派",
+          "state": "佛蒙特州"
+        },
+        {
+          "person": "peter-welch",
+          "post": "佛蒙特州",
+          "party": "民主党",
+          "state": "佛蒙特州"
+        },
+        {
+          "person": "mark-r-warner",
+          "post": "弗吉尼亚州",
+          "party": "民主党",
+          "state": "弗吉尼亚州"
+        },
+        {
+          "person": "tim-kaine",
+          "post": "弗吉尼亚州",
+          "party": "民主党",
+          "state": "弗吉尼亚州"
+        },
+        {
+          "person": "patty-murray",
+          "post": "华盛顿州",
+          "party": "民主党",
+          "state": "华盛顿州"
+        },
+        {
+          "person": "maria-cantwell",
+          "post": "华盛顿州",
+          "party": "民主党",
+          "state": "华盛顿州"
+        },
+        {
+          "person": "shelley-moore-capito",
+          "post": "西弗吉尼亚州",
+          "party": "共和党",
+          "state": "西弗吉尼亚州"
+        },
+        {
+          "person": "james-c-justice",
+          "post": "西弗吉尼亚州",
+          "party": "共和党",
+          "state": "西弗吉尼亚州"
+        },
+        {
+          "person": "ron-johnson",
+          "post": "威斯康星州",
+          "party": "共和党",
+          "state": "威斯康星州"
+        },
+        {
+          "person": "tammy-baldwin",
+          "post": "威斯康星州",
+          "party": "民主党",
+          "state": "威斯康星州"
+        },
+        {
+          "person": "cynthia-m-lummis",
+          "post": "怀俄明州",
+          "party": "共和党",
+          "state": "怀俄明州"
+        },
+        {
+          "person": "john-barrasso",
+          "post": "怀俄明州",
+          "party": "共和党",
+          "state": "怀俄明州"
+        }
+      ]
+    },
+    {
+      "title": "众议院领导",
+      "style": "row",
+      "members": [
+        {
+          "person": "mike-johnson",
+          "post": "众议院议长"
+        },
+        {
+          "person": "steve-scalise",
+          "post": "众议院多数党领袖"
+        },
+        {
+          "person": "hakeem-s-jeffries",
+          "post": "众议院少数党领袖"
+        },
+        {
+          "person": "tom-emmer",
+          "post": "众议院多数党党鞭"
+        },
+        {
+          "person": "katherine-m-clark",
+          "post": "众议院少数党党鞭"
+        }
+      ]
+    },
+    {
+      "title": "众议员",
+      "note": "按州名英文字母和选区排列，无表决权代表列在最后",
+      "style": "grid",
+      "members": [
+        {
+          "person": "barry-moore",
+          "post": "阿拉巴马州第1选区",
+          "party": "共和党",
+          "state": "阿拉巴马州",
+          "district": 1
+        },
+        {
+          "person": "shomari-figures",
+          "post": "阿拉巴马州第2选区",
+          "party": "民主党",
+          "state": "阿拉巴马州",
+          "district": 2
+        },
+        {
+          "person": "mike-rogers",
+          "post": "阿拉巴马州第3选区",
+          "party": "共和党",
+          "state": "阿拉巴马州",
+          "district": 3
+        },
+        {
+          "person": "robert-b-aderholt",
+          "post": "阿拉巴马州第4选区",
+          "party": "共和党",
+          "state": "阿拉巴马州",
+          "district": 4
+        },
+        {
+          "person": "dale-w-strong",
+          "post": "阿拉巴马州第5选区",
+          "party": "共和党",
+          "state": "阿拉巴马州",
+          "district": 5
+        },
+        {
+          "person": "gary-j-palmer",
+          "post": "阿拉巴马州第6选区",
+          "party": "共和党",
+          "state": "阿拉巴马州",
+          "district": 6
+        },
+        {
+          "person": "terri-a-sewell",
+          "post": "阿拉巴马州第7选区",
+          "party": "民主党",
+          "state": "阿拉巴马州",
+          "district": 7
+        },
+        {
+          "person": "nicholas-j-begich-iii",
+          "post": "阿拉斯加州",
+          "party": "共和党",
+          "state": "阿拉斯加州",
+          "district": 0
+        },
+        {
+          "person": "david-schweikert",
+          "post": "亚利桑那州第1选区",
+          "party": "共和党",
+          "state": "亚利桑那州",
+          "district": 1
+        },
+        {
+          "person": "elijah-crane",
+          "post": "亚利桑那州第2选区",
+          "party": "共和党",
+          "state": "亚利桑那州",
+          "district": 2
+        },
+        {
+          "person": "yassamin-ansari",
+          "post": "亚利桑那州第3选区",
+          "party": "民主党",
+          "state": "亚利桑那州",
+          "district": 3
+        },
+        {
+          "person": "greg-stanton",
+          "post": "亚利桑那州第4选区",
+          "party": "民主党",
+          "state": "亚利桑那州",
+          "district": 4
+        },
+        {
+          "person": "andy-biggs",
+          "post": "亚利桑那州第5选区",
+          "party": "共和党",
+          "state": "亚利桑那州",
+          "district": 5
+        },
+        {
+          "person": "juan-ciscomani",
+          "post": "亚利桑那州第6选区",
+          "party": "共和党",
+          "state": "亚利桑那州",
+          "district": 6
+        },
+        {
+          "person": "adelita-s-grijalva",
+          "post": "亚利桑那州第7选区",
+          "party": "民主党",
+          "state": "亚利桑那州",
+          "district": 7
+        },
+        {
+          "person": "abraham-j-hamadeh",
+          "post": "亚利桑那州第8选区",
+          "party": "共和党",
+          "state": "亚利桑那州",
+          "district": 8
+        },
+        {
+          "person": "paul-a-gosar",
+          "post": "亚利桑那州第9选区",
+          "party": "共和党",
+          "state": "亚利桑那州",
+          "district": 9
+        },
+        {
+          "person": "eric-a-rick-crawford",
+          "post": "阿肯色州第1选区",
+          "party": "共和党",
+          "state": "阿肯色州",
+          "district": 1
+        },
+        {
+          "person": "j-french-hill",
+          "post": "阿肯色州第2选区",
+          "party": "共和党",
+          "state": "阿肯色州",
+          "district": 2
+        },
+        {
+          "person": "steve-womack",
+          "post": "阿肯色州第3选区",
+          "party": "共和党",
+          "state": "阿肯色州",
+          "district": 3
+        },
+        {
+          "person": "bruce-westerman",
+          "post": "阿肯色州第4选区",
+          "party": "共和党",
+          "state": "阿肯色州",
+          "district": 4
+        },
+        {
+          "person": "james-gallagher",
+          "post": "加利福尼亚州第1选区",
+          "party": "共和党",
+          "state": "加利福尼亚州",
+          "district": 1
+        },
+        {
+          "person": "jared-huffman",
+          "post": "加利福尼亚州第2选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 2
+        },
+        {
+          "person": "kevin-kiley",
+          "post": "加利福尼亚州第3选区",
+          "party": "无党派",
+          "state": "加利福尼亚州",
+          "district": 3
+        },
+        {
+          "person": "mike-thompson",
+          "post": "加利福尼亚州第4选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 4
+        },
+        {
+          "person": "tom-mcclintock",
+          "post": "加利福尼亚州第5选区",
+          "party": "共和党",
+          "state": "加利福尼亚州",
+          "district": 5
+        },
+        {
+          "person": "ami-bera",
+          "post": "加利福尼亚州第6选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 6
+        },
+        {
+          "person": "doris-o-matsui",
+          "post": "加利福尼亚州第7选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 7
+        },
+        {
+          "person": "john-garamendi",
+          "post": "加利福尼亚州第8选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 8
+        },
+        {
+          "person": "josh-harder",
+          "post": "加利福尼亚州第9选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 9
+        },
+        {
+          "person": "mark-desaulnier",
+          "post": "加利福尼亚州第10选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 10
+        },
+        {
+          "person": "nancy-pelosi",
+          "post": "加利福尼亚州第11选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 11
+        },
+        {
+          "person": "lateefah-simon",
+          "post": "加利福尼亚州第12选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 12
+        },
+        {
+          "person": "adam-gray",
+          "post": "加利福尼亚州第13选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 13
+        },
+        {
+          "person": "aisha-wahab",
+          "post": "加利福尼亚州第14选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 14
+        },
+        {
+          "person": "kevin-mullin",
+          "post": "加利福尼亚州第15选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 15
+        },
+        {
+          "person": "sam-t-liccardo",
+          "post": "加利福尼亚州第16选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 16
+        },
+        {
+          "person": "ro-khanna",
+          "post": "加利福尼亚州第17选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 17
+        },
+        {
+          "person": "zoe-lofgren",
+          "post": "加利福尼亚州第18选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 18
+        },
+        {
+          "person": "jimmy-panetta",
+          "post": "加利福尼亚州第19选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 19
+        },
+        {
+          "person": "vince-fong",
+          "post": "加利福尼亚州第20选区",
+          "party": "共和党",
+          "state": "加利福尼亚州",
+          "district": 20
+        },
+        {
+          "person": "jim-costa",
+          "post": "加利福尼亚州第21选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 21
+        },
+        {
+          "person": "david-g-valadao",
+          "post": "加利福尼亚州第22选区",
+          "party": "共和党",
+          "state": "加利福尼亚州",
+          "district": 22
+        },
+        {
+          "person": "jay-obernolte",
+          "post": "加利福尼亚州第23选区",
+          "party": "共和党",
+          "state": "加利福尼亚州",
+          "district": 23
+        },
+        {
+          "person": "salud-o-carbajal",
+          "post": "加利福尼亚州第24选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 24
+        },
+        {
+          "person": "raul-ruiz",
+          "post": "加利福尼亚州第25选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 25
+        },
+        {
+          "person": "julia-brownley",
+          "post": "加利福尼亚州第26选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 26
+        },
+        {
+          "person": "george-whitesides",
+          "post": "加利福尼亚州第27选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 27
+        },
+        {
+          "person": "judy-chu",
+          "post": "加利福尼亚州第28选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 28
+        },
+        {
+          "person": "luz-m-rivas",
+          "post": "加利福尼亚州第29选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 29
+        },
+        {
+          "person": "laura-friedman",
+          "post": "加利福尼亚州第30选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 30
+        },
+        {
+          "person": "gilbert-ray-cisneros-jr",
+          "post": "加利福尼亚州第31选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 31
+        },
+        {
+          "person": "brad-sherman",
+          "post": "加利福尼亚州第32选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 32
+        },
+        {
+          "person": "pete-aguilar",
+          "post": "加利福尼亚州第33选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 33
+        },
+        {
+          "person": "jimmy-gomez",
+          "post": "加利福尼亚州第34选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 34
+        },
+        {
+          "person": "norma-j-torres",
+          "post": "加利福尼亚州第35选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 35
+        },
+        {
+          "person": "ted-lieu",
+          "post": "加利福尼亚州第36选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 36
+        },
+        {
+          "person": "sydney-kamlager-dove",
+          "post": "加利福尼亚州第37选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 37
+        },
+        {
+          "person": "linda-t-sanchez",
+          "post": "加利福尼亚州第38选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 38
+        },
+        {
+          "person": "mark-takano",
+          "post": "加利福尼亚州第39选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 39
+        },
+        {
+          "person": "young-kim",
+          "post": "加利福尼亚州第40选区",
+          "party": "共和党",
+          "state": "加利福尼亚州",
+          "district": 40
+        },
+        {
+          "person": "ken-calvert",
+          "post": "加利福尼亚州第41选区",
+          "party": "共和党",
+          "state": "加利福尼亚州",
+          "district": 41
+        },
+        {
+          "person": "robert-garcia",
+          "post": "加利福尼亚州第42选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 42
+        },
+        {
+          "person": "maxine-waters",
+          "post": "加利福尼亚州第43选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 43
+        },
+        {
+          "person": "nanette-diaz-barragan",
+          "post": "加利福尼亚州第44选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 44
+        },
+        {
+          "person": "derek-tran",
+          "post": "加利福尼亚州第45选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 45
+        },
+        {
+          "person": "j-luis-correa",
+          "post": "加利福尼亚州第46选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 46
+        },
+        {
+          "person": "dave-min",
+          "post": "加利福尼亚州第47选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 47
+        },
+        {
+          "person": "darrell-issa",
+          "post": "加利福尼亚州第48选区",
+          "party": "共和党",
+          "state": "加利福尼亚州",
+          "district": 48
+        },
+        {
+          "person": "mike-levin",
+          "post": "加利福尼亚州第49选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 49
+        },
+        {
+          "person": "scott-h-peters",
+          "post": "加利福尼亚州第50选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 50
+        },
+        {
+          "person": "sara-jacobs",
+          "post": "加利福尼亚州第51选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 51
+        },
+        {
+          "person": "juan-vargas",
+          "post": "加利福尼亚州第52选区",
+          "party": "民主党",
+          "state": "加利福尼亚州",
+          "district": 52
+        },
+        {
+          "person": "diana-degette",
+          "post": "科罗拉多州第1选区",
+          "party": "民主党",
+          "state": "科罗拉多州",
+          "district": 1
+        },
+        {
+          "person": "joe-neguse",
+          "post": "科罗拉多州第2选区",
+          "party": "民主党",
+          "state": "科罗拉多州",
+          "district": 2
+        },
+        {
+          "person": "jeff-hurd",
+          "post": "科罗拉多州第3选区",
+          "party": "共和党",
+          "state": "科罗拉多州",
+          "district": 3
+        },
+        {
+          "person": "lauren-boebert",
+          "post": "科罗拉多州第4选区",
+          "party": "共和党",
+          "state": "科罗拉多州",
+          "district": 4
+        },
+        {
+          "person": "jeff-crank",
+          "post": "科罗拉多州第5选区",
+          "party": "共和党",
+          "state": "科罗拉多州",
+          "district": 5
+        },
+        {
+          "person": "jason-crow",
+          "post": "科罗拉多州第6选区",
+          "party": "民主党",
+          "state": "科罗拉多州",
+          "district": 6
+        },
+        {
+          "person": "brittany-pettersen",
+          "post": "科罗拉多州第7选区",
+          "party": "民主党",
+          "state": "科罗拉多州",
+          "district": 7
+        },
+        {
+          "person": "gabe-evans",
+          "post": "科罗拉多州第8选区",
+          "party": "共和党",
+          "state": "科罗拉多州",
+          "district": 8
+        },
+        {
+          "person": "john-b-larson",
+          "post": "康涅狄格州第1选区",
+          "party": "民主党",
+          "state": "康涅狄格州",
+          "district": 1
+        },
+        {
+          "person": "joe-courtney",
+          "post": "康涅狄格州第2选区",
+          "party": "民主党",
+          "state": "康涅狄格州",
+          "district": 2
+        },
+        {
+          "person": "rosa-l-delauro",
+          "post": "康涅狄格州第3选区",
+          "party": "民主党",
+          "state": "康涅狄格州",
+          "district": 3
+        },
+        {
+          "person": "james-a-himes",
+          "post": "康涅狄格州第4选区",
+          "party": "民主党",
+          "state": "康涅狄格州",
+          "district": 4
+        },
+        {
+          "person": "jahana-hayes",
+          "post": "康涅狄格州第5选区",
+          "party": "民主党",
+          "state": "康涅狄格州",
+          "district": 5
+        },
+        {
+          "person": "sarah-mcbride",
+          "post": "特拉华州",
+          "party": "民主党",
+          "state": "特拉华州",
+          "district": 0
+        },
+        {
+          "person": "jimmy-patronis",
+          "post": "佛罗里达州第1选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 1
+        },
+        {
+          "person": "neal-p-dunn",
+          "post": "佛罗里达州第2选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 2
+        },
+        {
+          "person": "kat-cammack",
+          "post": "佛罗里达州第3选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 3
+        },
+        {
+          "person": "aaron-bean",
+          "post": "佛罗里达州第4选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 4
+        },
+        {
+          "person": "john-h-rutherford",
+          "post": "佛罗里达州第5选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 5
+        },
+        {
+          "person": "randy-fine",
+          "post": "佛罗里达州第6选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 6
+        },
+        {
+          "person": "cory-mills",
+          "post": "佛罗里达州第7选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 7
+        },
+        {
+          "person": "mike-haridopolos",
+          "post": "佛罗里达州第8选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 8
+        },
+        {
+          "person": "darren-soto",
+          "post": "佛罗里达州第9选区",
+          "party": "民主党",
+          "state": "佛罗里达州",
+          "district": 9
+        },
+        {
+          "person": "maxwell-frost",
+          "post": "佛罗里达州第10选区",
+          "party": "民主党",
+          "state": "佛罗里达州",
+          "district": 10
+        },
+        {
+          "person": "daniel-webster",
+          "post": "佛罗里达州第11选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 11
+        },
+        {
+          "person": "gus-m-bilirakis",
+          "post": "佛罗里达州第12选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 12
+        },
+        {
+          "person": "anna-paulina-luna",
+          "post": "佛罗里达州第13选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 13
+        },
+        {
+          "person": "kathy-castor",
+          "post": "佛罗里达州第14选区",
+          "party": "民主党",
+          "state": "佛罗里达州",
+          "district": 14
+        },
+        {
+          "person": "laurel-m-lee",
+          "post": "佛罗里达州第15选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 15
+        },
+        {
+          "person": "vern-buchanan",
+          "post": "佛罗里达州第16选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 16
+        },
+        {
+          "person": "w-gregory-steube",
+          "post": "佛罗里达州第17选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 17
+        },
+        {
+          "person": "scott-franklin",
+          "post": "佛罗里达州第18选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 18
+        },
+        {
+          "person": "byron-donalds",
+          "post": "佛罗里达州第19选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 19
+        },
+        {
+          "person": "brian-j-mast",
+          "post": "佛罗里达州第21选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 21
+        },
+        {
+          "person": "lois-frankel",
+          "post": "佛罗里达州第22选区",
+          "party": "民主党",
+          "state": "佛罗里达州",
+          "district": 22
+        },
+        {
+          "person": "jared-moskowitz",
+          "post": "佛罗里达州第23选区",
+          "party": "民主党",
+          "state": "佛罗里达州",
+          "district": 23
+        },
+        {
+          "person": "frederica-s-wilson",
+          "post": "佛罗里达州第24选区",
+          "party": "民主党",
+          "state": "佛罗里达州",
+          "district": 24
+        },
+        {
+          "person": "debbie-wasserman-schultz",
+          "post": "佛罗里达州第25选区",
+          "party": "民主党",
+          "state": "佛罗里达州",
+          "district": 25
+        },
+        {
+          "person": "mario-diaz-balart",
+          "post": "佛罗里达州第26选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 26
+        },
+        {
+          "person": "maria-elvira-salazar",
+          "post": "佛罗里达州第27选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 27
+        },
+        {
+          "person": "carlos-a-gimenez",
+          "post": "佛罗里达州第28选区",
+          "party": "共和党",
+          "state": "佛罗里达州",
+          "district": 28
+        },
+        {
+          "person": "earl-l-buddy-carter",
+          "post": "佐治亚州第1选区",
+          "party": "共和党",
+          "state": "佐治亚州",
+          "district": 1
+        },
+        {
+          "person": "sanford-d-bishop-jr",
+          "post": "佐治亚州第2选区",
+          "party": "民主党",
+          "state": "佐治亚州",
+          "district": 2
+        },
+        {
+          "person": "brian-jack",
+          "post": "佐治亚州第3选区",
+          "party": "共和党",
+          "state": "佐治亚州",
+          "district": 3
+        },
+        {
+          "person": "henry-c-hank-johnson-jr",
+          "post": "佐治亚州第4选区",
+          "party": "民主党",
+          "state": "佐治亚州",
+          "district": 4
+        },
+        {
+          "person": "nikema-williams",
+          "post": "佐治亚州第5选区",
+          "party": "民主党",
+          "state": "佐治亚州",
+          "district": 5
+        },
+        {
+          "person": "lucy-mcbath",
+          "post": "佐治亚州第6选区",
+          "party": "民主党",
+          "state": "佐治亚州",
+          "district": 6
+        },
+        {
+          "person": "richard-mccormick",
+          "post": "佐治亚州第7选区",
+          "party": "共和党",
+          "state": "佐治亚州",
+          "district": 7
+        },
+        {
+          "person": "austin-scott",
+          "post": "佐治亚州第8选区",
+          "party": "共和党",
+          "state": "佐治亚州",
+          "district": 8
+        },
+        {
+          "person": "andrew-s-clyde",
+          "post": "佐治亚州第9选区",
+          "party": "共和党",
+          "state": "佐治亚州",
+          "district": 9
+        },
+        {
+          "person": "mike-collins",
+          "post": "佐治亚州第10选区",
+          "party": "共和党",
+          "state": "佐治亚州",
+          "district": 10
+        },
+        {
+          "person": "barry-loudermilk",
+          "post": "佐治亚州第11选区",
+          "party": "共和党",
+          "state": "佐治亚州",
+          "district": 11
+        },
+        {
+          "person": "rick-w-allen",
+          "post": "佐治亚州第12选区",
+          "party": "共和党",
+          "state": "佐治亚州",
+          "district": 12
+        },
+        {
+          "person": "everton-blair-jr",
+          "post": "佐治亚州第13选区",
+          "party": "民主党",
+          "state": "佐治亚州",
+          "district": 13
+        },
+        {
+          "person": "clay-fuller",
+          "post": "佐治亚州第14选区",
+          "party": "共和党",
+          "state": "佐治亚州",
+          "district": 14
+        },
+        {
+          "person": "ed-case",
+          "post": "夏威夷州第1选区",
+          "party": "民主党",
+          "state": "夏威夷州",
+          "district": 1
+        },
+        {
+          "person": "jill-n-tokuda",
+          "post": "夏威夷州第2选区",
+          "party": "民主党",
+          "state": "夏威夷州",
+          "district": 2
+        },
+        {
+          "person": "russ-fulcher",
+          "post": "爱达荷州第1选区",
+          "party": "共和党",
+          "state": "爱达荷州",
+          "district": 1
+        },
+        {
+          "person": "michael-k-simpson",
+          "post": "爱达荷州第2选区",
+          "party": "共和党",
+          "state": "爱达荷州",
+          "district": 2
+        },
+        {
+          "person": "jonathan-l-jackson",
+          "post": "伊利诺伊州第1选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 1
+        },
+        {
+          "person": "robin-l-kelly",
+          "post": "伊利诺伊州第2选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 2
+        },
+        {
+          "person": "delia-c-ramirez",
+          "post": "伊利诺伊州第3选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 3
+        },
+        {
+          "person": "jesus-g-chuy-garcia",
+          "post": "伊利诺伊州第4选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 4
+        },
+        {
+          "person": "mike-quigley",
+          "post": "伊利诺伊州第5选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 5
+        },
+        {
+          "person": "sean-casten",
+          "post": "伊利诺伊州第6选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 6
+        },
+        {
+          "person": "danny-k-davis",
+          "post": "伊利诺伊州第7选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 7
+        },
+        {
+          "person": "raja-krishnamoorthi",
+          "post": "伊利诺伊州第8选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 8
+        },
+        {
+          "person": "janice-d-schakowsky",
+          "post": "伊利诺伊州第9选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 9
+        },
+        {
+          "person": "bradley-scott-schneider",
+          "post": "伊利诺伊州第10选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 10
+        },
+        {
+          "person": "bill-foster",
+          "post": "伊利诺伊州第11选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 11
+        },
+        {
+          "person": "mike-bost",
+          "post": "伊利诺伊州第12选区",
+          "party": "共和党",
+          "state": "伊利诺伊州",
+          "district": 12
+        },
+        {
+          "person": "nikki-budzinski",
+          "post": "伊利诺伊州第13选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 13
+        },
+        {
+          "person": "lauren-underwood",
+          "post": "伊利诺伊州第14选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 14
+        },
+        {
+          "person": "mary-e-miller",
+          "post": "伊利诺伊州第15选区",
+          "party": "共和党",
+          "state": "伊利诺伊州",
+          "district": 15
+        },
+        {
+          "person": "darin-lahood",
+          "post": "伊利诺伊州第16选区",
+          "party": "共和党",
+          "state": "伊利诺伊州",
+          "district": 16
+        },
+        {
+          "person": "eric-sorensen",
+          "post": "伊利诺伊州第17选区",
+          "party": "民主党",
+          "state": "伊利诺伊州",
+          "district": 17
+        },
+        {
+          "person": "frank-j-mrvan",
+          "post": "印第安纳州第1选区",
+          "party": "民主党",
+          "state": "印第安纳州",
+          "district": 1
+        },
+        {
+          "person": "rudy-yakym-iii",
+          "post": "印第安纳州第2选区",
+          "party": "共和党",
+          "state": "印第安纳州",
+          "district": 2
+        },
+        {
+          "person": "marlin-a-stutzman",
+          "post": "印第安纳州第3选区",
+          "party": "共和党",
+          "state": "印第安纳州",
+          "district": 3
+        },
+        {
+          "person": "james-r-baird",
+          "post": "印第安纳州第4选区",
+          "party": "共和党",
+          "state": "印第安纳州",
+          "district": 4
+        },
+        {
+          "person": "victoria-spartz",
+          "post": "印第安纳州第5选区",
+          "party": "共和党",
+          "state": "印第安纳州",
+          "district": 5
+        },
+        {
+          "person": "jefferson-shreve",
+          "post": "印第安纳州第6选区",
+          "party": "共和党",
+          "state": "印第安纳州",
+          "district": 6
+        },
+        {
+          "person": "andre-carson",
+          "post": "印第安纳州第7选区",
+          "party": "民主党",
+          "state": "印第安纳州",
+          "district": 7
+        },
+        {
+          "person": "mark-b-messmer",
+          "post": "印第安纳州第8选区",
+          "party": "共和党",
+          "state": "印第安纳州",
+          "district": 8
+        },
+        {
+          "person": "erin-houchin",
+          "post": "印第安纳州第9选区",
+          "party": "共和党",
+          "state": "印第安纳州",
+          "district": 9
+        },
+        {
+          "person": "mariannette-miller-meeks",
+          "post": "爱荷华州第1选区",
+          "party": "共和党",
+          "state": "爱荷华州",
+          "district": 1
+        },
+        {
+          "person": "ashley-hinson",
+          "post": "爱荷华州第2选区",
+          "party": "共和党",
+          "state": "爱荷华州",
+          "district": 2
+        },
+        {
+          "person": "zachary-nunn",
+          "post": "爱荷华州第3选区",
+          "party": "共和党",
+          "state": "爱荷华州",
+          "district": 3
+        },
+        {
+          "person": "randy-feenstra",
+          "post": "爱荷华州第4选区",
+          "party": "共和党",
+          "state": "爱荷华州",
+          "district": 4
+        },
+        {
+          "person": "tracey-mann",
+          "post": "堪萨斯州第1选区",
+          "party": "共和党",
+          "state": "堪萨斯州",
+          "district": 1
+        },
+        {
+          "person": "derek-schmidt",
+          "post": "堪萨斯州第2选区",
+          "party": "共和党",
+          "state": "堪萨斯州",
+          "district": 2
+        },
+        {
+          "person": "sharice-davids",
+          "post": "堪萨斯州第3选区",
+          "party": "民主党",
+          "state": "堪萨斯州",
+          "district": 3
+        },
+        {
+          "person": "ron-estes",
+          "post": "堪萨斯州第4选区",
+          "party": "共和党",
+          "state": "堪萨斯州",
+          "district": 4
+        },
+        {
+          "person": "james-comer",
+          "post": "肯塔基州第1选区",
+          "party": "共和党",
+          "state": "肯塔基州",
+          "district": 1
+        },
+        {
+          "person": "brett-guthrie",
+          "post": "肯塔基州第2选区",
+          "party": "共和党",
+          "state": "肯塔基州",
+          "district": 2
+        },
+        {
+          "person": "morgan-mcgarvey",
+          "post": "肯塔基州第3选区",
+          "party": "民主党",
+          "state": "肯塔基州",
+          "district": 3
+        },
+        {
+          "person": "thomas-massie",
+          "post": "肯塔基州第4选区",
+          "party": "共和党",
+          "state": "肯塔基州",
+          "district": 4
+        },
+        {
+          "person": "harold-rogers",
+          "post": "肯塔基州第5选区",
+          "party": "共和党",
+          "state": "肯塔基州",
+          "district": 5
+        },
+        {
+          "person": "andy-barr",
+          "post": "肯塔基州第6选区",
+          "party": "共和党",
+          "state": "肯塔基州",
+          "district": 6
+        },
+        {
+          "person": "steve-scalise",
+          "post": "路易斯安那州第1选区",
+          "party": "共和党",
+          "state": "路易斯安那州",
+          "district": 1
+        },
+        {
+          "person": "troy-a-carter",
+          "post": "路易斯安那州第2选区",
+          "party": "民主党",
+          "state": "路易斯安那州",
+          "district": 2
+        },
+        {
+          "person": "clay-higgins",
+          "post": "路易斯安那州第3选区",
+          "party": "共和党",
+          "state": "路易斯安那州",
+          "district": 3
+        },
+        {
+          "person": "mike-johnson",
+          "post": "路易斯安那州第4选区",
+          "party": "共和党",
+          "state": "路易斯安那州",
+          "district": 4
+        },
+        {
+          "person": "julia-letlow",
+          "post": "路易斯安那州第5选区",
+          "party": "共和党",
+          "state": "路易斯安那州",
+          "district": 5
+        },
+        {
+          "person": "cleo-fields",
+          "post": "路易斯安那州第6选区",
+          "party": "民主党",
+          "state": "路易斯安那州",
+          "district": 6
+        },
+        {
+          "person": "chellie-pingree",
+          "post": "缅因州第1选区",
+          "party": "民主党",
+          "state": "缅因州",
+          "district": 1
+        },
+        {
+          "person": "jared-f-golden",
+          "post": "缅因州第2选区",
+          "party": "民主党",
+          "state": "缅因州",
+          "district": 2
+        },
+        {
+          "person": "andy-harris",
+          "post": "马里兰州第1选区",
+          "party": "共和党",
+          "state": "马里兰州",
+          "district": 1
+        },
+        {
+          "person": "johnny-olszewski-jr",
+          "post": "马里兰州第2选区",
+          "party": "民主党",
+          "state": "马里兰州",
+          "district": 2
+        },
+        {
+          "person": "sarah-elfreth",
+          "post": "马里兰州第3选区",
+          "party": "民主党",
+          "state": "马里兰州",
+          "district": 3
+        },
+        {
+          "person": "glenn-ivey",
+          "post": "马里兰州第4选区",
+          "party": "民主党",
+          "state": "马里兰州",
+          "district": 4
+        },
+        {
+          "person": "steny-h-hoyer",
+          "post": "马里兰州第5选区",
+          "party": "民主党",
+          "state": "马里兰州",
+          "district": 5
+        },
+        {
+          "person": "april-mcclain-delaney",
+          "post": "马里兰州第6选区",
+          "party": "民主党",
+          "state": "马里兰州",
+          "district": 6
+        },
+        {
+          "person": "kweisi-mfume",
+          "post": "马里兰州第7选区",
+          "party": "民主党",
+          "state": "马里兰州",
+          "district": 7
+        },
+        {
+          "person": "jamie-raskin",
+          "post": "马里兰州第8选区",
+          "party": "民主党",
+          "state": "马里兰州",
+          "district": 8
+        },
+        {
+          "person": "richard-e-neal",
+          "post": "马萨诸塞州第1选区",
+          "party": "民主党",
+          "state": "马萨诸塞州",
+          "district": 1
+        },
+        {
+          "person": "james-p-mcgovern",
+          "post": "马萨诸塞州第2选区",
+          "party": "民主党",
+          "state": "马萨诸塞州",
+          "district": 2
+        },
+        {
+          "person": "lori-trahan",
+          "post": "马萨诸塞州第3选区",
+          "party": "民主党",
+          "state": "马萨诸塞州",
+          "district": 3
+        },
+        {
+          "person": "jake-auchincloss",
+          "post": "马萨诸塞州第4选区",
+          "party": "民主党",
+          "state": "马萨诸塞州",
+          "district": 4
+        },
+        {
+          "person": "katherine-m-clark",
+          "post": "马萨诸塞州第5选区",
+          "party": "民主党",
+          "state": "马萨诸塞州",
+          "district": 5
+        },
+        {
+          "person": "seth-moulton",
+          "post": "马萨诸塞州第6选区",
+          "party": "民主党",
+          "state": "马萨诸塞州",
+          "district": 6
+        },
+        {
+          "person": "ayanna-pressley",
+          "post": "马萨诸塞州第7选区",
+          "party": "民主党",
+          "state": "马萨诸塞州",
+          "district": 7
+        },
+        {
+          "person": "stephen-f-lynch",
+          "post": "马萨诸塞州第8选区",
+          "party": "民主党",
+          "state": "马萨诸塞州",
+          "district": 8
+        },
+        {
+          "person": "william-r-keating",
+          "post": "马萨诸塞州第9选区",
+          "party": "民主党",
+          "state": "马萨诸塞州",
+          "district": 9
+        },
+        {
+          "person": "jack-bergman",
+          "post": "密歇根州第1选区",
+          "party": "共和党",
+          "state": "密歇根州",
+          "district": 1
+        },
+        {
+          "person": "john-r-moolenaar",
+          "post": "密歇根州第2选区",
+          "party": "共和党",
+          "state": "密歇根州",
+          "district": 2
+        },
+        {
+          "person": "hillary-j-scholten",
+          "post": "密歇根州第3选区",
+          "party": "民主党",
+          "state": "密歇根州",
+          "district": 3
+        },
+        {
+          "person": "bill-huizenga",
+          "post": "密歇根州第4选区",
+          "party": "共和党",
+          "state": "密歇根州",
+          "district": 4
+        },
+        {
+          "person": "tim-walberg",
+          "post": "密歇根州第5选区",
+          "party": "共和党",
+          "state": "密歇根州",
+          "district": 5
+        },
+        {
+          "person": "debbie-dingell",
+          "post": "密歇根州第6选区",
+          "party": "民主党",
+          "state": "密歇根州",
+          "district": 6
+        },
+        {
+          "person": "tom-barrett",
+          "post": "密歇根州第7选区",
+          "party": "共和党",
+          "state": "密歇根州",
+          "district": 7
+        },
+        {
+          "person": "kristen-mcdonald-rivet",
+          "post": "密歇根州第8选区",
+          "party": "民主党",
+          "state": "密歇根州",
+          "district": 8
+        },
+        {
+          "person": "lisa-c-mcclain",
+          "post": "密歇根州第9选区",
+          "party": "共和党",
+          "state": "密歇根州",
+          "district": 9
+        },
+        {
+          "person": "john-james",
+          "post": "密歇根州第10选区",
+          "party": "共和党",
+          "state": "密歇根州",
+          "district": 10
+        },
+        {
+          "person": "haley-m-stevens",
+          "post": "密歇根州第11选区",
+          "party": "民主党",
+          "state": "密歇根州",
+          "district": 11
+        },
+        {
+          "person": "rashida-tlaib",
+          "post": "密歇根州第12选区",
+          "party": "民主党",
+          "state": "密歇根州",
+          "district": 12
+        },
+        {
+          "person": "shri-thanedar",
+          "post": "密歇根州第13选区",
+          "party": "民主党",
+          "state": "密歇根州",
+          "district": 13
+        },
+        {
+          "person": "brad-finstad",
+          "post": "明尼苏达州第1选区",
+          "party": "共和党",
+          "state": "明尼苏达州",
+          "district": 1
+        },
+        {
+          "person": "angie-craig",
+          "post": "明尼苏达州第2选区",
+          "party": "民主党",
+          "state": "明尼苏达州",
+          "district": 2
+        },
+        {
+          "person": "kelly-morrison",
+          "post": "明尼苏达州第3选区",
+          "party": "民主党",
+          "state": "明尼苏达州",
+          "district": 3
+        },
+        {
+          "person": "betty-mccollum",
+          "post": "明尼苏达州第4选区",
+          "party": "民主党",
+          "state": "明尼苏达州",
+          "district": 4
+        },
+        {
+          "person": "ilhan-omar",
+          "post": "明尼苏达州第5选区",
+          "party": "民主党",
+          "state": "明尼苏达州",
+          "district": 5
+        },
+        {
+          "person": "tom-emmer",
+          "post": "明尼苏达州第6选区",
+          "party": "共和党",
+          "state": "明尼苏达州",
+          "district": 6
+        },
+        {
+          "person": "michelle-fischbach",
+          "post": "明尼苏达州第7选区",
+          "party": "共和党",
+          "state": "明尼苏达州",
+          "district": 7
+        },
+        {
+          "person": "pete-stauber",
+          "post": "明尼苏达州第8选区",
+          "party": "共和党",
+          "state": "明尼苏达州",
+          "district": 8
+        },
+        {
+          "person": "trent-kelly",
+          "post": "密西西比州第1选区",
+          "party": "共和党",
+          "state": "密西西比州",
+          "district": 1
+        },
+        {
+          "person": "bennie-g-thompson",
+          "post": "密西西比州第2选区",
+          "party": "民主党",
+          "state": "密西西比州",
+          "district": 2
+        },
+        {
+          "person": "michael-guest",
+          "post": "密西西比州第3选区",
+          "party": "共和党",
+          "state": "密西西比州",
+          "district": 3
+        },
+        {
+          "person": "mike-ezell",
+          "post": "密西西比州第4选区",
+          "party": "共和党",
+          "state": "密西西比州",
+          "district": 4
+        },
+        {
+          "person": "wesley-bell",
+          "post": "密苏里州第1选区",
+          "party": "民主党",
+          "state": "密苏里州",
+          "district": 1
+        },
+        {
+          "person": "ann-wagner",
+          "post": "密苏里州第2选区",
+          "party": "共和党",
+          "state": "密苏里州",
+          "district": 2
+        },
+        {
+          "person": "robert-f-onder-jr",
+          "post": "密苏里州第3选区",
+          "party": "共和党",
+          "state": "密苏里州",
+          "district": 3
+        },
+        {
+          "person": "mark-alford",
+          "post": "密苏里州第4选区",
+          "party": "共和党",
+          "state": "密苏里州",
+          "district": 4
+        },
+        {
+          "person": "emanuel-cleaver",
+          "post": "密苏里州第5选区",
+          "party": "民主党",
+          "state": "密苏里州",
+          "district": 5
+        },
+        {
+          "person": "sam-graves",
+          "post": "密苏里州第6选区",
+          "party": "共和党",
+          "state": "密苏里州",
+          "district": 6
+        },
+        {
+          "person": "eric-burlison",
+          "post": "密苏里州第7选区",
+          "party": "共和党",
+          "state": "密苏里州",
+          "district": 7
+        },
+        {
+          "person": "jason-smith",
+          "post": "密苏里州第8选区",
+          "party": "共和党",
+          "state": "密苏里州",
+          "district": 8
+        },
+        {
+          "person": "ryan-k-zinke",
+          "post": "蒙大拿州第1选区",
+          "party": "共和党",
+          "state": "蒙大拿州",
+          "district": 1
+        },
+        {
+          "person": "troy-downing",
+          "post": "蒙大拿州第2选区",
+          "party": "共和党",
+          "state": "蒙大拿州",
+          "district": 2
+        },
+        {
+          "person": "mike-flood",
+          "post": "内布拉斯加州第1选区",
+          "party": "共和党",
+          "state": "内布拉斯加州",
+          "district": 1
+        },
+        {
+          "person": "don-bacon",
+          "post": "内布拉斯加州第2选区",
+          "party": "共和党",
+          "state": "内布拉斯加州",
+          "district": 2
+        },
+        {
+          "person": "adrian-smith",
+          "post": "内布拉斯加州第3选区",
+          "party": "共和党",
+          "state": "内布拉斯加州",
+          "district": 3
+        },
+        {
+          "person": "dina-titus",
+          "post": "内华达州第1选区",
+          "party": "民主党",
+          "state": "内华达州",
+          "district": 1
+        },
+        {
+          "person": "mark-e-amodei",
+          "post": "内华达州第2选区",
+          "party": "共和党",
+          "state": "内华达州",
+          "district": 2
+        },
+        {
+          "person": "susie-lee",
+          "post": "内华达州第3选区",
+          "party": "民主党",
+          "state": "内华达州",
+          "district": 3
+        },
+        {
+          "person": "steven-horsford",
+          "post": "内华达州第4选区",
+          "party": "民主党",
+          "state": "内华达州",
+          "district": 4
+        },
+        {
+          "person": "chris-pappas",
+          "post": "新罕布什尔州第1选区",
+          "party": "民主党",
+          "state": "新罕布什尔州",
+          "district": 1
+        },
+        {
+          "person": "maggie-goodlander",
+          "post": "新罕布什尔州第2选区",
+          "party": "民主党",
+          "state": "新罕布什尔州",
+          "district": 2
+        },
+        {
+          "person": "donald-norcross",
+          "post": "新泽西州第1选区",
+          "party": "民主党",
+          "state": "新泽西州",
+          "district": 1
+        },
+        {
+          "person": "jefferson-van-drew",
+          "post": "新泽西州第2选区",
+          "party": "共和党",
+          "state": "新泽西州",
+          "district": 2
+        },
+        {
+          "person": "herbert-c-conaway-jr",
+          "post": "新泽西州第3选区",
+          "party": "民主党",
+          "state": "新泽西州",
+          "district": 3
+        },
+        {
+          "person": "christopher-h-smith",
+          "post": "新泽西州第4选区",
+          "party": "共和党",
+          "state": "新泽西州",
+          "district": 4
+        },
+        {
+          "person": "josh-gottheimer",
+          "post": "新泽西州第5选区",
+          "party": "民主党",
+          "state": "新泽西州",
+          "district": 5
+        },
+        {
+          "person": "frank-pallone-jr",
+          "post": "新泽西州第6选区",
+          "party": "民主党",
+          "state": "新泽西州",
+          "district": 6
+        },
+        {
+          "person": "thomas-h-kean-jr",
+          "post": "新泽西州第7选区",
+          "party": "共和党",
+          "state": "新泽西州",
+          "district": 7
+        },
+        {
+          "person": "robert-menendez",
+          "post": "新泽西州第8选区",
+          "party": "民主党",
+          "state": "新泽西州",
+          "district": 8
+        },
+        {
+          "person": "nellie-pou",
+          "post": "新泽西州第9选区",
+          "party": "民主党",
+          "state": "新泽西州",
+          "district": 9
+        },
+        {
+          "person": "lamonica-mciver",
+          "post": "新泽西州第10选区",
+          "party": "民主党",
+          "state": "新泽西州",
+          "district": 10
+        },
+        {
+          "person": "analilia-mejia",
+          "post": "新泽西州第11选区",
+          "party": "民主党",
+          "state": "新泽西州",
+          "district": 11
+        },
+        {
+          "person": "bonnie-watson-coleman",
+          "post": "新泽西州第12选区",
+          "party": "民主党",
+          "state": "新泽西州",
+          "district": 12
+        },
+        {
+          "person": "melanie-a-stansbury",
+          "post": "新墨西哥州第1选区",
+          "party": "民主党",
+          "state": "新墨西哥州",
+          "district": 1
+        },
+        {
+          "person": "gabe-vasquez",
+          "post": "新墨西哥州第2选区",
+          "party": "民主党",
+          "state": "新墨西哥州",
+          "district": 2
+        },
+        {
+          "person": "teresa-leger-fernandez",
+          "post": "新墨西哥州第3选区",
+          "party": "民主党",
+          "state": "新墨西哥州",
+          "district": 3
+        },
+        {
+          "person": "nick-lalota",
+          "post": "纽约州第1选区",
+          "party": "共和党",
+          "state": "纽约州",
+          "district": 1
+        },
+        {
+          "person": "andrew-r-garbarino",
+          "post": "纽约州第2选区",
+          "party": "共和党",
+          "state": "纽约州",
+          "district": 2
+        },
+        {
+          "person": "thomas-r-suozzi",
+          "post": "纽约州第3选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 3
+        },
+        {
+          "person": "laura-gillen",
+          "post": "纽约州第4选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 4
+        },
+        {
+          "person": "gregory-w-meeks",
+          "post": "纽约州第5选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 5
+        },
+        {
+          "person": "grace-meng",
+          "post": "纽约州第6选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 6
+        },
+        {
+          "person": "nydia-m-velazquez",
+          "post": "纽约州第7选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 7
+        },
+        {
+          "person": "hakeem-s-jeffries",
+          "post": "纽约州第8选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 8
+        },
+        {
+          "person": "yvette-d-clarke",
+          "post": "纽约州第9选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 9
+        },
+        {
+          "person": "daniel-s-goldman",
+          "post": "纽约州第10选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 10
+        },
+        {
+          "person": "nicole-malliotakis",
+          "post": "纽约州第11选区",
+          "party": "共和党",
+          "state": "纽约州",
+          "district": 11
+        },
+        {
+          "person": "jerrold-nadler",
+          "post": "纽约州第12选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 12
+        },
+        {
+          "person": "adriano-espaillat",
+          "post": "纽约州第13选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 13
+        },
+        {
+          "person": "alexandria-ocasio-cortez",
+          "post": "纽约州第14选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 14
+        },
+        {
+          "person": "ritchie-torres",
+          "post": "纽约州第15选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 15
+        },
+        {
+          "person": "george-latimer",
+          "post": "纽约州第16选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 16
+        },
+        {
+          "person": "michael-lawler",
+          "post": "纽约州第17选区",
+          "party": "共和党",
+          "state": "纽约州",
+          "district": 17
+        },
+        {
+          "person": "patrick-ryan",
+          "post": "纽约州第18选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 18
+        },
+        {
+          "person": "josh-riley",
+          "post": "纽约州第19选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 19
+        },
+        {
+          "person": "paul-tonko",
+          "post": "纽约州第20选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 20
+        },
+        {
+          "person": "elise-m-stefanik",
+          "post": "纽约州第21选区",
+          "party": "共和党",
+          "state": "纽约州",
+          "district": 21
+        },
+        {
+          "person": "john-w-mannion",
+          "post": "纽约州第22选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 22
+        },
+        {
+          "person": "nicholas-a-langworthy",
+          "post": "纽约州第23选区",
+          "party": "共和党",
+          "state": "纽约州",
+          "district": 23
+        },
+        {
+          "person": "claudia-tenney",
+          "post": "纽约州第24选区",
+          "party": "共和党",
+          "state": "纽约州",
+          "district": 24
+        },
+        {
+          "person": "joseph-d-morelle",
+          "post": "纽约州第25选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 25
+        },
+        {
+          "person": "timothy-m-kennedy",
+          "post": "纽约州第26选区",
+          "party": "民主党",
+          "state": "纽约州",
+          "district": 26
+        },
+        {
+          "person": "donald-g-davis",
+          "post": "北卡罗来纳州第1选区",
+          "party": "民主党",
+          "state": "北卡罗来纳州",
+          "district": 1
+        },
+        {
+          "person": "deborah-k-ross",
+          "post": "北卡罗来纳州第2选区",
+          "party": "民主党",
+          "state": "北卡罗来纳州",
+          "district": 2
+        },
+        {
+          "person": "gregory-f-murphy",
+          "post": "北卡罗来纳州第3选区",
+          "party": "共和党",
+          "state": "北卡罗来纳州",
+          "district": 3
+        },
+        {
+          "person": "valerie-p-foushee",
+          "post": "北卡罗来纳州第4选区",
+          "party": "民主党",
+          "state": "北卡罗来纳州",
+          "district": 4
+        },
+        {
+          "person": "virginia-foxx",
+          "post": "北卡罗来纳州第5选区",
+          "party": "共和党",
+          "state": "北卡罗来纳州",
+          "district": 5
+        },
+        {
+          "person": "addison-p-mcdowell",
+          "post": "北卡罗来纳州第6选区",
+          "party": "共和党",
+          "state": "北卡罗来纳州",
+          "district": 6
+        },
+        {
+          "person": "david-rouzer",
+          "post": "北卡罗来纳州第7选区",
+          "party": "共和党",
+          "state": "北卡罗来纳州",
+          "district": 7
+        },
+        {
+          "person": "mark-harris",
+          "post": "北卡罗来纳州第8选区",
+          "party": "共和党",
+          "state": "北卡罗来纳州",
+          "district": 8
+        },
+        {
+          "person": "richard-hudson",
+          "post": "北卡罗来纳州第9选区",
+          "party": "共和党",
+          "state": "北卡罗来纳州",
+          "district": 9
+        },
+        {
+          "person": "pat-harrigan",
+          "post": "北卡罗来纳州第10选区",
+          "party": "共和党",
+          "state": "北卡罗来纳州",
+          "district": 10
+        },
+        {
+          "person": "chuck-edwards",
+          "post": "北卡罗来纳州第11选区",
+          "party": "共和党",
+          "state": "北卡罗来纳州",
+          "district": 11
+        },
+        {
+          "person": "alma-s-adams",
+          "post": "北卡罗来纳州第12选区",
+          "party": "民主党",
+          "state": "北卡罗来纳州",
+          "district": 12
+        },
+        {
+          "person": "brad-knott",
+          "post": "北卡罗来纳州第13选区",
+          "party": "共和党",
+          "state": "北卡罗来纳州",
+          "district": 13
+        },
+        {
+          "person": "tim-moore",
+          "post": "北卡罗来纳州第14选区",
+          "party": "共和党",
+          "state": "北卡罗来纳州",
+          "district": 14
+        },
+        {
+          "person": "julie-fedorchak",
+          "post": "北达科他州",
+          "party": "共和党",
+          "state": "北达科他州",
+          "district": 0
+        },
+        {
+          "person": "greg-landsman",
+          "post": "俄亥俄州第1选区",
+          "party": "民主党",
+          "state": "俄亥俄州",
+          "district": 1
+        },
+        {
+          "person": "david-j-taylor",
+          "post": "俄亥俄州第2选区",
+          "party": "共和党",
+          "state": "俄亥俄州",
+          "district": 2
+        },
+        {
+          "person": "joyce-beatty",
+          "post": "俄亥俄州第3选区",
+          "party": "民主党",
+          "state": "俄亥俄州",
+          "district": 3
+        },
+        {
+          "person": "jim-jordan",
+          "post": "俄亥俄州第4选区",
+          "party": "共和党",
+          "state": "俄亥俄州",
+          "district": 4
+        },
+        {
+          "person": "robert-e-latta",
+          "post": "俄亥俄州第5选区",
+          "party": "共和党",
+          "state": "俄亥俄州",
+          "district": 5
+        },
+        {
+          "person": "michael-a-rulli",
+          "post": "俄亥俄州第6选区",
+          "party": "共和党",
+          "state": "俄亥俄州",
+          "district": 6
+        },
+        {
+          "person": "max-l-miller",
+          "post": "俄亥俄州第7选区",
+          "party": "共和党",
+          "state": "俄亥俄州",
+          "district": 7
+        },
+        {
+          "person": "warren-davidson",
+          "post": "俄亥俄州第8选区",
+          "party": "共和党",
+          "state": "俄亥俄州",
+          "district": 8
+        },
+        {
+          "person": "marcy-kaptur",
+          "post": "俄亥俄州第9选区",
+          "party": "民主党",
+          "state": "俄亥俄州",
+          "district": 9
+        },
+        {
+          "person": "michael-r-turner",
+          "post": "俄亥俄州第10选区",
+          "party": "共和党",
+          "state": "俄亥俄州",
+          "district": 10
+        },
+        {
+          "person": "shontel-m-brown",
+          "post": "俄亥俄州第11选区",
+          "party": "民主党",
+          "state": "俄亥俄州",
+          "district": 11
+        },
+        {
+          "person": "troy-balderson",
+          "post": "俄亥俄州第12选区",
+          "party": "共和党",
+          "state": "俄亥俄州",
+          "district": 12
+        },
+        {
+          "person": "emilia-strong-sykes",
+          "post": "俄亥俄州第13选区",
+          "party": "民主党",
+          "state": "俄亥俄州",
+          "district": 13
+        },
+        {
+          "person": "david-p-joyce",
+          "post": "俄亥俄州第14选区",
+          "party": "共和党",
+          "state": "俄亥俄州",
+          "district": 14
+        },
+        {
+          "person": "mike-carey",
+          "post": "俄亥俄州第15选区",
+          "party": "共和党",
+          "state": "俄亥俄州",
+          "district": 15
+        },
+        {
+          "person": "kevin-hern",
+          "post": "俄克拉何马州第1选区",
+          "party": "共和党",
+          "state": "俄克拉何马州",
+          "district": 1
+        },
+        {
+          "person": "josh-brecheen",
+          "post": "俄克拉何马州第2选区",
+          "party": "共和党",
+          "state": "俄克拉何马州",
+          "district": 2
+        },
+        {
+          "person": "frank-d-lucas",
+          "post": "俄克拉何马州第3选区",
+          "party": "共和党",
+          "state": "俄克拉何马州",
+          "district": 3
+        },
+        {
+          "person": "tom-cole",
+          "post": "俄克拉何马州第4选区",
+          "party": "共和党",
+          "state": "俄克拉何马州",
+          "district": 4
+        },
+        {
+          "person": "stephanie-i-bice",
+          "post": "俄克拉何马州第5选区",
+          "party": "共和党",
+          "state": "俄克拉何马州",
+          "district": 5
+        },
+        {
+          "person": "suzanne-bonamici",
+          "post": "俄勒冈州第1选区",
+          "party": "民主党",
+          "state": "俄勒冈州",
+          "district": 1
+        },
+        {
+          "person": "cliff-bentz",
+          "post": "俄勒冈州第2选区",
+          "party": "共和党",
+          "state": "俄勒冈州",
+          "district": 2
+        },
+        {
+          "person": "maxine-dexter",
+          "post": "俄勒冈州第3选区",
+          "party": "民主党",
+          "state": "俄勒冈州",
+          "district": 3
+        },
+        {
+          "person": "val-t-hoyle",
+          "post": "俄勒冈州第4选区",
+          "party": "民主党",
+          "state": "俄勒冈州",
+          "district": 4
+        },
+        {
+          "person": "janelle-s-bynum",
+          "post": "俄勒冈州第5选区",
+          "party": "民主党",
+          "state": "俄勒冈州",
+          "district": 5
+        },
+        {
+          "person": "andrea-salinas",
+          "post": "俄勒冈州第6选区",
+          "party": "民主党",
+          "state": "俄勒冈州",
+          "district": 6
+        },
+        {
+          "person": "brian-k-fitzpatrick",
+          "post": "宾夕法尼亚州第1选区",
+          "party": "共和党",
+          "state": "宾夕法尼亚州",
+          "district": 1
+        },
+        {
+          "person": "brendan-f-boyle",
+          "post": "宾夕法尼亚州第2选区",
+          "party": "民主党",
+          "state": "宾夕法尼亚州",
+          "district": 2
+        },
+        {
+          "person": "dwight-evans",
+          "post": "宾夕法尼亚州第3选区",
+          "party": "民主党",
+          "state": "宾夕法尼亚州",
+          "district": 3
+        },
+        {
+          "person": "madeleine-dean",
+          "post": "宾夕法尼亚州第4选区",
+          "party": "民主党",
+          "state": "宾夕法尼亚州",
+          "district": 4
+        },
+        {
+          "person": "mary-gay-scanlon",
+          "post": "宾夕法尼亚州第5选区",
+          "party": "民主党",
+          "state": "宾夕法尼亚州",
+          "district": 5
+        },
+        {
+          "person": "chrissy-houlahan",
+          "post": "宾夕法尼亚州第6选区",
+          "party": "民主党",
+          "state": "宾夕法尼亚州",
+          "district": 6
+        },
+        {
+          "person": "ryan-mackenzie",
+          "post": "宾夕法尼亚州第7选区",
+          "party": "共和党",
+          "state": "宾夕法尼亚州",
+          "district": 7
+        },
+        {
+          "person": "robert-p-bresnahan-jr",
+          "post": "宾夕法尼亚州第8选区",
+          "party": "共和党",
+          "state": "宾夕法尼亚州",
+          "district": 8
+        },
+        {
+          "person": "daniel-meuser",
+          "post": "宾夕法尼亚州第9选区",
+          "party": "共和党",
+          "state": "宾夕法尼亚州",
+          "district": 9
+        },
+        {
+          "person": "scott-perry",
+          "post": "宾夕法尼亚州第10选区",
+          "party": "共和党",
+          "state": "宾夕法尼亚州",
+          "district": 10
+        },
+        {
+          "person": "lloyd-smucker",
+          "post": "宾夕法尼亚州第11选区",
+          "party": "共和党",
+          "state": "宾夕法尼亚州",
+          "district": 11
+        },
+        {
+          "person": "summer-l-lee",
+          "post": "宾夕法尼亚州第12选区",
+          "party": "民主党",
+          "state": "宾夕法尼亚州",
+          "district": 12
+        },
+        {
+          "person": "john-joyce",
+          "post": "宾夕法尼亚州第13选区",
+          "party": "共和党",
+          "state": "宾夕法尼亚州",
+          "district": 13
+        },
+        {
+          "person": "guy-reschenthaler",
+          "post": "宾夕法尼亚州第14选区",
+          "party": "共和党",
+          "state": "宾夕法尼亚州",
+          "district": 14
+        },
+        {
+          "person": "glenn-thompson",
+          "post": "宾夕法尼亚州第15选区",
+          "party": "共和党",
+          "state": "宾夕法尼亚州",
+          "district": 15
+        },
+        {
+          "person": "mike-kelly",
+          "post": "宾夕法尼亚州第16选区",
+          "party": "共和党",
+          "state": "宾夕法尼亚州",
+          "district": 16
+        },
+        {
+          "person": "christopher-r-deluzio",
+          "post": "宾夕法尼亚州第17选区",
+          "party": "民主党",
+          "state": "宾夕法尼亚州",
+          "district": 17
+        },
+        {
+          "person": "gabe-amo",
+          "post": "罗得岛州第1选区",
+          "party": "民主党",
+          "state": "罗得岛州",
+          "district": 1
+        },
+        {
+          "person": "seth-magaziner",
+          "post": "罗得岛州第2选区",
+          "party": "民主党",
+          "state": "罗得岛州",
+          "district": 2
+        },
+        {
+          "person": "nancy-mace",
+          "post": "南卡罗来纳州第1选区",
+          "party": "共和党",
+          "state": "南卡罗来纳州",
+          "district": 1
+        },
+        {
+          "person": "joe-wilson",
+          "post": "南卡罗来纳州第2选区",
+          "party": "共和党",
+          "state": "南卡罗来纳州",
+          "district": 2
+        },
+        {
+          "person": "sheri-biggs",
+          "post": "南卡罗来纳州第3选区",
+          "party": "共和党",
+          "state": "南卡罗来纳州",
+          "district": 3
+        },
+        {
+          "person": "william-r-timmons-iv",
+          "post": "南卡罗来纳州第4选区",
+          "party": "共和党",
+          "state": "南卡罗来纳州",
+          "district": 4
+        },
+        {
+          "person": "ralph-norman",
+          "post": "南卡罗来纳州第5选区",
+          "party": "共和党",
+          "state": "南卡罗来纳州",
+          "district": 5
+        },
+        {
+          "person": "james-e-clyburn",
+          "post": "南卡罗来纳州第6选区",
+          "party": "民主党",
+          "state": "南卡罗来纳州",
+          "district": 6
+        },
+        {
+          "person": "russell-fry",
+          "post": "南卡罗来纳州第7选区",
+          "party": "共和党",
+          "state": "南卡罗来纳州",
+          "district": 7
+        },
+        {
+          "person": "dusty-johnson",
+          "post": "南达科他州",
+          "party": "共和党",
+          "state": "南达科他州",
+          "district": 0
+        },
+        {
+          "person": "diana-harshbarger",
+          "post": "田纳西州第1选区",
+          "party": "共和党",
+          "state": "田纳西州",
+          "district": 1
+        },
+        {
+          "person": "tim-burchett",
+          "post": "田纳西州第2选区",
+          "party": "共和党",
+          "state": "田纳西州",
+          "district": 2
+        },
+        {
+          "person": "charles-j-chuck-fleischmann",
+          "post": "田纳西州第3选区",
+          "party": "共和党",
+          "state": "田纳西州",
+          "district": 3
+        },
+        {
+          "person": "scott-desjarlais",
+          "post": "田纳西州第4选区",
+          "party": "共和党",
+          "state": "田纳西州",
+          "district": 4
+        },
+        {
+          "person": "andrew-ogles",
+          "post": "田纳西州第5选区",
+          "party": "共和党",
+          "state": "田纳西州",
+          "district": 5
+        },
+        {
+          "person": "john-w-rose",
+          "post": "田纳西州第6选区",
+          "party": "共和党",
+          "state": "田纳西州",
+          "district": 6
+        },
+        {
+          "person": "matt-van-epps",
+          "post": "田纳西州第7选区",
+          "party": "共和党",
+          "state": "田纳西州",
+          "district": 7
+        },
+        {
+          "person": "david-kustoff",
+          "post": "田纳西州第8选区",
+          "party": "共和党",
+          "state": "田纳西州",
+          "district": 8
+        },
+        {
+          "person": "steve-cohen",
+          "post": "田纳西州第9选区",
+          "party": "民主党",
+          "state": "田纳西州",
+          "district": 9
+        },
+        {
+          "person": "nathaniel-moran",
+          "post": "得克萨斯州第1选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 1
+        },
+        {
+          "person": "dan-crenshaw",
+          "post": "得克萨斯州第2选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 2
+        },
+        {
+          "person": "keith-self",
+          "post": "得克萨斯州第3选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 3
+        },
+        {
+          "person": "pat-fallon",
+          "post": "得克萨斯州第4选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 4
+        },
+        {
+          "person": "lance-gooden",
+          "post": "得克萨斯州第5选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 5
+        },
+        {
+          "person": "jake-ellzey",
+          "post": "得克萨斯州第6选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 6
+        },
+        {
+          "person": "lizzie-fletcher",
+          "post": "得克萨斯州第7选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 7
+        },
+        {
+          "person": "morgan-luttrell",
+          "post": "得克萨斯州第8选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 8
+        },
+        {
+          "person": "al-green",
+          "post": "得克萨斯州第9选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 9
+        },
+        {
+          "person": "michael-t-mccaul",
+          "post": "得克萨斯州第10选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 10
+        },
+        {
+          "person": "august-pfluger",
+          "post": "得克萨斯州第11选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 11
+        },
+        {
+          "person": "craig-a-goldman",
+          "post": "得克萨斯州第12选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 12
+        },
+        {
+          "person": "ronny-jackson",
+          "post": "得克萨斯州第13选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 13
+        },
+        {
+          "person": "randy-k-weber-sr",
+          "post": "得克萨斯州第14选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 14
+        },
+        {
+          "person": "monica-de-la-cruz",
+          "post": "得克萨斯州第15选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 15
+        },
+        {
+          "person": "veronica-escobar",
+          "post": "得克萨斯州第16选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 16
+        },
+        {
+          "person": "pete-sessions",
+          "post": "得克萨斯州第17选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 17
+        },
+        {
+          "person": "christian-d-menefee",
+          "post": "得克萨斯州第18选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 18
+        },
+        {
+          "person": "jodey-c-arrington",
+          "post": "得克萨斯州第19选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 19
+        },
+        {
+          "person": "joaquin-castro",
+          "post": "得克萨斯州第20选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 20
+        },
+        {
+          "person": "chip-roy",
+          "post": "得克萨斯州第21选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 21
+        },
+        {
+          "person": "troy-e-nehls",
+          "post": "得克萨斯州第22选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 22
+        },
+        {
+          "person": "beth-van-duyne",
+          "post": "得克萨斯州第24选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 24
+        },
+        {
+          "person": "roger-williams",
+          "post": "得克萨斯州第25选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 25
+        },
+        {
+          "person": "brandon-gill",
+          "post": "得克萨斯州第26选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 26
+        },
+        {
+          "person": "michael-cloud",
+          "post": "得克萨斯州第27选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 27
+        },
+        {
+          "person": "henry-cuellar",
+          "post": "得克萨斯州第28选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 28
+        },
+        {
+          "person": "sylvia-r-garcia",
+          "post": "得克萨斯州第29选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 29
+        },
+        {
+          "person": "jasmine-crockett",
+          "post": "得克萨斯州第30选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 30
+        },
+        {
+          "person": "john-r-carter",
+          "post": "得克萨斯州第31选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 31
+        },
+        {
+          "person": "julie-johnson",
+          "post": "得克萨斯州第32选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 32
+        },
+        {
+          "person": "marc-a-veasey",
+          "post": "得克萨斯州第33选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 33
+        },
+        {
+          "person": "vicente-gonzalez",
+          "post": "得克萨斯州第34选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 34
+        },
+        {
+          "person": "greg-casar",
+          "post": "得克萨斯州第35选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 35
+        },
+        {
+          "person": "brian-babin",
+          "post": "得克萨斯州第36选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 36
+        },
+        {
+          "person": "lloyd-doggett",
+          "post": "得克萨斯州第37选区",
+          "party": "民主党",
+          "state": "得克萨斯州",
+          "district": 37
+        },
+        {
+          "person": "wesley-hunt",
+          "post": "得克萨斯州第38选区",
+          "party": "共和党",
+          "state": "得克萨斯州",
+          "district": 38
+        },
+        {
+          "person": "blake-d-moore",
+          "post": "犹他州第1选区",
+          "party": "共和党",
+          "state": "犹他州",
+          "district": 1
+        },
+        {
+          "person": "celeste-maloy",
+          "post": "犹他州第2选区",
+          "party": "共和党",
+          "state": "犹他州",
+          "district": 2
+        },
+        {
+          "person": "mike-kennedy",
+          "post": "犹他州第3选区",
+          "party": "共和党",
+          "state": "犹他州",
+          "district": 3
+        },
+        {
+          "person": "burgess-owens",
+          "post": "犹他州第4选区",
+          "party": "共和党",
+          "state": "犹他州",
+          "district": 4
+        },
+        {
+          "person": "becca-balint",
+          "post": "佛蒙特州",
+          "party": "民主党",
+          "state": "佛蒙特州",
+          "district": 0
+        },
+        {
+          "person": "robert-j-wittman",
+          "post": "弗吉尼亚州第1选区",
+          "party": "共和党",
+          "state": "弗吉尼亚州",
+          "district": 1
+        },
+        {
+          "person": "jennifer-a-kiggans",
+          "post": "弗吉尼亚州第2选区",
+          "party": "共和党",
+          "state": "弗吉尼亚州",
+          "district": 2
+        },
+        {
+          "person": "robert-c-bobby-scott",
+          "post": "弗吉尼亚州第3选区",
+          "party": "民主党",
+          "state": "弗吉尼亚州",
+          "district": 3
+        },
+        {
+          "person": "jennifer-l-mcclellan",
+          "post": "弗吉尼亚州第4选区",
+          "party": "民主党",
+          "state": "弗吉尼亚州",
+          "district": 4
+        },
+        {
+          "person": "john-j-mcguire-iii",
+          "post": "弗吉尼亚州第5选区",
+          "party": "共和党",
+          "state": "弗吉尼亚州",
+          "district": 5
+        },
+        {
+          "person": "ben-cline",
+          "post": "弗吉尼亚州第6选区",
+          "party": "共和党",
+          "state": "弗吉尼亚州",
+          "district": 6
+        },
+        {
+          "person": "eugene-simon-vindman",
+          "post": "弗吉尼亚州第7选区",
+          "party": "民主党",
+          "state": "弗吉尼亚州",
+          "district": 7
+        },
+        {
+          "person": "donald-s-beyer-jr",
+          "post": "弗吉尼亚州第8选区",
+          "party": "民主党",
+          "state": "弗吉尼亚州",
+          "district": 8
+        },
+        {
+          "person": "h-morgan-griffith",
+          "post": "弗吉尼亚州第9选区",
+          "party": "共和党",
+          "state": "弗吉尼亚州",
+          "district": 9
+        },
+        {
+          "person": "suhas-subramanyam",
+          "post": "弗吉尼亚州第10选区",
+          "party": "民主党",
+          "state": "弗吉尼亚州",
+          "district": 10
+        },
+        {
+          "person": "james-r-walkinshaw",
+          "post": "弗吉尼亚州第11选区",
+          "party": "民主党",
+          "state": "弗吉尼亚州",
+          "district": 11
+        },
+        {
+          "person": "suzan-k-delbene",
+          "post": "华盛顿州第1选区",
+          "party": "民主党",
+          "state": "华盛顿州",
+          "district": 1
+        },
+        {
+          "person": "rick-larsen",
+          "post": "华盛顿州第2选区",
+          "party": "民主党",
+          "state": "华盛顿州",
+          "district": 2
+        },
+        {
+          "person": "marie-gluesenkamp-perez",
+          "post": "华盛顿州第3选区",
+          "party": "民主党",
+          "state": "华盛顿州",
+          "district": 3
+        },
+        {
+          "person": "dan-newhouse",
+          "post": "华盛顿州第4选区",
+          "party": "共和党",
+          "state": "华盛顿州",
+          "district": 4
+        },
+        {
+          "person": "michael-baumgartner",
+          "post": "华盛顿州第5选区",
+          "party": "共和党",
+          "state": "华盛顿州",
+          "district": 5
+        },
+        {
+          "person": "emily-randall",
+          "post": "华盛顿州第6选区",
+          "party": "民主党",
+          "state": "华盛顿州",
+          "district": 6
+        },
+        {
+          "person": "pramila-jayapal",
+          "post": "华盛顿州第7选区",
+          "party": "民主党",
+          "state": "华盛顿州",
+          "district": 7
+        },
+        {
+          "person": "kim-schrier",
+          "post": "华盛顿州第8选区",
+          "party": "民主党",
+          "state": "华盛顿州",
+          "district": 8
+        },
+        {
+          "person": "adam-smith",
+          "post": "华盛顿州第9选区",
+          "party": "民主党",
+          "state": "华盛顿州",
+          "district": 9
+        },
+        {
+          "person": "marilyn-strickland",
+          "post": "华盛顿州第10选区",
+          "party": "民主党",
+          "state": "华盛顿州",
+          "district": 10
+        },
+        {
+          "person": "carol-d-miller",
+          "post": "西弗吉尼亚州第1选区",
+          "party": "共和党",
+          "state": "西弗吉尼亚州",
+          "district": 1
+        },
+        {
+          "person": "riley-m-moore",
+          "post": "西弗吉尼亚州第2选区",
+          "party": "共和党",
+          "state": "西弗吉尼亚州",
+          "district": 2
+        },
+        {
+          "person": "bryan-steil",
+          "post": "威斯康星州第1选区",
+          "party": "共和党",
+          "state": "威斯康星州",
+          "district": 1
+        },
+        {
+          "person": "mark-pocan",
+          "post": "威斯康星州第2选区",
+          "party": "民主党",
+          "state": "威斯康星州",
+          "district": 2
+        },
+        {
+          "person": "derrick-van-orden",
+          "post": "威斯康星州第3选区",
+          "party": "共和党",
+          "state": "威斯康星州",
+          "district": 3
+        },
+        {
+          "person": "gwen-moore",
+          "post": "威斯康星州第4选区",
+          "party": "民主党",
+          "state": "威斯康星州",
+          "district": 4
+        },
+        {
+          "person": "scott-fitzgerald",
+          "post": "威斯康星州第5选区",
+          "party": "共和党",
+          "state": "威斯康星州",
+          "district": 5
+        },
+        {
+          "person": "glenn-grothman",
+          "post": "威斯康星州第6选区",
+          "party": "共和党",
+          "state": "威斯康星州",
+          "district": 6
+        },
+        {
+          "person": "thomas-p-tiffany",
+          "post": "威斯康星州第7选区",
+          "party": "共和党",
+          "state": "威斯康星州",
+          "district": 7
+        },
+        {
+          "person": "tony-wied",
+          "post": "威斯康星州第8选区",
+          "party": "共和党",
+          "state": "威斯康星州",
+          "district": 8
+        },
+        {
+          "person": "harriet-m-hageman",
+          "post": "怀俄明州",
+          "party": "共和党",
+          "state": "怀俄明州",
+          "district": 0
+        },
+        {
+          "person": "aumua-amata-coleman-radewagen",
+          "post": "美属萨摩亚代表（无表决权）",
+          "party": "共和党",
+          "state": "美属萨摩亚"
+        },
+        {
+          "person": "eleanor-holmes-norton",
+          "post": "哥伦比亚特区代表（无表决权）",
+          "party": "民主党",
+          "state": "哥伦比亚特区"
+        },
+        {
+          "person": "james-c-moylan",
+          "post": "关岛代表（无表决权）",
+          "party": "共和党",
+          "state": "关岛"
+        },
+        {
+          "person": "kimberlyn-king-hinds",
+          "post": "北马里亚纳群岛代表（无表决权）",
+          "party": "共和党",
+          "state": "北马里亚纳群岛"
+        },
+        {
+          "person": "pablo-jose-hernandez",
+          "post": "波多黎各代表（无表决权）",
+          "party": "民主党",
+          "state": "波多黎各"
+        },
+        {
+          "person": "stacey-e-plaskett",
+          "post": "美属维尔京群岛代表（无表决权）",
+          "party": "民主党",
+          "state": "美属维尔京群岛"
+        }
+      ]
+    }
+  ]
+}

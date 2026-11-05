@@ -1,0 +1,525 @@
+{
+  "id": "jeff-landry",
+  "name_zh": "杰夫·兰德里",
+  "name_en": "Jeff Landry",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Special Envoy to Greenland The White House Special Envoy to Greenland”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/jeff-landry.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.nga.org/wp-content/uploads/2024/01/Governor-Landry-Official-Portrait_square-scaled.jpg",
+    "source": "https://www.nga.org/governor/jeff-landry/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "The White House",
+      "role_en": "Special Envoy to Greenland"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Special Envoy to Greenland The White House Special Envoy to Greenland”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/jeff-landry.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-jeff-landry",
+    "line": "cadre",
+    "subject_id": "jeff-landry",
+    "title": "杰夫·兰德里简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://history.house.gov/People/Detail/17324",
+        "title": "LANDRY, Jeff - United States House of Representatives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "born in Saint Martinville, St. Martin Parish, La., December 23, 1970; United States Army National Guard, 1987-1998; J.D., Loyola University, New Orleans, La., 2004; a Republican; January 3, 2011-January 3, 2013",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.nga.org/governor/jeff-landry/",
+        "title": "Governor Jeff Landry",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Governor of Louisiana; January 8, 2024",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://gov.louisiana.gov/page/meet-the-governor",
+        "title": "Meet the Governor",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Jeff Landry is the 57th Governor of Louisiana.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres1001ih/pdf/BILLS-119hres1001ih.pdf",
+        "title": "H.Res.1001 - 119th Congress",
+        "published_at": "2026-01-14",
+        "checked_at": "2026-10-18",
+        "excerpt": "President Trump appointed Governor Jeff Landry of Louisiana as Special Envoy to Greenland",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.investing.com/news/world-news/trumps-greenland-envoy-landry-arrives-in-nuuk-4694557",
+        "title": "Trump’s Greenland envoy Landry arrives in Nuuk",
+        "published_at": "2026-05-17",
+        "checked_at": "2026-10-18",
+        "excerpt": "U.S. President Donald Trump’s special envoy to Greenland, Louisiana Governor Jeff Landry, arrived in Nuuk",
+        "tier": 2
+      },
+      {
+        "id": "s6",
+        "url": "https://www.govinfo.gov/content/pkg/CDIR-2011-12-01/pdf/CDIR-2011-12-01-LA.pdf",
+        "title": "Congressional Directory 2011 - Louisiana",
+        "published_at": "2011-12-01",
+        "checked_at": "2026-10-18",
+        "excerpt": "B.S., environmental and sustainable resources, University of Louisiana at Lafayette, 1998; J.D., Loyola University, 2004; National Guard, 1987-98",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.bayoubrief.com/2021/02/28/the-brazen-cajun/4/",
+        "title": "The Brazen Cajun - Page 4",
+        "published_at": "2021-02-28",
+        "checked_at": "2026-10-18",
+        "excerpt": "Landry enrolled as a part-time student while working as a law enforcement officer",
+        "tier": 2
+      },
+      {
+        "id": "s8",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-december-21-2025",
+        "title": "Truth Social Posts of December 21, 2025",
+        "published_at": "2025-12-21",
+        "checked_at": "2026-10-18",
+        "excerpt": "I am appointing the GREAT Governor of Louisiana, Jeff Landry, as the United States Special Envoy to Greenland.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "杰夫·兰德里",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1970-12-23",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "路易斯安那州圣马丁维尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1987-07",
+        "source_ids": [
+          "s1",
+          "s6"
+        ],
+        "inferred": true,
+        "basis": "众议院履历记1987年入国民警卫队；未载月份，按 cadre.md 第3节取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1987",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "洛约拉大学（新奥尔良）",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法学博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国路易斯安那州",
+        "role": "州长",
+        "start": {
+          "value": "2024-01-08",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "roles": [
+          "州长"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国总统",
+        "role": "格陵兰岛事务特使",
+        "start": {
+          "value": "2025-12-21",
+          "source_ids": [
+            "s4",
+            "s5",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s4",
+          "s5",
+          "s8"
+        ],
+        "roles": [
+          "格陵兰岛事务特使"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1987-07",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "众议院履历记1987年入国民警卫队；未载月份，按 cadre.md 第3节取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1987",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1998-07",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "来源仅载1998年，按规则取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1998",
+            "duration_years": null
+          }
+        },
+        "organization": "美国陆军国民警卫队",
+        "role": "军人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "军人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦众议院",
+        "role": "众议员（路易斯安那州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "众议员（路易斯安那州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "来源仅载2016年，缺月按规则取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2016",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2024-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "来源载2024年结束任期；与2024年1月就任州长相衔接，月份按相邻履历推测。",
+          "inference": {
+            "rule": "adjacent_entry",
+            "from_date": "2024-01-08",
+            "duration_years": null
+          }
+        },
+        "organization": "美国路易斯安那州",
+        "role": "总检察长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总检察长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024-01-08",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国路易斯安那州",
+        "role": "州长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "州长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-12-21",
+          "source_ids": [
+            "s4",
+            "s5",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国总统",
+        "role": "格陵兰岛事务特使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s4",
+          "s5",
+          "s8"
+        ],
+        "ongoing": true,
+        "roles": [
+          "格陵兰岛事务特使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [
+      {
+        "field": "careers.undergraduate.end",
+        "alternatives": [
+          {
+            "value": "1998",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "1999",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "1999",
+        "reason": "用户选择采用现行众议院人物传记的1999年，保留2011年国会名录的1998年。"
+      }
+    ],
+    "unknowns": [
+      "法学院曾就读南方大学并转入洛约拉大学；开始和转学时间未查清，最高已获学位按众议院履历填写。",
+      "警员、副警长、地方经济发展机构执行主任、律师和企业经历的完整起止年月未查清；Bayou Brief提供部分线索。",
+      "曾于2007年参加州参议院选举；党籍最早有效锚点仍待官方选举记录核验。",
+      "本科毕业年采用1999年；非全日制就读，入学年月未知，不按四年制倒推。",
+      "已查事实：路易斯安那大学拉法叶分校；环境与可持续资源；起始时间未查明；结束时间1999。来源：s1、s6。缺少时间或机构，暂不编入有日期的履历。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "Jeff Landry；美国路易斯安那州",
+    "review_items": []
+  }
+}

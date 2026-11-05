@@ -1,0 +1,906 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "cadre-a000382",
+      "line": "cadre",
+      "subject_id": "a000382",
+      "title": "安杰拉·奥索布鲁克斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/A/ALSOBROOKS,-Angela-Deneece-(A000382)/",
+          "title": "ALSOBROOKS, Angela Deneece | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "born in Suitland, Md., February 23, 1971; ... J.D., University of Maryland School of Law, Baltimore, Md., 1996",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.msa.maryland.gov/msa/mdmanual/39fed/05ussen/html/msa15306.html",
+          "title": "Angela D. Alsobrooks | United States Senate",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Member of U.S. Senate since January 3, 2025. ... Delegate, Democratic Party National Convention, 2008, 2016, 2020, 2024.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.alsobrooks.senate.gov/about/",
+          "title": "About - Senator Angela Alsobrooks",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "she worked as a law clerk in the Howard County Circuit Court, and later the Baltimore City Circuit Court.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Below are all current senators and the committees on which they serve. ... Alsobrooks, Angela D. (D-MD)",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "and been nine Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.senate.gov/senators/NewSenators.htm",
+          "title": "U.S. Senate: New Senators 2001-present",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Angela Alsobrooks | D-MD | General election | January 3, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.law.umaryland.edu/content/articles/name-747558-en.html",
+          "title": "Maryland Carey Law announces 2024 Alumni Honors recipients",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Alsobrooks is a 1996 graduate of Maryland Carey Law and holds a BA in Public Policy from Duke University.",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://elections.maryland.gov/elections/archive/2008/documents/winners_list_2008.pdf",
+          "title": "2008 Presidential Primary Election — Winners List",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Alsobrooks, Angela D. ... Democratic Public ... Filed Regular - 12/03/07 ... Primary Win",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://today.umd.edu/first-term-senator-first-time-professor",
+          "title": "First-Term Senator, First-Time Professor",
+          "published_at": "2026-04-02",
+          "checked_at": "2026-10-17",
+          "excerpt": "She co-teaches in person every week with GVPT Chair Antoine Banks",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.msa.maryland.gov/msa/mdmanual/26excom/html/31redist2025.html",
+          "title": "Redistricting Advisory Commission, Maryland Governor's",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Angela D. Alsobrook, Chair (chosen by Governor)",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "senate",
+        "state:MD"
+      ],
+      "person": {
+        "name": {
+          "value": "安杰拉·奥索布鲁克斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1971-02-23",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "马里兰州苏特兰",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1996",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "按首份毕业后法律书记员任职的开始年份推算：国会官方传记和马里兰州档案馆均记载，1996—1997年任 William D. Quarles 法官法律书记员；来源：https://history.house.gov/People/Listing/A/ALSOBROOKS,-Angela-Deneece-(A000382)/ 、https://www.msa.maryland.gov/msa/mdmanual/39fed/05ussen/html/msa15306.html 。1993年国会办公室实习不计入。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1996",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "马里兰大学法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2008",
+          "source_ids": [
+            "s2",
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：担任民主党全国代表大会代表，2008年；来源：https://www.msa.maryland.gov/msa/mdmanual/39fed/05ussen/html/msa15306.html 。州选务机构原始名单同时记载其民主党代表候选人登记日为2007-12-03，并标记 Primary Win；来源：https://elections.maryland.gov/elections/archive/2008/documents/winners_list_2008.pdf 。未找到公开的选民党籍登记日期；依优先级采用已证实的第2级党内职务，日期保留到年。2007年代表候选人登记属于较低级锚点，不替代第2级锚点；2010年县州检察官竞选不采用，底稿2010年9月入党说法无原始入党依据。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "2008",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": null
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（马里兰州）",
+          "role": "",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s2",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s6"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": null
+        },
+        {
+          "organization": "参议院银行、住房和城市事务委员会",
+          "role": "委员",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        },
+        {
+          "organization": "参议院环境和公共工程委员会",
+          "role": "委员",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        },
+        {
+          "organization": "参议院卫生、教育、劳工和养老金委员会",
+          "role": "委员",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        },
+        {
+          "organization": "参议院老龄问题特别委员会",
+          "role": "委员",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "本科毕业年份为1993年，按规则减4年，推算入学年份为1989年；来源：https://history.house.gov/People/Listing/A/ALSOBROOKS,-Angela-Deneece-(A000382)/ 、https://www.msa.maryland.gov/msa/mdmanual/39fed/05ussen/html/msa15306.html 。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1993",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "杜克大学",
+          "role": null,
+          "program": "公共政策与非裔美国人研究",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1997",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "巴尔的摩市巡回法院",
+          "role": "法律书记员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律书记员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "马里兰州乔治王子县州检察官办公室",
+          "role": "助理州检察官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "助理州检察官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2004",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "马里兰州乔治王子县县长办公室",
+          "role": "教育联络员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "教育联络员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2004",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "马里兰州乔治王子县收入管理局",
+          "role": "执行主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "执行主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2008",
+                "source_ids": [
+                  "s2",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2008",
+                "source_ids": [
+                  "s2",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国民主党全国代表大会",
+              "role": "代表",
+              "roles": [
+                "代表"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-01-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018-12-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "马里兰州乔治王子县州检察官办公室",
+          "role": "州检察官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州检察官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-12-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024-12-02",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "马里兰州乔治王子县政府",
+          "role": "县长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "县长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2019",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": false,
+              "organization": "马里兰州县协会",
+              "role": "董事",
+              "roles": [
+                "董事"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2021",
+                "source_ids": [
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": false,
+              "organization": "马里兰大学弗朗西斯·金·凯里法学院",
+              "role": "校务顾问委员会委员",
+              "roles": [
+                "校务顾问委员会委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s7"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s2",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（马里兰州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（马里兰州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "马里兰州州长选区重划咨询委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s10"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2026",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": false,
+              "organization": "马里兰大学政府与政治系",
+              "role": "授课教师",
+              "roles": [
+                "授课教师"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "person.work_start",
+          "alternatives": [
+            {
+              "value": "1996",
+              "source_ids": [
+                "s1",
+                "s2"
+              ],
+              "inferred": true,
+              "basis": "国会官方传记和州档案馆记载1996—1997年任法院法律书记员，按首份毕业后任职开始年份取值。",
+              "inference": {
+                "rule": "first_full_time_job",
+                "from_date": "1996",
+                "duration_years": null
+              }
+            },
+            {
+              "value": "1997",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": "法学院校友报道将1997年担任助理州检察官表述为 began her career，省略了此前法院法律书记员经历。",
+              "inference": null
+            }
+          ],
+          "selected_value": "1996",
+          "reason": "采用国会官方传记和州档案馆逐项列明的1996—1997年法院任职记录；法学院报道的职业起点表述未覆盖该段经历。交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "法学院学习起始日期：已检索国会官方传记、州档案馆、法学院校友报道及其他公开报道，确认1996年取得J.D.，未找到直接记载入学年份的可靠原文；学习条目暂不列入，1993—1996年履历区间留缺。",
+        "本科实际入学日期及全日制属性：国会官方传记、州档案馆和学校资料未直接写明；入学年按1993年毕业减4年推算，全日制属性留空。",
+        "霍华德县巡回法院法律书记员任职日期：参议员官网确认该段经历并记载其早于巴尔的摩市巡回法院经历，未写起止日期，暂不单列。",
+        "早期律所经历：已检索国会官方传记、州档案馆和参议员官网，没有找到可支持律所名称及任职起止日期的完整记录。",
+        "收入管理局离职月份及2010年至2011年1月3日之间的具体任职状态：国会官方传记和州档案馆只将收入管理局任期写到2010年。",
+        "2024年12月2日辞去县长至2025年1月3日宣誓就任参议员之间的任职状态：已查州档案馆和参议院宣誓名单，未找到其他正式任职记录。",
+        "四项参议院委员会职务的具体就任月日：州档案馆仅记载2025年开始，参议院现行名单及本人官网确认现任委员身份。",
+        "选民党籍登记日期：已检索公开网页、州选务资料和人物官方履历，未找到本人首次登记民主党党籍或改登记日期。",
+        "2008年民主党全国代表大会代表的具体就任月日：州档案馆记载到年，州选务原始名单确认当选及2007年12月3日候选人登记，未以登记日替代代表任职日期。",
+        "马里兰州县协会董事及法学院校务顾问委员会委员的结束日期：州档案馆及法学院报道未写明；两项括注均不主张持续至截止日。",
+        "马里兰大学授课职务：学校2026年4月2日报道确认其当年春季实际授课，未给出正式职称及聘任起止日；记作授课教师，不主张持续至截止日。",
+        "州长选区重划咨询委员会主席具体就任月日：州档案馆只记载2025年开始；现行委员会页面列其为主席。"
+      ],
+      "excluded": [
+        "底稿『1989年入读杜克大学』：重新检索未找到直接记载入学年的原文，改为按1993年毕业减4年推算并留痕。",
+        "底稿『公共政策』：国会官方传记列出公共政策与非裔美国人研究，本科专业采用较完整记载。",
+        "底稿『1993—1996年马里兰大学法学院学习』：毕业年份和学位已证实，入学年份缺直接依据，暂不生成带该起始年的履历条目。",
+        "底稿『1996—1997年霍华德县巡回法院、巴尔的摩市巡回法院法律书记员』：该日期区间仅对巴尔的摩市巡回法院有明确依据，霍华德县经历不套用同一区间。",
+        "底稿『2002—2003年县长办公室教育联络员』：国会官方传记和州档案馆均记载2002—2004年。",
+        "底稿『2003—2010年收入管理局执行主任』：国会官方传记和州档案馆均记载2004—2010年，采用官方任期。",
+        "底稿『2010—2011年州检察官候选人』：候选人身份不作为填补职业履历空档的全职任职。",
+        "底稿『2024—2025年联邦参议员候选人』：竞选身份不作为独立工作单位和任职条目。",
+        "底稿『1996年6月参加工作』：无月份依据，保留1996年。",
+        "底稿『2010年9月加入美国民主党』：无原始入党依据，且已找到优先级更高的2008年党内职务锚点。",
+        "底稿仅列联邦参议员现职：补入第119届国会四项委员会委员职务；小组委员会职务不单列。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

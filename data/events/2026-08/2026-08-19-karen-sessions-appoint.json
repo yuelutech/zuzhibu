@@ -1,0 +1,80 @@
+{
+  "id": "2026-08-19-karen-sessions-appoint",
+  "date": "2026-08-19",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "karen-sessions",
+  "person": {
+    "name_zh": "卡伦·塞申斯",
+    "name_en": "Karen Sessions",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-08",
+  "effective_at": "2026-08-19",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国消费品安全委员会",
+      "role": "委员",
+      "organization_en": "Consumer Product Safety Commission",
+      "role_en": "Commissioner",
+      "start": "2026-08-19",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "卡伦·塞申斯就任美国消费品安全委员会委员",
+  "summary": "消费品安全委员会9月8日公告确认，Karen Sessions于2026-08-19宣誓就任委员。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.cpsc.gov/Newsroom/News-Releases/2026/US-Consumer-Product-Safety-Commission-Welcomes-Commissioners-Sessions-and-Lorenze-Restoring-Commission-Quorum",
+      "title": "U.S. Consumer Product Safety Commission Welcomes Commissioners Sessions and Lorenze, Restoring Commission Quorum",
+      "publisher": "U.S. Consumer Product Safety Commission",
+      "published_at": "2026-09-08",
+      "excerpt": "Commissioner Sessions was sworn in on August 19, 2026, and Commissioner Lorenze was sworn in on September 8, 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "到任：美国消费品安全委员会委员由提名改为正式职务，起始 2026-08"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "karen-sessions",
+    "reason": "新任职务不在各局范围（主要职务“美国消费品安全委员会 委员”：不在各局范围），暂留原局"
+  }
+}

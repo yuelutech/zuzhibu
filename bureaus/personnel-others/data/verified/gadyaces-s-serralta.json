@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-gadyaces-s-serralta",
+      "line": "cadre",
+      "subject_id": "gadyaces-s-serralta",
+      "title": "加迪亚塞斯·S.塞拉尔塔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.usmarshals.gov/who-we-are/about-us/marshals-biography/gadyaces-s-serralta",
+          "title": "Gadyaces S. Serralta, Director | U.S. Marshals Service",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "The Honorable Gadyaces S. Serralta was sworn in as the Director of the United States Marshals Service (USMS) on August 1, 2025.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "inbox",
+        "liuju",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "加迪亚塞斯·S.塞拉尔塔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1968-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：未核出生年和本科毕业年，官方首份执法工作1990年减22，月按7月。",
+          "inference": {
+            "rule": "birth_from_first_job",
+            "from_date": "1990",
+            "duration_years": null
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1990-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3.3条：来源载首份执法工作始于1990年，未载月份，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1990",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "诺瓦东南大学领导学理学硕士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国法警局",
+          "role": "局长",
+          "start": {
+            "value": "2025-08-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1990-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3.3、9.6条：已核首份全职岗位始于1990年；来源未给月份，美国毕业后首份工作按6月记录。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1990",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2018-08",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3.3条：按下一条2018-08任法警的任期衔接推算，警局确切离任月未载。",
+            "inference": {
+              "rule": "adjacent_entry",
+              "from_date": "2018-08",
+              "duration_years": null
+            }
+          },
+          "organization": "迈阿密-戴德警察局",
+          "role": "警员、警长、警督、警监",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-08",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-08-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国佛罗里达南区",
+          "role": "联邦法警",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-08-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国法警局",
+          "role": "局长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "国籍、真实出生年月未知；出生年月按首份工作年推算。",
+        "佛罗里达国际大学刑事司法理学学士、诺瓦东南大学理学硕士毕业年未载，无法写有日期的学习条目。",
+        "迈阿密-戴德警察局各职衔接日及兼任Palmetto Bay警察局长的起止日未知。",
+        "党籍及加入时间未知。"
+      ],
+      "excluded": [
+        "不从任命总统党籍、投票倾向或政治捐款推断本人党籍及入党时间。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": "加迪亚塞斯·S.塞拉尔塔；美国法警局局长",
+      "review_items": [
+        "表外人名建议译法见 names.csv，待人工复核；未标作新华社已核译名。",
+        "译名表内标为待核的机构、职务按现有写法保留；逐项清单见README检查提示。"
+      ]
+    }
+  ],
+  "source_task": "liuju"
+}

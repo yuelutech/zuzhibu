@@ -1,0 +1,578 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-vince-haley",
+      "line": "cadre",
+      "subject_id": "vince-haley",
+      "title": "文斯·黑利简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf",
+          "title": "2026 Annual Report to Congress on White House Staff",
+          "published_at": "2026-07-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "HALEY, VINCENT M. — ASSISTANT TO THE PRESIDENT AND DIRECTOR OF THE DOMESTIC POLICY COUNCIL",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.wm.edu/news/stories/2017/wm-alumnus-to-serve-in-white-house.php",
+          "title": "W&M alumnus to serve in White House",
+          "published_at": "2017-01-11",
+          "checked_at": "2026-10-18",
+          "excerpt": "bachelor’s degree in government; policy director and campaign manager for Gingrich’s 2012 presidential campaign",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.marketscreener.com/insider/VINCE-HALEY-A0GHHJ/",
+          "title": "Vince Haley — Profile",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "law degree and Masters in Foreign Affairs 1992; European Union Law 1993; BA in Government 1988",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://www.washingtonpost.com/local/virginia-politics/parrish-first-republican-to-enter-race-for-virginia-senate/2015/01/28/2e221cee-a6ef-11e4-a2b2-776095f393b2_story.html",
+          "title": "Parrish first Republican to enter race for Virginia Senate",
+          "published_at": "2015-01-29",
+          "checked_at": "2026-10-18",
+          "excerpt": "First-time candidate Vince Haley, 48",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://bgrdc.com/wp-content/uploads/2024/12/Trump-Transition-Update-Vince-Haley.pdf",
+          "title": "Trump Transition Update — Vince Haley",
+          "published_at": "2024-11-26",
+          "checked_at": "2026-10-18",
+          "excerpt": "practiced law in New York and San Francisco; White House speechwriter; 2024 campaign speechwriter",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://www.gillibrand.senate.gov/wp-content/uploads/2025/02/2025.01.31-Letter-to-Policy-Council-re-Hiring-Freeze.pdf",
+          "title": "Letter to Domestic Policy Director",
+          "published_at": "2025-01-31",
+          "checked_at": "2026-10-18",
+          "excerpt": "Mr. Vince Haley / Director / Domestic Policy Council",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.nationalreview.com/2006/11/save-wren-chapel-vince-haley/amp/",
+          "title": "Save the Wren Chapel",
+          "published_at": "2006-11-17",
+          "checked_at": "2026-10-18",
+          "excerpt": "research director at the American Enterprise Institute",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "文斯·黑利",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1966-08",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "2015-01-29报道48岁，出生区间1966-01-30至1967-01-29，取中间月份1966-08。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2015-01-29",
+            "duration_years": 48
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "弗吉尼亚大学法学院",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法学博士",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "白宫",
+          "role": "总统助理、国内政策委员会主任",
+          "start": {
+            "value": "2025-01",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "roles": [
+            "总统助理、国内政策委员会主任"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1984",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "本科1988年毕业减四年。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1988",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1988",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "威廉与玛丽学院",
+          "role": "",
+          "program": "政府学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "法学博士1992年毕业按三年学制倒推。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1992",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1992",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "弗吉尼亚大学法学院",
+          "role": "",
+          "program": null,
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国企业研究所",
+          "role": "研究主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "研究主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "纽特·金里奇总统竞选团队",
+          "role": "政策主任、竞选经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "政策主任、竞选经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-01",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "弗吉尼亚州参议院第12选区",
+          "role": "共和党参选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "共和党参选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "唐纳德·特朗普总统竞选团队",
+          "role": "政策顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "政策顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "白宫",
+          "role": "政策、战略与演讲撰稿顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "政策、战略与演讲撰稿顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2024",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2024",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "唐纳德·特朗普总统竞选团队",
+          "role": "演讲撰稿人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "演讲撰稿人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "白宫",
+          "role": "总统助理、国内政策委员会主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "总统助理、国内政策委员会主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "法律职业的首份工作开始年份未查到，参加工作时间留空。MarketScreener明确Cadwalader任职两年、White & Case三年，缺各段起止年份。",
+        "弗吉尼亚大学外交事务硕士1992年授予、欧洲学院欧盟法硕士1993年授予，入学年份和全日制性质未核明。",
+        "American Solutions政策副总裁、Gingrich Productions职务及共和党全国参议院委员会研究岗位缺起止日期。",
+        "党组织研究职位的任职日期不明，第二级入党锚点待核，暂不使用2015年参选这一较低级锚点。",
+        "出生地和族裔未知。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Vince Haley；白宫",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

@@ -1,0 +1,494 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-c000059",
+      "line": "cadre",
+      "subject_id": "c000059",
+      "title": "肯·卡尔沃特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/10517",
+          "title": "CALVERT, Ken | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Corona, Riverside County, Calif., June 8, 1953; ... chair, Riverside County, Calif., Republican Party, 1984-1988;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/Members/C000059",
+          "title": "Office of the Clerk, U.S. House of Representatives — Ken Calvert",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Ken Calvert ... California (CA) – 41st, Republican ... Oath of Office: Jan. 03, 2025 ... Committee on Appropriations",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://calvert.house.gov/about/committees-and-caucuses",
+          "title": "Committees and Caucuses | Congressman Ken Calvert",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Rep. Calvert currently serves on the House Appropriations Committee, where he serves as the Chairman of the Defense Appropriations Subcommittee.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-CA.htm",
+          "title": "Congressional Directory for the 116th Congress (2019-2020), July 2020 — California",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "general manager, Jolly Fox Restaurant, Corona, 1975-79; Marcus W. Meairs Co., Corona, 1979-81;",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2018-general/party-preference-history.pdf",
+          "title": "November 6, 2018, General Election Candidate Party Preference History",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Candidate Party Preference History for the last 10 years* ... Ken Calvert Republican Riverside 2008-2018",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.denvergazette.com/2024/02/02/duel-in-the-desert-veteran-gop-lawmaker-defends-dramatically-redrawn-inland-district-key-to-house-control-fba328e5-6001-557c-9760-851a5438d9a0/",
+          "title": "Duel in the desert: Veteran GOP lawmaker defends dramatically redrawn inland district key to House control",
+          "published_at": "2024-02-02",
+          "checked_at": "2026-10-18",
+          "excerpt": "he started representing the 41st Congressional District in January 2023.",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2005-07-11/pdf/CDIR-2005-07-11-CA-H-43.pdf",
+          "title": "Congressional Directory for the 109th Congress — California, pages 39–40",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "San Diego State University, B.A. in economics, 1975; ... president and general manager, Ken Calvert Real Properties, 1981–92;",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:CA"
+      ],
+      "person": {
+        "name": {
+          "value": "肯·卡尔沃特",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1953-06-08",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "加利福尼亚州科罗纳",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1975",
+          "source_ids": [
+            "s5",
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "国会名录记载其1975—1979年任 Jolly Fox Restaurant 总经理，这是本次查到的最早有起始年份的全职岗位，取1975年为参加工作时间；来源：https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-CA.htm 。月份没有依据。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1975",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "圣迭戈州立大学经济学文学学士学位",
+          "source_ids": [
+            "s5",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1984",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s6",
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：就任加利福尼亚州里弗赛德县共和党主席，1984年，任期1984—1988年；来源：https://history.house.gov/People/Detail/10517 ，https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-CA.htm 。第1级检索查到加州州务卿2018年候选人党籍历史表，其2008—2018年区间仅覆盖此前十年，没有记载首次登记或改登记日期，不能将2008年当作入党时间；来源：https://elections.cdn.sos.ca.gov/statewide-elections/2018-general/party-preference-history.pdf 。未找到本人公开宣布加入或改投共和党的日期。1982年争取国会提名属于较低级参选线索；1968、1972年尼克松竞选青年主席及 Veysey 选区青年主席属于竞选职务，不作党组织任职锚点；底稿1984年6月没有月份依据。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "1984",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（加利福尼亚州第41选区）",
+          "role": "",
+          "start": {
+            "value": "2023-01",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s7"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1979",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Jolly Fox Restaurant",
+          "role": "总经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1979",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1981",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Marcus W. Meairs Co.",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1981",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1992",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Ken Calvert Real Properties",
+          "role": "总裁、总经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总裁",
+            "总经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1984",
+                "source_ids": [
+                  "s1",
+                  "s5",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1988",
+                "source_ids": [
+                  "s1",
+                  "s5",
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "加利福尼亚州里弗赛德县共和党",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s5",
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（加利福尼亚州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（加利福尼亚州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "学习履历起始时间：检索众议院历史人物页、2005及2020年国会名录、学校域名和入学年份关键词，已确认1973年获查菲学院文学副学士、1975年获圣迭戈州立大学经济学文学学士，未找到可采用的两校入学日期；未写缺少起始日期的学习条目。",
+        "查菲学院专业及两校学习形式：已打开的国会官方人物页和名录没有说明查菲学院专业及是否全日制；议员官网传记和长传记打开失败，未作为来源。",
+        "参加工作月份：2005及2020年国会名录仅记载1975年起任餐厅总经理，没有月份；本批不补月份。",
+        "早期国会助理经历：国会名录记载曾任 Victor V. Veysey 议员助理，没有任职起止日期及全职性质，未列入履历或用作工作起点。",
+        "Marcus W. Meairs Co. 职务：2005及2020年国会名录只列单位和1979—1981年，没有职位名称。",
+        "历史选区交接：已确认曾代表第44和第42选区，现代表第41选区；本次打开的官方来源未完整列明各选区起止时间，国会履历合并为1993年起担任加利福尼亚州联邦众议员，现选区开始时间另据报道记录为2023年1月。",
+        "众议院拨款委员会任职起始日期：众议院书记官现行名单和议员委员会页确认在任，没有首次就任日期。",
+        "国防拨款小组委员会主席起始日期：议员官网委员会页确认现职，没有就任日期，未补入带起始日期的履历括注。",
+        "族裔：已打开的国会人物页、名录及议员委员会页未提供本人族裔自述或官方统计。",
+        "加利福尼亚州共和党众议院代表团领导身份及国会党团共同主席：本次打开的页面未提供完整任职起始日期，未列入带日期履历。"
+      ],
+      "excluded": [
+        "底稿『1975—1984年餐饮和房地产企业经营者』：官方名录列明三个单位及各自年份，改为逐单位记录。",
+        "底稿『1988—1992年肯·卡尔沃特国会竞选委员会共和党联邦众议员候选人』：未找到这一持续任期和单位的依据；官方人物页另记1982年争取第98届国会提名未成功。",
+        "底稿『查菲社区学院商业专业1971—1973年』：已打开的一级来源只确认学校、文学副学士及1973年，没有入学日期和专业。",
+        "底稿『圣迭戈州立大学1973—1975年』：已确认1975年毕业及经济学文学学士，未找到可采用的1973年入学依据；不按四年制倒推替代转学日期。",
+        "底稿『2025年1月开始代表第41选区』：书记官页面记载的是本届宣誓日期；报道明确其2023年1月开始代表第41选区。",
+        "底稿『众议院拨款委员会国防小组委员会主席』单列现任：按本批规则，小组委员会不单列；现任保留众议院拨款委员会委员。",
+        "底稿『1975年6月参加工作』：公开名录仅支持1975年，6月不采用。",
+        "底稿『1984年6月加入美国共和党』：党组织任职锚点只到1984年，6月不采用。",
+        "查到的『2008—2018年共和党登记历史』：该表只展示此前十年，2008年不是已确认的首次登记日期，不作第1级入党日期锚点。",
+        "查到的1968、1972年竞选青年主席及其他竞选协助经历：属于竞选职务，不作党组织任职锚点。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（加利福尼亚州第41选区），美国国会众议院，Bioguide C000059",
+      "review_items": [
+        "学习履历缺两校入学日期，尚未形成从大学起的完整时间线。",
+        "现选区开始日期2023年1月采用二级报道，继续补国会官方任期记录。",
+        "历史选区任期需逐段补齐后再拆分展示。",
+        "完整简历卡五项首段字段及现职证据已具备，履历覆盖缺口见 unknowns。",
+        "本事实包为研究会话候选稿，交下一会话逐字段独立核查。",
+        "表外机构译名复核：Jolly Fox Restaurant、Marcus W. Meairs Co.、Ken Calvert Real Properties。"
+      ]
+    }
+  ]
+}

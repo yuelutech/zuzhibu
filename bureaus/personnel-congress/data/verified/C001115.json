@@ -1,0 +1,574 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001115",
+      "line": "cadre",
+      "subject_id": "c001115",
+      "title": "迈克尔·克劳简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/C/CLOUD,-Michael-(C001115)/",
+          "title": "CLOUD, Michael | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Baton Rouge, East Baton Rouge Parish, La., May 13, 1975; ... B.S., Oral Roberts University, Tulsa, Okla., 1997;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/C001115",
+          "title": "Office of the Clerk, U.S. House of Representatives — Michael Cloud",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Texas (TX) – 27th, Republican ... Committee on Appropriations ... Committee on Oversight and Government Reform",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://cloud.house.gov/about-michael",
+          "title": "About Michael",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Representative Michael Cloud ... represents the 27th Congressional District of Texas. ... He defends American values and Constitutional liberties.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://cloud.house.gov/posts/congressman-cloud-sworn-into-115th-congress",
+          "title": "Congressman Cloud Sworn into 115th Congress",
+          "published_at": "2018-07-10",
+          "checked_at": "2026-10-19",
+          "excerpt": "Representative Michael Cloud was added to the rolls of the House upon executing the oath of office.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://rollcall.com/2018/07/10/republican-michael-cloud-sworn-in-to-house-replacing-blake-farenthold/",
+          "title": "Republican Michael Cloud Sworn In to House, Replacing Blake Farenthold",
+          "published_at": "2018-07-10",
+          "checked_at": "2026-10-19",
+          "excerpt": "He chaired the Victoria County Republican Party for seven years, beginning in 2010. ... he joined the State Republican Executive Committee in 2016",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://ivoterguide.com/candidate/39281/race/23553/election/1343",
+          "title": "Voter Guide Profile for TX U.S. Representative 27 candidate - Michael Cloud",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Bright Idea Media, Owner, 2008-2018 ... Faith Family Church, Communications and Media Director, 1997-2015 ... Victoria County Republican Chair, 2010-2017",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://oversight.house.gov/subcommittee/full-committee/",
+          "title": "Full Committee on Oversight and Government Reform",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Republican Members ... Michael Cloud ... TX-27",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.thebendmag.com/when-opportunity-strikes/",
+          "title": "When Opportunity Strikes - The Bend Magazine",
+          "published_at": "2018-09-28",
+          "checked_at": "2026-10-19",
+          "excerpt": "After graduating from Oral Roberts University with a degree in Mass Media Communications, he moved to Victoria.",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-TX-H-27.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Michael Cloud",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Baton Rouge, LA, May 13, 1975; ... B.S., Oral Roberts University, Tulsa, OK, 1997;",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://cloud.house.gov/press",
+          "title": "Press",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Assumed office on July 10, 2018",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:TX"
+      ],
+      "person": {
+        "name": {
+          "value": "迈克尔·克劳",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1975-05-13",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "路易斯安那州巴吞鲁日",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "奥罗尔·罗伯茨大学大众传媒理学学士学位",
+          "source_ids": [
+            "s1",
+            "s9",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2010",
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：2010年开始担任维多利亚县共和党主席；来源：https://rollcall.com/2018/07/10/republican-michael-cloud-sworn-in-to-house-replacing-blake-farenthold/ ，https://ivoterguide.com/candidate/39281/race/23553/election/1343 。检索本人官网、州共和党组织及公开选民登记线索，未找到第1级党籍登记或本人宣布加入共和党的证据。2016年州共和党执行委员会职务晚于2010年，不取；2017年参选、2018年共和党初选及2018年就任公职属于更低级锚点，不取。底稿2010年1月及网络线索中的2010年5月均缺本次可打开原文支持，不补月份。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "2010",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（得克萨斯州第27选区）",
+          "role": "",
+          "start": {
+            "value": "2018-07-10",
+            "source_ids": [
+              "s5",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5",
+            "s11"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院监督与政府改革委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1993",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": true,
+            "basis": "国会官方传记及国会名录记载1997年取得本科理学学士学位；按美国本科标准学制4年倒推：1997－4＝1993。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1997",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1997",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "奥罗尔·罗伯茨大学",
+          "role": null,
+          "program": "大众传媒",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s9",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Faith Family Church",
+          "role": "传播与媒体主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "传播与媒体主任"
+          ],
+          "role_category": null,
+          "role_basis": "iVoterGuide 将此职列于 WORK & MILITARY，所列1997—2015年为任职跨度；是否中断及全职属性未获证实。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Bright Idea Media",
+          "role": "企业主",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "企业主"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2010",
+                "source_ids": [
+                  "s6",
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2017",
+                "source_ids": [
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "得克萨斯州维多利亚县共和党",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s6",
+                "s7"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2016",
+                "source_ids": [
+                  "s6"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": false,
+              "organization": "得克萨斯州共和党执行委员会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s6"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-07-10",
+            "source_ids": [
+              "s5",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（得克萨斯州第27选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5",
+            "s11"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（得克萨斯州第27选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "current_roles[0].start / careers[3].start",
+          "alternatives": [
+            {
+              "value": "2018-06-30",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": "众议院历史人物页将任期范围列为 June 30, 2018-present；该日为特别选举日。",
+              "inference": null
+            },
+            {
+              "value": "2018-07-10",
+              "source_ids": [
+                "s5",
+                "s11"
+              ],
+              "inferred": false,
+              "basis": "议员官网宣誓公告记载当天宣誓并加入众议院名册；官网新闻资料页明确写 Assumed office on July 10, 2018。",
+              "inference": null
+            }
+          ],
+          "selected_value": "2018-07-10",
+          "reason": "按本批起始日期取实际就任日的规则，采用明确记载宣誓入册及 assumed office 的2018年7月10日；2018年6月30日另作当选日。两项均为一级来源，列入复核清单交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查阅国会官方传记、国会名录、议员官网、Roll Call及iVoterGuide；最早有年份的职业条目为1997年起任Faith Family Church传播与媒体主任，但未找到全职属性或确为首份全职工作的原文，work_start留null。",
+        "Faith Family Church任职分段：iVoterGuide记为1997—2015年；Vote Smart搜索线索出现1997—2008年及2011—2015年，但传记原文多次返回403，未作为来源，2008—2011年是否中断待核。",
+        "早期履历月份：学校、教会、Bright Idea Media及县共和党职务未找到可采用的起止月份，不补月份。",
+        "最高学位专业的一级来源：国会官方传记及国会名录只写B.S.，大众传媒专业由The Bend人物访谈报道支持；检索奥罗尔·罗伯茨大学官网未找到本人学位专业记录。",
+        "委员会起始日期：书记官现行议员页确认两项委员会职务，但未给开始日期；不把第119届国会开幕日或委员会公告日代作就任日。",
+        "州共和党执行委员会任职结束日期：Roll Call明确2016年加入，未找到可打开原文明确结束日期，不主张持续至今。",
+        "族裔：查阅国会官方人物页、书记官议员页及本人官网，未找到本人自述或官方统计支持的族裔字段。"
+      ],
+      "excluded": [
+        "底稿『1997年6月参加工作』：本次来源未证实首份全职工作的月份，且全职属性未明，不采用。",
+        "底稿『1997—2010年得克萨斯州维多利亚市媒体与营销企业工作人员、企业主』：单位和职务混合，起止缺证；按可打开来源分别记录Faith Family Church与Bright Idea Media。",
+        "底稿『2010年1月加入美国共和党』：月份无来源；改按2010年出任县共和党主席的第2级锚点，只保留年份。",
+        "底稿现职起点『2025-01』：属于新一届任期，不是首次担任得克萨斯州第27选区联邦众议员的日期；改为2018-07-10。",
+        "底稿将县共和党主席单列为主线工作：按同期党务兼职归入Bright Idea Media任职条目的annotations。",
+        "议员官网About Michael页面监督委员会说明中的『118th Congress』及旧称『Oversight and Accountability』：该段届次文字滞后，现职采用书记官第119届页面及委员会现行成员页。",
+        "检索命中的马萨诸塞州自由意志党参议员候选人Michael Cloud、职业橄榄球运动员Mike Cloud：同名异人，不采用。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（得克萨斯州第27选区）＋美国国会众议院；Bioguide C001115",
+      "review_items": [
+        "参加工作时间缺首份全职工作证据，完整简历卡的五项必填条件尚缺一项。",
+        "一级来源对任期起点存在选举日与就任日口径差异，已选2018-07-10，交AI政见确认。",
+        "核实Faith Family Church任职是否存在2008—2011年中断。",
+        "iVoterGuide职业日期为二级候选人资料页证据，补查本人公开履历或原任职机构记录。",
+        "本科入学年份采用1997年毕业减4的规则推算；iVoterGuide另列1993—1997年，与推算相符。",
+        "本事实包为研究候选稿，独立核查由下一会话逐字段进行。"
+      ]
+    }
+  ]
+}

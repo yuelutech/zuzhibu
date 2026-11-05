@@ -1,0 +1,623 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "lisa-su-20261018",
+      "line": "cadre",
+      "subject_id": "lisa-su",
+      "title": "苏姿丰简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.amd.com/en/corporate/leadership/lisa-su.html",
+          "title": "Dr. Lisa Su — AMD",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "member of the technical staff at Texas Instruments Inc. in the Semiconductor Process and Device Center from 1994 to 1995",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://news.mit.edu/2025/lisa-su-mit-2026-commencement-address-1211",
+          "title": "Lisa Su ’90, SM ’91, PhD ’94 — MIT",
+          "published_at": "2025-12-11",
+          "checked_at": "2026-10-18",
+          "excerpt": "bachelor’s, master’s, and doctoral degrees in electrical engineering from MIT",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.munzinger.de/register/portrait/biographien/su%20lisa/00/32264",
+          "title": "Lisa Su — Munzinger Biographie",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "7. November 1969 Tainan (Taiwan)",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://www.forbes.com/profile/lisa-su/",
+          "title": "Lisa Su — Forbes",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Citizenship United States",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312526129057/d85856ddef14a.htm",
+          "title": "AMD 2026 proxy statement",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "President and Chief Executive Officer and a member of the Board since October 2014",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "苏姿丰"
+      ],
+      "person": {
+        "name": {
+          "value": "苏姿丰",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1969-11",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "台湾台南",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1994-06",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1994博士毕业后任TI技术人员；美国毕业月取5月，次月6月参加工作。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1994-05",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "麻省理工学院",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "电气工程博士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [
+          {
+            "value": "美国国家工程院院士",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "美国艺术与科学院院士",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "超威半导体公司（AMD）",
+          "role": "董事长、总裁、首席执行官",
+          "roles": [
+            "董事长",
+            "总裁",
+            "首席执行官"
+          ],
+          "start": {
+            "value": "2022-02",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1986-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "1990本科毕业减4年，入学月取9月。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1990",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1990-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "本科毕业年1990；毕业月取5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1990",
+              "duration_years": null
+            }
+          },
+          "organization": "麻省理工学院",
+          "role": null,
+          "program": "电气工程",
+          "degree_awarded": {
+            "value": "理学学士学位",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1989-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "1991硕士毕业减2年；可与本科交叠，未另定实际入学日。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1991",
+              "duration_years": 2
+            }
+          },
+          "end": {
+            "value": "1991-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "毕业月取5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1991",
+              "duration_years": null
+            }
+          },
+          "organization": "麻省理工学院",
+          "role": null,
+          "program": "电气工程",
+          "degree_awarded": {
+            "value": "理学硕士学位",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "master",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "麻省理工学院",
+          "role": null,
+          "program": "电气工程博士学位取得",
+          "degree_awarded": {
+            "value": "博士学位",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "1994年博士毕业后，工作月份按毕业次月取6月。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "1994-05",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1995",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "得克萨斯仪器公司",
+          "role": "半导体工艺与器件中心技术人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "半导体工艺与器件中心技术人员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "国际商业机器公司（IBM）",
+          "role": "工程师、半导体研发副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工程师",
+            "半导体研发副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "飞思卡尔半导体公司",
+          "role": "首席技术官、网络与多媒体事业部高级副总裁兼总经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席技术官",
+            "网络与多媒体事业部高级副总裁兼总经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014-10",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "超威半导体公司（AMD）",
+          "role": "高级副总裁兼全球事业部总经理、首席运营官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "高级副总裁兼全球事业部总经理",
+            "首席运营官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014-10",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2022-02",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "超威半导体公司（AMD）",
+          "role": "总裁、首席执行官、董事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总裁",
+            "首席执行官",
+            "董事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2022-02",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "超威半导体公司（AMD）",
+          "role": "董事长、总裁、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": true,
+          "roles": [
+            "董事长",
+            "总裁",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "超威半导体公司（AMD）",
+      "conflicts": [],
+      "unknowns": [
+        "硕士入学按标准学制推算，与本科有交叠；博士入学时间未知，保留1994毕业节点。",
+        "IBM和飞思卡尔内部岗位交接时间未核到；AMD首席运营官确切开始月份待补。",
+        "PCAST委员、SIA董事会主席、穆罕默德·本·扎耶德人工智能大学理事均有现行官方来源，到任日期未核到，待补括注。",
+        "未核到本人族裔分类自述。"
+      ],
+      "excluded": [
+        "荣誉博士未作为最高学历。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Lisa Su；超威半导体公司（AMD）；董事长、总裁、首席执行官",
+      "review_items": [
+        "IBM官网所述engineering positions概括为工程师。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-2"
+}

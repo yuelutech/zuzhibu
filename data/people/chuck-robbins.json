@@ -1,0 +1,738 @@
+{
+  "id": "chuck-robbins",
+  "name_zh": "查克·罗宾斯",
+  "name_en": "Chuck Robbins",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "chuck-robbins.jpg",
+    "source": "维护者提供（查克·罗宾斯_Chuck-Robbins_思科.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_Selva%2C_Chuck_Robbins_and_Michael_Leiter_180405-D-SW162-2183_%2826406966297%29.jpg"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Cisco Systems, Inc.",
+      "role_en": "Chair of the Board"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-chuck-robbins",
+    "line": "cadre",
+    "subject_id": "chuck-robbins",
+    "title": "查克·罗宾斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/executives/robbins-chuck.html",
+        "title": "Chuck Robbins (Cisco Newsroom executive biography)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Chuck Robbins serves as the Chair and Chief Executive Officer of Cisco, which has been connecting the world for the past 40 years.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/executives/robbins-chuck.html",
+        "title": "Chuck Robbins (Cisco Newsroom executive biography)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "He was named CEO in July of 2015, before being elected Chair of the Board on December 11, 2017.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/executives/robbins-chuck.html",
+        "title": "Chuck Robbins (Cisco Newsroom executive biography)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "He holds a bachelor’s degree in mathematics with a concentration in computer science from the University of North Carolina at Chapel Hill, where he was honored as a Distinguished Alumnus in 2022.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/executives/robbins-chuck.html",
+        "title": "Chuck Robbins (Cisco Newsroom executive biography)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Outside of his work at Cisco, Robbins is the current Chair of the Business Roundtable; on the Board of Directors for BlackRock; Chairman Emeritus of the US-Japan Business Council; a Board Member of the US-Saudi Business Council; a Member of the International Business Council for the World Economic Forum; a Member of the American Heart Association’s CEO Roundtable; and a member of the 2019 class of the American Academy of Arts and Sciences.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm",
+        "title": "Cisco Systems, Inc. Annual Report on Form 10-K for fiscal 2026 (Information about our Executive Officers)",
+        "published_at": "2026-09-02",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Robbins serves as our Chief Executive Officer since July 2015, as a member of the Board of Directors since May 2015, and as Chair of the Board since December 2017. Mr. Robbins joined Cisco in December 1997, from which time until March 2002 he held a number of managerial positions within Cisco’s sales organization.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm",
+        "title": "Cisco Systems, Inc. Annual Report on Form 10-K for fiscal 2026 (Information about our Executive Officers)",
+        "published_at": "2026-09-02",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Robbins was promoted to Vice President in March 2002, assuming leadership of Cisco’s U.S. channel sales organization. Additionally, in July 2005, Mr. Robbins assumed leadership of Cisco’s Canada channel sales organization.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm",
+        "title": "Cisco Systems, Inc. Annual Report on Form 10-K for fiscal 2026 (Information about our Executive Officers)",
+        "published_at": "2026-09-02",
+        "checked_at": "2026-10-21",
+        "excerpt": "In December 2007, Mr. Robbins was promoted to Senior Vice President, U.S. Commercial, and, in August 2009 he was appointed Senior Vice President, U.S. Enterprise, Commercial and Canada. In July 2011, Mr. Robbins was named Senior Vice President, Americas.",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm",
+        "title": "Cisco Systems, Inc. Annual Report on Form 10-K for fiscal 2026 (Information about our Executive Officers)",
+        "published_at": "2026-09-02",
+        "checked_at": "2026-10-21",
+        "excerpt": "In October 2012, Mr. Robbins was promoted to Senior Vice President, Worldwide Field Operations, in which position he served until assuming the role of Chief Executive Officer. Mr. Robbins is also a member of the board of directors of BlackRock, Inc. (since 2017).",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000150/csco-20251027.htm",
+        "title": "Cisco Systems, Inc. 2025 Proxy Statement (DEF 14A)",
+        "published_at": "2025-10-28",
+        "checked_at": "2026-10-21",
+        "excerpt": "Charles H. Robbins BOARD CHAIR Age: 59 Director Since: 2015",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm",
+        "title": "Cisco Systems, Inc. Annual Report on Form 10-K for fiscal 2026 (Information about our Executive Officers; name, age, and position as of August 31, 2026)",
+        "published_at": "2026-09-02",
+        "checked_at": "2026-10-21",
+        "excerpt": "Charles H. Robbins 60 Chair and Chief Executive Officer",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000119312515169227/d920287d8k.htm",
+        "title": "Cisco Systems, Inc. Form 8-K (CEO appointment)",
+        "published_at": "2015-05-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "On May 1, 2015, the Board of Directors (the “Board”) of Cisco Systems, Inc. (“Cisco”) appointed Charles H. Robbins as Chief Executive Officer effective July 26, 2015. Mr. Robbins was also elected to the Board effective May 1, 2015.",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000119312515169227/d920287d8k.htm",
+        "title": "Cisco Systems, Inc. Form 8-K (CEO appointment)",
+        "published_at": "2015-05-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Robbins, 49, joined Cisco in December 1997, from which time until March 2002 he held a number of managerial positions within Cisco’s sales organization.",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://www.mercurynews.com/2015/07/30/qa-chuck-robbins-ceo-of-cisco-systems/",
+        "title": "Q&A: Chuck Robbins, CEO of Cisco Systems (The Mercury News)",
+        "published_at": "2015-07-30",
+        "checked_at": "2026-10-21",
+        "excerpt": "Birthplace: Grayson, Ga. Age: 49",
+        "tier": 2
+      },
+      {
+        "id": "s14",
+        "url": "https://www.mercurynews.com/2015/07/30/qa-chuck-robbins-ceo-of-cisco-systems/",
+        "title": "Q&A: Chuck Robbins, CEO of Cisco Systems (The Mercury News)",
+        "published_at": "2015-07-30",
+        "checked_at": "2026-10-21",
+        "excerpt": "A: I have been in the technology industry for 28 years. I started as an applications developer on an IBM mainframe at a financial institution.",
+        "tier": 2
+      },
+      {
+        "id": "s15",
+        "url": "https://www.mercurynews.com/2015/07/30/qa-chuck-robbins-ceo-of-cisco-systems/",
+        "title": "Q&A: Chuck Robbins, CEO of Cisco Systems (The Mercury News)",
+        "published_at": "2015-07-30",
+        "checked_at": "2026-10-21",
+        "excerpt": "Education: University of North Carolina, math major with a concentration in computer science",
+        "tier": 2
+      },
+      {
+        "id": "s16",
+        "url": "https://kenaninstitute.unc.edu/event/deans-speaker-series-chuck-robbins/",
+        "title": "Dean's Speaker Series: Chuck Robbins (Kenan Institute of Private Enterprise, UNC Kenan-Flagler Business School)",
+        "published_at": "2019-04-25",
+        "checked_at": "2026-10-22",
+        "excerpt": "Prior to joining Cisco, Chuck held management positions at Bay Networks and Ascend Communications.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s5",
+          "s11"
+        ],
+        "inferred": false,
+        "basis": "公司年报、8-K 称 Mr. Robbins",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s13"
+        ],
+        "inferred": false,
+        "basis": "出生于美国佐治亚州格雷森（圣何塞水星报2015年专访资料栏）",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1966-01",
+        "source_ids": [
+          "s10",
+          "s9",
+          "s13",
+          "s12"
+        ],
+        "inferred": true,
+        "basis": "按年龄陈述推：2026-08-31 文件称 60 岁；2025-10-28 文件称 59 岁；2015-07-30 文件称 49 岁；2015-05-04 文件称 49 岁；出生在 1965-10-29 至 1966-05-04 之间，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-08-31",
+          "duration_years": null
+        }
+      },
+      "birth_place": {
+        "value": "佐治亚州格雷森",
+        "source_ids": [
+          "s13"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "大学本科",
+        "source_ids": [
+          "s3",
+          "s15",
+          "s16"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "北卡罗来纳大学教堂山分校数学专业学士学位",
+        "source_ids": [
+          "s3",
+          "s15"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "查克·罗宾斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "思科公司",
+        "role": "董事长、首席执行官、董事",
+        "start": {
+          "value": "2017-12",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s5",
+          "s10",
+          "s11"
+        ],
+        "roles": [
+          "董事长",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997-12",
+          "source_ids": [
+            "s5",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002-03",
+          "source_ids": [
+            "s5",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "思科公司",
+        "role": "销售部门多个管理职务",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "销售部门多个管理职务"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002-03",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2005-07",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "思科公司",
+        "role": "美国渠道销售副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "美国渠道销售副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005-07",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007-12",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "思科公司",
+        "role": "美国和加拿大渠道销售副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "美国和加拿大渠道销售副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007-12",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009-08",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "思科公司",
+        "role": "高级副总裁（美国商业市场）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁（美国商业市场）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009-08",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011-07",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "思科公司",
+        "role": "高级副总裁（美国企业、商业市场和加拿大）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁（美国企业、商业市场和加拿大）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-07",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012-10",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "思科公司",
+        "role": "高级副总裁（美洲）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁（美洲）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-10",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-07",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "思科公司",
+        "role": "全球现场运营高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "全球现场运营高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-07",
+          "source_ids": [
+            "s5",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-12",
+          "source_ids": [
+            "s5",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "思科公司",
+        "role": "首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-12",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "思科公司",
+        "role": "董事长、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s5",
+          "s10"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2017-07",
+              "source_ids": [
+                "s8",
+                "s4"
+              ],
+              "inferred": true,
+              "basis": "来源只写 2017 年起任贝莱德董事，月份无记载取 7 月（写法第 6 节）",
+              "inference": {
+                "rule": "mid_year_default",
+                "from_date": "2017",
+                "duration_years": null
+              }
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "贝莱德集团",
+            "role": "董事",
+            "roles": [
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s8",
+              "s4"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "思科公司",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月：只有年龄陈述（2015-05-04、2015-07-30为49岁，2025-10-28为59岁，2026-08-31为60岁），维基百科作1965或1966年，未检得来源",
+      "参加工作：第一份工作单位名称（维基百科称北卡罗来纳国民银行，未核）和起始年月未检得",
+      "北卡罗来纳大学教堂山分校毕业年份（维基百科作1987年，所引水星报专访未写年份）和学位类别（理学或文学）未检得",
+      "海湾网络公司、Ascend Communications 公司任职起止年月和先后顺序未检得",
+      "美国商业圆桌会议主席任职起始时间未检得"
+    ],
+    "excluded": [
+      "北卡罗来纳大学教堂山分校数学（计算机科学方向）学习：起止时间无来源，履历不单列，学位见首段",
+      "海湾网络公司（Bay Networks）管理职务：起始时间无来源，履历不单列",
+      "Ascend Communications 公司管理职务：起始时间无来源，履历不单列",
+      "思科公司董事（2015-05起）：止期无来源，主线条目已结束，不能写成在任，不写进括注",
+      "美国商业圆桌会议主席：起始时间无来源，不写进履历括注"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Chuck Robbins；思科公司；董事长、首席执行官、董事",
+    "review_items": []
+  }
+}

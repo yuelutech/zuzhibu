@@ -1,0 +1,506 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "marc-andreessen-20261018",
+      "line": "cadre",
+      "subject_id": "marc-andreessen",
+      "title": "马克·安德森简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://a16z.com/author/marc-andreessen/",
+          "title": "Marc Andreessen — a16z",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "a cofounder and general partner at the venture capital firm Andreessen Horowitz",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm",
+          "title": "Meta 2026 proxy statement",
+          "published_at": "2026-04-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "Co-founder & General Partner (2009-present)",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://distributedmuseum.illinois.edu/exhibit/marc_andreessen/",
+          "title": "Marc Andreessen — Illinois Distributed Museum",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Cedar Falls, Iowa on July 9, 1971",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.ebsco.com/research-starters/biography/marc-andreessen",
+          "title": "Marc Andreessen — EBSCO",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Marc Andreessen is a prominent American entrepreneur and investor",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://www.encyclopedia.com/people/science-and-technology/technology-biographies/marc-andreessen",
+          "title": "Marc Andreessen — Leading American Businesses",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "After graduation, Andreessen took a job",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "马克·安德森"
+      ],
+      "person": {
+        "name": {
+          "value": "马克·安德森",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1971-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "艾奥瓦锡达福尔斯",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1993-06",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "1993年本科毕业后入职EIT；美国毕业月取5月、次月6月参加工作。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1993-05",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "伊利诺伊大学厄巴纳—香槟分校",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "计算机科学理学学士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "安德森·霍洛维茨公司",
+          "role": "联合创始人、普通合伙人",
+          "roles": [
+            "联合创始人",
+            "普通合伙人"
+          ],
+          "start": {
+            "value": "2009-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "元宇宙平台公司（Meta）",
+          "role": "董事",
+          "roles": [
+            "董事"
+          ],
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "Coinbase 公司",
+          "role": "董事",
+          "roles": [
+            "董事"
+          ],
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "Samsara 公司",
+          "role": "董事",
+          "roles": [
+            "董事"
+          ],
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "伊利诺伊大学厄巴纳—香槟分校",
+          "role": null,
+          "program": "计算机科学",
+          "degree_awarded": {
+            "value": "理学学士学位",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993-06",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "1993年毕业后的工作，毕业次月取6月。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "1993-05",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Enterprise Integration Technologies 公司",
+          "role": "程序员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "程序员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "网景公司",
+          "role": "联合创始人、首席技术官、产品执行副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人",
+            "首席技术官",
+            "产品执行副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国在线公司",
+          "role": "首席技术官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席技术官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999-10",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Loudcloud 公司（后更名 Opsware 公司）",
+          "role": "联合创始人、董事长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人",
+            "董事长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "安德森·霍洛维茨公司",
+          "role": "联合创始人、普通合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联合创始人",
+            "普通合伙人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "安德森·霍洛维茨公司",
+      "conflicts": [],
+      "unknowns": [
+        "Ning联合创始人、首席技术官经历由伊利诺伊大学简介确认，起止日期未核齐。",
+        "EIT正式职位未列，程序员为已确认专业身份的概括。",
+        "其他被投企业董事职务到任日期未核齐；Meta、Coinbase、Samsara现任董事已获一级来源。",
+        "未核到族裔自述。"
+      ],
+      "excluded": [
+        "NCSA为在校兼职，不作为首次全职工作。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Marc Andreessen；安德森·霍洛维茨公司；联合创始人、普通合伙人",
+      "review_items": [
+        "名称必须按现有译名表复核；1999年两个连续岗位呈年节点时需校验排序。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-2"
+}

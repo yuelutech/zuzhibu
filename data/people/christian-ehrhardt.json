@@ -1,0 +1,244 @@
+{
+  "id": "christian-ehrhardt",
+  "name_zh": "克里斯蒂安·埃尔哈特",
+  "name_en": "Christian Ehrhardt",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "resume": {
+    "id": "cadre-christian-ehrhardt",
+    "line": "cadre",
+    "subject_id": "christian-ehrhardt",
+    "title": "克里斯蒂安·埃尔哈特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+        "title": "Nominations Sent to the Senate",
+        "published_at": "2026-09-28",
+        "checked_at": "2026-10-18",
+        "excerpt": "Christian Ehrhardt, of New York, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Cameroon.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://actucameroun.com/2026/09/29/christian-jove-ehrhardt-nomme-ambassadeur-des-etats-unis-au-cameroun/",
+        "title": "Christian Jové Ehrhardt nommé Ambassadeur des Etats-Unis au Cameroun",
+        "published_at": "2026-09-29",
+        "checked_at": "2026-10-18",
+        "excerpt": "Diplomate de carrière du Service extérieur américain depuis 2007; diplômé de la St. Lawrence University et du U.S. Naval War College.",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://www.washingtonpost.com/politics/interactive/2026/09/21/how-trump-turned-refugee-bureau-into-410-million-deportation-operation/",
+        "title": "How Trump turned a refugee bureau into a deportation operation",
+        "published_at": "2026-09-21",
+        "checked_at": "2026-10-18",
+        "excerpt": "Ehrhardt, 41",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://presidence.ga/2026/06/19/le-president-de-la-republique-recoit-le-sous-secretaire-adjoint-americain-christian-ehrhardt/",
+        "title": "Le Président reçoit Christian EHRHARDT",
+        "published_at": "2026-06-19",
+        "checked_at": "2026-10-18",
+        "excerpt": "Christian EHRHARD, Sous-Secrétaire adjoint du Bureau de la Population, des Réfugiés et des Migrations des Etats-Unis",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.senate.gov/legislative/nom_cmtec.htm",
+        "title": "Nominations in Committee (Civilian)",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Christian Ehrhardt, of New York, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Cameroon.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "克里斯蒂安·埃尔哈特",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1985-03",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "2026年9月21日报道41岁，出生区间1984年9月至1985年9月，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-09-21",
+          "duration_years": 41
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2007-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "2007年加入外交系统；未查到更早全职工作或任职月份，取7月",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "2007",
+          "duration_years": null
+        }
+      },
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国国务院人口、难民和移民局",
+        "role": "副助理国务卿",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "roles": [
+          "副助理国务卿"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国驻喀麦隆大使馆",
+        "role": "大使",
+        "start": {
+          "value": "2026-09-28",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "roles": [
+          "大使"
+        ],
+        "sector": "politics",
+        "appointment_state": "提名人选"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国务院",
+        "role": "外交官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "外交官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": true
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "圣劳伦斯大学、美国海军战争学院毕业，学位种类、专业及就读年份未查到。",
+      "2007年外交系统入职为已查到的最早全职工作，是否另有更早职业未知。",
+      "副助理国务卿任职起点、历次外交安全岗位名称和起止时间未查到。",
+      "纽约为籍贯来源，未据此填出生城市。出生日期为年龄区间推算。",
+      "未查到党籍、入党锚点和族裔。",
+      "国务院个人简历页访问返回403，现职用加蓬总统府会见记录核对。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "Christian Ehrhardt；美国国务院人口、难民和移民局",
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-18",
+  "events": [
+    "2026-09-28-christian-ehrhardt-nominate"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-09-28",
+      "event": "2026-09-28-christian-ehrhardt-nominate",
+      "reason": ""
+    }
+  ],
+  "origin": "一局动态新建；补采简历 bureaus/personnel-whitehouse/data/verified/christian-ehrhardt.json（sanju-baigong，程序检查通过，待独立核查）",
+  "name_zh_pending": true
+}

@@ -1,0 +1,735 @@
+{
+  "id": "william-dally",
+  "name_zh": "比尔·达利",
+  "name_en": "William Dally",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“英伟达公司 首席科学家 NVIDIA Chief Scientist”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/william-dally.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://research.nvidia.com/sites/default/files/person/william-dally.jpg",
+    "source": "https://research.nvidia.com/person/william-dally"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "NVIDIA",
+      "role_en": "Chief Scientist"
+    }
+  ],
+  "notes": [
+    "SEC field blank: no individual biography in the latest NVIDIA annual report or proxy statement."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“英伟达公司 首席科学家 NVIDIA Chief Scientist”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "william-dally-20261018",
+    "line": "cadre",
+    "subject_id": "william-dally",
+    "title": "比尔·达利简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://research.nvidia.com/person/william-dally",
+        "title": "William Dally — NVIDIA Research",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Bill Dally joined NVIDIA in January 2009 as chief scientist",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://eng.vt.edu/about/distinguished-alumni/academy-of-engineering-excellence/william-dally.html",
+        "title": "William J. Dally — Virginia Tech",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Dally began his career as a member of the technical staff for Bell Laboratories in 1980.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://cap.stanford.edu/profiles/frdActionServlet?choiceId=printerprofile&profileId=41356&profileversion=full",
+        "title": "William Dally — Stanford current profile",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "William Dally; Adjunct Professor, Computer Science",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "比尔·达利",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1958-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "未找到权威出生日期或带日期年龄；1980年本科毕业，按规则减22得1958年，月默认7月。",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1980",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1980-06",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "1980年本科毕业并在贝尔实验室开始职业生涯；默认6月。",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "1980",
+          "duration_years": null
+        }
+      },
+      "education": null,
+      "degree": {
+        "value": "加州理工学院计算机科学博士学位",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [
+        {
+          "value": "美国国家工程院院士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        }
+      ],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "英伟达公司",
+        "role": "首席科学家、研究高级副总裁",
+        "start": {
+          "value": "2009-01",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [
+          "首席科学家",
+          "研究高级副总裁"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1976",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1980年本科毕业，按美国四年学制倒推。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1980",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1980",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "弗吉尼亚理工大学",
+        "role": null,
+        "program": "电气工程",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1980-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "官方母校履历明确1980年开始职业生涯，按美国毕业翌月取6月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1980",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1982",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "贝尔实验室",
+        "role": "技术人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "技术人员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1983",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1986",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "加州理工学院",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": {
+          "value": "博士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1986",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1989",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "麻省理工学院",
+        "role": "助理教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "助理教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1989",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1996",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "麻省理工学院",
+        "role": "副教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1996",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "麻省理工学院",
+        "role": "教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2004",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2005",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "工程学讲席教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程学讲席教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "工程学讲席教授、计算机科学系主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程学讲席教授",
+          "计算机科学系主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009-01",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "英伟达公司",
+        "role": "首席科学家、研究高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "首席科学家",
+          "研究高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "工程学讲席教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程学讲席教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "研究教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研究教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "斯坦福大学",
+        "role": "兼职教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "兼职教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "英伟达公司",
+    "conflicts": [],
+    "unknowns": [
+      "国籍未取得合格来源。",
+      "斯坦福大学电气工程硕士1981年毕业，入学年月未找到。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": [
+      "中文名采用译名表Bill Dally对应比尔·达利；身份由NVIDIA页面同列William Dally与Bill Dally锁定。",
+      "出生日期为规则推算值；维基及派生页面出现1960年8月，未找到其可用原始出处，未采用。",
+      "大学兼职单列同期履历；2021年总统科技顾问委员会旧职未作现职。"
+    ]
+  }
+}

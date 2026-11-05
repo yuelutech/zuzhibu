@@ -1,0 +1,717 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001126",
+      "line": "cadre",
+      "subject_id": "c001126",
+      "title": "迈克·凯里简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/C/CAREY,-Mike-(C001126)/",
+          "title": "CAREY, Mike | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Sabina, Clinton County, Ohio; March 13, 1971;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://carey.house.gov/about/",
+          "title": "About Mike | Representative Mike Carey",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Congressman Mike Carey was sworn in as a member of the United States House of Representatives on November 4, 2021",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://govrelations.osu.edu/alumni",
+          "title": "Alumni in Government | The Ohio State University",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Mike Carey (OH-15)\nMember of Congress, U.S. House of Representatives\nBachelor of Arts in History (1993)",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-OH.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Ohio",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "A.S., economics, Marion Military Institute, Marion, AL, 1991; B.A., history, Ohio State University, Columbus, OH, 1993;",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://clerk.house.gov/committees/BU00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on the Budget",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "119th Congress, 2nd Session\nCommittee on the Budget\nMike Carey, OH",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://clerk.house.gov/committees/WM00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on Ways and Means",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "119th Congress, 2nd Session\nCommittee on Ways and Means\nMike Carey, OH",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://clerk.house.gov/committees/HA00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on House Administration",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "119th Congress, 2nd Session\nCommittee on House Administration\nMike Carey, OH",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.eenews.net/articles/coal-executive-to-fight-biden-agenda-from-house-perch/",
+          "title": "Coal executive to fight Biden agenda from House perch — E&E News by POLITICO",
+          "published_at": "2021-08-11",
+          "checked_at": "2026-10-19",
+          "excerpt": "Carey switched to a consulting role with the company during the campaign.",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://www.fec.gov/data/candidate/H8OH18096/",
+          "title": "CAREY, MIKE — Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Candidate for House Ohio - 18 ID: H8OH18096 REPUBLICAN PARTY",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.fec.gov/data/committee/C00436147/?cycle=2008",
+          "title": "CAREY FOR CONGRESS — Committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Principal campaign committee ID: C00436147 Registration date: June 20, 2007",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:OH"
+      ],
+      "person": {
+        "name": {
+          "value": "迈克·凯里",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1971-03-13",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "俄亥俄州萨比纳",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "俄亥俄州立大学历史学文学学士学位",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2007-06",
+          "source_ids": [
+            "s10",
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：共和党联邦众议员参选人 Mike Carey 的竞选委员会 CAREY FOR CONGRESS（C00436147）于2007-06-20在联邦选举委员会登记；来源：https://www.fec.gov/data/committee/C00436147/?cycle=2008 ，候选人党籍及委员会对应关系：https://www.fec.gov/data/candidate/H8OH18096/ 。未找到第1级选民党籍登记或公开宣布加入、转党记录，也未找到第2级党组织任职记录。1996年、1998年州众议院竞选已有媒体线索，但当时的党籍、登记和初选日期尚未取得可打开的原始记录，未作为已核实的更早锚点；2021年登记及初选晚于本次取得的2007年登记，不采用。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2007-06-20",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（俄亥俄州第15选区）",
+          "role": "",
+          "start": {
+            "value": "2021-11-04",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院筹款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院预算委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院行政管理委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "按已核实的1993年本科毕业年减美国本科标准学制4年，推为1989年；实际转学及入学时间未查到。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1993",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s1",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄亥俄州立大学",
+          "role": null,
+          "program": "历史学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国陆军预备役",
+          "role": "军官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "军官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1991",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄亥俄州参议员 Merle Grace Kearns 办公室",
+          "role": "工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员"
+          ],
+          "role_category": {
+            "value": "staff",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "官方传记仅写 staff，按原文职位类别译为工作人员。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1998",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦众议员 Robert William Ney 办公室",
+          "role": "工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员"
+          ],
+          "role_category": {
+            "value": "staff",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "官方传记仅写 staff，按原文职位类别译为工作人员。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄亥俄煤炭协会",
+          "role": "会长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "会长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Murray Energy Corporation（后更名为 American Consolidated Natural Resources Inc.）",
+          "role": "政府事务副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "政府事务副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "American Consolidated Natural Resources Inc.",
+          "role": "顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "顾问"
+          ],
+          "role_category": {
+            "value": "a consulting role",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "报道写明在2021年竞选期间转为 consulting role，译为顾问；具体结束时间未披露。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-11-04",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（俄亥俄州第15选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（俄亥俄州第15选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.军事服役单位",
+          "alternatives": [
+            {
+              "value": "美国陆军预备役，1989—1999年",
+              "source_ids": [
+                "s1",
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "俄亥俄州及阿拉巴马州陆军国民警卫队",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "美国陆军预备役，1989—1999年",
+          "reason": "采用众议院现行官方传记和国会名录的一致记载；媒体的国民警卫队说法保留供复核。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过众议院官方传记、议员官网、国会名录及公开媒体；1989年起的预备役服役未确认属于全职现役，1991—1993年任职与大学学习重叠，1995年起的国会工作人员经历也未披露全职性质，work_start 留空。",
+        "本科实际入学时间：查过俄亥俄州立大学校友页面、众议院传记和国会名录，没有找到入学或转学日期；1989年为毕业年减4的规则推算值。",
+        "马里恩军事学院学习起始时间：国会名录证实1991年取得经济学理学副学士学位，未找到入学日期；未将底稿1990—1992年写入履历。",
+        "履历缺口：1993—1995年未找到有起止时间的学习或工作记录。",
+        "入党早期锚点：已检索选民登记、州党组织、州选务机构、FEC及国会名录；1996年和1998年州众议院竞选存在媒体线索，州选务历史结果页面未能打开，当时党籍、首次登记及初选日期仍待取得原始证据。",
+        "委员会任职起始时间：第119届书记官名单确认筹款、预算及行政管理委员会委员身份，未取得各项实际生效日期，current_roles.start 留空。",
+        "企业更名及任职交接日期：E&E News 将 Murray Energy 与 American Consolidated Natural Resources 连续叙述，未给出企业更名和副总裁职务承接的具体日期。",
+        "顾问职务结束时间：2021年报道证实转任 American Consolidated Natural Resources 顾问，没有找到终止日期，end 留空且不主张持续至今。",
+        "俄亥俄煤炭协会董事会主席任期：查到活动主办方2012年议程列其为主席，但没有找到实际就任和终止日期，未编入有起止时间的履历。",
+        "众议院通信标准委员会主席：查到2025年组织会议通知署名其为主席，尚缺截至截止日的现行成员页及任职生效日期。",
+        "族裔：已查阅的官方传记、国会名录和大学校友页面没有本人自述或官方统计依据。",
+        "军衔：官方传记和国会名录只证实军官身份，没有具体军衔。"
+      ],
+      "excluded": [
+        "底稿『现职始于2025年1月』：这是新一届国会的任期节点；同一选区实际宣誓就职日期为2021年11月4日。",
+        "底稿『1989年参加工作』：预备役服役不含已核实的全职现役性质，未据此确定参加工作时间。",
+        "底稿『1995年7月参加工作』：没有首份全职工作及月份依据。",
+        "底稿『马里恩军事学院1990—1992年、文学副学士』：官方记载为1991年取得经济学理学副学士，入学日期未查到。",
+        "底稿『俄亥俄州立大学1992—1995年』：官方传记、大学官网和国会名录一致记载1993年取得学士学位。",
+        "底稿『1995—2021年美国联合自然资源公司政府关系副总裁、俄亥俄煤炭协会董事会主席』：不同单位和职务被合并；已找到的报道分别记载1999年起领导煤炭协会、2012年起任煤炭企业高管，2021年转为顾问。",
+        "底稿『1995—1999年兼任美国陆军国民警卫队军人』：官方记载为1989—1999年美国陆军预备役军官，未采用原拆分和军种写法。",
+        "底稿『2021年8月加入美国共和党』：2021年初选晚于已打开的2007年共和党联邦参选委员会登记。",
+        "底稿『2025年起任众议院筹款委员会委员』：现任委员身份已确认，首次就任日期未证实。",
+        "查到『November 2, 2021-present』的官方国会服务区间：11月2日为特别选举日；本包就任字段按议员官网明确记载的11月4日宣誓日期填写。",
+        "2025年通信标准委员会组织会议预告：未据预告推定会议实际举行或其职务持续至截止日。",
+        "维基百科、搜索摘要、聚合人物页及底稿：仅作检索线索，未作为事实来源。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（俄亥俄州第15选区），美国国会众议院；Bioguide C001126",
+      "review_items": [
+        "参加工作时间缺证，暂不标记为完整简历卡。",
+        "优先补取1996年、1998年州众议院竞选原始记录，复核2007年入党推断锚点。",
+        "复核本科转学经历；规则推算的1989年并非已证实的俄亥俄州立大学入学年。",
+        "复核军事单位一级与二级来源差异。",
+        "补核众议院通信标准委员会及国会图书馆联合委员会是否属于截止日应列现职。",
+        "Merle Grace Kearns、Robert William Ney 等表外译名待译名表管理者确认。",
+        "本包为研究候选事实包，未完成另一次会话的独立核查。"
+      ]
+    }
+  ]
+}

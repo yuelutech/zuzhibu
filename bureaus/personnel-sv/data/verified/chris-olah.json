@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "chris-olah-20261018",
+      "line": "cadre",
+      "subject_id": "chris-olah",
+      "title": "克里斯·奥拉简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.anthropic.com/company/leadership",
+          "title": "Anthropic Leadership",
+          "excerpt": "Chris Olah co-founded Anthropic and leads its interpretability research",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://colah.github.io/cv.pdf",
+          "title": "Chris Olah个人简历",
+          "excerpt": "Oct. 2015 - 2016 Google Brain, Research Associate.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 2
+        },
+        {
+          "id": "s3",
+          "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+          "title": "WIRED：Why AI Breaks Bad",
+          "excerpt": "Olah’s immigration status as a Canadian",
+          "published_at": "2025-10-27",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://colah.github.io/personal/dating/",
+          "title": "Chris Olah个人公开自述",
+          "excerpt": "born 1992",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "克里斯·奥拉"
+      ],
+      "person": {
+        "name": {
+          "value": "克里斯·奥拉",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "加拿大",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1992-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1992",
+            "duration_years": null
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "2015-10",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": "履历明确区分此前实习和2015年10月起研究助理，取已查到首个毕业后连续研究岗位。",
+          "inference": null
+        },
+        "education": null,
+        "degree": null,
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "Anthropic公司",
+          "role": "联合创始人兼可解释性研究负责人",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-10",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016-10",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "谷歌大脑",
+          "role": "研究助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016-10",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018-10",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "谷歌大脑",
+          "role": "研究科学家",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018-10",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021-07",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2021",
+              "duration_years": null
+            }
+          },
+          "organization": "开放人工智能研究中心（OpenAI）",
+          "role": "技术人员、可解释性研究负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2021",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "Anthropic公司",
+          "role": "联合创始人兼可解释性研究负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "Anthropic公司",
+      "conflicts": [],
+      "unknowns": [
+        "大学校名和专业未查明，WIRED确认大学退学且无学位。",
+        "2009年多伦多大学、2010年加拿大环境部短期研究助理的全职性质未查明，未用作参加工作年月。"
+      ],
+      "excluded": [
+        "2011年、2014年、2015年实习不作为首份全职工作。"
+      ],
+      "country_profile": "other",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

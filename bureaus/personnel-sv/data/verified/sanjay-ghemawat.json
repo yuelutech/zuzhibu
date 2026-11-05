@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "sanjay-ghemawat-20261018",
+      "line": "cadre",
+      "subject_id": "sanjay-ghemawat",
+      "title": "桑杰·盖马瓦特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.discoveryloop.com/",
+          "title": "Discovery Loop",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Sanjay Ghemawat.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-666.pdf",
+          "title": "The Modified Object Buffer — Sanjay Ghemawat doctoral thesis",
+          "published_at": "1995-09",
+          "checked_at": "2026-10-18",
+          "excerpt": "S.B., Cornell University (1987); S.M., Massachusetts Institute of Technology (1990).",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://stephenibaraki.com/acm/interviews/v0413/sanjay_ghemawat_acm.html",
+          "title": "ACM interview with Sanjay Ghemawat",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Sanjay Ghemawat has been at Google since 1999.",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://www.businesstoday.in/technology/news/story/who-is-sanjay-ghemawat-indian-american-engineer-behind-googles-foundational-systems-departs-after-27-years-547609-2026-08-06",
+          "title": "Who is Sanjay Ghemawat?",
+          "published_at": "2026-08-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "American computer scientist.",
+          "tier": 2
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "桑杰·盖马瓦特",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1966-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "报道仅给1966年；无出生月，按规则取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1966",
+            "duration_years": null
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "麻省理工学院计算机科学博士学位",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "探索循环公司",
+          "role": "联合创始人",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "联合创始人"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1983",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "1987年本科毕业减标准4年。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1987",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1987",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "康奈尔大学",
+          "role": null,
+          "program": "计算机科学",
+          "degree_awarded": {
+            "value": "理学学士学位",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2026",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "谷歌公司",
+          "role": "研究员、高级研究员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "研究员",
+            "高级研究员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "Discovery Loop",
+      "conflicts": [],
+      "unknowns": [
+        "首份全职工作在DEC的起始年月未找到；不得把博士毕业日直接当参加工作日。",
+        "硕博入学时间、Discovery Loop创始任职日期及Google各级职务交接月份未找到。",
+        "参加工作时间：已查所列来源，未找到可采用依据。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": [
+        "有来源的无起始日期经历：麻省理工学院；计算机科学；终点：1990；来源：s2、s3",
+        "有来源的无起始日期经历：麻省理工学院；计算机科学；终点：1995-09；来源：s2、s3",
+        "有来源的无起始日期经历：数字设备公司系统研究中心；研究员；终点：1999；来源：s3",
+        "有来源的无起始日期经历：Discovery Loop；联合创始人；终点：未找到；来源：s1",
+        "来源s1阅读记录：官网创始团队名单。",
+        "来源s3阅读记录：此前为DEC研究员；硕博及本科专业为计算机科学。",
+        "来源s4阅读记录：生于1966年；2026年离开Google；末职Senior Fellow。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

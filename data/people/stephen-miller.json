@@ -1,0 +1,421 @@
+{
+  "id": "stephen-miller",
+  "name_zh": "斯蒂芬·米勒",
+  "name_en": "Stephen Miller",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Assistant to the President and Deputy Chief of Staff for Policy and Homeland Security Advisor The White House Assistant to the President and Deputy Chief of Staff for Policy and Homeland Security Advisor”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/stephen-miller.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "The White House",
+      "role_en": "Assistant to the President and Deputy Chief of Staff for Policy and Homeland Security Advisor"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Assistant to the President and Deputy Chief of Staff for Policy and Homeland Security Advisor The White House Assistant to the President and Deputy Chief of Staff for Policy and Homeland Security Advisor”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/stephen-miller.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-stephen-miller",
+    "line": "cadre",
+    "subject_id": "stephen-miller",
+    "title": "斯蒂芬·米勒简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf",
+        "title": "2026 Annual Report to Congress on White House Staff",
+        "published_at": "2026-07-01",
+        "checked_at": "2026-10-18",
+        "excerpt": "MILLER, STEPHEN ... DEPUTY CHIEF OF STAFF FOR POLICY AND HOMELAND SECURITY ADVISOR",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://en.wikipedia.org/wiki/Stephen_Miller",
+        "title": "Stephen Miller",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "born August 23, 1985; Duke ... 2003; press secretary ... December 2007; June 2009 ... Sessions",
+        "tier": 3
+      },
+      {
+        "id": "s3",
+        "url": "https://aflegal.org/about/",
+        "title": "About America First Legal",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Stephen Miller ... Co-Founder ... joined the administration on January 20, 2025",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.ebsco.com/research-starters/biography/stephen-miller",
+        "title": "Stephen Miller — EBSCO Research Starters",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Stephen Miller was born on August 23, 1985; Following his 2007 graduation from Duke, Miller worked as a press secretary",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "斯蒂芬·米勒",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1985-08",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "加利福尼亚州圣莫尼卡",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2007-06",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "2007年大学毕业后首份工作为巴赫曼新闻秘书；毕业月按美国学年取5月，工作月取次月",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "2007-05",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "杜克大学政治学专业",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "白宫",
+        "role": "总统助理、政策事务副幕僚长、国土安全顾问",
+        "start": {
+          "value": "2025-01-20",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "roles": [
+          "总统助理、政策事务副幕僚长、国土安全顾问"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "杜克大学",
+        "role": "政治学专业学习",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "政治学专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国联邦众议员米歇尔·巴赫曼办公室",
+        "role": "新闻秘书",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "新闻秘书"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-01",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "特朗普总统竞选团队",
+        "role": "高级政策顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级政策顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021-01",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "白宫",
+        "role": "总统高级政策顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总统高级政策顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "America First Legal 基金会",
+        "role": "联合创办人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联合创办人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-01-20",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "白宫",
+        "role": "总统助理、政策事务副幕僚长、国土安全顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总统助理、政策事务副幕僚长、国土安全顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "约翰·沙德格办公室新闻秘书经历有来源，起止日期未查清，未编入时间线。",
+      "塞申斯办公室由新闻秘书转通讯负责人、竞选团队职务变动日期未查清；同单位合并列职。",
+      "创办人是历史身份；AFL当前网页未列他担任运营管理职务，未作现任。",
+      "入党时间未查到本人宣布、登记、选举或党职锚点；竞选雇员经历不用于推断入党。",
+      "约翰·谢德格众议员办公室通讯联络主任和塞申斯办公室任职的具体起止日期未由原始材料确认；塞申斯条目起始日期留空。文学学士的具体学位名称未获学校原始材料，degree留空。",
+      "已查事实：美国联邦参议员杰夫·塞申斯办公室；政策顾问、通讯联络负责人；起始时间未查明；结束时间未查明。来源：s4。缺少时间或机构，暂不编入有日期的履历。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Stephen Miller；美国白宫",
+    "review_items": []
+  }
+}

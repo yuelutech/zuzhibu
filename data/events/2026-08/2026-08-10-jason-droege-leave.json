@@ -1,0 +1,85 @@
+{
+  "id": "2026-08-10-jason-droege-leave",
+  "date": "2026-08-10",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "jason-droege",
+  "person": {
+    "name_zh": "杰森·德罗格",
+    "name_en": "Jason Droege",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-07-30",
+  "effective_at": "2026-08-10",
+  "ended_roles": [
+    {
+      "organization": "Scale AI公司",
+      "role": "临时首席执行官",
+      "organization_en": "Scale AI",
+      "role_en": "Interim Chief Executive Officer",
+      "start": "2025-06",
+      "end": "2026-08-10",
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "scale-ceo"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "杰森·德罗格结束Scale AI公司临时首席执行官任期",
+  "summary": "Scale AI公布德索萨于8月10日接任首席执行官，结束德罗格自2025年6月开始的临时任期。德罗格将在随后数月协助交接；交接期正式职务和其他现职未知。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "scale-ceo",
+      "url": "https://scale.com/blog/scale-appoints-new-ceo",
+      "title": "Scale AI Appoints Francis deSouza as CEO to Lead Next Phase of Company’s Growth",
+      "publisher": "Scale AI",
+      "published_at": "2026-07-30",
+      "excerpt": "Jason Droege, who has led the company as interim CEO since June 2025",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094711",
+    "corrections": [
+      "核查只因来源记录问题搁置：删去未核实的来源，其余字段已核实"
+    ],
+    "reasons": [],
+    "precheck": [
+      "ended_roles[0]：“Interim Chief Executive Officer”不在核实来源的摘录和网页标题里",
+      "类别：核实来源的摘录和网页标题里没有表示“离任”的字样"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-aug-jason-droege",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 jason-droege（库里没有此人）"
+    ],
+    "notes": [
+      "原任“Scale AI公司 临时首席执行官 Scale AI Interim Chief Executive Officer”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "jason-droege",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

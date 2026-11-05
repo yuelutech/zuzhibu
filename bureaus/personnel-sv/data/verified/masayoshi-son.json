@@ -1,0 +1,465 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "masayoshi-son-20261018",
+      "line": "cadre",
+      "subject_id": "masayoshi-son",
+      "title": "孙正义简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://group.softbank/en/about/officer/son",
+          "title": "Biography: Masayoshi Son — SoftBank Group",
+          "published_at": "2026-06-24",
+          "checked_at": "2026-10-18",
+          "excerpt": "Date of birth: August 11, 1957; Sep. 1981 Founded Nihon SoftBank",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.forbes.com/profile/masayoshi-son/",
+          "title": "Masayoshi Son — Forbes",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Citizenship Japan; Bachelor of Arts/Science, University of California, Berkeley",
+          "tier": 2
+        },
+        {
+          "id": "s3",
+          "url": "https://news.berkeley.edu/2012/04/30/uc-berkeley-faculty-staff-invited-to-host-japanese-students/",
+          "title": "UC Berkeley faculty, staff invited to host Japanese students",
+          "published_at": "2012-04-30",
+          "checked_at": "2026-10-18",
+          "excerpt": "Masayoshi Son, a 1980 graduate of UC Berkeley who majored in economics",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.munzinger.de/register/portrait/biographien/Masayoshi%20Son/00/28774",
+          "title": "Masayoshi Son — Munzinger Biographie",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "11. August 1957 Tosu",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://www.forbes.com/forbes/1999/0705/6401146a.html",
+          "title": "Master of the Internet",
+          "published_at": "1999-07-05",
+          "checked_at": "2026-10-18",
+          "excerpt": "entered a small college in 1975 and jumped two years later to the University of California, Berkeley",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "孙正义"
+      ],
+      "person": {
+        "name": {
+          "value": "孙正义",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "日本",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1957-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "鸟栖",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1981-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "公司正式履历以1981年9月创办Nihon SoftBank为起点；早期在校创业的全职性质未核到",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1981-09",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "加利福尼亚大学伯克利分校经济学专业",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "学士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "软银集团",
+          "role": "代表董事、董事长、首席执行官",
+          "roles": [
+            "代表董事",
+            "董事长",
+            "首席执行官"
+          ],
+          "start": {
+            "value": "2020-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "软银公司",
+          "role": "董事、创始人",
+          "roles": [
+            "董事",
+            "创始人"
+          ],
+          "start": {
+            "value": "2021-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "Arm公司",
+          "role": "董事长、董事",
+          "roles": [
+            "董事长",
+            "董事"
+          ],
+          "start": {
+            "value": "2023-08",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1975-09",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "美国学年入学月取9月",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1975-09",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1977-05",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "美国学年结束或毕业月取5月",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1977-05",
+              "duration_years": null
+            }
+          },
+          "organization": "圣名学院",
+          "role": null,
+          "program": "经济学、计算机科学",
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1977-09",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "美国学年入学月取9月",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1977-09",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1980-05",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "美国学年结束或毕业月取5月",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1980-05",
+              "duration_years": null
+            }
+          },
+          "organization": "加利福尼亚大学伯克利分校",
+          "role": null,
+          "program": "经济学",
+          "degree_awarded": {
+            "value": "学士学位",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1981-09",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "日本软银公司",
+          "role": "创始人、董事长、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始人",
+            "董事长",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2020-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "软银集团",
+          "role": "董事长、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "董事长",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2020-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "软银集团",
+          "role": "代表董事、董事长、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "代表董事",
+            "董事长",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "软银集团",
+      "conflicts": [],
+      "unknowns": [
+        "在校时期Unison World等创业的确切起止日期、职务与全职性质未核到，未列为首份全职工作。",
+        "公司历次改名时点、阿里巴巴及旧Arm任职的终止时间，本轮来源未完整列出。"
+      ],
+      "excluded": [],
+      "country_profile": "other",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Masayoshi Son；软银集团；代表董事、董事长、首席执行官",
+      "review_items": [
+        "最高学位按Forbes学士级别和校方经济学专业记录；未把Arts/Science字段擅改成具体文学或理学学士。",
+        "1981年以来早期公司称谓和Chairman译法按现行软银英文履历保留；需要维护者对照日文历年有价证券报告进一步细分。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-2"
+}

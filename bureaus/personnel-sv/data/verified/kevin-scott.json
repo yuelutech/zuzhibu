@@ -1,0 +1,438 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "kevin-scott-20261018",
+      "line": "cadre",
+      "subject_id": "kevin-scott",
+      "title": "凯文·斯科特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://news.microsoft.com/source/exec/kevin-scott/",
+          "title": "Kevin Scott — Microsoft Source",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Kevin Scott is Microsoft’s chief technology officer.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.stellantis.com/content/dam/stellantis-corporate/investors/bond-info/stellantis/additional-documents-incorporated-by-reference/Stellantis_NV_2021_Annual_Report.pdf",
+          "title": "Stellantis N.V. Annual Report and Form 20-F 2021",
+          "published_at": "2022-02-25",
+          "checked_at": "2026-10-18",
+          "excerpt": "Kevin Scott M 1972 Non-Executive Director U.S.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.lynchburg.edu/kevin-scott/",
+          "title": "Kevin Scott ’94 — University of Lynchburg",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Kevin Scott ’94 ... Major: Computer Science [Scientific Emphasis] (BS)",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://sequoiacap.com/podcast/training-data-kevin-scott",
+          "title": "Microsoft CTO Kevin Scott on How Far Scaling Laws Will Extend",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "I sent my resume cold into Google in 2003.",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://news.microsoft.com/source/2017/01/24/microsoft-appoints-kevin-scott-as-chief-technology-officer/",
+          "title": "Microsoft appoints Kevin Scott as Chief Technology Officer",
+          "published_at": "2017-01-24",
+          "checked_at": "2026-10-18",
+          "excerpt": "This is an expansion of Scott’s new role at LinkedIn as senior vice president of Infrastructure.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://techcrunch.com/2007/10/16/exclusive-admob-snares-googles-kevin-scott/",
+          "title": "Exclusive: AdMob Snares Google's Kevin Scott",
+          "published_at": "2007-10-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "AdMob will today welcome former engineering manager at Google Kevin Scott",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "凯文·斯科特"
+      ],
+      "person": {
+        "name": {
+          "value": "凯文·斯科特",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1972-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "年报给出1972年，月份未载，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1972",
+            "duration_years": null
+          }
+        },
+        "birth_place": {
+          "value": "弗吉尼亚林奇堡",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2003-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "本人叙述2003年离开博士研究转入谷歌，月份未载，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2003",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "维克森林大学计算机科学专业",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "理学硕士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "微软公司",
+          "role": "首席技术官",
+          "roles": [
+            "首席技术官"
+          ],
+          "start": {
+            "value": "2017-01",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "Shopify 公司",
+          "role": "董事",
+          "roles": [
+            "董事"
+          ],
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1990-09",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "本科1994年毕业减4年，入学按9月。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1994",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1994-05",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "1994年毕业，毕业月按5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1994",
+              "duration_years": null
+            }
+          },
+          "organization": "林奇堡学院",
+          "role": null,
+          "program": "计算机科学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "2003年入职，月份取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2003",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2007-10",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "谷歌公司",
+          "role": "工程师、高级工程经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工程师",
+            "高级工程经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007-10",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "AdMob 公司",
+          "role": "工程与运营主管",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工程与运营主管"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-07",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "来源只载2011年；无相邻月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2011",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2017-01",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "领英公司",
+          "role": "工程与运营高级副总裁、基础设施高级副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工程与运营高级副总裁",
+            "基础设施高级副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-01",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "微软公司",
+          "role": "首席技术官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": true,
+          "roles": [
+            "首席技术官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "微软公司",
+      "conflicts": [],
+      "unknowns": [
+        "维克森林大学硕士起止年份未从已打开原文核得；弗吉尼亚大学博士未完成，首段不写博士学位。",
+        "AdMob并入谷歌后继续任移动广告工程主管，具体入职和离职年月未核得。",
+        "Shopify董事起任年月未核得。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Kevin Scott；微软公司；首席技术官",
+      "review_items": [
+        "首份全职工作按本人2003年结束研究生阶段加入谷歌的叙述确定。",
+        "TechCrunch仅支撑2007年10月转职及工程主管类别，未扩大为副总裁头衔。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-2"
+}

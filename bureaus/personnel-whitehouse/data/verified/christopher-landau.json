@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-christopher-landau",
+      "line": "cadre",
+      "subject_id": "christopher-landau",
+      "title": "克里斯托弗·兰多简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.state.gov/departmenthistory/people/landau-christopher",
+          "title": "Christopher Landau — Department History",
+          "excerpt": "Christopher Landau (1963–). Deputy Secretary of State: Entry on Duty: March 25, 2025.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.quinnemanuel.com/media/1418732/march-2018-business-litigation-report.pdf",
+          "title": "Quinn Emanuel Business Litigation Report, March 2018: Top Appellate Lawyer Joins D.C. Office",
+          "excerpt": "Christopher Landau has joined the firm as a partner based in the Washington, D.C. office.",
+          "published_at": "2018-03",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.xinhuanet.com/20260519/7c104c86bf964293b2a3de16a7bba892/c.html",
+          "title": "新华社：兰多相关新闻",
+          "excerpt": "克里斯托弗·兰多",
+          "published_at": "2026-05-19",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "sanju-neige",
+        "research"
+      ],
+      "person": {
+        "name": {
+          "value": "克里斯托弗·兰多",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1963-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：官方载1963年，出生月份未核实取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1963",
+            "duration_years": null
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "哈佛大学法律专业",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法学博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国国务院",
+          "role": "常务副国务卿",
+          "start": {
+            "value": "2025-03-25",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-08-16",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国驻墨西哥大使馆",
+          "role": "大使",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-03-25",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国务院",
+          "role": "常务副国务卿",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [
+        {
+          "text": "Quinn Emanuel Urquhart & Sullivan律师事务所合伙人，驻华盛顿办公室；2018年3月该所刊物已记载其加入。实际到任年月未知。",
+          "source_ids": [
+            "s2"
+          ]
+        },
+        {
+          "text": "凯易律师事务所合伙人、上诉诉讼业务负责人；已知结束或毕业时间：2018。起始日期未知。",
+          "source_ids": [
+            "s2"
+          ]
+        },
+        {
+          "text": "哈佛大学；文学学士。起始日期未知。",
+          "source_ids": [
+            "s2"
+          ]
+        },
+        {
+          "text": "哈佛大学；法学博士。起始日期未知。",
+          "source_ids": [
+            "s2"
+          ]
+        },
+        {
+          "text": "美国最高法院安东宁·斯卡利亚、克拉伦斯·托马斯大法官助理。起始日期未知。",
+          "source_ids": [
+            "s2"
+          ]
+        }
+      ],
+      "company_tag": "美国政要",
+      "conflicts": [],
+      "unknowns": [
+        "出生月为规则推算；国籍、首份全职工作日期、党籍与入党锚点未核实。",
+        "国务院档案个人简历与驻墨西哥使馆个人页无法取得正文，未采用搜索片段里的毕业年份和完整幕僚年表。",
+        "2018年律所刊物说明此前在凯易25年，但未写精确起止；未据此编交接日期。",
+        "国务院历史页保留旧更新提示却列2025年任职；现职另由2026年新华社报道交叉核实。",
+        "2018年3月律所刊物已记载加入Quinn Emanuel；实际到任年月未知，未按7月默认规则推算。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": "Deputy Secretary of State | U.S. Department of State",
+      "review_items": [
+        "表外译名待审：克里斯托弗·兰多",
+        "完整简历卡缺项：nationality、work_start。保留seed级事实包。"
+      ]
+    }
+  ],
+  "source_task": "sanju-neige"
+}

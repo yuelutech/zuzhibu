@@ -1,0 +1,97 @@
+{
+  "id": "paolo-zampolli",
+  "name_zh": "保罗·赞波利",
+  "name_en": "Paolo Zampolli",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-paolo-zampolli",
+    "line": "cadre",
+    "subject_id": "paolo-zampolli",
+    "title": "保罗·赞波利简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://keyt.com/politics/cnn-us-politics/2026/10/15/trump-ally-removed-from-role-after-report-of-state-department-feud/",
+        "title": "Trump ally removed from role after report of State Department feud",
+        "published_at": "2026-10-15",
+        "checked_at": "2026-10-21",
+        "excerpt": "his status as an envoy has been terminated and he is no longer a government employee",
+        "tier": null
+      },
+      {
+        "id": "s2",
+        "url": "https://www.mediaite.com/media/news/trump-pal-and-special-envoy-paolo-zampolli-out-at-state-department-after-year-long-war-over-email-leaks/",
+        "title": "Paolo Zampolli Out at State Department",
+        "published_at": "2026-10-16",
+        "checked_at": "2026-10-21",
+        "excerpt": "Now it is time for the next chapter – back to business, building relationships and closing deals.",
+        "tier": null
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "保罗·赞波利",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "离任"
+    },
+    "current_roles": [],
+    "careers": [],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "events": [
+    "2026-10-15-paolo-zampolli-leave"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-15",
+      "event": "2026-10-15-paolo-zampolli-leave",
+      "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true
+}

@@ -1,0 +1,105 @@
+{
+  "id": "2026-08-07-preston-wells-griffith-iii-confirm",
+  "date": "2026-08-07",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "preston-wells-griffith-iii",
+  "person": {
+    "name_zh": "普雷斯顿·韦尔斯·格里菲思三世",
+    "name_en": "Preston Wells Griffith III",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国常驻维也纳国际组织代表团",
+      "role": "常驻联合国维也纳办事处代表（大使衔）",
+      "organization_en": "United States Mission to International Organizations in Vienna",
+      "role_en": "Representative of the United States of America to the Vienna Office of the United Nations, with the rank of Ambassador",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    },
+    {
+      "organization": "美国常驻维也纳国际组织代表团",
+      "role": "常驻国际原子能机构代表（大使衔）",
+      "organization_en": "United States Mission to International Organizations in Vienna",
+      "role_en": "Representative of the United States of America to the International Atomic Energy Agency, with the rank of Ambassador",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "参议院确认普雷斯顿·韦尔斯·格里菲思三世出任美国常驻联合国维也纳办事处及国际原子能机构代表",
+  "summary": "参议院于2026-08-07确认Preston Wells Griffith III出任美国常驻联合国维也纳办事处及国际原子能机构代表（PN852-5、PN852-6）。到任日期未由确认记录给出。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Preston Wells Griffith III, of Virginia, to be Representative of the United States of America to the Vienna Office of the United Nations, with the rank of Ambassador.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "e2",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Preston Wells Griffith III, of Virginia, to be Representative of the United States of America to the International Atomic Energy Agency, with the rank of Ambassador.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等）；e2：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 preston-wells-griffith-iii（库里没有此人）",
+      "现任职务新增：美国常驻维也纳国际组织代表团常驻联合国维也纳办事处代表（大使衔）",
+      "履历新增：2026-08 美国常驻维也纳国际组织代表团常驻联合国维也纳办事处代表（大使衔）",
+      "现任职务新增：美国常驻维也纳国际组织代表团常驻国际原子能机构代表（大使衔）",
+      "履历新增：2026-08 美国常驻维也纳国际组织代表团常驻国际原子能机构代表（大使衔）",
+      "所属局：按确认职务定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "preston-wells-griffith-iii"
+  }
+}

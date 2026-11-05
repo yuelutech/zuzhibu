@@ -1,0 +1,82 @@
+{
+  "id": "2026-08-26-mark-paoletta-appoint",
+  "date": "2026-08-26",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "mark-paoletta",
+  "person": {
+    "name_zh": "马克·保莱塔",
+    "name_en": "Mark Paoletta",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-26",
+  "effective_at": "2026-08-26",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国国家首都规划委员会",
+      "organization_en": "National Capital Planning Commission",
+      "role": "委员兼主席",
+      "role_en": "At-large Commissioner and Commission Chairman",
+      "start": "2026-08-26",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "马克·保莱塔获任美国国家首都规划委员会主席",
+  "summary": "特朗普8月26日任命保莱塔为NCPC不分地区委员并指定其担任主席；机构于8月31日发布公告。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.ncpc.gov/news/item/266/1/",
+      "title": "President Trump Appoints Mark Paoletta National Capital Planning Commission Chairman",
+      "publisher": "National Capital Planning Commission",
+      "published_at": "2026-08-31",
+      "excerpt": "On August 26, 2026 President Donald Trump appointed Mark Paoletta as the at-large Presidential appointee to the National Capital Planning Commission (NCPC) and designated him to serve as Commission Chairman.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 mark-paoletta（库里没有此人）",
+      "现任职务新增：美国国家首都规划委员会委员兼主席",
+      "履历新增：2026-08 美国国家首都规划委员会委员兼主席"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "mark-paoletta",
+    "reason": "新任职务不在各局范围（主要职务“美国国家首都规划委员会 委员兼主席”：不在各局范围），暂留原局"
+  }
+}

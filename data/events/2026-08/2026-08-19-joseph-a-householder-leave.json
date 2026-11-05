@@ -1,0 +1,97 @@
+{
+  "id": "2026-08-19-joseph-a-householder-leave",
+  "date": "2026-08-19",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "joseph-a-householder",
+  "person": {
+    "name_zh": "约瑟夫·豪斯霍尔德",
+    "name_en": "Joseph A. Householder",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-19",
+  "effective_at": "2026-08-19",
+  "ended_roles": [
+    {
+      "organization": "超威半导体公司（AMD）",
+      "role": "董事",
+      "organization_en": "AMD",
+      "role_en": "Director",
+      "start": "2014-09",
+      "end": "2026-08-19",
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "amd-8k"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "约瑟夫·豪斯霍尔德卸任超威半导体公司董事",
+  "summary": "豪斯霍尔德于2026年8月17日通知AMD拟退休离任董事，8月19日生效。2026年股东委托书确认其自2014年9月起担任AMD董事，并于2025年10月结束REV Renewables董事任期。截至2026年10月21日，本次检索未找到其新任命公告，其他现职未查清。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "amd-8k",
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000163/amd-20260817.htm",
+      "title": "AMD Form 8-K, filed August 19, 2026",
+      "publisher": "AMD / SEC",
+      "published_at": "2026-08-19",
+      "excerpt": "Board of Directors (the “Board”) effective as of August 19, 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "amd-proxy",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312526129057/d85856ddef14a.htm",
+      "title": "AMD 2026 Proxy Statement",
+      "publisher": "AMD / SEC",
+      "published_at": null,
+      "excerpt": "Until October 2025, Mr. Householder was a member of the board of REV Renewables LLC",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094711",
+    "corrections": [
+      "summary_zh → 豪斯霍尔德于2026年8月17日通知AMD拟退休离任董事，8月19日生效。2026年股东委托书确认其自2014年9月起担任AMD董事，并于2025年10月结束REV Renewables董事任期。截至2026年10月21日，本次检索未找到其新任命公告，其他现职未查清。",
+      "核查只因来源记录问题搁置：删去未核实的来源，其余字段已核实"
+    ],
+    "reasons": [],
+    "precheck": [
+      "人物：核实来源的摘录和网页标题里没有“householder”",
+      "类别：核实来源的摘录和网页标题里没有表示“离任”的字样",
+      "ended_roles[0].start：2014-09 不在核实来源的网页上"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-aug-joseph-householder",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 joseph-a-householder（库里没有此人）"
+    ],
+    "notes": [
+      "原任“超威半导体公司（AMD） 董事 AMD Director”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "joseph-a-householder",
+    "reason": "转入七局前核对未通过：未核实没有其他现职"
+  }
+}

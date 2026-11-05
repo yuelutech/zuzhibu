@@ -1,0 +1,74 @@
+{
+  "id": "2026-08-10-todd-blanche-appoint",
+  "date": "2026-08-10",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "todd-blanche",
+  "person": {
+    "name_zh": "托德·布兰奇",
+    "name_en": "Todd Blanche",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": null,
+  "effective_at": "2026-08-10",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国司法部",
+      "role": "司法部长",
+      "organization_en": "United States Department of Justice",
+      "role_en": "Attorney General",
+      "start": "2026-08-10",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "托德·布兰奇宣誓就任美国司法部长",
+  "summary": "布兰奇8月10日宣誓就任司法部长，此前曾任常务副部长和代理司法部长。",
+  "bureaus": [
+    "justice"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.justice.gov/ag/staff-profile/meet-attorney-general",
+      "title": "Meet the Attorney General",
+      "publisher": "美国司法部",
+      "published_at": null,
+      "excerpt": "on August 10, 2026, was sworn in as Attorney General.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "到任：美国司法部司法部长由提名改为正式职务，起始 2026-08"
+    ],
+    "notes": [],
+    "bureau_before": "justice",
+    "bureau_after": "justice",
+    "person_id": "todd-blanche",
+    "reason": "主要职务“美国司法部 司法部长”：法院、司法部与执法机构"
+  }
+}

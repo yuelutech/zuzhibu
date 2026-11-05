@@ -1,0 +1,418 @@
+{
+  "id": "scott-bessent",
+  "name_zh": "斯科特·贝森特",
+  "name_en": "Scott Bessent",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“美国财政部 财政部长 U.S. Department of the Treasury Secretary of the Treasury”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/scott-bessent.json（sanju-neige，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2026/02/Scott-Bessent.jpeg?w=855",
+    "source": "https://www.whitehouse.gov/administration/cabinet/",
+    "file": "scott-bessent.jpg",
+    "source_kind": "官方照片（补采）",
+    "license": "公有领域或 CC BY 3.0：白宫网站版权页称政府制作的材料不受版权保护，第三方内容按 CC BY 3.0 授权；署“白宫”；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Department of the Treasury",
+      "role_en": "Secretary of the Treasury"
+    }
+  ],
+  "notes": [
+    "补采任务 sanju-neige（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“美国财政部 财政部长 U.S. Department of the Treasury Secretary of the Treasury”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/scott-bessent.json（sanju-neige，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-scott-bessent",
+    "line": "cadre",
+    "subject_id": "scott-bessent",
+    "title": "斯科特·贝森特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://home.treasury.gov/about/general-information/officials/scott-bessent",
+        "title": "Scott Bessent — Treasury",
+        "excerpt": "Since 1985, Mr. Bessent has been considered a leading buy-side analyst and investor in the banking, insurance and specialty finance sectors.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://home.treasury.gov/news/press-releases/sb0001",
+        "title": "Scott Bessent sworn in as 79th Secretary of the Department of Treasury",
+        "excerpt": "Scott Bessent was sworn in as the 79th Secretary of the Treasury by Supreme Court Justice Brett M. Kavanaugh on January 28, 2025.",
+        "published_at": "2025-01-28",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://find-and-update.company-information.service.gov.uk/officers/E-4Vd9-UQ9QqamvkYxKHmYwFu8M/appointments",
+        "title": "Scott Kenneth Homer BESSENT personal appointments",
+        "excerpt": "Date of birth August 1962",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.investing.com/news/stock-market-news/scott-bessents-rise-through-finance-to-the-us-treasury-3738229",
+        "title": "Reuters — Scott Bessent's rise through finance to the US Treasury",
+        "excerpt": "after graduating in 1984 with a degree in political science, took an internship on Wall Street.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-neige",
+      "research"
+    ],
+    "person": {
+      "name": {
+        "value": "斯科特·贝森特",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1962-08",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1985-07",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：官网最早记载的职业分析师、投资者经历始于1985年；1984年路透仅记实习，不作为全职开始。月份无来源，取7月。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1985",
+          "duration_years": null
+        }
+      },
+      "education": null,
+      "degree": {
+        "value": "耶鲁大学政治学文学学士学位",
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国财政部",
+        "role": "部长",
+        "start": {
+          "value": "2025-01-28",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1980-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1984",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1984-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1984",
+            "duration_years": null
+          }
+        },
+        "organization": "耶鲁大学",
+        "role": null,
+        "program": "政治学",
+        "degree_awarded": {
+          "value": "文学学士学位",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1985-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：官网最早记载的职业分析师、投资者经历始于1985年；1984年路透仅记实习，不作为全职开始。月份无来源，取7月。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1985",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "金融投资行业",
+        "role": "买方分析师、投资者",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": true
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1991-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：已知年份，实际月份未核明，统一按7月登记。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1991",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2000-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：已知年份，实际月份未核明，统一按7月登记。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2000",
+            "duration_years": null
+          }
+        },
+        "organization": "索罗斯基金管理公司",
+        "role": "伦敦办事处管理合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-07",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：已知年份，实际月份未核明，统一按7月登记。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2015",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2025-07",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：已知年份，实际月份未核明，统一按7月登记。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2025",
+            "duration_years": null
+          }
+        },
+        "organization": "Key Square Capital Management",
+        "role": "首席执行官、首席投资官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-01-28",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国财政部",
+        "role": "部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国政要",
+    "conflicts": [],
+    "unknowns": [
+      "最早职业经历的雇主名称、1985年至1991年和2000年至2015年完整任职起止未查到，未编造连续履历。",
+      "出生地、族裔、党籍登记和有效入党锚点未查到。",
+      "耶鲁兼职教职及其他社会兼职完整任期待核。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "Secretary of the Treasury | U.S. Department of the Treasury",
+    "review_items": []
+  }
+}

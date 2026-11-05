@@ -1,0 +1,800 @@
+{
+  "id": "john-l-hennessy",
+  "name_zh": "约翰·轩尼诗",
+  "name_en": "John L. Hennessy",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Google and Google DeepMind Chairman of the Board, Alphabet Google and Google DeepMind Chairman of the Board, Alphabet”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/john-l-hennessy.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "source": "https://hennessy.stanford.edu/biography",
+    "url": "https://hennessy.stanford.edu/sites/g/files/sbiybj30451/files/styles/large/public/media/image/110220-034_0.jpg?itok=WG-LuZfe"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Google and Google DeepMind",
+      "role_en": "Chairman of the Board, Alphabet"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Google and Google DeepMind Chairman of the Board, Alphabet Google and Google DeepMind Chairman of the Board, Alphabet”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "john-l-hennessy-20261018",
+    "line": "cadre",
+    "subject_id": "john-l-hennessy",
+    "title": "约翰·轩尼诗简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm",
+        "title": "Alphabet 2026 Proxy Statement",
+        "published_at": "2026-04-24",
+        "checked_at": "2026-10-18",
+        "excerpt": "John L. Hennessy, 73, has served as Chair of our Board since January 2018.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://hennessy.stanford.edu/biography/curriculum-vitae",
+        "title": "John L. Hennessy — Curriculum Vitae",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "9/1977 – 9/1983 Assistant Professor of Electrical Engineering, Stanford University",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://us.xinhuanet.com/2018-03/28/c_129839308.htm",
+        "title": "“硅谷教父”约翰·轩尼诗",
+        "published_at": "2018-03-28",
+        "checked_at": "2026-10-18",
+        "excerpt": "约翰·轩尼诗是一名美国计算机科学家……轩尼诗1952年出生于美国亨廷顿",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://hennessy.stanford.edu/biography/expanded-biography",
+        "title": "John L. Hennessy — Expanded Biography",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Currently, he serves on the board of the Gordon and Betty Moore Foundation, and is chair of the board of Alphabet",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "约翰·轩尼诗"
+    ],
+    "person": {
+      "name": {
+        "value": "约翰·轩尼诗",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1952-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "直接出生年1952，未获可靠月份，按cadre 3.3默认7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1952",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1977-09",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "education": {
+        "value": "纽约州立大学石溪分校计算机科学专业",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "博士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [
+        {
+          "value": "美国国家工程院院士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        {
+          "value": "美国国家科学院院士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        {
+          "value": "美国艺术与科学院院士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        }
+      ],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "字母表公司",
+        "role": "董事长",
+        "roles": [
+          "董事长"
+        ],
+        "start": {
+          "value": "2018-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1969-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1973本科毕业减4年，入学默认9月。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1973",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1973-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "美国毕业默认5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1973",
+            "duration_years": null
+          }
+        },
+        "organization": "维拉诺瓦大学",
+        "role": null,
+        "program": "电气工程",
+        "degree_awarded": {
+          "value": "工学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1973-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1975硕士毕业减2年，9月入学。",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1975",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1975-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "美国毕业默认5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1975",
+            "duration_years": null
+          }
+        },
+        "organization": "纽约州立大学石溪分校",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": {
+          "value": "理学硕士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1977-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1983-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "电气工程系助理教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "电气工程系助理教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1983-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1986-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "电气工程系副教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "电气工程系副教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "1984-09",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "1992-06",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "MIPS计算机系统公司",
+            "role": "联合创始人、首席科学家",
+            "roles": [
+              "联合创始人",
+              "首席科学家"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s2"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1986-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1994-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "电气工程与计算机科学教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "电气工程与计算机科学教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "1992-06",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "1998-06",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "硅图计算机系统公司",
+            "role": "首席架构师",
+            "roles": [
+              "首席架构师"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s2"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1994-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1996-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "电气工程与计算机科学教授、计算机科学系主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "电气工程与计算机科学教授",
+          "计算机科学系主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1996-03",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1996-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "电气工程与计算机科学教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "电气工程与计算机科学教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1996-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1999-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "电气工程与计算机科学教授、工程学院院长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "电气工程与计算机科学教授",
+          "工程学院院长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1999-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2000-08",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "电气工程与计算机科学教授、教务长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "电气工程与计算机科学教授",
+          "教务长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2000-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016-08",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "校长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "校长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "斯坦福大学",
+        "role": "计算机科学与电气工程教授、奈特-轩尼诗学者项目主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "计算机科学与电气工程教授",
+          "奈特-轩尼诗学者项目主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "字母表公司",
+        "role": "董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "字母表公司",
+    "conflicts": [],
+    "unknowns": [
+      "博士入学时间未载；出生月份未取得直接记录。",
+      "2004年4月起谷歌董事、2007-04至2018-01首席独立董事有官方记录；谷歌与Alphabet机构更名边界未细分。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "John L. Hennessy；字母表公司；董事长",
+    "review_items": [
+      "汉名用新华网转载人民日报海外版的约翰·轩尼诗。"
+    ]
+  }
+}

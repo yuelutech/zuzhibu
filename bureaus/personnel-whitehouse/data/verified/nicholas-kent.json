@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-nicholas-kent",
+      "line": "cadre",
+      "subject_id": "nicholas-kent",
+      "title": "尼古拉斯·肯特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.justice.gov/usao-sdin/pr/thomas-e-wheeler-ii-sworn-united-states-attorney-southern-district-indiana",
+          "title": "Thomas E. Wheeler II Sworn in as United States Attorney for the Southern District of Indiana",
+          "excerpt": "Nicholas Kent, Under Secretary of Education delegated the duties of the Deputy Secretary of Education",
+          "published_at": "2026-03-18",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.nasfaa.org/session_details?id=833",
+          "title": "A Conversation with Under Secretary Nicholas Kent",
+          "excerpt": "August 4, 2025 ... February 5, 2026, Kent has also been delegated the duties of Deputy Secretary of Education.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://asugsvsummit.com/speakers/nicholas-kent",
+          "title": "Nicholas Kent — ASU GSV Summit 2024",
+          "excerpt": "bachelor’s degree in political science from West Virginia Wesleyan College ... master’s degree in higher education administration ... The George Washington University.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-neige",
+        "research"
+      ],
+      "person": {
+        "name": {
+          "value": "尼古拉斯·肯特",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": null,
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "乔治·华盛顿大学高等教育管理专业",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "硕士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国教育部",
+          "role": "代理常务副部长",
+          "start": {
+            "value": "2026-02-05",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "代理"
+        },
+        {
+          "organization": "美国教育部",
+          "role": "副部长",
+          "start": {
+            "value": "2025-08-04",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-08-04",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国教育部",
+          "role": "副部长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-02-05",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国教育部",
+          "role": "代理常务副部长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "代理",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [
+        {
+          "text": "西弗吉尼亚卫斯理学院；学士。起始日期未知。",
+          "source_ids": [
+            "s3"
+          ]
+        },
+        {
+          "text": "乔治·华盛顿大学；硕士。起始日期未知。",
+          "source_ids": [
+            "s3"
+          ]
+        },
+        {
+          "text": "弗吉尼亚州政府教育副秘书。起始日期未知。",
+          "source_ids": [
+            "s3"
+          ]
+        },
+        {
+          "text": "Career Education Colleges and Universities首席政策官。起始日期未知。",
+          "source_ids": [
+            "s3"
+          ]
+        },
+        {
+          "text": "CECU Research Foundation创始会长。起始日期未知。",
+          "source_ids": [
+            "s3"
+          ]
+        }
+      ],
+      "company_tag": "美国政要",
+      "conflicts": [],
+      "unknowns": [
+        "出生年月、国籍、首份全职工作年份、党籍、入党锚点以及大学就读年份未知。",
+        "教育部现行个人页及AIM原始会议PDF403；现职以司法部公开活动记录核实，起始日期以NASFAA本人讲者介绍核实。",
+        "Delegated为被委托履行职责，表中归为代理；本职Under Secretary继续列为兼任。",
+        "早期认证机构名称和各段工作起止日期未取得可用原文。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "Deputy Secretary, Delegated | U.S. Department of Education",
+      "review_items": [
+        "表外译名待审：尼古拉斯·肯特",
+        "完整简历卡缺项：nationality、birth_date、work_start。保留seed级事实包。"
+      ]
+    }
+  ],
+  "source_task": "sanju-neige"
+}

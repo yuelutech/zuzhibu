@@ -1,0 +1,621 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "tim-cook-20261018",
+      "line": "cadre",
+      "subject_id": "tim-cook",
+      "title": "蒂姆·库克简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.apple.com/leadership/tim-cook/",
+          "title": "Apple Leadership — Tim Cook",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Tim Cook is Apple’s executive chairman and has served on its board of directors since 2011.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+          "title": "Tim Cook to become Apple Executive Chairman",
+          "published_at": "2026-04-20",
+          "checked_at": "2026-10-18",
+          "excerpt": "Tim Cook will become executive chairman ... effective on September 1, 2026.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.ebsco.com/research-starters/computer-science/tim-cook",
+          "title": "Tim Cook — EBSCO Research Starters",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "After graduating from Auburn in 1982, he took a job at IBM in North Carolina.",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://www.biography.com/business-leaders/tim-cook",
+          "title": "Tim Cook Biography",
+          "published_at": "2021-04-15",
+          "checked_at": "2026-10-18",
+          "excerpt": "American business executive and engineer; November 1, 1960.",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://100.duke.edu/story/tim-cook/",
+          "title": "Tim Cook — Duke Centennial",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "After earning an MBA from Duke’s Fuqua School of Business in 1988",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.apple.com/newsroom/2005/10/14Tim-Cook-Named-COO-of-Apple/",
+          "title": "Tim Cook Named COO of Apple",
+          "published_at": "2005-10-14",
+          "checked_at": "2026-10-18",
+          "excerpt": "October 14, 2005 ... named Tim Cook its chief operating officer; executive vice president ... since 2002.",
+          "tier": 1
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "蒂姆·库克",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1960-11",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "1982-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1982年奥本大学毕业后任职IBM，毕业月默认5月、工作取翌月6月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1982",
+            "duration_years": null
+          }
+        },
+        "education": null,
+        "degree": {
+          "value": "杜克大学工商管理硕士学位",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "苹果公司",
+          "role": "执行董事长",
+          "start": {
+            "value": "2026-09",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "执行董事长"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1978",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "本科1982年毕业，按美国四年学制倒推。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1982",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1982",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "奥本大学",
+          "role": null,
+          "program": "工业工程",
+          "degree_awarded": {
+            "value": "理学学士学位",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1982-06",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "1982年本科毕业后就职IBM，按美国毕业翌月取6月。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "1982",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "国际商业机器公司（IBM）",
+          "role": "管理人员、北美交付总监",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "管理人员",
+            "北美交付总监"
+          ],
+          "role_category": {
+            "value": "managers; director of North American fulfillment",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "同一单位早期管理岗位与最终北美交付总监合并，内部晋升日期未披露。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1997",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Intelligent Electronics 公司",
+          "role": "转售业务部门首席运营官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "转售业务部门首席运营官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1998",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "康柏公司",
+          "role": "企业物资副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "企业物资副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1998",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "苹果公司",
+          "role": "全球运营高级副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "全球运营高级副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2004",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "苹果公司",
+          "role": "全球销售与运营执行副总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "全球销售与运营执行副总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2004",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2005-10",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "苹果公司",
+          "role": "全球销售与运营执行副总裁、Macintosh 部门负责人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "全球销售与运营执行副总裁",
+            "Macintosh 部门负责人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005-10",
+            "source_ids": [
+              "s3",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2011-08",
+            "source_ids": [
+              "s3",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "苹果公司",
+          "role": "首席运营官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席运营官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-08",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2026-09",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "苹果公司",
+          "role": "首席执行官、董事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席执行官",
+            "董事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-09",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "苹果公司",
+          "role": "执行董事长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "执行董事长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "苹果公司",
+      "conflicts": [],
+      "unknowns": [
+        "杜克大学在职工商管理硕士毕业于1988年，入学年月未找到。",
+        "NIKE董事任职存在大学官网线索，NIKE现行董事会页面未取得可用内容，未补作现职。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": [
+        "苹果执行董事长与库内现职一致；本次补全2026年9月1日生效日期，未重复报动态。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2026-09-14-hung-cao-nominate",
+  "date": "2026-09-14",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "hung-cao",
+  "person": {
+    "name_zh": "洪·曹",
+    "name_en": "Hung Cao",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-09-14",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国海军部",
+      "role": "部长",
+      "organization_en": "Department of the Navy",
+      "role_en": "Secretary of the Navy",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "洪·曹获正式提名出任美国海军部长",
+  "summary": "白宫9月14日将洪·曹的海军部长提名送交参议院。",
+  "bureaus": [
+    "military"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "美国白宫",
+      "published_at": "2026-09-14",
+      "excerpt": "Hung Cao, of Virginia,",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 hung-cao（库里没有此人）",
+      "现任职务新增：美国海军部部长",
+      "履历新增：2026-09 美国海军部部长",
+      "所属局：按提名职务定为五局·美军干部局"
+    ],
+    "notes": [
+      "2026-10-21 重放：第三轮补采简历覆盖过这条提名，补回现任职务，任职状态由候任（9/1 宣布）改为提名人选"
+    ],
+    "bureau_before": null,
+    "bureau_after": "military",
+    "person_id": "hung-cao"
+  }
+}

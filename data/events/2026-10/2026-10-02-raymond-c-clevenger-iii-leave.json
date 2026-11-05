@@ -1,0 +1,82 @@
+{
+  "id": "2026-10-02-raymond-c-clevenger-iii-leave",
+  "date": "2026-10-02",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "raymond-c-clevenger-iii",
+  "person": {
+    "name_zh": "雷蒙德·C.克莱文杰三世",
+    "name_en": "Raymond C. Clevenger III",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-10-02",
+  "effective_at": "2026-10-02",
+  "ended_roles": [
+    {
+      "organization": "美国联邦巡回上诉法院",
+      "organization_en": "U.S. Court of Appeals for the Federal Circuit",
+      "role": "资深法官",
+      "role_en": "Senior Circuit Judge",
+      "start": "2006-02-01",
+      "end": "2026-10-02",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "雷蒙德·克莱文杰三世退休，结束联邦巡回上诉法院司法服务",
+  "summary": "法院公告确认Clevenger于10月2日结束司法服务退休；此前自2006年2月1日起以资深法官身份继续审案。其他现职未查清，本次检索未发现具体新任命。",
+  "bureaus": [
+    "justice"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.cafc.uscourts.gov/the-honorable-raymond-c-clevenger-iii-retires-from-the-federal-circuit/",
+      "title": "The Honorable Raymond C. Clevenger III Retires from the Federal Circuit",
+      "publisher": "U.S. Court of Appeals for the Federal Circuit",
+      "published_at": "2026-10-02",
+      "excerpt": "Circuit Judge Raymond C. Clevenger III retired from judicial service on October 2, 2026, concluding more than 36 years on the U.S. Court of Appeals for the Federal Circuit.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1",
+      "离任后有无其他现职、新任命，程序核不了，按未查清写回（不转七局）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 raymond-c-clevenger-iii（库里没有此人）"
+    ],
+    "notes": [
+      "原任“美国联邦巡回上诉法院 资深法官 U.S. Court of Appeals for the Federal Circuit Senior Circuit Judge”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "justice",
+    "person_id": "raymond-c-clevenger-iii",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

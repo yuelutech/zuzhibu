@@ -1,0 +1,530 @@
+{
+  "id": "bret-taylor",
+  "name_zh": "布雷特·泰勒",
+  "name_en": "Bret Taylor",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“开放人工智能研究中心（OpenAI） Chair of the Board, OpenAI Foundation OpenAI Chair of the Board, OpenAI Foundation”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/bret-taylor.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "OpenAI",
+      "role_en": "Chair of the Board, OpenAI Foundation"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“开放人工智能研究中心（OpenAI） Chair of the Board, OpenAI Foundation OpenAI Chair of the Board, OpenAI Foundation”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "bret-taylor-20261018",
+    "line": "cadre",
+    "subject_id": "bret-taylor",
+    "title": "布雷特·泰勒简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://openai.com/our-structure/",
+        "title": "Our Structure — OpenAI",
+        "excerpt": "Bret Taylor (Chair)",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://sierra.ai/about",
+        "title": "About Sierra",
+        "excerpt": "Bret is Co-Founder of Sierra.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://find-and-update.company-information.service.gov.uk/officers/3qsaEGjaunzQFHxBWMP5UiHLv6A/appointments",
+        "title": "Bret Taylor — Companies House",
+        "excerpt": "Date of birth July 1980; Nationality American",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://engineering.stanford.edu/news/stanford-friendships-fed-success-social-networking-innovator-friendfeed",
+        "title": "Stanford friendships fed success of FriendFeed",
+        "excerpt": "Bret Taylor (BS 2002, MS 2003 CS)",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.sec.gov/Archives/edgar/data/1418091/000119312517116229/d319969ddef14a.htm",
+        "title": "Twitter 2017 Proxy Statement",
+        "excerpt": "From August 2009 to July 2012, Mr. Taylor served as Chief Technology Officer of Facebook, Inc.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.theinformation.com/articles/bret-taylor-faces-his-biggest-test-at-salesforce",
+        "title": "Bret Taylor Faces His Biggest Test at Salesforce",
+        "excerpt": "he joined Google in 2003",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://www.news.cn/tech/20240529/edb5f43b78cd457e990cb551e551aff0/c.html",
+        "title": "美国开放人工智能研究中心成立安全委员会",
+        "excerpt": "董事会主席布雷特·泰勒",
+        "published_at": "2024-05-29",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "布雷特·泰勒"
+    ],
+    "person": {
+      "name": {
+        "value": "布雷特·泰勒",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1980-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2003-07",
+        "source_ids": [
+          "s6"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "2003",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "斯坦福大学",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "计算机科学理学硕士",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "谢拉人工智能公司",
+        "role": "联合创始人",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "开放人工智能研究中心（OpenAI）基金会",
+        "role": "董事会主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1998-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年2002减标准学制4年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2002",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "2002-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2002",
+            "duration_years": null
+          }
+        },
+        "organization": "斯坦福大学",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2002-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "校方注明本科2002、硕士2003且为co-term连续学制；本科结束后的学年起点取2002年9月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2002",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2003-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2003",
+            "duration_years": null
+          }
+        },
+        "organization": "斯坦福大学",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": {
+          "value": "理学硕士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003-07",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2003",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2007-06",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "谷歌公司",
+        "role": "集团产品经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007-06",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007-09",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Benchmark公司",
+        "role": "驻场创业者",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007-10",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009-08",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "FriendFeed公司",
+        "role": "联合创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009-08",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012-07",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "脸书公司",
+        "role": "首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-09",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Quip公司",
+        "role": "联合创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "谢拉人工智能公司",
+    "conflicts": [],
+    "unknowns": [
+      "Quip离任年月、赛富时任职分段及Sierra创立日期待核；标准单人照尚未取到，Sierra官网为双人现场照，未采。",
+      "已核实经历，开始时间未知：赛富时公司；联席首席执行官。来源：s2。",
+      "已核实经历，开始时间未知：Sierra公司；联合创始人。来源：s2。",
+      "已核实经历，开始时间未知：OpenAI基金会；董事会主席。来源：s1。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

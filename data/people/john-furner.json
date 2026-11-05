@@ -1,0 +1,742 @@
+{
+  "id": "john-furner",
+  "name_zh": "约翰·弗纳",
+  "name_en": "John Furner",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "john-furner.jpg",
+    "source": "维护者提供（约翰·弗纳_John-Furner_沃尔玛.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Walmart Inc.",
+      "role_en": "President and Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-john-furner",
+    "line": "cadre",
+    "subject_id": "john-furner",
+    "title": "约翰·弗纳简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://corporate.walmart.com/about/leadership/john-furner",
+        "title": "John Furner, President and CEO, Walmart Inc.",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "John Furner is president and chief executive officer of Walmart Inc., leading 2.1 million associates around the world.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://corporate.walmart.com/about/leadership/john-furner",
+        "title": "John Furner, President and CEO, Walmart Inc.",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "John started with Walmart as an hourly associate in 1993, at Store 100 in Bentonville, Arkansas.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://corporate.walmart.com/about/leadership/john-furner",
+        "title": "John Furner, President and CEO, Walmart Inc.",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "John holds a Bachelor of Science in Business Administration in Marketing Management from the University of Arkansas.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://corporate.walmart.com/about/leadership/john-furner",
+        "title": "John Furner, President and CEO, Walmart Inc.",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Over the past three decades, he has held important roles throughout the company, including assistant store manager, store manager, district manager, buyer, regional general manager, divisional merchandising manager, VP of global sourcing, general merchandise manager, head of marketing and merchandising for Walmart China based in Shenzhen, and chief merchant for Sam’s Club U.S.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://corporate.walmart.com/content/corporate/en_us/news/2025/11/14/walmart-announces-john-furner-as-president-and-chief-executive-o0.html",
+        "title": "Walmart Announces John Furner as President and Chief Executive Officer",
+        "published_at": "2025-11-14",
+        "checked_at": "2026-10-21",
+        "excerpt": "BENTONVILLE, Ark., Nov. 14, 2025 — Walmart Inc. (NYSE: WMT) today announced that its Board of Directors has elected John Furner, 51, to succeed Doug McMillon, 59, as President and Chief Executive Officer of Walmart Inc., effective February 1, 2026. Furner was also elected to the company’s Board of directors, effective immediately.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.sec.gov/Archives/edgar/data/104169/000119312526173673/wmt-20260423.htm",
+        "title": "Walmart Inc. 2026 Proxy Statement (DEF 14A)",
+        "published_at": "2026-04-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "John R. Furner President and CEO and Director Age: 51 Joined the Board: 2025",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.sec.gov/Archives/edgar/data/104169/000119312526173673/wmt-20260423.htm",
+        "title": "Walmart Inc. 2026 Proxy Statement (DEF 14A)",
+        "published_at": "2026-04-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Furner has served on the board of the National Retail Federation since July 2017, of which he served as chairman from 2022 to 2025. Mr. Furner holds a Bachelor of Science in Business Administration in Marketing Management from the University of Arkansas.",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.sec.gov/Archives/edgar/data/104169/000119312526173673/wmt-20260423.htm",
+        "title": "Walmart Inc. 2026 Proxy Statement (DEF 14A)",
+        "published_at": "2026-04-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. McMillon retired as President and CEO effective January 31, 2026, and Mr. Furner was appointed President and CEO effective February 1, 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "title": "Walmart Inc. Annual Report on Form 10-K for fiscal 2026 (Information About Our Executive Officers)",
+        "published_at": "2026-03-13",
+        "checked_at": "2026-10-21",
+        "excerpt": "President and Chief Executive Officer, effective February 2026. From November 2019 to February 2026, he served as Executive Vice President, President and Chief Executive Officer, Walmart U.S.",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416917000021/wmtform10-kx1312017.htm",
+        "title": "Wal-Mart Stores, Inc. Annual Report on Form 10-K for fiscal 2017 (Executive Officers)",
+        "published_at": "2017-03-31",
+        "checked_at": "2026-10-21",
+        "excerpt": "Executive Vice President, President and Chief Executive Officer, Sam's Club, effective February 1, 2017. From October 2015 to January 2017, he served as Executive Vice President and Chief Merchandising Officer of Sam's Club.",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416917000021/wmtform10-kx1312017.htm",
+        "title": "Wal-Mart Stores, Inc. Annual Report on Form 10-K for fiscal 2017 (Executive Officers)",
+        "published_at": "2017-03-31",
+        "checked_at": "2026-10-21",
+        "excerpt": "From January 2013 to October 2015, he served as Senior Vice President and Chief Merchandising Officer of Walmart China. From January 2012 to January 2013 he served as Senior Vice President, Home & Apparel and Global Sourcing.",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416920000011/wmtform10-kx1312020.htm",
+        "title": "Walmart Inc. Annual Report on Form 10-K for fiscal 2020 (Executive Officers)",
+        "published_at": "2020-03-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Executive Vice President, President and Chief Executive Officer, Walmart U.S. effective November 2019. From February 2017 until November 2019, he served as President and Chief Executive Officer, Sam's Club.",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://corporate.walmart.com/news/2019/10/10/walmart-names-john-furner-president-ceo-of-walmart-u-s",
+        "title": "Walmart Names John Furner President & CEO of Walmart U.S.",
+        "published_at": "2019-10-10",
+        "checked_at": "2026-10-21",
+        "excerpt": "Furner, 45, started with Walmart as an hourly associate in 1993, working part-time in the garden center of a supercenter. He worked his way up through a number of frontline leadership roles, later becoming a store manager, district manager and buyer.",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://www.arkansasonline.com/news/2018/feb/11/john-robert-furner/",
+        "title": "HIGH PROFILE: Sam's Club CEO John Furner (Arkansas Democrat-Gazette)",
+        "published_at": "2018-02-11",
+        "checked_at": "2026-10-21",
+        "excerpt": "DATE AND PLACE OF BIRTH: Aug. 29, 1974, Jacksonville",
+        "tier": 2
+      },
+      {
+        "id": "s15",
+        "url": "https://www.arkansasonline.com/news/2018/feb/11/john-robert-furner/",
+        "title": "HIGH PROFILE: Sam's Club CEO John Furner (Arkansas Democrat-Gazette)",
+        "published_at": "2018-02-11",
+        "checked_at": "2026-10-21",
+        "excerpt": "Furner started out at nearly the bottom of the company’s chain of command — as a part-time worker in retail. The internship came after.",
+        "tier": 2
+      },
+      {
+        "id": "s16",
+        "url": "https://979weve.com/2025/11/14/factbox-who-is-walmarts-new-top-boss/",
+        "title": "FACTBOX-Who is Walmart's new top boss? (Reuters wire, republished)",
+        "published_at": "2025-11-14",
+        "checked_at": "2026-10-22",
+        "excerpt": "Furner attended the University of Arkansas, where he studied marketing management, graduating in 1996 from the university’s Sam M. Walton College of Business.",
+        "tier": 2
+      },
+      {
+        "id": "s17",
+        "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000111/wmt-20260604.htm",
+        "title": "Walmart Inc. Form 8-K (2026 Annual Shareholders' Meeting results)",
+        "published_at": "2026-06-05",
+        "checked_at": "2026-10-21",
+        "excerpt": "The Company's shareholders elected for one-year terms all eleven persons nominated for election as directors as set forth in the Proxy Statement.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s6",
+          "s7"
+        ],
+        "inferred": false,
+        "basis": "年度委托书称 Mr. Furner",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s14",
+          "s15"
+        ],
+        "inferred": false,
+        "basis": "出生于美国阿肯色州杰克逊维尔（阿肯色民主党人公报人物专访；该报只写 Jacksonville，同文本人自述来自阿肯色州中部小镇）",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1974-08-29",
+        "source_ids": [
+          "s14"
+        ],
+        "inferred": false,
+        "basis": "二级来源（阿肯色民主党人公报2018年人物专访资料栏）；与公司文件年龄陈述一致",
+        "inference": null
+      },
+      "birth_place": {
+        "value": "阿肯色州杰克逊维尔",
+        "source_ids": [
+          "s14",
+          "s15"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "大学本科",
+        "source_ids": [
+          "s3",
+          "s7",
+          "s16"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "阿肯色大学市场营销管理专业工商管理理学学士学位",
+        "source_ids": [
+          "s3",
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "约翰·弗纳",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "沃尔玛公司",
+        "role": "总裁、首席执行官、董事",
+        "start": {
+          "value": "2026-02",
+          "source_ids": [
+            "s1",
+            "s8",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s8",
+          "s9",
+          "s5",
+          "s6",
+          "s17"
+        ],
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "s3",
+            "s7",
+            "s16"
+          ],
+          "inferred": true,
+          "basis": "毕业年 1996 减标准学制 4 年（写法第 6 节）",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1996",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1996",
+          "source_ids": [
+            "s3",
+            "s7",
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "阿肯色大学",
+        "role": null,
+        "program": "市场营销管理",
+        "degree_awarded": {
+          "value": "工商管理理学学士学位",
+          "source_ids": [
+            "s3",
+            "s7",
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s7",
+          "s16"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012-01",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "沃尔玛公司",
+        "role": "门店小时工（兼职）、助理店长、店长、区域经理、采购员、区域总经理、部门商品经理、全球采购副总裁、总商品经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s4",
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "门店小时工（兼职）",
+          "助理店长",
+          "店长",
+          "区域经理",
+          "采购员",
+          "区域总经理",
+          "部门商品经理",
+          "全球采购副总裁",
+          "总商品经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-01",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013-01",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "沃尔玛公司",
+        "role": "高级副总裁（家居与服装、全球采购）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁（家居与服装、全球采购）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-01",
+          "source_ids": [
+            "s11",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-10",
+          "source_ids": [
+            "s11",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "沃尔玛中国",
+        "role": "高级副总裁、首席商品官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁",
+          "首席商品官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-10",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-01",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "沃尔玛公司山姆会员店",
+        "role": "执行副总裁、首席商品官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "执行副总裁",
+          "首席商品官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-02",
+          "source_ids": [
+            "s10",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019-11",
+          "source_ids": [
+            "s10",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "沃尔玛公司",
+        "role": "执行副总裁、山姆会员店总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10",
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "执行副总裁",
+          "山姆会员店总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-11",
+          "source_ids": [
+            "s9",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-02",
+          "source_ids": [
+            "s9",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "沃尔玛公司",
+        "role": "执行副总裁、沃尔玛美国总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9",
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "执行副总裁",
+          "沃尔玛美国总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2022",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2025",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国全国零售商联合会",
+            "role": "董事会主席",
+            "roles": [
+              "董事会主席"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s7"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-02",
+          "source_ids": [
+            "s1",
+            "s6",
+            "s8",
+            "s9",
+            "s17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "沃尔玛公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s6",
+          "s8",
+          "s9",
+          "s17"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "沃尔玛公司",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作（第一份全职工作起始年月）：1993年起为在校兼职小时工，毕业后转全职的时间未检得",
+      "大学入学年份未检得",
+      "1993—2011年间各门店、采购、区域管理职务的任期未检得（官网只列职务名称），合为一条",
+      "出生地州名：二级来源只写 Jacksonville，州名据同文“阿肯色州中部小镇”自述及该报为阿肯色州本地报纸判断，未见明写“Jacksonville, Ark.”的来源"
+    ],
+    "excluded": [
+      "美国全国零售商联合会董事（2017-07起）：止期无来源，主线条目已结束，不能写成在任，不写进括注",
+      "沃尔玛公司董事（2025-11起）：止期无来源，主线条目已结束，不能写成在任，不写进括注"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "John Furner；沃尔玛公司；总裁、首席执行官、董事",
+    "review_items": []
+  }
+}

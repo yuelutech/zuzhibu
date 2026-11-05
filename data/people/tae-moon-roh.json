@@ -1,0 +1,591 @@
+{
+  "id": "tae-moon-roh",
+  "name_zh": "卢泰文",
+  "name_en": "Tae Moon Roh",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Samsung President and CEO, Device eXperience Division Samsung President and CEO, Device eXperience Division”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/tae-moon-roh.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://images.samsung.com/is/image/samsung/assets/global/ir/imgs/profile003_rohtaemoon02.jpg?$ORIGIN_JPG$",
+    "source": "https://www.samsung.com/global/ir/governance-csr/board-of-directors/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Samsung",
+      "role_en": "President and CEO, Device eXperience Division"
+    }
+  ],
+  "notes": [
+    "SEC field blank: Samsung Electronics is listed in South Korea; no SEC annual report or proxy biography was identified in its official reporting sources."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Samsung President and CEO, Device eXperience Division Samsung President and CEO, Device eXperience Division”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "tae-moon-roh-20261018",
+    "line": "cadre",
+    "subject_id": "tae-moon-roh",
+    "title": "卢泰文简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.samsung.com/global/ir/governance-csr/board-of-directors/",
+        "title": "Samsung Electronics Board of Directors",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "President & CEO (2025–Present); Head of DX (2025–Present); Head of MX (2020–Present).",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.samsung.com/tw/about-us/company-info/",
+        "title": "Samsung 公司資訊",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "盧泰文；2020年－2021年：行動通訊事業部總裁；2021年至今：行動通訊暨資訊事業部總裁。",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.rns-pdf.londonstockexchange.com/rns/5206X_1-2025-2-18.pdf",
+        "title": "Samsung Electronics 2025 AGM reference material",
+        "published_at": "2025-02-18",
+        "checked_at": "2026-10-18",
+        "excerpt": "Country of nationality: Republic of Korea. Birth: September 3, 1968.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://news.samsung.com/global/interview-hardware-rd-executive-taemoon-roh-discusses-samsungs-ceaseless-pursuit-to-satisfy-users-with-galaxy-s7",
+        "title": "Interview: Hardware R&D Executive Taemoon Roh",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Roh joined Samsung Electronics in 1997.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "卢泰文",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "韩国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1968-09",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1997-07",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "首次查到的正式研发任职为1997年；月份未披露，依规则取7月。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1997",
+          "duration_years": null
+        }
+      },
+      "education": null,
+      "degree": {
+        "value": "浦项科技大学电气工程博士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "三星电子公司",
+        "role": "总裁、首席执行官、设备体验事业部负责人、移动体验业务负责人、董事",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "设备体验事业部负责人",
+          "移动体验业务负责人",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "三星电子公司",
+        "role": "研发人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研发人员"
+        ],
+        "role_category": {
+          "value": "hardware R&D",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "官方研发主管访谈载1997年入职；早期具体职称未披露。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2014",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "三星电子公司",
+        "role": "创新产品研发团队负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "创新产品研发团队负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2014",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "三星电子公司",
+        "role": "产品战略团队及创新产品研发团队负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "产品战略团队及创新产品研发团队负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "三星电子公司",
+        "role": "移动通信研发二室及产品战略团队负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "移动通信研发二室及产品战略团队负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "三星电子公司",
+        "role": "移动通信研发二室负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "移动通信研发二室负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "三星电子公司",
+        "role": "移动通信研发室负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "移动通信研发室负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "三星电子公司",
+        "role": "移动通信业务总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "移动通信业务总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "三星电子公司",
+        "role": "移动体验业务负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "移动体验业务负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "三星电子公司",
+        "role": "设计管理中心负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "设计管理中心负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "三星电子公司",
+        "role": "总裁、首席执行官、设备体验事业部负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "设备体验事业部负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "三星电子公司",
+    "conflicts": [],
+    "unknowns": [
+      "延世大学电子工程学士及浦项科技大学硕士、博士的起止年月未找到。",
+      "1997年至2011年内职称变化未披露。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": [
+      "三星全球官网按现名MX统称2020年以来职务；中文官网区分2020—2021年移动通信业务与2021年以来移动体验业务。"
+    ]
+  }
+}

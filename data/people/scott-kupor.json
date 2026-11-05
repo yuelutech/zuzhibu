@@ -1,0 +1,638 @@
+{
+  "id": "scott-kupor",
+  "name_zh": "斯科特·库珀",
+  "name_en": "Scott Kupor",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Office of Personnel Management Director U.S. Office of Personnel Management Director”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/scott-kupor.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.opm.gov/media/zhtigy1o/scott-kupor.jpg?anchor=center&mode=crop&width=400&height=667&rnd=133970505095900000",
+    "source": "https://www.opm.gov/about-us/who-we-are/opm-director-scott-kupor/",
+    "file": "scott-kupor.jpg",
+    "source_kind": "官方照片（补采）",
+    "license": "美国联邦政府官网人物照；页面未单列图片许可。"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Office of Personnel Management",
+      "role_en": "Director"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [
+    "2026-10-04-scott-kupor-appoint"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Office of Personnel Management Director U.S. Office of Personnel Management Director”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/scott-kupor.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-scott-kupor",
+    "line": "cadre",
+    "subject_id": "scott-kupor",
+    "title": "斯科特·库珀简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.opm.gov/about-us/who-we-are/opm-director-scott-kupor/",
+        "title": "OPM Director Scott Kupor",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "sworn in ... July 14, 2025; managing partner ... inception in 2009",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://en.wikipedia.org/wiki/Scott_Kupor",
+        "title": "Scott Kupor",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "October 6, 1971; clerked for Jerry Edwin Smith for one year; Hewlett-Packard in 2007",
+        "tier": 3
+      },
+      {
+        "id": "s3",
+        "url": "https://ebookpoint.pl/eksiazki/tajemnice-sand-hill-road-zasady-rzadzace-rynkiem-venture-capital-scott-kupor,e_3ttk.htm",
+        "title": "Secrets of Sand Hill Road — author’s memoir, Polish edition excerpt",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "W 1993 roku ukończyłem Stanford University, a w 1996 roku byłem już absolwentem Stanford Law School.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://nvca.org/wp-content/uploads/2023/05/2023-2024-NVCA-Board-of-Directors-Handbook.pdf",
+        "title": "NVCA Board of Directors handbook 2023–2024",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "2017 – 2018 | Scott Kupor | Andreessen Horowitz",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-october-4-2026",
+        "title": "Truth Social Posts of October 4, 2026",
+        "published_at": "2026-10-04",
+        "checked_at": "2026-10-18",
+        "excerpt": "will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "斯科特·库珀",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1971-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "1993年本科毕业减22年得1971年；出生月无原始来源，依规则取7月",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1993",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1996-06",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "本人回忆1996年法学院毕业后任一年法官助理；毕业月按5月，首职按次月6月",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "1996",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "斯坦福大学法学院研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法律博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "人事管理局",
+        "role": "局长",
+        "start": {
+          "value": "2025-07-14",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "局长"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国超级智能工作组",
+        "role": "共同负责人",
+        "start": {
+          "value": "2026-10-04",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "共同负责人"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1989",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "本科1993年毕业，按四年学制倒推",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1993",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "公共政策专业学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "公共政策专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1996年JD毕业，按三年学制倒推",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1996",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1996",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学法学院",
+        "role": "法律专业学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "法律博士",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法律专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1996",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "毕业后工作一年，1996年加一年",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1996",
+            "duration_years": 1
+          }
+        },
+        "organization": "美国第五巡回上诉法院",
+        "role": "法官助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法官助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "一年法官助理工作结束后进入雷曼兄弟，按相邻任职年推算",
+          "inference": {
+            "rule": "adjacent_entry",
+            "from_date": "1996",
+            "duration_years": 1
+          }
+        },
+        "end": null,
+        "organization": "雷曼兄弟公司",
+        "role": "投资银行业务工作人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "投资银行业务工作人员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "惠普公司",
+        "role": "高级管理人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级管理人员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "安德森·霍洛维茨公司",
+        "role": "管理合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "管理合伙人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国风险投资协会",
+        "role": "董事会主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事会主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-07-14",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "人事管理局",
+        "role": "局长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "局长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2026-10-04",
+              "source_ids": [
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国超级智能工作组",
+            "role": "共同负责人",
+            "roles": [
+              "共同负责人"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s5"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [
+      {
+        "field": "careers.Loudcloud_Opsware.start",
+        "alternatives": [
+          {
+            "value": "1999",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2000",
+            "source_ids": [],
+            "inferred": false,
+            "basis": "斯坦福简介搜索摘要，正文未能打开，不用于事实字段",
+            "inference": null
+          }
+        ],
+        "selected_value": null,
+        "reason": "用户确定入职年留空，记录差异。学校页面：https://www.gsb.stanford.edu/faculty-research/faculty/scott-kupor"
+      }
+    ],
+    "unknowns": [
+      "雷曼兄弟、瑞士信贷第一波士顿及Loudcloud/Opsware各段准确交接日期未查清。斯坦福简介网页打开失败，搜索摘要中的具体年份未作为已打开来源使用。",
+      "此前高校授课、非营利机构董事等兼职是否继续未查清；现职只列OPM官网确认职务。",
+      "党籍、入党时间未查清。出生日期暂据三级来源；本科入学年及首职月份为规则推算。",
+      "瑞士信贷第一波士顿公司：投资银行业务工作人员。该经历有来源，但起始日期未查清，未排入时间线；来源：s2",
+      "Loudcloud公司（后更名Opsware）：高级管理人员。该经历有来源，但起始日期未查清，未排入时间线；来源：s1,s2",
+      "维基所列具体生日未找到原始出处；仅按本人本科毕业年推算出生年月。",
+      "10月15日Semafor列其为超级智能工作组副主席；当前采用总统10月4日原文的负责人称谓，细分职衔尚待一级来源。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Scott Kupor；人事管理局",
+    "review_items": []
+  }
+}

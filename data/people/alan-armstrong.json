@@ -1,0 +1,567 @@
+{
+  "id": "alan-armstrong",
+  "name_zh": "艾伦·阿姆斯特朗",
+  "name_en": "Alan Armstrong",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "reverified",
+  "ids": {
+    "bioguide": "A000383"
+  },
+  "data_cutoff": "2026-10-17",
+  "roles_checked_at": "2026-10-17",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入，reverify.py 重核通过",
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-a000383",
+    "line": "cadre",
+    "subject_id": "a000383",
+    "title": "艾伦·阿姆斯特朗简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.armstrong.senate.gov/about/",
+        "title": "About – Senator Alan Armstrong",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "July 11, 1962 (age 63), McLennan County, Texas\nJoins the board of Constellation Energy, effective January 1, 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+        "title": "The Constitution of the United States: A Transcription",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.dailypress.senate.gov/on-the-floor/senate-facts/",
+        "title": "Senate Facts - U.S. Senate Daily Press",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "Alan Armstrong, R-Oklahoma, March 24, 2026",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.dailypress.senate.gov/tuesday-march-24-2026/",
+        "title": "Tuesday, March 24, 2026 - U.S. Senate Daily Press",
+        "published_at": "2026-03-24",
+        "checked_at": "2026-10-17",
+        "excerpt": "3:23 p.m. The Senate swore in Alan Armstrong to take the place of former Senator Markwayne Mullin of Oklahoma.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.ou.edu/coe/about/people/dgs/2014-distinguished-graduates",
+        "title": "2014 Distinguished Graduates",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "Alan Armstrong graduated from the University of Oklahoma in 1985 with a bachelor’s degree in civil engineering.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.help.senate.gov/about/members",
+        "title": "Members | Senate Committee on Health, Education, Labor and Pensions",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "Alan Armstrong\n(Republican - OK)",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.govinfo.gov/content/pkg/CCAL-119scal-2026-10-06/html/CCAL-119scal-2026-10-06-pt3.htm",
+        "title": "Senate Calendars for October 6, 2026 - 119th Congress, 2nd Session-OTHER, SELECT AND SPECIAL COMMITTEES",
+        "published_at": "2026-10-06",
+        "checked_at": "2026-10-17",
+        "excerpt": "COMMITTEE ON INDIAN AFFAIRS\nAlan Armstrong, of Oklahoma",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://investor.williams.com/news-releases/news-release-details/williams-announces-executive-management-changes",
+        "title": "Williams Announces Executive Management Changes",
+        "published_at": "2025-05-05",
+        "checked_at": "2026-10-17",
+        "excerpt": "President and CEO Alan Armstrong to become Executive Chairman, effective July 1, 2025\nHe joined Williams in 1986 as an engineer.",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.williams.com/2026/03/24/oklahoma-governor-stitt-names-former-ceo-alan-armstrong-as-u-s-senator/",
+        "title": "Oklahoma Governor Stitt names former CEO Alan Armstrong as U.S. Senator",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "as executive chairman of the Board of Directors from 2025 until his retirement on March 23.",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000155278126000174/e26153_ceg-defa14a.htm",
+        "title": "Constellation Energy Corporation — Supplemental Information to the Proxy Statement",
+        "published_at": "2026-03-30",
+        "checked_at": "2026-10-17",
+        "excerpt": "resigned from the Board of Directors of the Company (the “Board”) and all committees thereof effective March 23, 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312525057277/d891052ddef14a1.pdf",
+        "title": "Williams Companies | 2025 Proxy Statement",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "Mr. Armstrong has served as Director, President, and Chief Executive Officer of the Company since 2011.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "reverified",
+      "senate",
+      "state:OK"
+    ],
+    "person": {
+      "name": {
+        "value": "艾伦·阿姆斯特朗",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1",
+          "s11"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1962-07-11",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "得克萨斯州麦克伦南县",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1986",
+        "source_ids": [
+          "s5",
+          "s8",
+          "s11"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作起始年推定：公司官网及监管申报记载1986年以工程师身份加入威廉姆斯公司，学校履历亦记载1986年入职；来源：https://investor.williams.com/news-releases/news-release-details/williams-announces-executive-management-changes 。月份未查得，不补月份。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1986",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "大学学历",
+        "source_ids": [
+          "s5",
+          "s8",
+          "s11"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "俄克拉何马大学土木工程理学学士学位",
+        "source_ids": [
+          "s5",
+          "s11"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s3",
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2026-03",
+        "source_ids": [
+          "s3",
+          "s4",
+          "s6"
+        ],
+        "inferred": true,
+        "basis": "第5级锚点：以共和党身份就任俄克拉何马州联邦参议员，2026-03-24；来源：https://www.dailypress.senate.gov/on-the-floor/senate-facts/ ，https://www.dailypress.senate.gov/tuesday-march-24-2026/ 。参议院官方服务次序表列为R-Oklahoma，当日记录确认宣誓就职。已检索选民登记或本人公开宣布、党组织任职、FEC参选登记及党派选票等第1—4级锚点，未找到可核实的更高级锚点。政治捐款不作入党锚点。",
+        "inference": {
+          "rule": "party_anchor_partisan_office",
+          "from_date": "2026-03-24",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（俄克拉何马州）",
+        "role": "",
+        "start": {
+          "value": "2026-03-24",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3",
+          "s4"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院卫生、教育、劳工和养老金委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院印第安人事务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s7"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1981",
+          "source_ids": [
+            "s5",
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "学校官网及公司官网均记载1985年本科毕业；按美国本科四年学制倒推：1985－4＝1981。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1985",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1985",
+          "source_ids": [
+            "s5",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "俄克拉何马大学",
+        "role": null,
+        "program": "土木工程",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s5",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s8",
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1986",
+          "source_ids": [
+            "s5",
+            "s8",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-03-23",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "威廉姆斯公司",
+        "role": "工程师、墨西哥湾沿岸中游业务商业运营主任、零售能源服务副总裁、商业开发副总裁、集输和处理副总裁、中游业务高级副总裁、总裁、首席执行官、董事、董事会执行主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s8",
+          "s9",
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程师",
+          "墨西哥湾沿岸中游业务商业运营主任",
+          "零售能源服务副总裁",
+          "商业开发副总裁",
+          "集输和处理副总裁",
+          "中游业务高级副总裁",
+          "总裁",
+          "首席执行官",
+          "董事",
+          "董事会执行主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2026-01-01",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2026-03-23",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "Constellation Energy 公司",
+            "role": "董事",
+            "roles": [
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s1",
+              "s10"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-03-24",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（俄克拉何马州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3",
+          "s4"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（俄克拉何马州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [
+      {
+        "field": "careers[1].start / person.work_start",
+        "alternatives": [
+          {
+            "value": "1985",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": "参议员官网时间线在1985年毕业条目下写有返回塔尔萨并在威廉姆斯公司取得工程师工作。",
+            "inference": null
+          },
+          {
+            "value": "1986",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s8",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": "参议员官网正文及1986年时间线、大学官网、公司官网和监管申报均明确记载1986年加入威廉姆斯公司。",
+            "inference": null
+          }
+        ],
+        "selected_value": "1986",
+        "reason": "采用任职机构公司官网及监管申报明确记载的1986年，大学官网和参议员官网正文交叉支持；参议员官网1985年条目的叙述与其同页1986年条目不一致，列入复核。"
+      }
+    ],
+    "unknowns": [
+      "出生日期第二来源：已检索国会人物资料并尝试打开Congress.gov议员页、Bioguide人物页，两页均打开失败；现仅采用参议员官网明确记载的1962-07-11。",
+      "出生地城市：参议员官网只写McLennan County, Texas，保留县级地名，未补城市。",
+      "参加工作月份：大学官网、公司官网、监管申报均只记载1986年入职，未找到月份。",
+      "本科学习：学校和公司资料明确毕业年及学位，未找到实际入学日期、毕业月份和脱产属性；入学年按毕业年减四推算。",
+      "入党登记日期：检索选民登记、本人公开宣布、党组织任职、FEC参选声明和党派选举相关公开资料，未找到第1—4级有效锚点，采用共和党身份就任公职的第5级锚点。",
+      "委员会任职起始日期：HELP委员会成员页、参议员官网和2026年10月6日参议院日程名册确认两项委员现职，未查得生效日期，start留null。",
+      "国家基础设施咨询委员会：参议员官网记载2022年8月获任命，未查得实际就任或生效日期，也未查得底稿所称2025年结束的依据，未写入履历。",
+      "其他兼职：学校官网、参议员官网及公司监管申报记载BOK Financial、美国石油学会、能源基础设施委员会、美国青年成就组织、俄克拉何马大学基金会等董事或理事经历，未查得完整就任日期及截至截止日的持续状态，未列入现任或履历。",
+      "Williams Partners普通合伙人职务：学校履历及公司监管申报确认曾任董事会主席和首席执行官，未取得与明确法律实体对应的完整任职起止证据，未另列条目。",
+      "族裔：已查参议员官网、学校履历及公司监管申报，未取得可明确对应本人的自述或官方族裔统计字段，留null。"
+    ],
+    "excluded": [
+      "底稿『威廉姆斯公司1986—2025』：公司公告记载于2026年3月23日退休，结束日期更正为2026-03-23。",
+      "底稿『2011—2025年首席执行官、董事会执行主席』：两职并非自2011年同时担任；公司公告明确2025年7月1日由总裁兼首席执行官转任董事会执行主席，同单位职务合并保存。",
+      "底稿『1995—2011年各企业主职作为part_time括注』：这些是同一公司的本职晋升经历，移入该公司主线职务列表。",
+      "底稿『2022—2025年国家基础设施咨询委员会委员』：未取得实际生效日期和2025年终止依据，不沿用。",
+      "底稿『俄克拉何马州临时联邦参议员』：其身份为正式获任命并宣誓就职的联邦参议员，采用正式公职名称。",
+      "底稿『1986年1月参加工作』：未取得月份证据，按本批规则保留到年。",
+      "底稿『2026年3月加入美国共和党』：旧稿无来源的表述不作证据；本次以2026年3月24日共和党身份就任参议员重新建立第5级推断锚点。",
+      "底稿『congress-legislators仓库首页支持出生日期、性别及全部履历』：仓库首页不作为本次事实来源，改用已打开的国会、学校、公司及监管原文。"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "美国联邦参议员（俄克拉何马州）＋美国国会参议院；前威廉姆斯公司总裁兼首席执行官、董事会执行主席",
+    "review_items": [
+      "一级来源年份冲突交AI政见确认：参议员官网1985年毕业条目暗示同年入职，同页正文及公司、学校资料均明确1986年入职；本包选1986年。",
+      "日期事实保留原始精度；出生年月有日级来源，参议员就职日期到日，参加工作和本科起止只到年。",
+      "委员会现职有官方名单支持，起始日期留空；生成履历括注前补取生效日期。",
+      "本包为研究候选事实包，未执行另会话独立核查。"
+    ]
+  },
+  "portrait": {
+    "file": "alan-armstrong.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Alan_S_Armstrong_official_portrait_(crop).jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（Daniel Rios；https://www.help.senate.gov/imo/media/image/Sen_Armstrong_official_photo.jpg），File:Alan S Armstrong official portrait (crop).jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Alan_S_Armstrong_official_portrait_%28crop%29.jpg"
+  }
+}

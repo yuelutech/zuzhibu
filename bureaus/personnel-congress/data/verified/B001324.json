@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001324",
+      "line": "cadre",
+      "subject_id": "b001324",
+      "title": "韦斯利·贝尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/members/B001324",
+          "title": "Office of the Clerk, U.S. House of Representatives — Wesley Bell",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Wesley Bell; Missouri (MO) – 1st, Democrat; Oath of Office: Jan. 03, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.americanbar.org/content/dam/aba/administrative/government_affairs_office/nj-lawyers-of-119-congress.pdf",
+          "title": "Lawyers of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "11/5/1974; JD, University of Missouri-Columbia; BA, Lindenwood University, 1998; operated his own law firm from 2003-2018",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://law.missouri.edu/about/mizzou-law-trailblazers/",
+          "title": "Mizzou Law Trailblazers - School of Law",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "He was sworn in to office on January 1st, 2019",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.kbia.org/missouri-news/2019-01-01/bell-begins-prosecutorial-tenure-amid-uncertainty-about-st-louis-countys-future",
+          "title": "Bell begins prosecutorial tenure amid uncertainty about St. Louis County’s future",
+          "published_at": "2019-01-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "The 44-year-old took his official oath of office at 12:01 a.m. on Tuesday",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://www.kbia.org/missouri-news/2018-08-01/experience-collides-with-the-promise-of-change-in-race-relations-for-st-louis-county-prosecutor",
+          "title": "Experience collides with the promise of change in contest for St. Louis County prosecutor",
+          "published_at": "2018-08-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "the Velda City municipal court, where Bell was the judge from 2012 to 2015",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.fergusoncity.com/AgendaCenter/ViewFile/Minutes/04212015-310",
+          "title": "City of Ferguson, Missouri — City Council Meeting Minutes, April 21, 2015",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Ms. Asikainen administered the oath of office to Council Members Ella M. Jones, Brian P. Fletcher, and Wesley Bell.",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.firstalert4.com/2025/03/19/crash-through-every-glass-ceiling-stl-county-prosecutors-office-makes-history-with-women-charge/",
+          "title": "‘Crash through every glass ceiling’; STL County Prosecutor’s Office makes history with women in charge",
+          "published_at": "2025-03-19",
+          "checked_at": "2026-10-18",
+          "excerpt": "Price Smith became the only woman to serve in a countywide position after taking the oath of office in January.",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://extcontent.stlouisco.com/BOE/eResults/el140805/Precinct.pdf",
+          "title": "St. Louis County, Missouri — August 5, 2014 Primary Election, Official Final Results",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "(DEMOCRATIC) ... COUNTY COUNCIL DISTRICT 1 ... 01 = WESLEY BELL 6,125 39.34",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:MO"
+      ],
+      "person": {
+        "name": {
+          "value": "韦斯利·贝尔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1974-11-05",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "密苏里大学法学博士学位",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2014-08",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以民主党身份参加圣路易斯县议会第1选区初选，2014-08-05；来源：https://extcontent.stlouisco.com/BOE/eResults/el140805/Precinct.pdf 。未取得第1级选民党籍登记或本人宣布加入民主党的证据，未取得第2级党组织任职证据。第3级检索发现州伦理委员会 C131148 委员会页面线索，搜索摘要列有2013-10-21的组织声明扫描日期，但原页返回403，扫描日期也未核实为登记受理日期，因此未采用：https://mec.mo.gov/MEC/Campaign_Finance/CommInfo.aspx?MECID=C131148 。2015年弗格森市议会无党派选举不作锚点；2006年为共和党候选人管理竞选不作转党或入党证据。采用目前已打开原始证据中最早的合格党派选举锚点，2013年登记线索列入复核。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2014-08-05",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（密苏里州第1选区）",
+          "role": "",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院军事委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院外交委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院监督与政府改革委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "来源列明1998年获林登伍德大学文学学士学位；按本批允许的美国本科毕业年减4推算：1998－4＝1994。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1998",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1998",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "林登伍德大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "私人执业",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2012",
+                "source_ids": [
+                  "s6"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2015",
+                "source_ids": [
+                  "s6"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "韦尔达市市政法院",
+              "role": "法官",
+              "roles": [
+                "法官"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s6"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-04-21",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "弗格森市议会",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-01-01",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-01",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "圣路易斯县检察官办公室",
+          "role": "检察官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "检察官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（密苏里州第1选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（密苏里州第1选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：查过众议院历史人物页、议员官网传记、密苏里州官方手册、美国律师协会人物资料及本人公开自述。资料支持法学院毕业后先任公设辩护人，但未取得这份全职工作的开始年份；不以2003年私人执业的起点替代更早工作的起点。",
+        "出生地：查过国会历史人物页、议员官网、州官方手册及美国律师协会资料。已读资料中的圣路易斯县成长经历不足以确定出生地；明确出生地点的原文未稳定打开。",
+        "族裔：查到学校及媒体称其为首位非洲裔圣路易斯县检察官；未取得本批要求的本人自述或官方统计来源，字段留空。",
+        "本科专业：林登伍德大学2018-11-19新闻的搜索线索称政治学与公共管理双专业，但承载正文的PDF返回403；未将搜索摘要中的专业写入。",
+        "本科开始时间：1994年按1998年毕业减4推算。国会传记另列其曾就读圣路易斯社区学院，但未取得这段学习的起止日期及转学时间。",
+        "法学院学习：已取得密苏里大学法学博士学位有依据；法学院入学年份、毕业年份及月份未取得可采用的学校原文，不沿用底稿1998—2001年。",
+        "早期公设辩护人履历：已查资料支持这段经历，但开始与结束年份不明，未建立带日期的履历条目。",
+        "圣路易斯社区学院任职：资料支持教授或教师经历。国会传记搜索线索列2011—2018年，但该页后续打开持续超时；未以搜索摘要建立起止时间。",
+        "市政检察官履历：2018年公共广播报道支持曾为里弗维尤办案，并在联合市政法院办理Charlack、Northwoods和Beverly Hills案件；各项到任日期未知，未建立日期条目。",
+        "私人律所：美国律师协会资料列自营律所2003—2018年；未取得足以确定当时律所正式名称的一级或二级原文，按私人执业记录。",
+        "弗格森市议会离任时间：资料支持2018年结束任职，未取得具体月日。",
+        "县检察官离任日期：已读报道支持2025年1月由继任者接任；具体日未由可采用的原文交叉确定，保留到月。",
+        "委员会开始日期：书记官现行名单确认军事、外交、监督与政府改革三个委员会职务，未核实各自正式生效日期；未用任命公告日填写start。",
+        "入党锚点第1、2级：检索未取得选民党籍登记、本人宣布入党或民主党组织任职的有效日期。",
+        "入党锚点第3级：州伦理委员会C131148页面的搜索线索列2013年组织声明，但原页403，且所列日期为扫描日期；应继续核对原始登记受理日。FEC候选人与委员会页面亦作过检索，未取得能替代该早期登记线索的原始日期。",
+        "出生日期和学位：本次保留的可读来源主要为美国律师协会收录的National Journal人物资料；仍需补充稳定可打开的官方人物传记或学校学位记录。",
+        "完整简历卡缺参加工作年份，当前按一页介绍卡记录。"
+      ],
+      "excluded": [
+        "底稿『1993—1997年林登伍德大学学习』：已读资料列文学学士取得于1998年；本科起点改按1998减4推算为1994年。",
+        "底稿『1998—2001年密苏里大学法学院学习』：起止年份没有重新取得合格证据，不沿用。",
+        "底稿『2001年参加工作』及旧发布稿『2001年6月参加工作』：首份全职工作的起始年份和月份未核实。",
+        "底稿『2001—2015年公设辩护人、教授、法官、市政检察官』：不同单位和职务不能合成同一段共同起止时间；仅记录已取证的私人执业和法官任期。",
+        "底稿『2015年4月加入美国民主党』：弗格森市议会选举为无党派选举，不采用为党籍锚点。",
+        "底稿『众议院金融服务委员会委员』：书记官现行名单不支持；Health Care and Financial Services是监督与政府改革委员会下的小组委员会，未另列。",
+        "底稿『密苏里州圣路易斯县人』：本次未取得可采用的明确出生地点原文。",
+        "检索线索『2013-10-21竞选委员会组织声明』：原始网页未打开，扫描日期未核实为登记受理日，不写入党籍日期。",
+        "检索线索『B.A., Lindenwood University, 2011-2018』：国会人物页后续持续超时，且该时间段与已读1998年学士资料不一致，不采用该搜索线索。",
+        "检索线索『J.D., University of Missouri, 2002』：国会名录整册PDF因文件过大未打开，不采用摘要中的毕业年份。",
+        "检索线索『2001年获J.D.及取得律师资格』：法律商业目录未作为本次学位年份或参加工作年份的采用依据。"
+      ],
+      "country_profile": "us",
+      "card_type": "一页介绍卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（密苏里州第1选区）＋美国国会众议院；Bioguide B001324",
+      "review_items": [
+        "重新打开2014年县初选结果，逐项核对民主党、县议会第1选区、Wesley Bell及2014-08-05选举日期。",
+        "优先核对州伦理委员会C131148的2013年原始组织声明及登记受理日期；若成立，按第3级锚点替换当前第4级日期。",
+        "补齐首份公设辩护人工作的开始年份，取得后再确定完整简历卡资格。",
+        "核对本科院校在推算入学年份的当时名称及社区学院转学经历。",
+        "补充官方出生日期、学校学位和委员会任职生效日期来源。",
+        "本包为研究候选事实包，未执行独立核查会话。"
+      ]
+    }
+  ]
+}

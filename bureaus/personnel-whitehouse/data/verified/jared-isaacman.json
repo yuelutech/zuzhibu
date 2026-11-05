@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-jared-isaacman",
+      "line": "cadre",
+      "subject_id": "jared-isaacman",
+      "title": "贾里德·艾萨克曼简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.nasa.gov/people/jared-isaacman/",
+          "title": "Jared Isaacman — NASA Administrator",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "15th Administrator; co-founded Draken in 2011; graduated from Embry-Riddle in 2011",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.nasa.gov/history/historic-personnel/",
+          "title": "Historic Personnel",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Jared Isaacman: December 18, 2025–present",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://en.wikipedia.org/wiki/Jared_Isaacman",
+          "title": "Jared Isaacman",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "February 11, 1983; founded United Bank Card in 1999; executive chairman June 5, 2025",
+          "tier": 3
+        },
+        {
+          "id": "s4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1794669/000119312525135018/d94645d8k.htm",
+          "title": "Shift4 Payments Form 8-K",
+          "published_at": "2025-06-04",
+          "checked_at": "2026-10-18",
+          "excerpt": "effective June 5, 2025; Mr. Isaacman has been appointed as the Executive Chairman of the Company.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://investors.shift4.com/sec-filings/all-sec-filings/content/0001193125-26-197191/0001193125-26-197191.pdf",
+          "title": "Shift4 Payments 2026 Proxy Statement",
+          "published_at": "2026-04-30",
+          "checked_at": "2026-10-18",
+          "excerpt": "Upon the ratification and confirmation of his nomination by the U.S. Senate, Mr. J. Isaacman resigned as the Executive Chairman",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://jewishvirtuallibrary.org/jared-isaacson",
+          "title": "Jared Isaacman — Jewish Virtual Library",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Jared Isaacman, born on February 11, 1983, in New Jersey",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.govinfo.gov/content/pkg/CHRG-119shrg62667/html/CHRG-119shrg62667.htm",
+          "title": "Jared Isaacman Senate nominee questionnaire",
+          "published_at": "2025-04-09",
+          "checked_at": "2026-10-18",
+          "excerpt": "Embry Riddle Aeronautical University—Bachelor in Professional Aeronautics (2011) (February 2010–November 2011). Draken International, Co-founder and CEO (November 2011–April 2020).",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "贾里德·艾萨克曼",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1983-02",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "新泽西",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "安柏瑞德航空大学本科",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "学士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": {
+          "value": "安柏瑞德航空大学荣誉博士（2024年）",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "国家航空航天局",
+          "role": "局长",
+          "start": {
+            "value": "2025-12-18",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "局长"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999-07",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "来源仅载1999年，按规则取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1999",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2025-06-05",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "United Bank Card公司（后更名Shift4）",
+          "role": "创始人、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始人",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "study",
+              "start": {
+                "value": "2010-02",
+                "source_ids": [
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2011-11",
+                "source_ids": [
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "安柏瑞德航空航天大学",
+              "role": null,
+              "roles": [],
+              "program": "专业航空学",
+              "degree_awarded": {
+                "value": "学士",
+                "source_ids": [
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "concurrent": true,
+              "source_ids": [
+                "s7"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-11",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2020-04",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "德拉肯国际公司",
+          "role": "联合创始人、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-06-05",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-12",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Shift4公司",
+          "role": "执行董事长、董事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "执行董事长、董事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-12-18",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "国家航空航天局",
+          "role": "局长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "局长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "本科入学时间未查清，远程在职教育不倒推普通四年制入学年。",
+        "创立United Bank Card前是否已有全职雇员经历未查清；出生具体日期暂据三级来源。",
+        "党籍及入党时间未查清。2025年设立的基金会等私人机构职务是否仍保留待查，未填为现职。",
+        "安柏瑞德航空大学：航空专业在职学习。该经历有来源，但起始日期未查清，未排入时间线；来源：s1,s3",
+        "1999年创办United Bank Card前已有受雇经历，其首份全职工作的具体起始年未获原始记录，参加工作时间留空。",
+        "问卷把Shift4创始人兼CEO记录起于2000年6月，企业前身创办年另有1999年记录；1999年按创办事实登记，不把2000年法律实体履历当作首次工作。",
+        "出生城市在百科线索与问卷中写法不同，未采用具体城市，仅写双方共同支持的新泽西。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": "Jared Isaacman；国家航空航天局",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

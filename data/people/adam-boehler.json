@@ -1,0 +1,536 @@
+{
+  "id": "adam-boehler",
+  "name_zh": "亚当·博勒",
+  "name_en": "Adam Boehler",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Special Envoy for Hostage Affairs The White House Special Envoy for Hostage Affairs”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/adam-boehler.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://rubiconfounders.com/img/team/adam3.jpg",
+    "source": "https://rubiconfounders.com/team/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "The White House",
+      "role_en": "Special Envoy for Hostage Affairs"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [
+    "2026-10-04-adam-boehler-announce"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Special Envoy for Hostage Affairs The White House Special Envoy for Hostage Affairs”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/adam-boehler.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-adam-boehler",
+    "line": "cadre",
+    "subject_id": "adam-boehler",
+    "title": "亚当·博勒简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/releases/2025/02/president-donald-j-trump-secures-release-of-another-american-held-hostage/",
+        "title": "President Secures Release of Another American Held Hostage",
+        "published_at": "2025-02-12",
+        "checked_at": "2026-10-18",
+        "excerpt": "Special Envoy for Hostage Affairs Adam Boehler",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://rubiconfounders.com/team/",
+        "title": "Rubicon Founders — Our Team",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Adam Boehler — Founder and Managing Partner",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://jewishvirtuallibrary.org/Adam-Boehler",
+        "title": "Adam Boehler",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Born on June 23, 1979, into a Jewish family in Albany, New York",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://magazine.wharton.upenn.edu/digital/leading-us-investment-in-developing-nations/",
+        "title": "Leading U.S. Investment in Developing Nations",
+        "published_at": "2020-01-07",
+        "checked_at": "2026-10-18",
+        "excerpt": "Battery Ventures",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.priviahealth.com/press-release/privia-health-announces-expansion-of-and-changes-to-board-of-directors",
+        "title": "Privia Health Announces Expansion of and Changes to Board of Directors",
+        "published_at": "2023-06-29",
+        "checked_at": "2026-10-18",
+        "excerpt": "From 2012 to 2018, Boehler founded and served as CEO of Landmark Health",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://rubiconfounders.com/news/adam-boehler-announces-launch-of-rubicon-founders/",
+        "title": "Adam Boehler Announces Launch of Rubicon Founders",
+        "published_at": "2021-04-08",
+        "checked_at": "2026-10-18",
+        "excerpt": "NASHVILLE, Tenn., April 8, 2021; Adam Boehler, CEO of Rubicon Founders",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.aol.com/articles/trump-picks-john-coale-special-123145000.html",
+        "title": "Trump picks John Coale as special presidential envoy for hostage affairs",
+        "published_at": "2026-10-04",
+        "checked_at": "2026-10-18",
+        "excerpt": "will continue to assist in other matters as a senior adviser",
+        "tier": 2
+      },
+      {
+        "id": "s8",
+        "url": "https://docs.house.gov/meetings/AP/AP04/20200304/110621/HHRG-116-AP04-Bio-BoehlerA-20200304.pdf",
+        "title": "Adam Boehler — U.S. International Development Finance Corporation biography",
+        "published_at": "2020-03-04",
+        "checked_at": "2026-10-18",
+        "excerpt": "Adam Boehler serves as the first Chief Executive Officer of the U.S. International Development Finance Corporation (DFC).",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-october-4-2026",
+        "title": "Truth Social Posts of October 4, 2026",
+        "published_at": "2026-10-04",
+        "checked_at": "2026-10-18",
+        "excerpt": "will continue to assist in other matters, as Senior Advisor.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "亚当·博勒",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1",
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1979-06",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "纽约州奥尔巴尼",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "宾夕法尼亚大学沃顿商学院金融学专业",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "白宫",
+        "role": "人质事务特使",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s7"
+        ],
+        "roles": [
+          "人质事务特使"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "Rubicon Founders 公司",
+        "role": "创始人、管理合伙人",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2"
+        ],
+        "roles": [
+          "创始人、管理合伙人"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国总统",
+        "role": "高级顾问",
+        "start": {
+          "value": "2026-10-04",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "roles": [
+          "高级顾问"
+        ],
+        "sector": "politics",
+        "appointment_state": "候任"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1996",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "沃顿商学院校友采访标注2000届，按本科四年推算入学",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2000",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "2000",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "宾夕法尼亚大学沃顿商学院",
+        "role": "金融学专业学习",
+        "program": "金融学",
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "金融学专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Landmark Health 公司",
+        "role": "创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "创始人、首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-07",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019-10",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国卫生与公众服务部",
+        "role": "部长高级顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "部长高级顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019",
+          "source_ids": [
+            "s3",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国际开发金融公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-04",
+          "source_ids": [
+            "s2",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Rubicon Founders 公司",
+        "role": "创始人、首席执行官、管理合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s6"
+        ],
+        "ongoing": true,
+        "roles": [
+          "创始人、首席执行官、管理合伙人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-07",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Privia Health 公司",
+        "role": "董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "白宫",
+        "role": "人质事务特使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s7"
+        ],
+        "ongoing": true,
+        "roles": [
+          "人质事务特使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "首份全职工作为Battery Ventures，校友采访没有列开始年份；工作年月留空。",
+      "早期Battery Ventures、MedeAnalytics、Accretive、Francisco Partners及Avalon经历的具体起止时间未获可核原始材料。",
+      "CMS副局长、CMMI主任经历由Rubicon官方简介确认，起止日期未明确；不补日期。",
+      "2026年10月4日总统宣布科尔将接任人质事务特使，并称博勒将继续任其他事务高级顾问；未查到实际交接日期，现职交接状态待核。",
+      "Privia董事任命获2023年原始公告；未打开2026年最新董事会名册，不列入已核现任段。",
+      "Rubicon首席执行官改称管理合伙人的交接日期未知；同单位履历合并。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Adam Boehler；美国白宫",
+    "review_items": []
+  }
+}

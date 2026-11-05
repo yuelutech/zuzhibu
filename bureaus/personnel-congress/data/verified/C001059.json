@@ -1,0 +1,827 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001059",
+      "line": "cadre",
+      "subject_id": "c001059",
+      "title": "吉姆·科斯塔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/Members/C001059",
+          "title": "Office of the Clerk — Jim Costa",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "California (CA) – 21st, Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://history.house.gov/People/Listing/C/COSTA,-Jim-(C001059)/",
+          "title": "COSTA, Jim — History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Fresno, Fresno County, Calif., April 13, 1952",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://costa.house.gov/",
+          "title": "Congressman Jim Costa",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "James Manuel (Jim) Costa has represented the San Joaquin Valley in the United States House of Representatives since 2005.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-CA.htm",
+          "title": "Congressional Directory for the 117th Congress — California",
+          "published_at": "2022-10-26",
+          "checked_at": "2026-10-19",
+          "excerpt": "Krebs, 1975-76; administrative assistant, California Assemblyman Richard Lehman, 1976-78; California State Assembly, 1978-94; California State Senate, 1994-2002; chief executive officer, Costa Group, 2002-03;",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.fresnostatenews.com/2020/12/21/castro-honors-valley-congressman-with-presidents-medal-of-distinction/",
+          "title": "Castro honors Valley congressman with President’s Medal of Distinction",
+          "published_at": "2020-12-21",
+          "checked_at": "2026-10-19",
+          "excerpt": "Costa earned a bachelor’s degree in political science from Fresno State.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2006-09-01/html/CDIR-2006-09-01-CA-H-20.htm",
+          "title": "Congressional Directory for the 109th Congress — Jim Costa",
+          "published_at": "2006-09-01",
+          "checked_at": "2026-10-19",
+          "excerpt": "Executive Officer Costa Group, 2002-present; employee, Costa Brothers Dairy, 1959-74;",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://rollcall.com/2022/03/31/it-opened-my-eyes-rep-jim-costa-on-the-summer-of-73/",
+          "title": "It ‘opened my eyes’: Rep. Jim Costa on the summer of ’73",
+          "published_at": "2022-03-31",
+          "checked_at": "2026-10-19",
+          "excerpt": "I worked my way to one of the full-time paid staff",
+          "tier": 2
+        },
+        {
+          "id": "s11",
+          "url": "https://rollcall.com/2004/02/11/new-wine-vs-old-shoe-in-race-for-dooley-seat/",
+          "title": "New Wine vs. Old Shoe in Race For Dooley Seat",
+          "published_at": "2004-02-11",
+          "checked_at": "2026-10-19",
+          "excerpt": "When former California state Sen. Jim Costa (D) was first elected to the Legislature in 1978",
+          "tier": 2
+        },
+        {
+          "id": "s12",
+          "url": "https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=15032414925",
+          "title": "Official Alphabetical List of the House of Representatives — 113th Congress",
+          "published_at": "2014-10-10",
+          "checked_at": "2026-10-19",
+          "excerpt": "Costa, Jim CA 16th",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=36507226667",
+          "title": "Official Alphabetical List of the House of Representatives — 118th Congress",
+          "published_at": "2024-11-12",
+          "checked_at": "2026-10-19",
+          "excerpt": "Costa, Jim, 21st CA",
+          "tier": 1
+        },
+        {
+          "id": "s14",
+          "url": "https://history.house.gov/Congressional-Overview/Profiles/113th/",
+          "title": "113th Congress (2013–2015) — Congressional Profiles",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "113th Congress (2013–2015)",
+          "tier": 1
+        },
+        {
+          "id": "s15",
+          "url": "https://history.house.gov/Congressional-Overview/Profiles/118th/",
+          "title": "118th Congress (2023–2025) — Congressional Profiles",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "118th Congress (2023–2025)",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:CA"
+      ],
+      "person": {
+        "name": {
+          "value": "吉姆·科斯塔",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1952-04-13",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "加利福尼亚州弗雷斯诺",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1974",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "本人访谈回忆参加约翰·克雷布斯1974年联邦众议员竞选，并成为全职受薪职员；以该竞选团队全职工作作为参加工作起点。此前家庭农场劳动为周末和暑期劳动，1973年国会办公室经历为在校实习；来源：https://rollcall.com/2022/03/31/it-opened-my-eyes-rep-jim-costa-on-the-summer-of-73/ 。来源未给出全职工作的开始月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1974",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s2",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "加利福尼亚州立大学弗雷斯诺分校政治学文学学士学位",
+          "source_ids": [
+            "s2",
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1978",
+          "source_ids": [
+            "s2",
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "第5级锚点：以民主党身份担任加利福尼亚州众议员，1978年；来源：https://history.house.gov/People/Listing/C/COSTA,-Jim-(C001059)/ 、https://rollcall.com/2004/02/11/new-wine-vs-old-shoe-in-race-for-dooley-seat/ 。未找到1978年前的选民首次党籍登记、本人宣布加入民主党、党组织任职或正式参选登记日期。州选务机构2016年党籍表仅列最近十年的2006—2016年记录，不把2006年当作首次登记日；来源：https://elections.cdn.sos.ca.gov/statewide-elections/2016-primary/party-preference-history.pdf 。FEC竞选委员会登记日2003-10-07晚于1978年公职经历，不采用；来源：https://www.fec.gov/data/committee/C00391029/ 。1974年为克雷布斯竞选团队工作不作入党锚点。1978年初选原始文件未能读取原文，不采用底稿的6月。",
+          "inference": {
+            "rule": "party_anchor_partisan_office",
+            "from_date": "1978",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（加利福尼亚州第21选区）",
+          "role": "",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s13",
+              "s15"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s13",
+            "s15"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院农业委员会",
+          "role": "委员",
+          "start": {
+            "value": "2005",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院外交委员会",
+          "role": "委员",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1970",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "官方传记及国会名录记载1974年取得文学学士学位；按美国本科四年学制，1974－4＝1970。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1974",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1974",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州立大学弗雷斯诺分校",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1974",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "约翰·克雷布斯联邦众议员竞选团队",
+          "role": "全职受薪职员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "全职受薪职员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1976",
+            "source_ids": [
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦众议员约翰·克雷布斯办公室",
+          "role": "特别助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s7",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "特别助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1976",
+            "source_ids": [
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1978",
+            "source_ids": [
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州众议员理查德·莱曼办公室",
+          "role": "行政助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "行政助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1978",
+            "source_ids": [
+              "s2",
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1994",
+            "source_ids": [
+              "s2",
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州众议院",
+          "role": "州众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s2",
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s2",
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚州参议院",
+          "role": "州参议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s5",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2003",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Costa Group",
+          "role": "首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005-01-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013",
+            "source_ids": [
+              "s12",
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（加利福尼亚州第20选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s7",
+            "s12",
+            "s14"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（加利福尼亚州第20选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013",
+            "source_ids": [
+              "s12",
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023",
+            "source_ids": [
+              "s13",
+              "s15"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（加利福尼亚州第16选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s12",
+            "s13",
+            "s14",
+            "s15"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（加利福尼亚州第16选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s13",
+              "s15"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（加利福尼亚州第21选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s13",
+            "s15"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（加利福尼亚州第21选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers[Costa Group].end",
+          "alternatives": [
+            {
+              "value": "2003",
+              "source_ids": [
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2006年版名录仍记为在任",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": "2006年版国会名录原文为2002-present。",
+              "inference": null
+            }
+          ],
+          "selected_value": "2003",
+          "reason": "采用较新的2022年国会名录明确记载的2002—2003年；保留2006年版不同记载，交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "族裔：查阅议员官网、众议院历史人物页及本人访谈，找到葡萄牙移民家庭背景，没有找到按规定五类口径作出的本人族裔自述或官方统计，留空。",
+        "参加工作月份及竞选团队任职终止日期：本人访谈确认在克雷布斯1974年竞选中成为全职受薪人员，没有给出开始月份及离开竞选团队日期。",
+        "本科入学日期及学习形式：官方传记、国会名录和学校官网未列实际入学日期或明确全日制属性；入学年按1974年毕业减四年推算。",
+        "入党具体日期：查阅州选务党籍历史、FEC委员会登记、国会官方履历及媒体回顾，没有取得首次选民党籍登记日或1978年初选原文；本包采用1978年公职锚点，保留年精度。",
+        "早期任职月份：国会名录仅列克雷布斯办公室、莱曼办公室、州议会和Costa Group任职年份，没有补月份。",
+        "2003年至2005年国会就职前经历：FEC页面确认2003年10月7日竞选委员会登记，已打开来源未完整给出参选人、正式候选人、当选人各阶段的起止日期，未沿用底稿2004—2005年候选人条目。",
+        "小组委员会职务：书记官页面列有畜牧、乳业和家禽等小组委员会成员身份，已打开原文未提供底稿所列2025年资深成员职务的实际生效日期，未写入履历括注。",
+        "其他兼职：学校2020年报道列有葡萄牙事务咨询机构及Maddy Institute董事身份，但未给出起任日期及截止日持续任职证据，未列为现职或履历括注。"
+      ],
+      "excluded": [
+        "底稿『1974—1976年美国联邦众议员约翰·克雷布斯办公室助理』：国会名录记载办公室特别助理任期为1975—1976年；1974年的全职受薪经历属于竞选团队。",
+        "底稿『1974年6月参加工作』：本人访谈没有给出开始月份，只保留1974年。",
+        "底稿『理查德·莱曼办公室幕僚长』：本次可打开的国会名录记载administrative assistant，采用行政助理。",
+        "底稿『2004—2005年民主党联邦众议员候选人』：将参选、获提名、当选待就职合并为同一候选人阶段，起止日期缺证，不采用。",
+        "底稿『现选区职务始于2025年1月』：2025年为第119届国会新一届任期；第118届官方名单已列其代表第21选区，现选区起点取2023年。",
+        "底稿『1978年6月加入美国民主党』：6月初选原始文件未能读取，采用有来源的1978年公职锚点。",
+        "底稿『农业委员会小组委员会资深成员作为现任独立条目』：本批现职按委员会层级列示，小组委员会不单列。",
+        "查到『Costa Brothers Dairy，1959—1974年雇员』：本人说明家庭农场劳动在周末和暑期进行，不作首份全职工作。",
+        "查到『2006—2016年民主党选民登记记录』：文件只覆盖最近十年，不把覆盖窗口起始年作为入党年份。",
+        "查到『2003年10月7日竞选委员会登记』：晚于1978年州议会经历，不作为入党起点。",
+        "查到『2002年至今任Costa Group首席执行官』：与较新国会名录2002—2003年的记载冲突，已并列记录，未列为现职。",
+        "维基百科、JoinCalifornia及打不开的议员传记、国会名录PDF和1978年初选PDF：未作为本包事实来源。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（加利福尼亚州第21选区）＋美国国会众议院；Bioguide C001059",
+      "review_items": [
+        "复核1974年全职竞选团队经历的年份提取及其与1975年国会办公室任职的区分。",
+        "复核1978年民主党公职锚点；继续寻找更早的选民党籍登记或1978年原始参选、初选记录。",
+        "确认Costa Group首席执行官任期冲突的选值。",
+        "第113届、第118届官方名单与国会届期联合支持选区转换年份；本包未扩充月份。",
+        "本包为重新取证形成的候选事实包，独立核查由下一会话执行。"
+      ]
+    }
+  ]
+}

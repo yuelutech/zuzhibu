@@ -1,0 +1,840 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c000880",
+      "line": "cadre",
+      "subject_id": "c000880",
+      "title": "迈克·克拉波简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/C/CRAPO,-Michael-Dean-(C000880)/",
+          "title": "CRAPO, Michael Dean | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "vice chair, Bonneville County Republican Committee 1979-1981; vice chair, Legislative District 29 Republican Committee 1982-1984",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-ID-S-1.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022",
+          "published_at": "2022-10-26",
+          "checked_at": "2026-10-19",
+          "excerpt": "associate attorney, Gibson, Dunn, and Crutcher, San Diego, 1978-79; attorney, Holden, Kidwell, Hahn and Crapo, 1979-92; partner, 1983-92",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.crapo.senate.gov/about/about-mike",
+          "title": "About Mike | U.S. Senator Mike Crapo",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "He received his Juris Doctorate cum laude from Harvard Law School in 1977",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.senate.gov/states/ID/senators.htm",
+          "title": "U.S. Senate: States in the Senate | Idaho Senators",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Mike Crapo (R) Jan. 3, 1999 Present",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Committee on Finance (Chairman) ... Committee on the Budget ... Joint Committee on Taxation (Chairman)",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.finance.senate.gov/about/chairman",
+          "title": "Chairman Biography | About | The United States Senate Committee on Finance",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Senator Crapo joined the Senate Finance Committee in 2005 and became the Chairman of the Committee in January 2025",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.crapo.senate.gov/imo/media/doc/crapo_full_bio7.pdf",
+          "title": "Senator Crapo's Full Biography",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Bachelor of Arts, Political Science; awarded by Brigham Young University, Summa Cum Laude, 1973",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "reverified",
+        "senate",
+        "state:ID"
+      ],
+      "person": {
+        "name": {
+          "value": "迈克·克拉波",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s5",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1951-05-20",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "爱达荷州爱达荷福尔斯",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1977",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "国会官方人物页及国会名录记载，1977—1978年任美国联邦第九巡回上诉法院詹姆斯·M.卡特法官法律助理；本人官网说明该一年期任职在法学院毕业之后。以这份毕业后首份全职工作的开始年份确定参加工作时间，不补月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1977",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "哈佛大学法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1979",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：1979年起任邦纳维尔县共和党委员会副主席，任期1979—1981年；来源：https://history.house.gov/People/Listing/C/CRAPO,-Michael-Dean-(C000880)/ 。检索未找到可核实的第1级选民党籍登记或本人公开宣布加入共和党的日期。同页1982—1984年第29立法选区共和党委员会副主席为同级较晚锚点；1992年以共和党身份当选联邦众议员属于较低级锚点，均不取。底稿1984年11月无原始依据，不采用。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "1979",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（爱达荷州）",
+          "role": "",
+          "start": {
+            "value": "1999-01-03",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国参议院共和党",
+          "role": "首席副党鞭",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s7"
+          ],
+          "roles": [
+            "首席副党鞭"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院财政委员会",
+          "role": "主席",
+          "start": {
+            "value": "2025-01",
+            "source_ids": [
+              "s3",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7",
+            "s3"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院银行、住房和城市事务委员会",
+          "role": "委员",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院预算委员会",
+          "role": "委员",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s3",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院、众议院税收联合委员会",
+          "role": "主席",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1969",
+            "source_ids": [
+              "s3",
+              "s9"
+            ],
+            "inferred": true,
+            "basis": "本人官方传记记载1973年获杨百翰大学政治学文学学士学位；按本科毕业年减4：1973－4＝1969。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1973",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1973",
+            "source_ids": [
+              "s1",
+              "s3",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "杨百翰大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s3",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1977",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1978",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦第九巡回上诉法院",
+          "role": "詹姆斯·M.卡特法官法律助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "詹姆斯·M.卡特法官法律助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1978",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1979",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Gibson, Dunn, and Crutcher 律师事务所",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": {
+            "value": "associate attorney",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "国会名录职称为associate attorney，中文概括为律师。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1979",
+            "source_ids": [
+              "s2",
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1992",
+            "source_ids": [
+              "s2",
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Holden, Kidwell, Hahn and Crapo 律师事务所",
+          "role": "律师、合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师",
+            "合伙人"
+          ],
+          "role_category": null,
+          "role_basis": "国会名录记载1979—1992年任律师、1983—1992年任合伙人；按本批同一单位合并规则列为一条。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1979",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1981",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "邦纳维尔县共和党委员会",
+              "role": "副主席",
+              "roles": [
+                "副主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1982",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1984",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "第29立法选区共和党委员会",
+              "role": "副主席",
+              "roles": [
+                "副主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1984",
+            "source_ids": [
+              "s3",
+              "s2",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1992",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "爱达荷州参议院",
+          "role": "州参议员、共和党助理多数党领袖、临时议长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员",
+            "共和党助理多数党领袖",
+            "临时议长"
+          ],
+          "role_category": null,
+          "role_basis": "同一单位合并。国会名录分别记载州参议员1984—1992年、助理多数党领袖1987—1989年、临时议长1989—1992年；州参议员及临时议长起始年份差异见conflicts。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1993-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（爱达荷州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（爱达荷州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999-01-03",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（爱达荷州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s1",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（爱达荷州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025-01",
+                "source_ids": [
+                  "s3",
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "参议院财政委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s3",
+                "s6",
+                "s7"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "careers.爱达荷州参议院.start",
+          "alternatives": [
+            {
+              "value": "1984",
+              "source_ids": [
+                "s2",
+                "s3",
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1985",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1984",
+          "reason": "采用议员现行官方传记明确列出的1984—1992年，国会名录亦一致；众议院历史人物页列1985—1992年。保留一级来源差异，交AI政见复核。"
+        },
+        {
+          "field": "careers.爱达荷州参议院.临时议长起始年份",
+          "alternatives": [
+            {
+              "value": "1989",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "州议会任职最后四年，州议会任职记为1984—1992年",
+              "source_ids": [
+                "s3",
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1989",
+          "reason": "国会名录明确列出1989—1992年；本人官网仅称最后四年，未直接给出起始年份。采用明确日期，不把最后四年另行换算为1988年；保留差异，交AI政见复核。"
+        }
+      ],
+      "unknowns": [
+        "哈佛大学法学院入学年份：查过众议院历史人物页、国会名录、议员官方传记及相关学校网页检索，已确认1977年取得法学博士，未找到可采用的入学日期；本批不允许按法学院标准学制倒推，故未建立缺少起始日期的学习条目。",
+        "1973年至1977年间的具体学习起止及其他经历：上述官方履历未给出完整时间线。",
+        "参加工作月份：国会人物页及国会名录只列法律助理任职1977—1978年，未找到开始月份。",
+        "美国参议院共和党首席副党鞭起始日期：现行官方传记确认第119届国会在任；2013年1月8日公告记载获任命，未明确任命生效日期，current_roles.start留空，未把公告日写作履历起点。",
+        "税收联合委员会主席起始日期：参议院第119届委员会名单确认现任主席，已打开的议员及财政委员会传记未给出主席任期开始日期。",
+        "族裔：已查国会人物页及议员官方传记，未找到本人自述或官方族裔统计依据。",
+        "全日制学习属性：已查官方传记及国会名录，未明确说明，full_time留空。",
+        "众议院党内领导职务任期：议员官网列New Member Leader、Strategic Planning Leader、Deputy Whip for the Western Region，未列各职就任及终止日期，未写入履历括注。"
+      ],
+      "excluded": [
+        "底稿『现职始于2023年1月』：该日期属于连任任期，参议院官方历史名单确认其自1999年1月3日起担任爱达荷州联邦参议员。",
+        "底稿『1973—1977年哈佛大学法学院学习』：仅确认1977年毕业，未找到1973年入学依据。",
+        "底稿『1978—1984年Holden, Kidwell, Hahn and Crapo律师、合伙人』：国会名录记载1978—1979年任Gibson, Dunn, and Crutcher律师，1979—1992年任前述律所律师，1983—1992年任合伙人。",
+        "底稿『1988—1992年爱达荷州参议院临时议长』：国会名录明确记1989—1992年；本人官网的最后四年表述单列入conflicts。",
+        "底稿『1977年6月参加工作』：没有月份证据，本次保留1977年。",
+        "底稿『1984年11月加入美国共和党』：没有原始锚点依据，本次采用1979年县共和党委员会副主席这一第二级锚点。",
+        "底稿『2013年起兼任美国参议院共和党首席副党鞭』：确认现职及2013年任命公告，未用公告日期替代生效日期。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（爱达荷州）＋美国国会参议院；Michael Dean Crapo，Bioguide C000880",
+      "review_items": [
+        "复核一级来源关于州参议员1984年或1985年起任的差异。",
+        "复核州参议院临时议长明确任期1989—1992年与本人官网最后四年表述的差异。",
+        "补录邦纳维尔县、第29立法选区共和党委员会及两家律师事务所的译名。",
+        "税收联合委员会为参众两院联合机构，中文名采用参议院、众议院税收联合委员会，以保持机构性质并满足本批委员会名称前缀要求。"
+      ]
+    }
+  ]
+}

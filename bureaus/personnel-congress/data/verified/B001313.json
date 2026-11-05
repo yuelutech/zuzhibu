@@ -1,0 +1,780 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001313",
+      "line": "cadre",
+      "subject_id": "b001313",
+      "title": "肖特尔·布朗简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/members/B001313",
+          "title": "Office of the Clerk, U.S. House of Representatives — Shontel M. Brown",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Shontel M. Brown\nOhio (OH) – 11th, Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://shontelbrown.house.gov/about/biography",
+          "title": "Biography | Representative Shontel Brown",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "She was first elected to the House of Representatives in 2021 and was sworn in on November 4, 2021.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://history.house.gov/People/Detail/25769819887",
+          "title": "BROWN, Shontel M. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Cleveland, Cuyahoga County, Ohio, June 24, 1975",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2026-02-20/text/CDIR-2026-02-20.txt",
+          "title": "Official Congressional Directory, 119th Congress, 2025–2026",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "education: B.A., organizational management, Wilberforce University, Wilberforce, OH, 2022; A.S., business management, Cuyahoga Community College, Cleveland, OH, 2012",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.bw.edu/centers/women-and-politics-of-ohio/bios/12-shontel-brown/",
+          "title": "Shontel Brown | Baldwin Wallace University",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Education: A.B., Cuyahoga Community College; B.S., Wilberforce University",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://web.archive.org/web/20200806102409/https://www.tri-c.edu/news-and-events/news/county-democratic-party-chair-started-her-path-at-tri-c.html",
+          "title": "County Democratic Party Chair Started Her Path at Tri-C",
+          "published_at": "2019-03-15",
+          "checked_at": "2026-10-18",
+          "excerpt": "the 2012 Cuyahoga Community College graduate",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.ballotready.org/people/shontel-brown-a91a224b-abf9-4d1d-8e0d-fae72c55e58f",
+          "title": "Shontel Brown | BallotReady",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "MCS Distribution, Regional Marketing Rep (1996 - 1997)",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://cuydem.com/about/democratic-values/",
+          "title": "Democratic Values - Cuyahoga Dems",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Congresswoman Shontel Brown in 2017 and David Brock in 2022.",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://clerk.house.gov/Committees/AG00",
+          "title": "Office of the Clerk — Committee on Agriculture",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Shontel M. Brown, OH",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://clerk.house.gov/Committees/GO00",
+          "title": "Office of the Clerk — Committee on Oversight and Government Reform",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Shontel M. Brown, OH",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://clerk.house.gov/Committees/ZS00",
+          "title": "Office of the Clerk — Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Shontel M. Brown, OH",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:OH"
+      ],
+      "person": {
+        "name": {
+          "value": "肖特尔·布朗",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1975-06-24",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "俄亥俄州克利夫兰",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "威尔伯福斯大学组织管理学士学位",
+          "source_ids": [
+            "s5",
+            "s6",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2017",
+          "source_ids": [
+            "s9",
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：2017年担任凯霍加县民主党主席；来源：https://cuydem.com/about/democratic-values/；学校官方人物报道亦确认2017年当选：https://web.archive.org/web/20200806102409/https://www.tri-c.edu/news-and-events/news/county-democratic-party-chair-started-her-path-at-tri-c.html 。未找到第1级选民登记党籍或本人公开宣布加入、改投民主党的记录。底稿2011年11月市议会选举未经证实为合格党派选举，不采用；2021年联邦参选及就任属于低级锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "2017",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（俄亥俄州第11选区）",
+          "role": "",
+          "start": {
+            "value": "2021-11-04",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院农业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院监督和政府改革委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s11"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院美国与中国共产党战略竞争特设委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s12"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1997",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "MCS Distribution",
+          "role": "区域营销代表",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "区域营销代表"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Telco Communications Group",
+          "role": "营销支持代表",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "营销支持代表"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2004",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Radio One",
+          "role": "高级客户经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "高级客户经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2004",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2009",
+            "source_ids": [
+              "s5",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Hotcards.com",
+          "role": "销售总监",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "销售总监"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Diversified Digital Solutions",
+          "role": "创始人、所有者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s7",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始人",
+            "所有者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012",
+            "source_ids": [
+              "s4",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s4",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄亥俄州沃伦斯维尔高地市议会",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s4",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021",
+            "source_ids": [
+              "s4",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄亥俄州凯霍加县议会",
+          "role": "第9选区议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "第9选区议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2017",
+                "source_ids": [
+                  "s7",
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2022",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "凯霍加县民主党",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s7",
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-11-04",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（俄亥俄州第11选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（俄亥俄州第11选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.degree",
+          "alternatives": [
+            {
+              "value": "威尔伯福斯大学组织管理文学学士学位，2022年",
+              "source_ids": [
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "威尔伯福斯大学理学学士学位",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "威尔伯福斯大学组织管理学士学位",
+          "reason": "国会现行官方名录写B.A.，鲍德温华莱士大学人物页写B.S.；两者均确认学士学位。保留共同确认的学位层级及国会名录明确记载的专业，学位类别交AI政见确认。"
+        },
+        {
+          "field": "current_roles[0].start; careers[7].start",
+          "alternatives": [
+            {
+              "value": "2021-11-02",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": "众议院历史人物页将特别选举日列为国会服务起点。",
+              "inference": null
+            },
+            {
+              "value": "2021-11-04",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": "议员官网明确记载宣誓日期。",
+              "inference": null
+            }
+          ],
+          "selected_value": "2021-11-04",
+          "reason": "本批规则以实际就任日期为起点，采用议员官网记载的宣誓就任日；11月2日保留为特别选举日期。"
+        },
+        {
+          "field": "careers[6].end",
+          "alternatives": [
+            {
+              "value": "2021",
+              "source_ids": [
+                "s4",
+                "s5",
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2019",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2021",
+          "reason": "采用众议院历史人物页和现行国会名录一致记载的2015—2021年任期；BallotReady的2019年终点不采用。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：检索了议员官方传记、国会名录、学校人物报道、Vote Smart、BallotReady及行业机构议员资料。已打开的BallotReady列1996—1997年MCS Distribution区域营销代表，但未明确全职性质，也未确认这是第一份全职工作；work_start留null。",
+        "学习履历：学校报道确认2012年取得凯霍加社区学院学位，国会名录确认2022年取得威尔伯福斯大学学位；未找到两校入学年份。2022年本人访谈证实在国会任职期间仍在学习，未提供学习年限，不按标准四年倒推。因缺起始日期，未生成学习履历或学习括注。",
+        "委员会任职起点：书记官现行名单确认三个委员会的在任资格，未找到本次任职的明确生效日期；current_roles的start留null，不采用底稿2025年作为三个委员会共同起点。",
+        "族裔：学校官方报道将其称为African American，未找到符合本批本人自述或官方统计口径的直接证据，ethnicity留null。",
+        "企业任职终点：国会名录确认创始人、所有者经历，但未明确起止；BallotReady列2009年至今，未取得截至2026-10-18仍实际担任企业职务的现行一级证据，履历end留null、ongoing=false，不列现任企业职务。",
+        "日期：早期企业工作、地方公职和党职主要只有年份证据，未补造月份。",
+        "完整简历卡：参加工作时间未确证，card_type留null。"
+      ],
+      "excluded": [
+        "底稿『1993—1996年凯霍加社区学院学习』：未找到该起止依据；学校官方报道和国会名录均记载毕业年为2012年。",
+        "底稿『1996—2005年威尔伯福斯大学学习』：未找到该起止依据；国会名录记载学位取得年为2022年。",
+        "底稿『威尔伯福斯大学组织管理理学学士学位』：已打开的一级来源对B.A.与B.S.记载不一致，正文事实仅保留组织管理学士学位。",
+        "底稿『2005—2011年多元数字解决方案公司创始人、负责人』：未找到这组日期及负责人职称依据；改用有来源的英文机构名、创始人和所有者身份。",
+        "底稿『2005年参加工作』『2005年7月参加工作』：无第一份全职工作证据。",
+        "底稿『2012—2014年沃伦斯维尔高地市议员』：众议院历史人物页和大学人物页均记载2012—2015年。",
+        "底稿『2017—2021年凯霍加县民主党主席』：县民主党官方沿革记载继任主席于2022年接任，终点改为2022年。",
+        "底稿『2011年11月加入美国民主党』：未找到合格锚点，改用2017年担任县民主党主席的第2级锚点。",
+        "底稿『2025年1月开始担任现选区联邦众议员』：属于续任届次；同一选区首次宣誓就任为2021年11月4日。",
+        "底稿仅列两个现任委员会：书记官名单另列美国与中国共产党战略竞争特设委员会，已补入。",
+        "议员官网农业委员会Vice Ranking Member称谓：按本批委员会角色限定记录为委员；小组委员会资深成员职务不单列。",
+        "打不开的Bioguide、Congress.gov人物页、学校PDF及Vote Smart传记页：未作为sources或字段依据。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（俄亥俄州第11选区），美国国会众议院；Bioguide B001313",
+      "review_items": [
+        "AI政见确认威尔伯福斯大学学位类别：国会名录B.A.与大学人物页B.S.冲突；当前采用共同确认的学士层级。",
+        "早期工作中的MCS Distribution、Radio One及企业创办年份主要依据二级选举资料库，继续补机构原始履历或本人公开自述。",
+        "补第一份全职工作的性质及开始时间后，再评定完整简历卡资格。",
+        "补两校学习起始日期后，将在职学习置入同期任职条目的annotations。"
+      ]
+    }
+  ]
+}

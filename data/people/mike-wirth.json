@@ -1,0 +1,775 @@
+{
+  "id": "mike-wirth",
+  "name_zh": "迈克·沃斯",
+  "name_en": "Mike Wirth",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "mike-wirth.jpg",
+    "source": "维护者提供（迈克·沃斯_Mike-Wirth_雪佛龙_官网照.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Chevron Corporation",
+      "role_en": "Chairman of the Board"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-mike-wirth",
+    "line": "cadre",
+    "subject_id": "mike-wirth",
+    "title": "迈克·沃斯简历",
+    "sources": [
+      {
+        "id": "x1",
+        "url": "https://www.chevron.com/who-we-are/leadership/michael-wirth",
+        "title": "Meet Mike Wirth, Chairman of the Board and CEO — Chevron",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Michael K. (Mike) Wirth, 66, has been Chairman of the Board and Chief Executive Officer of Chevron Corporation since 2018.",
+        "tier": 1
+      },
+      {
+        "id": "x2",
+        "url": "https://www.chevron.com/who-we-are/leadership/michael-wirth",
+        "title": "Meet Mike Wirth, Chairman of the Board and CEO — Chevron",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "He joined Chevron as a design engineer in 1982 and holds a bachelor’s degree in chemical engineering from the University of Colorado.",
+        "tier": 1
+      },
+      {
+        "id": "x3",
+        "url": "https://www.chevron.com/who-we-are/leadership/michael-wirth",
+        "title": "Meet Mike Wirth, Chairman of the Board and CEO — Chevron",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Wirth serves on the board of directors of the American Petroleum Institute, Catalyst and the National Football Foundation, and is a member of the National Petroleum Council, the Business Roundtable, the World Economic Forum International Business Council, the American Heart Association CEO Roundtable, The Business Council, and the American Society of Corporate Executives.",
+        "tier": 1
+      },
+      {
+        "id": "x4",
+        "url": "https://web.archive.org/web/20260827201156/https://www.chevron.com/who-we-are/leadership/michael-wirth",
+        "title": "Meet Mike Wirth, Chairman of the Board and CEO — Chevron (archived copy of 2026-08-27)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Michael K. (Mike) Wirth, 65, has been Chairman of the Board and Chief Executive Officer of Chevron Corporation since 2018.",
+        "tier": 1
+      },
+      {
+        "id": "x5",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm",
+        "title": "Chevron Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "Michael K. (Mike) Wirth | 65",
+        "tier": 1
+      },
+      {
+        "id": "x6",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm",
+        "title": "Chevron Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "Vice Chairman of the Board (2017–2018); Executive Vice President of Midstream & Development (2016–2018); Executive Vice President of Downstream & Chemicals (2006–2015); President of Global Supply and Trading (2003–2006)",
+        "tier": 1
+      },
+      {
+        "id": "x7",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm",
+        "title": "Chevron Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chairman and CEO (since 2018)",
+        "tier": 1
+      },
+      {
+        "id": "x8",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm",
+        "title": "Chevron Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "Joined Chevron as a design engineer in 1982",
+        "tier": 1
+      },
+      {
+        "id": "x9",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341017000035/a20170927form8-k.htm",
+        "title": "Chevron Corporation, Form 8-K, September 27, 2017 (Item 5.02)",
+        "published_at": "2017-09-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Also on September 27, 2017, to be effective February 1, 2018, the Board elected Michael K. Wirth, currently Vice Chairman of the Board and Executive Vice President of Midstream and Development, to the positions of Chairman of the Board and Chief Executive Officer of Chevron.",
+        "tier": 1
+      },
+      {
+        "id": "x10",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341017000035/a20170927form8-k.htm",
+        "title": "Chevron Corporation, Form 8-K, September 27, 2017 (Item 5.02)",
+        "published_at": "2017-09-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Wirth, 56, has been Vice Chairman of Chevron since February 2017 and Executive Vice President of Midstream and Development since 2016, with responsibility for supply and trading, and Chevron’s midstream operating units engaged in transportation and power, as well as corporate strategy; business development; and policy, government and public affairs.",
+        "tier": 1
+      },
+      {
+        "id": "x11",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341017000035/a20170927form8-k.htm",
+        "title": "Chevron Corporation, Form 8-K, September 27, 2017 (Item 5.02)",
+        "published_at": "2017-09-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "He served as Executive Vice President of Downstream and Chemicals from 2006 to 2015. From 2003 until 2006, Mr. Wirth was President of Global Supply and Trading, responsible for leading Chevron’s worldwide supply and trading operations as well as its aviation, marine and asphalt businesses.",
+        "tier": 1
+      },
+      {
+        "id": "x12",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341017000002/form8-kexhibit991.htm",
+        "title": "Chevron Names Michael K. Wirth Vice Chairman (Form 8-K Exhibit 99.1)",
+        "published_at": "2017-01-25",
+        "checked_at": "2026-10-21",
+        "excerpt": "SAN RAMON, Calif., Jan. 25, 2017 – Chevron Corporation (NYSE: CVX) said today that Michael K. Wirth, executive vice president of Midstream and Development, has been named vice chairman, effective February 1, 2017.",
+        "tier": 1
+      },
+      {
+        "id": "x13",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341017000002/form8-kexhibit991.htm",
+        "title": "Chevron Names Michael K. Wirth Vice Chairman (Form 8-K Exhibit 99.1)",
+        "published_at": "2017-01-25",
+        "checked_at": "2026-10-21",
+        "excerpt": "In assuming his new role, Wirth will join the company’s Board of Directors and add Policy, Government & Public Affairs to his existing portfolio of responsibilities.",
+        "tier": 1
+      },
+      {
+        "id": "x14",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341017000002/form8-kexhibit991.htm",
+        "title": "Chevron Names Michael K. Wirth Vice Chairman (Form 8-K Exhibit 99.1)",
+        "published_at": "2017-01-25",
+        "checked_at": "2026-10-21",
+        "excerpt": "Wirth, 56, joined Chevron in 1982 as a design engineer. Since that time, he advanced through a number of engineering, construction and operations positions.",
+        "tier": 1
+      },
+      {
+        "id": "x15",
+        "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341017000002/form8-kexhibit991.htm",
+        "title": "Chevron Names Michael K. Wirth Vice Chairman (Form 8-K Exhibit 99.1)",
+        "published_at": "2017-01-25",
+        "checked_at": "2026-10-21",
+        "excerpt": "Earlier, Wirth was president of Marketing for Chevron’s Asia/Middle East/Africa marketing business, based in Singapore. He also served on the board of directors for Caltex Australia Ltd. and GS Caltex in South Korea.",
+        "tier": 1
+      },
+      {
+        "id": "x16",
+        "url": "https://www.cnbc.com/2017/08/22/meet-michael-wirth-the-man-who-could-soon-lead-chevron.html",
+        "title": "Meet Michael Wirth, the man who could soon lead Chevron (CNBC)",
+        "published_at": "2017-08-22",
+        "checked_at": "2026-10-21",
+        "excerpt": "Having served in engineering, construction, and operations positions since joining Chevron in 1982, Wirth became president of marketing for Chevron's Asia, Middle East and Africa business in 2001.",
+        "tier": 2
+      },
+      {
+        "id": "x17",
+        "url": "https://www.cnbc.com/2017/08/22/meet-michael-wirth-the-man-who-could-soon-lead-chevron.html",
+        "title": "Meet Michael Wirth, the man who could soon lead Chevron (CNBC)",
+        "published_at": "2017-08-22",
+        "checked_at": "2026-10-21",
+        "excerpt": "Wirth, 56, spent much of his time at Chevron in its refining and chemicals segment.",
+        "tier": 2
+      },
+      {
+        "id": "x18",
+        "url": "https://www.cusys.edu/newsletter/2010/04-21/campus-ucb.html",
+        "title": "News from the CU system - CU-Boulder (Distinguished Engineering Alumni Award 2010)",
+        "published_at": "2010-04-21",
+        "checked_at": "2026-10-21",
+        "excerpt": "Michael Wirth, who earned his bachelor's degree in chemical engineering at CU-Boulder in 1982, is receiving the award in the industry and commerce category.",
+        "tier": 1
+      },
+      {
+        "id": "x19",
+        "url": "https://www.cusys.edu/newsletter/2010/04-21/campus-ucb.html",
+        "title": "News from the CU system - CU-Boulder (Distinguished Engineering Alumni Award 2010)",
+        "published_at": "2010-04-21",
+        "checked_at": "2026-10-21",
+        "excerpt": "Originally from Golden, Wirth now directs Chevron's refining, marketing, and trading businesses as executive vice president for global downstream at the company's headquarters in San Ramon., Calif.",
+        "tier": 1
+      },
+      {
+        "id": "x20",
+        "url": "http://paper.people.com.cn/zgnyb/html/2017-09/11/content_1804814.htm",
+        "title": "雪佛龙寻新掌门 下游主管几率高（中国能源报，人民网）",
+        "published_at": "2017-09-11",
+        "checked_at": "2026-10-21",
+        "excerpt": "目前的大热人选是该公司副总裁兼下游业务与发展部主管迈克尔·沃斯（Michael Wirth）",
+        "tier": 2
+      },
+      {
+        "id": "x21",
+        "url": "https://www.chinanews.com.cn/cj/2022/06-06/9772879.shtml",
+        "title": "美国汽油价格不断上涨，雪佛龙CEO为何说“美国永远不会再有新的炼油厂”（中新网）",
+        "published_at": "2022-06-06",
+        "checked_at": "2026-10-21",
+        "excerpt": "雪佛龙首席执行官迈克·沃斯(Mike Wirth)上周表示",
+        "tier": 2
+      },
+      {
+        "id": "x22",
+        "url": "https://www.bnnbloomberg.ca/markets/oil/2026/10/05/chevron-names-jeff-gustavson-as-next-cfo/",
+        "title": "Chevron names Jeff Gustavson CFO (Reuters, via BNN Bloomberg)",
+        "published_at": "2026-10-05",
+        "checked_at": "2026-10-21",
+        "excerpt": "In December, Wirth said he was in discussions with the board about succession planning and did not expect to serve more than 10 years in the role.",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "x9",
+          "x10"
+        ],
+        "inferred": false,
+        "basis": "8-K 称 Mr. Wirth",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "x19"
+        ],
+        "inferred": false,
+        "basis": "科罗拉多大学称其“Originally from Golden”（科罗拉多州戈尔登人），据此为美国人；未检得写明国籍或出生地的来源，依据偏弱",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1960-10",
+        "source_ids": [
+          "x14",
+          "x17",
+          "x10",
+          "x5",
+          "x4",
+          "x1"
+        ],
+        "inferred": true,
+        "basis": "按年龄陈述推：2017-01-25 文件称 56 岁；2017-08-22 文件称 56 岁；2017-09-27 文件称 56 岁；2026-04-07 文件称 65 岁；2026-08-27 文件称 65 岁；2026-10-21 文件称 66 岁；出生在 1960-09-28 至 1960-10-21 之间，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2017-01-25",
+          "duration_years": null
+        }
+      },
+      "birth_place": {
+        "value": "科罗拉多州戈尔登",
+        "source_ids": [
+          "x19"
+        ],
+        "inferred": false,
+        "basis": "原文“Originally from Golden”，是籍贯/家乡表述，未明说出生；州名据上下文（科罗拉多大学新闻）定为科罗拉多州",
+        "inference": null
+      },
+      "work_start": {
+        "value": "1982-07",
+        "source_ids": [
+          "x2",
+          "x14",
+          "x18"
+        ],
+        "inferred": true,
+        "basis": "1982年获科罗拉多大学化学工程学士学位，同年以设计工程师加入雪佛龙公司；参加工作月份无记载，取 7 月（cadre.md 第 3 节第 3 条）",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1982",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "大学本科",
+        "source_ids": [
+          "x18",
+          "x2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "科罗拉多大学博尔德分校化学工程专业学士学位",
+        "source_ids": [
+          "x18",
+          "x2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "迈克·沃斯",
+        "source_ids": [
+          "x1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "雪佛龙公司",
+        "role": "董事长、首席执行官、董事",
+        "start": {
+          "value": "2018-02",
+          "source_ids": [
+            "x9",
+            "x7",
+            "x1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "x9",
+          "x7",
+          "x1",
+          "x12",
+          "x13"
+        ],
+        "roles": [
+          "董事长",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1978",
+          "source_ids": [
+            "x18",
+            "x2"
+          ],
+          "inferred": true,
+          "basis": "毕业年 1982 减标准学制 4 年（写法第 6 节）",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1982",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1982",
+          "source_ids": [
+            "x18",
+            "x2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "科罗拉多大学博尔德分校",
+        "role": null,
+        "program": "化学工程",
+        "degree_awarded": {
+          "value": "学士学位",
+          "source_ids": [
+            "x18",
+            "x2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "x18",
+          "x2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1982-07",
+          "source_ids": [
+            "x8",
+            "x14",
+            "x16"
+          ],
+          "inferred": true,
+          "basis": "与首段参加工作一致（参加工作月份无记载，取 7 月）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1982",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "x8",
+            "x14",
+            "x16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "雪佛龙公司",
+        "role": "设计工程师、工程、施工和运营部门多个职务",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "x8",
+          "x14",
+          "x16"
+        ],
+        "ongoing": false,
+        "roles": [
+          "设计工程师",
+          "工程、施工和运营部门多个职务"
+        ],
+        "role_category": null,
+        "role_basis": "设计工程师之后的岗位名称和交接时间未检得，合成一条",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "x15",
+            "x16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2003",
+          "source_ids": [
+            "x15",
+            "x16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "雪佛龙公司",
+        "role": "亚洲、中东和非洲营销业务总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "x15",
+          "x16"
+        ],
+        "ongoing": false,
+        "roles": [
+          "亚洲、中东和非洲营销业务总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "x6",
+            "x11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006",
+          "source_ids": [
+            "x6",
+            "x11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "雪佛龙公司",
+        "role": "全球供应与贸易总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "x6",
+          "x11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "全球供应与贸易总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "x6",
+            "x11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015",
+          "source_ids": [
+            "x6",
+            "x11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "雪佛龙公司",
+        "role": "下游与化工执行副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "x6",
+          "x11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "下游与化工执行副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "x6",
+            "x10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-02",
+          "source_ids": [
+            "x6",
+            "x10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "雪佛龙公司",
+        "role": "中游与开发执行副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "x6",
+          "x10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "中游与开发执行副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-02",
+          "source_ids": [
+            "x6",
+            "x10",
+            "x12",
+            "x13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018-02",
+          "source_ids": [
+            "x6",
+            "x10",
+            "x12",
+            "x13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "雪佛龙公司",
+        "role": "副董事长、中游与开发执行副总裁、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "x6",
+          "x10",
+          "x12",
+          "x13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副董事长",
+          "中游与开发执行副总裁",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-02",
+          "source_ids": [
+            "x1",
+            "x7",
+            "x9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "雪佛龙公司",
+        "role": "董事长、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "x1",
+          "x7",
+          "x9"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "雪佛龙公司",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月：未检得写明的一、二级来源（维基百科作1960年10月15日，仅作线索）。年龄陈述：2017-09-27 时56岁、2026-08-27 官网存档65岁、2026-10-21 官网66岁，可推出生于1960年9月下旬至10月21日之间",
+      "出生地：只检得“Originally from Golden”（家乡），未检得明说出生地的来源",
+      "国籍：未检得官方写明，按家乡在科罗拉多州推为美国，依据偏弱",
+      "科罗拉多大学入学年：未检得",
+      "1982—2001年在雪佛龙的具体岗位和交接时间：未检得",
+      "加德士澳大利亚公司、GS 加德士公司董事任期：未检得",
+      "现任美国石油学会、Catalyst、美国国家橄榄球基金会董事及美国国家石油委员会委员的起始时间：未检得"
+    ],
+    "excluded": [
+      "加德士澳大利亚公司董事：起始时间无来源，不写进履历括注",
+      "GS 加德士公司（韩国）董事：起始时间无来源，不写进履历括注",
+      "美国石油学会董事：起始时间无来源，不写进履历括注",
+      "Catalyst董事：起始时间无来源，不写进履历括注",
+      "美国国家橄榄球基金会董事：起始时间无来源，不写进履历括注",
+      "美国国家石油委员会委员：起始时间无来源，不写进履历括注"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Mike Wirth；雪佛龙公司；董事长、首席执行官、董事",
+    "review_items": []
+  }
+}

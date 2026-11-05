@@ -1,0 +1,91 @@
+{
+  "id": "2026-07-14-darline-graham-appoint",
+  "date": "2026-07-14",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "darline-graham",
+  "person": {
+    "name_zh": "达琳·格雷姆",
+    "name_en": "Darline Graham",
+    "name_zh_source": "research",
+    "ids": {
+      "bioguide": "G000608"
+    }
+  },
+  "announced_at": "2026-07-13",
+  "effective_at": "2026-07-14",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国联邦参议员（南卡罗来纳州）",
+      "role": "",
+      "organization_en": "Senator from South Carolina",
+      "role_en": "",
+      "start": "2026-07-14",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "达琳·格雷姆任南卡罗来纳州联邦参议员",
+  "summary": "南卡罗来纳州州长亨利·麦克马斯特于2026年7月13日任命达琳·格雷姆填补林赛·格雷姆逝世留下的参议员空缺。她于7月14日宣誓就职。",
+  "bureaus": [
+    "congress"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.governor.sc.gov/news/2026-07/gov-mcmaster-appoints-darline-graham-us-senate",
+      "title": "Gov. McMaster Appoints Darline Graham to the U.S. Senate",
+      "publisher": "南卡罗来纳州州长办公室",
+      "published_at": "2026-07-13",
+      "excerpt": "COLUMBIA, S.C. — Governor Henry McMaster today announced the appointment of Darline Graham to the United States Senate to fill the vacancy created by the passing of U.S. Senator Lindsey Graham.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    },
+    {
+      "id": "e2",
+      "url": "https://www.dgraham.senate.gov/",
+      "title": "DARLINE GRAHAM, SENATOR FOR SOUTH CAROLINA",
+      "publisher": "美国参议员达琳·格雷姆办公室",
+      "published_at": null,
+      "excerpt": "appointed as a Republican to the United States Senate on July 13, 2026, to fill the vacancy caused by the death of Lindsey O. Graham; took the oath of office on July 14, 2026.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-154518",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": "congress-new-g000608",
+  "default_bureau": "congress",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 darline-graham（库里没有此人）",
+      "现任职务新增：美国联邦参议员（南卡罗来纳州）",
+      "履历新增：2026-07 美国联邦参议员（南卡罗来纳州）",
+      "所属局：定为四局·国会干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "congress",
+    "person_id": "darline-graham",
+    "reason": "主要职务“美国联邦参议员（南卡罗来纳州）”：参众两院"
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-rodney-s-scott",
+      "line": "cadre",
+      "subject_id": "rodney-s-scott",
+      "title": "罗德尼·S.斯科特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://docs.house.gov/meetings/AP/AP15/20260416/119149/HHRG-119-AP15-Bio-ScottR-20260416.pdf",
+          "title": "Rodney S. Scott — Commissioner of U.S. Customs and Border Protection",
+          "published_at": "2026-04-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "Rodney S. Scott is the Commissioner of U.S. Customs and Border Protection. Senior Advisor since January 2025. Chief of U.S. Border Patrol from February 2, 2020; retired in 2021. Began Border Patrol service May 11, 1992. San Diego Deputy Chief in 2012; El Centro Chief in 2016; San Diego Chief in 2017; Acting Deputy Chief in 2019. Previously a commercial pilot; earned Commercial Pilot Certificate from Cochise College.",
+          "tier": 1
+        },
+        {
+          "id": "vote",
+          "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00321.htm?congress=119&session=1&vote=00321",
+          "title": "Confirmation of Rodney Scott",
+          "published_at": "2025-06-18",
+          "checked_at": "2026-10-18",
+          "excerpt": "Vote Date: June 18, 2025. Vote Result: Nomination Confirmed.",
+          "tier": 1
+        },
+        {
+          "id": "inpost",
+          "url": "https://www.capito.senate.gov/news/press-releases/photos/video-capito-noem-celebrate-opening-of-monarch-hall-at-advanced-training-center",
+          "title": "Capito, Noem, Scott Celebrate Opening of Monarch Hall",
+          "published_at": "2025-06-23",
+          "checked_at": "2026-10-18",
+          "excerpt": "U.S. Customs and Border Protection (CBP) Commissioner Rodney Scott",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "inbox",
+        "liuju",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "罗德尼·S.斯科特",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": null,
+        "birth_place": null,
+        "work_start": null,
+        "education": null,
+        "degree": null,
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国海关和边境保护局",
+          "role": "局长",
+          "start": {
+            "value": "2025-06",
+            "source_ids": [
+              "vote",
+              "inpost"
+            ],
+            "inferred": false,
+            "basis": "6月18日获确认，6月23日已以局长身份出席活动；只记录两一级来源共同限定的月份，不确定具体到任日。",
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "vote",
+            "inpost"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1992-05-11",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国边境巡逻队",
+          "role": "巡逻员、监督巡逻员、外勤行动主管、助理巡逻长、驻站巡逻长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国边境巡逻队圣迭戈区",
+          "role": "副巡逻长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国边境巡逻队埃尔森特罗区",
+          "role": "巡逻长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国边境巡逻队圣迭戈区",
+          "role": "巡逻长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2020-02-02",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国边境巡逻队",
+          "role": "副总队长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "代理",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2020-02-02",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国边境巡逻队",
+          "role": "总队长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-06",
+            "source_ids": [
+              "vote",
+              "inpost"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国海关和边境保护局",
+          "role": "局长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "vote",
+            "inpost"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国海关和边境保护局局长办公室",
+          "role": "高级顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "国籍、出生年月未取得明确来源。",
+        "1992年参加边境执法前已任商业飞行员，首份全职工作时间未查清，因此参加工作时间留空。",
+        "Cochise College 航空管理学习及商业飞行执照有来源，未载学位与学习年份；学历、学位留空。",
+        "2025年6月局长具体到任日未核定；2025年高级顾问岗位结束时间只记年。",
+        "总部反恐办公室助理主管、副执行主任及事件管理与行动协调部门主任的起止时间未载；2012年前职务交接时间未载。",
+        "得克萨斯公共政策基金会资深研究员任期未载。"
+      ],
+      "excluded": [
+        "不从任命总统党籍、投票倾向或政治捐款推断本人党籍及入党时间。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "罗德尼·S.斯科特；美国海关和边境保护局局长",
+      "review_items": [
+        "表外人名建议译法见 names.csv，待人工复核；未标作新华社已核译名。",
+        "译名表内标为待核的机构、职务按现有写法保留；逐项清单见README检查提示。"
+      ]
+    }
+  ],
+  "source_task": "liuju"
+}

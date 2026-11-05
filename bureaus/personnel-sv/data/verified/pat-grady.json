@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "pat-grady-20261018",
+      "line": "cadre",
+      "subject_id": "pat-grady",
+      "title": "帕特·格雷迪简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://sequoiacap.com/people/pat-grady",
+          "title": "Pat Grady | Sequoia Capital",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Pat Grady ... Growth",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://events.bc.edu/event/shea_center_talk_pat_grady_04",
+          "title": "Shea Center Talk: Pat Grady, Sequoia",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Pat Grady '04 ... Since joining Sequoia Capital in 2007 ... B.S. in Economics & Finance",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://eagleentrepreneurs.org/2019/03/25/pat-grady-sequoia-capital/",
+          "title": "Pat Grady – Sequoia Capital",
+          "published_at": "2019-03-25",
+          "checked_at": "2026-10-18",
+          "excerpt": "After graduating from Boston College in 2004, Pat Grady went to work at Summit Partners.",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/",
+          "title": "Sequoia names Alfred Lin and Pat Grady as new co-stewards",
+          "published_at": "2025-11-04",
+          "checked_at": "2026-10-18",
+          "excerpt": "partners Alfred Lin and Pat Grady will succeed him as co-stewards.",
+          "tier": 2
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "帕特·格雷迪",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1982-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：本科毕业2004－22＝1982；出生月无依据，取7月。",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "2004",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "2004-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：2004年毕业后在Summit任首职，毕业月按5月，次月6月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2004",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学本科",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "波士顿学院经济学与金融学理学学士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "红杉资本",
+          "role": "合伙人",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "合伙人"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2000",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：2004年本科毕业减4。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2004",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2004",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "波士顿学院",
+          "role": null,
+          "program": "经济学与金融学",
+          "degree_awarded": {
+            "value": "理学学士学位",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2004-06",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3及美国学年规则：2004年毕业后首职，取6月。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "2004",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Summit Partners",
+          "role": "投资人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "投资人"
+          ],
+          "role_category": {
+            "value": "went to work at Summit Partners",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "采访介绍其在私募投资机构任职，职级未载，以投资人身份概括。",
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "红杉资本",
+          "role": "合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "合伙人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "红杉资本",
+      "conflicts": [],
+      "unknowns": [
+        "Summit Partners 的具体职级未见于已打开的采访介绍。",
+        "国籍：已查所列来源，未找到可采用依据。",
+        "共同掌舵人：2025-11-04媒体报道有接任公告，本次未取得明确列出该现职的机构公告，现任只采用已核实的合伙人；该报道早于2026-06-01，不报本期动态。"
+      ],
+      "excluded": [
+        "排除科罗拉多大学同名高尔夫运动员与会计师的生日资料。"
+      ],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": null,
+      "review_items": [
+        "共同掌舵人为co-steward的表外职务译法，待审。",
+        "表外译名帕特·格雷迪待审。",
+        "共同掌舵人二级来源s4保留，未以普通人物主页s1装饰性支撑该职务。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "2026-08-24-todd-steggerda-confirm",
+  "date": "2026-08-24",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "todd-steggerda",
+  "person": {
+    "name_zh": "托德·斯特格达",
+    "name_en": "Todd Steggerda",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": "2026-08-24",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国常驻联合国日内瓦办事处及其他国际组织代表团",
+      "role": "常驻代表（大使衔）",
+      "organization_en": "United States Mission to the United Nations and Other International Organizations in Geneva",
+      "role_en": "Representative of the United States of America to the Office of the United Nations and Other International Organizations in Geneva, with the rank of Ambassador",
+      "start": "2026-08-24",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "c2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "参议院确认托德·斯特格达出任美国常驻联合国日内瓦办事处及其他国际组织代表团常驻代表（大使衔）",
+  "summary": "美国参议院于2026-08-07确认托德·斯特格达出任美国常驻联合国日内瓦办事处及其他国际组织代表（大使衔），提名编号PN806-9。他于2026-08-24宣誓，2026-09-28递交国书，履任常驻代表。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Todd Steggerda, of Virginia, to be Representative of the United States of America to the Office of the United Nations and Other International Organizations in Geneva, with the rank of Ambassador.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "c1",
+      "url": "https://www.ungeneva.org/en/blue-book/missions/member-states/united-states-america",
+      "title": "United States of America | Blue Book | UN Geneva",
+      "publisher": "",
+      "published_at": null,
+      "excerpt": "H.E. Mr. Todd STEGGERDA Ambassador Permanent Representative ( 28 September 2026 )",
+      "supports": [],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true,
+      "note": "联合国日内瓦办事处的常驻代表名录：括注 2026-09-28 为递交国书日"
+    },
+    {
+      "id": "c2",
+      "url": "https://geneva.usmission.gov/ambassador-todd-r-steggerda/",
+      "title": "Ambassador Todd R. Steggerda | U.S. Mission Geneva",
+      "publisher": "",
+      "published_at": null,
+      "excerpt": "Ambassador Steggerda was confirmed by the United States Senate on August 7, 2026, and sworn into the position on August 24, 2026.",
+      "supports": [
+        "effective_at",
+        "new_roles[0].start"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "summary_zh → 美国参议院于2026-08-07确认托德·斯特格达出任美国常驻联合国日内瓦办事处及其他国际组织代表（大使衔），提名编号PN806-9。他于2026-08-24宣誓，2026-09-28递交国书，履任常驻代表。",
+      "effective_at → 2026-08-24、new_roles[0].start → 2026-08-24（来源 c2，美国常驻日内瓦代表团官网的宣誓日；原更正 2026-09-28 是递交国书日，2026-10-21 按“确认之后有宣誓日就是到任”改）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 todd-steggerda（库里没有此人）",
+      "现任职务新增：美国常驻联合国日内瓦办事处及其他国际组织代表团常驻代表（大使衔）",
+      "履历新增：2026-08 美国常驻联合国日内瓦办事处及其他国际组织代表团常驻代表（大使衔）",
+      "所属局：定为三局·白宫干部局"
+    ],
+    "notes": [
+      "参议院确认后已于 2026-08-24 到任（一级来源），按到任写回"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "todd-steggerda",
+    "reason": "主要职务“美国常驻联合国日内瓦办事处及其他国际组织代表团 常驻代表（大使衔）”：总统、白宫、内阁与独立机构"
+  }
+}

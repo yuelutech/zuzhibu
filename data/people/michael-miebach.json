@@ -1,0 +1,750 @@
+{
+  "id": "michael-miebach",
+  "name_zh": "孟轲",
+  "name_en": "Michael Miebach",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "michael-miebach.jpg",
+    "source": "维护者提供（孟轲_Michael-Miebach_万事达卡.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Mastercard Incorporated",
+      "role_en": "President and Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-michael-miebach",
+    "line": "cadre",
+    "subject_id": "michael-miebach",
+    "title": "孟轲简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.mastercard.com/us/en/news-and-trends/press/executive-bios/michael-miebach.html",
+        "title": "Michael Miebach | Mastercard Newsroom (Executive Bios)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Michael Miebach is chief executive officer of Mastercard and a member of its board of directors.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.mastercard.com/us/en/news-and-trends/press/executive-bios/michael-miebach.html",
+        "title": "Michael Miebach | Mastercard Newsroom (Executive Bios)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Upon joining Mastercard in 2010, he helped shape the company’s financial inclusion efforts to deliver a commercially sustainable social impact.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.mastercard.com/us/en/news-and-trends/press/executive-bios/michael-miebach.html",
+        "title": "Michael Miebach | Mastercard Newsroom (Executive Bios)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "He serves on the board of directors of IBM, the US-India Strategic Partnership Forum, the Metropolitan Opera, the World Resources Institute and the American Red Cross.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
+        "title": "Mastercard Incorporated 2026 Proxy Statement (DEF 14A), director nominee Michael Miebach",
+        "published_at": "2026-04-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chief Executive Officer and President (since January 2021)",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
+        "title": "Mastercard Incorporated 2026 Proxy Statement (DEF 14A), director nominee Michael Miebach",
+        "published_at": "2026-04-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "President (February 2020-December 2020)",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
+        "title": "Mastercard Incorporated 2026 Proxy Statement (DEF 14A), director nominee Michael Miebach",
+        "published_at": "2026-04-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chief Product Officer (2016-2020)",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
+        "title": "Mastercard Incorporated 2026 Proxy Statement (DEF 14A), director nominee Michael Miebach",
+        "published_at": "2026-04-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "President, Middle East and Africa (2010-2015)",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
+        "title": "Mastercard Incorporated 2026 Proxy Statement (DEF 14A), director nominee Michael Miebach",
+        "published_at": "2026-04-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Managing Director, Middle East and North Africa (2008-2010)",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
+        "title": "Mastercard Incorporated 2026 Proxy Statement (DEF 14A), director nominee Michael Miebach",
+        "published_at": "2026-04-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Managing Director, Sub-Saharan Africa (2007-2008)",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
+        "title": "Mastercard Incorporated 2026 Proxy Statement (DEF 14A), director nominee Michael Miebach",
+        "published_at": "2026-04-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Several executive positions in Germany, Austria, U.K. and Turkey (1994-2007)",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
+        "title": "Mastercard Incorporated 2026 Proxy Statement (DEF 14A), director nominee Michael Miebach",
+        "published_at": "2026-04-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "International Business Machines Corporation, a technology and consulting company (since 2023)",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
+        "title": "Mastercard Incorporated 2026 Proxy Statement (DEF 14A), director independence",
+        "published_at": "2026-04-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "The Board affirmatively determined that each of our current directors and director nominees is independent except for Mr. Miebach (our President and CEO).",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm",
+        "title": "Mastercard Incorporated Form 10-K for fiscal year 2025 (Information about our executive officers, as of February 11, 2026)",
+        "published_at": "2026-02-11",
+        "checked_at": "2026-10-21",
+        "excerpt": "Various executive positions at Citigroup in Germany, Austria, U.K. and Turkey (1994-2007)",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://www.mastercard.com/news/press/press-releases/2020/february/mastercard-announces-leadership-transition",
+        "title": "Mastercard Announces Leadership Transition",
+        "published_at": "2020-02-25",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mastercard’s Board unanimously elected Michael Miebach, Chief Product Officer, to become Chief Executive Officer and a member of the Board of Directors on January 1, 2021 and, as part of the transition, he will become President of the company, effective March 1, 2020.",
+        "tier": 1
+      },
+      {
+        "id": "s15",
+        "url": "https://www.mastercard.com/news/europe/en/newsroom/our-executives/",
+        "title": "Our Executives | Mastercard Newsroom (Europe)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Michael holds a Master of Business Administration from the University of Passau in Germany.",
+        "tier": 1
+      },
+      {
+        "id": "s16",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139121000098/mastercard2021proxystateme.htm",
+        "title": "Mastercard Incorporated 2021 Proxy Statement (DEF 14A), director nominee Michael Miebach",
+        "published_at": "2021-04-29",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chief Product Officer (January 2016-February 2020)",
+        "tier": 1
+      },
+      {
+        "id": "s17",
+        "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/kreditkarten-anbieter-mastercard-beruft-einen-deutschen-an-die-spitze/25581330.html",
+        "title": "Kreditkarten-Anbieter: Mastercard beruft einen Deutschen an die Spitze (Handelsblatt)",
+        "published_at": "2020-02-25",
+        "checked_at": "2026-10-21",
+        "excerpt": "Ein Deutscher wird der neue Mastercard-Chef: Michael Miebach war zuletzt der oberste Produktverantwortliche des Kreditkarten-Anbieters.",
+        "tier": 2
+      },
+      {
+        "id": "s18",
+        "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/kreditkarten-anbieter-mastercard-beruft-einen-deutschen-an-die-spitze/25581330.html",
+        "title": "Kreditkarten-Anbieter: Mastercard beruft einen Deutschen an die Spitze (Handelsblatt)",
+        "published_at": "2020-02-25",
+        "checked_at": "2026-10-21",
+        "excerpt": "Miebach hat seinen Abschluss an der Universität Passau gemacht. Nach Stationen bei den Banken Citibank und Barclays wechselte er 2010 zu Mastercard.",
+        "tier": 2
+      },
+      {
+        "id": "s19",
+        "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/kreditkarten-anbieter-mastercard-beruft-einen-deutschen-an-die-spitze/25581330.html",
+        "title": "Kreditkarten-Anbieter: Mastercard beruft einen Deutschen an die Spitze (Handelsblatt)",
+        "published_at": "2020-02-25",
+        "checked_at": "2026-10-21",
+        "excerpt": "Der im Allgäu aufgewachsene Michael Miebach wird zum 1. Januar 2021 die Nachfolge von Konzernchef Ajay Banga antreten, der seit zehn Jahren den Visa-Konkurrenten führt, wie Mastercard am Dienstag mitteilte.",
+        "tier": 2
+      },
+      {
+        "id": "s20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000081/ma06302026-exx991xearnings.htm",
+        "title": "Mastercard Incorporated Reports Second Quarter 2026 Financial Results (Form 8-K Exhibit 99.1)",
+        "published_at": "2026-07-30",
+        "checked_at": "2026-10-21",
+        "excerpt": "said Michael Miebach, Mastercard CEO.",
+        "tier": 1
+      },
+      {
+        "id": "s21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139121000098/mastercard2021proxystateme.htm",
+        "title": "Mastercard Incorporated 2021 Proxy Statement (DEF 14A), director nominee Michael Miebach",
+        "published_at": "2021-04-29",
+        "checked_at": "2026-10-21",
+        "excerpt": "Several executive positions at Citigroup in Germany, Austria, U.K. and Turkey (1994-2007)",
+        "tier": 1
+      },
+      {
+        "id": "s22",
+        "url": "http://www.news.cn/world/20260518/3d9ef0aa6d2d45e5abc252388887161b/c.html",
+        "title": "特稿丨中美相向而行为世界经济注入更多稳定性——国际政商学界人士高度评价中美元首会晤（新华网）",
+        "published_at": "2026-05-18",
+        "checked_at": "2026-10-22",
+        "excerpt": "随同特朗普访华的美国万事达卡公司首席执行官孟轲对新华社记者说",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s12"
+        ],
+        "inferred": false,
+        "basis": "委托书称 Mr. Miebach",
+        "inference": null
+      },
+      "nationality": {
+        "value": "德国",
+        "source_ids": [
+          "s17"
+        ],
+        "inferred": false,
+        "basis": "德国《商报》（Handelsblatt）2020-02-25称其为德国人（Ein Deutscher）。是否另有美国国籍未检得来源",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1967-10",
+        "source_ids": [
+          "s4",
+          "s13",
+          "s16"
+        ],
+        "inferred": true,
+        "basis": "按年龄陈述推：2026-06-16 文件称 58 岁；2026-02-11 文件称 58 岁；2021-06-22 文件称 53 岁；出生在 1967-06-23 至 1968-02-11 之间，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-06-16",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1994-07",
+        "source_ids": [
+          "s10",
+          "s21"
+        ],
+        "inferred": true,
+        "basis": "可查最早任职：1994年起在花旗集团（德国、奥地利、英国、土耳其）任职，委托书和10-K均从此列起；是否为第一份全职工作、具体月份未检得；参加工作月份无记载，取 7 月（cadre.md 第 3 节第 3 条）",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1994",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "s15",
+          "s18"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "帕绍大学工商管理硕士学位",
+        "source_ids": [
+          "s15",
+          "s18"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "孟轲",
+        "source_ids": [
+          "s22"
+        ],
+        "basis": "本人中文名",
+        "inferred": false,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "万事达卡公司",
+        "role": "总裁、首席执行官、董事",
+        "start": {
+          "value": "2021-01",
+          "source_ids": [
+            "s4",
+            "s12",
+            "s13",
+            "s1",
+            "s20"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s12",
+          "s13",
+          "s1",
+          "s20",
+          "s14"
+        ],
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1994-07",
+          "source_ids": [
+            "s10",
+            "s21",
+            "s18"
+          ],
+          "inferred": true,
+          "basis": "与首段参加工作一致（参加工作月份无记载，取 7 月）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1994",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2007",
+          "source_ids": [
+            "s10",
+            "s21",
+            "s18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "花旗集团",
+        "role": "高级管理人员（德国、奥地利、英国、土耳其）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10",
+          "s21",
+          "s18"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级管理人员（德国、奥地利、英国、土耳其）"
+        ],
+        "role_category": null,
+        "role_basis": "委托书只写 Several executive positions at Citigroup in Germany, Austria, U.K. and Turkey，概括为高级管理人员（写法第 5 节）",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "巴克莱银行",
+        "role": "撒哈拉以南非洲业务董事总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "撒哈拉以南非洲业务董事总经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "巴克莱银行",
+        "role": "中东和北非业务董事总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "中东和北非业务董事总经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010",
+          "source_ids": [
+            "s7",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015",
+          "source_ids": [
+            "s7",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "万事达卡公司",
+        "role": "中东和非洲区总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s7",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "中东和非洲区总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-01",
+          "source_ids": [
+            "s16",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020-02",
+          "source_ids": [
+            "s16",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "万事达卡公司",
+        "role": "首席产品官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s16",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席产品官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020-03",
+          "source_ids": [
+            "s14",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020-12",
+          "source_ids": [
+            "s14",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "万事达卡公司",
+        "role": "总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s14",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-01",
+          "source_ids": [
+            "s4",
+            "s14",
+            "s1",
+            "s12",
+            "s20"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "万事达卡公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s14",
+          "s1",
+          "s12",
+          "s20"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2023",
+              "source_ids": [
+                "s11",
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "国际商业机器公司（IBM）",
+            "role": "董事",
+            "roles": [
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s11",
+              "s3"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "万事达卡公司",
+    "conflicts": [
+      {
+        "field": "careers[万事达卡公司总裁].start",
+        "alternatives": [
+          {
+            "value": "2020-03",
+            "source_ids": [
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2020-02",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2020-03",
+        "reason": "2020年2月25日新闻稿写总裁一职 effective March 1, 2020；委托书写 President (February 2020-December 2020)，2021年委托书同时写首席产品官任至2020年2月。草稿按新闻稿取2020-03"
+      }
+    ],
+    "unknowns": [
+      "出生年月：未检得一级或二级来源（维基百科称1968年，未采用）；只有年龄陈述，按各文件日期推得生于1967年6月23日至1968年2月11日之间",
+      "出生地：未检得一级或二级来源。《商报》只说他在阿尔高地区长大（s19）；维基百科称生于巴伐利亚州上金茨堡（Obergünzburg），地方媒体 b4bschwaben.de（2020-02-26）称其“来自上金茨堡（东阿尔高县）”，均未采用",
+      "帕绍大学毕业年份、入学年份：未检得；该校学位的德文原名未检得（公司英文介绍写 Master of Business Administration，《商报》只写 Abschluss）",
+      "是否兼有美国国籍：未检得",
+      "参加工作月份：未检得；1994年是否为第一份全职工作未检得直接表述",
+      "2015—2016年之间的职务（中东和非洲区总裁至2015年，首席产品官自2016年1月）：未检得",
+      "IBM 董事起始月份：委托书只写 since 2023"
+    ],
+    "excluded": [
+      "帕绍大学工商管理学习：起止时间无来源，履历不单列，学位见首段"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Michael Miebach；万事达卡公司；总裁、首席执行官、董事",
+    "review_items": []
+  }
+}

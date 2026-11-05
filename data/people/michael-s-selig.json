@@ -1,0 +1,509 @@
+{
+  "id": "michael-s-selig",
+  "name_zh": "迈克尔·塞利格",
+  "name_en": "Michael S. Selig",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Commodity Futures Trading Commission Chairman Commodity Futures Trading Commission Chairman”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/michael-s-selig.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.cftc.gov/sites/default/files/2026-02/Selig%20Headshot_0.jpg",
+    "source": "https://www.cftc.gov/About/Commissioners/MichaelSelig/index.htm",
+    "file": "michael-s-selig.jpg",
+    "source_kind": "官方照片（机构官网）",
+    "license": "公有领域：商品期货交易委员会网站政策页 Copyright：“Government information at the CFTC website is in the public domain. Public domain information may be freely distributed and copied, bu；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Commodity Futures Trading Commission",
+      "role_en": "Chairman"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": null,
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Commodity Futures Trading Commission Chairman Commodity Futures Trading Commission Chairman”：不在各局范围）；补采简历 bureaus/personnel-whitehouse/data/verified/michael-s-selig.json（sanju-baigong，程序检查通过，待独立核查）"
+    },
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Commodity Futures Trading Commission Chairman Commodity Futures Trading Commission Chairman”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/michael-s-selig.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-michael-s-selig",
+    "line": "cadre",
+    "subject_id": "michael-s-selig",
+    "title": "迈克尔·塞利格简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.cftc.gov/About/Commissioners/MichaelSelig/index.htm",
+        "title": "Michael S. Selig",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "sworn in as the 16th Chairman ... December 22, 2025",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.aol.com/articles/michael-selig-meet-trump-administrations-100901424.html",
+        "title": "Who is Michael Selig? Business Insider via AOL",
+        "published_at": "2026-03-01",
+        "checked_at": "2026-10-18",
+        "excerpt": "36-year-old; graduated ... in 2015; began serving ... in March 2025",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://www.cadwalader.com/uploads/cfmemos/eb934c1e800020f45c8282d3d2de89b4.pdf",
+        "title": "CFTC Extends No-Action Relief for Swaps Executed as Part of Certain Package Transactions",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Please contact any member of the Cadwalader team ... Michael Selig",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.willkie.com/news/2025/12/willkie-alum-michael-selig-confirmed-as-16th-cftc-chairman",
+        "title": "Willkie Alum Michael Selig Confirmed as 16th CFTC Chairman",
+        "published_at": "2025-12-19",
+        "checked_at": "2026-10-18",
+        "excerpt": "partner ... 2022-2025; leaving Willkie in March 2025",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.willkie.com/news/2023/11/willkie-elects-25-new-partners",
+        "title": "Willkie Elects 25 New Partners",
+        "published_at": "2023-11-29",
+        "checked_at": "2026-10-18",
+        "excerpt": "effective January 1, 2024; Michael Selig: Asset Management",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.willkie.com/events/2022/06/crypto-connection-2022",
+        "title": "Crypto Connection 2022",
+        "published_at": "2022-06-16",
+        "checked_at": "2026-10-18",
+        "excerpt": "counsel ... Michael Selig",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "迈克尔·塞利格",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1989-09",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "2026年3月1日报道36岁，生日区间1989-03-02至1990-03-01；取中点1989年9月",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-03-01",
+          "duration_years": 36
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2015-06",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "2015年法学院毕业，同年律所列入团队；按毕业次月6月推定首份毕业后工作",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "2015",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "乔治·华盛顿大学法学院研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法律博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "商品期货交易委员会",
+        "role": "主席",
+        "start": {
+          "value": "2025-12-22",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2012",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2015年JD毕业，按三年学制倒推",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2015",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "2015",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "乔治·华盛顿大学法学院",
+        "role": "法律专业学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "法律博士",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法律专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "凯威莱德律师事务所",
+        "role": "法律事务工作人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法律事务工作人员"
+        ],
+        "role_category": null,
+        "role_basis": "2015年律所文件列入业务团队；当年执业资格起点未核实",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022",
+          "source_ids": [
+            "s6",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2024-01-01",
+          "source_ids": [
+            "s6",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Willkie Farr & Gallagher 律师事务所",
+        "role": "顾问律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "顾问律师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024-01-01",
+          "source_ids": [
+            "s5",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025-03",
+          "source_ids": [
+            "s5",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Willkie Farr & Gallagher 律师事务所",
+        "role": "合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "合伙人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-03",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "证券交易委员会",
+        "role": "加密货币工作组首席法律顾问、主席高级顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "加密货币工作组首席法律顾问、主席高级顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-12-22",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "商品期货交易委员会",
+        "role": "主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [
+      {
+        "field": "careers.Willkie.partner_start",
+        "alternatives": [
+          {
+            "value": "2022",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2024-01-01",
+            "source_ids": [
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2024-01-01",
+        "reason": "采用2022年顾问活动页与2023年晋升公告，用户已确定。"
+      }
+    ],
+    "unknowns": [
+      "本科起止时间、此前是否有全职工作未查清；在校CFTC法律助理经历不计作首份全职工作。",
+      "2015年至2022年各律所间完整任职日期未查清。Willkie职级日期采用同期公告，冲突留档。",
+      "党籍、入党日期未查清；出生及首职月份为规则推算。",
+      "佛罗里达州立大学：本科学习。该经历有来源，但起始日期未查清，未排入时间线；来源：s1"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Michael S. Selig；商品期货交易委员会",
+    "review_items": []
+  }
+}

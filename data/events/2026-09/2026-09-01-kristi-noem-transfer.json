@@ -1,0 +1,141 @@
+{
+  "id": "2026-09-01-kristi-noem-transfer",
+  "date": "2026-09-01",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "kristi-noem",
+  "person": {
+    "name_zh": "克丽丝蒂·诺姆",
+    "name_en": "Kristi Noem",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-10-15",
+  "effective_at": "2026-09",
+  "ended_roles": [
+    {
+      "organization": "美国国务院",
+      "role": "美洲之盾特使",
+      "organization_en": "U.S. Department of State",
+      "role_en": "Special Envoy for the Shield of the Americas",
+      "start": "2026-03",
+      "end": "2026-09",
+      "source_ids": [
+        "s1",
+        "s2",
+        "c1"
+      ],
+      "sector": "politics",
+      "concurrent": false
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "美国国务院",
+      "role": "副国务卿高级顾问",
+      "organization_en": "U.S. Department of State",
+      "role_en": "Senior Advisor to the Deputy Secretary of State",
+      "start": null,
+      "end": null,
+      "source_ids": [
+        "s1",
+        "s2"
+      ],
+      "sector": "politics",
+      "concurrent": false
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": {
+    "organization": "美国国务院",
+    "role": "副国务卿高级顾问",
+    "organization_en": "U.S. Department of State",
+    "role_en": "Senior Advisor to the Deputy Secretary of State",
+    "start": null,
+    "end": null,
+    "source_ids": [
+      "s1",
+      "s2"
+    ],
+    "sector": "politics",
+    "concurrent": false
+  },
+  "new_appointment_checked": true,
+  "headline": "诺姆美洲之盾特使任期于9月结束",
+  "summary": "诺姆美洲之盾特使任期于9月结束。国务院确认她转任副国务卿高级顾问，继续处理美洲之盾事务。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.aol.com/articles/kristi-noems-special-envoy-role-190017000.html",
+      "title": "Kristi Noem’s special envoy role to Shield of the Americas ends",
+      "publisher": "USA TODAY",
+      "published_at": "2026-10-16",
+      "excerpt": "Noem’s special envoy status expired last month",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "s2",
+      "url": "https://www.cbsnews.com/news/kristi-noem-no-longer-trump-envoy-shield-of-the-americas/",
+      "title": "Kristi Noem no longer serving as Trump envoy to Shield of the Americas",
+      "publisher": "CBS News",
+      "published_at": "2026-10-15",
+      "excerpt": "She is now a senior advisor to Deputy Secretary Landau",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "c1",
+      "url": "https://keyt.com/politics/cnn-us-politics/2026/10/16/kristi-noem-quietly-moves-to-her-third-job-in-trump-administration/",
+      "title": "Kristi Noem quietly moves to her third job in Trump administration",
+      "publisher": "",
+      "published_at": "2026-10-16",
+      "excerpt": "Noem then joined the State Department as a special envoy for “The Shield of the Americas,” ... Her ouster in March came after Noem told lawmakers",
+      "supports": [
+        "ended_roles[0].start"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true,
+      "note": "3 月离开国土安全部后任特使；同文称特使“一直是六个月的任命”，于 9 月到期，起任月份由此推出"
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-103425",
+    "corrections": [
+      "ended_roles[0].organization → 美国国务院",
+      "ended_roles[0].organization_en → U.S. Department of State",
+      "ended_roles[0].start → 2026-03（来源 c1）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（s1：不是一级来源；s2：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 kristi-noem（库里没有此人）",
+      "现任职务新增：美国国务院副国务卿高级顾问",
+      "履历新增：2026-09 美国国务院副国务卿高级顾问",
+      "所属局：定为三局·白宫干部局"
+    ],
+    "notes": [
+      "原任“美国国务院 美洲之盾特使 U.S. Department of State Special Envoy for the Shield of the Americas”：记录里本来就没有现任职务"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "kristi-noem",
+    "reason": "主要职务“美国国务院 副国务卿高级顾问”：总统、白宫、内阁与独立机构"
+  }
+}

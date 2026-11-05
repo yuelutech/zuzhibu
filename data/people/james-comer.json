@@ -1,0 +1,570 @@
+{
+  "id": "james-comer",
+  "name_zh": "詹姆士·卡莫",
+  "name_en": "James Comer",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "C001108"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "james-comer.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:James_Comer_official_congressional_photo.jpg",
+    "source_kind": "维基共享资源（国会议员官方照）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Congress），File:James Comer official congressional photo.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/James_Comer_official_congressional_photo.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-c001108",
+    "line": "cadre",
+    "subject_id": "c001108",
+    "title": "詹姆士·卡莫简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Oversight Committee Chair since January 3, 2023",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://en.wikipedia.org/wiki/James_Comer",
+        "title": "维基百科：James_Comer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Oversight Committee Chair since January 3, 2023",
+        "tier": 3
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.birthday 1972-08-19",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/James_Comer",
+        "title": "维基百科：James_Comer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.birthday 1972-08-19",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/James_Comer",
+        "title": "维基百科：James_Comer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Comer is a native of Carthage, Tennessee.",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/James_Comer",
+        "title": "维基百科：James_Comer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Chair of the House Oversight Committee...Assumed office January 3, 2023",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/James_Comer",
+        "title": "维基百科：James_Comer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "He received a BS in Agriculture from Western Kentucky University in 1993.",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/James_Comer",
+        "title": "维基百科：James_Comer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "he and his family started James Comer, Jr. Farms...co-owns Comer Land & Cattle Co.",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/James_Comer",
+        "title": "维基百科：James_Comer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Kentucky House of Representatives from the 53rd district...January 1, 2001 - January 2, 2012",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/James_Comer",
+        "title": "维基百科：James_Comer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "34th Agriculture Commissioner of Kentucky...January 2, 2012 - January 4, 2016",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office November 8, 2016; Chair of the House Oversight Committee...Assumed office January 3, 2023",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/James_Comer",
+        "title": "维基百科：James_Comer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office November 8, 2016; Chair of the House Oversight Committee...Assumed office January 3, 2023",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/James_Comer",
+        "title": "维基百科：James_Comer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "In 2000, Comer was elected to the Kentucky House of Representatives at the age of 27",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "house",
+      "state:KY"
+    ],
+    "person": {
+      "name": {
+        "value": "詹姆士·卡莫",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1972-08-19",
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "田纳西州迦太基",
+        "source_ids": [
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1993",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：经营家庭农场与畜牧企业；底稿备注：规则①：1993年本科毕业衔接农场与畜牧经营",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1993",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "大学学历",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "西肯塔基大学农业理学学士学位",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2000-05",
+        "source_ids": [
+          "s14"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次以共和党身份参选并胜出党内初选：2000年肯塔基州众议员共和党初选；来源：https://en.wikipedia.org/wiki/James_Comer；底稿备注：首次自身竞选；肯塔基州初选5月；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2000-05",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（肯塔基州第1选区）",
+        "role": "",
+        "start": {
+          "value": "2016-11",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院监督和政府改革委员会",
+        "role": "主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s7"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1990",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：学士学制4年自1993倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1993",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "西肯塔基大学",
+        "role": null,
+        "program": "农业",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "詹姆士·卡莫农场、卡莫土地与畜牧公司",
+        "role": "负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "肯塔基州议会众议院",
+        "role": "肯塔基州众议员（第53选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "肯塔基州众议员（第53选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "肯塔基州",
+        "role": "农业专员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "农业专员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016",
+          "source_ids": [
+            "s12",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（肯塔基州第1选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12",
+          "s13"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦众议员（肯塔基州第1选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2023",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国众议院监督和政府改革委员会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：西肯塔基大学入学年（按学制倒推）",
+      "底稿缺项：众议院 PTR 明细（须人工到书记官入口核取）"
+    ],
+    "excluded": [
+      "参加工作月份「1993年6月」：底稿推定（规则①：1993年本科毕业衔接农场与畜牧经营），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

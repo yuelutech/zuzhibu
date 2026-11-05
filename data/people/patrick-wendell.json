@@ -1,0 +1,261 @@
+{
+  "id": "patrick-wendell",
+  "name_zh": "帕特里克·温德尔",
+  "name_en": "Patrick Wendell",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Databricks公司 联合创始人、工程副总裁 Databricks Co-founder and VP of Engineering”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/patrick-wendell.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.databricks.com/sites/default/files/2026-01/image-portrait-Patrick-Wendell.jpg",
+    "source": "https://www.databricks.com/company/founders"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Databricks",
+      "role_en": "Co-founder and VP of Engineering"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Databricks公司 联合创始人、工程副总裁 Databricks Co-founder and VP of Engineering”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "patrick-wendell-20261018",
+    "line": "cadre",
+    "subject_id": "patrick-wendell",
+    "title": "帕特里克·温德尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-acquires-row-zero-bringing-live-governed-spreadsheets",
+        "title": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie",
+        "published_at": "2026-09-24",
+        "checked_at": "2026-10-18",
+        "excerpt": "Patrick Wendell, Co-founder and VP of Engineering at Databricks",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.cs.princeton.edu/events/event/perspectives-young-alumni-founder",
+        "title": "Perspectives from a Young Alumni Founder",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "class of 2011 ... Two years after graduating ... co-founded Databricks ... M.S. in Computer Science at UC Berkeley ... B.S.E in Computer Science",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "帕特里克·温德尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1989-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：本科毕业2011－22＝1989，出生月份取7月。",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "2011",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2013-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3：本科后在伯克利读硕士，2013年创业为已核到首份全职经历；月份无依据，取7月。",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "2013",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "加利福尼亚大学伯克利分校计算机科学理学硕士学位",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "Databricks 公司",
+        "role": "联合创始人、工程副总裁",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "联合创始人",
+          "工程副总裁"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：本科毕业2011－4＝2007。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "2011",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "2011",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "普林斯顿大学",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": {
+          "value": "工学学士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Databricks 公司",
+        "role": "联合创始人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联合创始人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "Databricks 公司",
+    "conflicts": [],
+    "unknowns": [
+      "工程副总裁任命时间未查到；不把2013年创立时间同时用作该职务起始时间。",
+      "伯克利硕士开始和毕业时间：本人职业主页打开失败，未用搜索摘要填日期。",
+      "国籍：已查所列来源，未找到可采用依据。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "表外译音帕特里克·温德尔待审。"
+    ]
+  }
+}

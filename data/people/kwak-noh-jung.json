@@ -1,0 +1,654 @@
+{
+  "id": "kwak-noh-jung",
+  "name_zh": "郭鲁正",
+  "name_en": "Kwak Noh-Jung",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“SK海力士公司 总裁兼首席执行官 SK hynix President and Chief Executive Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/kwak-noh-jung.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://mis-prod-koce-skhynixhomepage-cdn-01-ep.azureedge.net/img/content/img_member_knj.jpg",
+    "source": "https://news.skhynix.com/78th-annual-general-meeting/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "SK hynix",
+      "role_en": "President and Chief Executive Officer"
+    }
+  ],
+  "notes": [
+    "SEC field blank: SK hynix is listed in South Korea; no SEC annual report or proxy biography was identified in its official reporting sources."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“SK海力士公司 总裁兼首席执行官 SK hynix President and Chief Executive Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "kwak-noh-jung-20261018",
+    "line": "cadre",
+    "subject_id": "kwak-noh-jung",
+    "title": "郭鲁正简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.skhynix.com/sustainability/UI-FR-SA1502/",
+        "title": "SK hynix — Board of Directors",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Kwak Noh-Jung CEO & President ... 2022.03 - present CEO, SK hynix",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://kind.krx.co.kr/external/2026/05/06/000689/20260430000693/99602.htm",
+        "title": "SK hynix — 최대주주등소유주식변동신고서",
+        "published_at": "2026-05-06",
+        "checked_at": "2026-10-18",
+        "excerpt": "곽노정 생년월일 651106 성별 남 ... 국적 대한민국",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://news.skhynix.co.kr/noh-jung-kwak-appointed-as-independent-representation/",
+        "title": "SK하이닉스, 신규 각자대표이사에 곽노정 사장 선임",
+        "published_at": "2022-03-30",
+        "checked_at": "2026-10-18",
+        "excerpt": "1994년 엔지니어로 입사한 이래 ... 1984~1989 고려대 재료공학 학사 ... 1991~1994 고려대 재료공학 박사",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "郭鲁正"
+    ],
+    "person": {
+      "name": {
+        "value": "郭鲁正",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "韩国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1965-11",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1994-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "公司明确1994年以工程师入职，月份未载，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1994",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "高丽大学材料工程专业",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "博士",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "SK 海力士公司",
+        "role": "总裁、首席执行官、董事",
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "start": {
+          "value": "2022-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1984",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1989",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "高丽大学",
+        "role": null,
+        "program": "材料工程",
+        "degree_awarded": {
+          "value": "学士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1989",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1991",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "高丽大学",
+        "role": null,
+        "program": "材料工程",
+        "degree_awarded": {
+          "value": "硕士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1991",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1994",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "高丽大学",
+        "role": null,
+        "program": "材料工程",
+        "degree_awarded": {
+          "value": "博士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1994-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "公司明确1994年入职，月份取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1994",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "现代电子公司",
+        "role": "工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "海力士公司",
+        "role": "DRAM 工艺第三组组长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "DRAM 工艺第三组组长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "SK 海力士公司未来技术研究院",
+        "role": "常务",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "常务"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "SK 海力士公司制造与技术部门 D&T 技术组",
+        "role": "负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "SK 海力士公司清州工厂",
+        "role": "技术负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "技术负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "SK 海力士公司研发与制造部门",
+        "role": "制造与技术负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "制造与技术负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "SK 海力士公司",
+        "role": "制造技术负责人、总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "制造技术负责人",
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "SK 海力士公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "SK 海力士公司",
+    "conflicts": [],
+    "unknowns": [
+      "1994—2009年内部调动和早期职务交接未核得。",
+      "官网列2021年12月制造技术负责人、2022年1月制造技术总裁；2022年任命公告写2021年12月安全开发制造总括总裁，按同一阶段合并保留负责人及总裁，不指定总裁到任月。",
+      "SK SUPEX Council半导体委员会主席自2024年7月起为集团协同职务，待后续核查完整职责名称。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Kwak Noh-Jung；SK 海力士公司；总裁、首席执行官、董事",
+    "review_items": [
+      "姓名采用库内译名郭鲁正；韩国新闻稿汉字为郭魯正。"
+    ]
+  }
+}

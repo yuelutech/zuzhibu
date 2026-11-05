@@ -1,0 +1,83 @@
+{
+  "id": "2026-10-13-kimberly-guilfoyle-leave",
+  "date": "2026-10-13",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "kimberly-guilfoyle",
+  "person": {
+    "name_zh": "金伯莉·吉尔福伊尔",
+    "name_en": "Kimberly Guilfoyle",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-10-13",
+  "effective_at": "2026-10-13",
+  "ended_roles": [
+    {
+      "organization": "美国驻希腊大使馆",
+      "organization_en": "United States Embassy in Greece",
+      "role": "大使",
+      "role_en": "US Ambassador to Greece",
+      "start": null,
+      "end": "2026-10-13",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "金伯莉·吉尔福伊尔辞去美国驻希腊大使职务",
+  "summary": "10月13日报道确认吉尔福伊尔辞去美国驻希腊大使职务。其他现职未查清，本次检索未发现具体新任命。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://amp.dw.com/en/kimberly-guilfoye-us-ambassador-to-greece-resigns-amid-misconduct-allegations/a-79652952",
+      "title": "Kimberly Guilfoyle: US ambassador to Greece resigns amid allegations",
+      "publisher": "Deutsche Welle",
+      "published_at": "2026-10-13",
+      "excerpt": "Kimberly Guilfoyle has resigned as US ambassador to Greece.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "核查只因来源记录问题搁置：删去未核实的来源，其余字段已核实"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 kimberly-guilfoyle（库里没有此人）"
+    ],
+    "notes": [
+      "原任“美国驻希腊大使馆 大使 United States Embassy in Greece US Ambassador to Greece”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "kimberly-guilfoyle",
+    "reason": "转入七局前核对未通过：未核实没有其他现职"
+  }
+}

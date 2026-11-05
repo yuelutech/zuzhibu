@@ -1,0 +1,329 @@
+{
+  "id": "jamieson-greer",
+  "name_zh": "贾米森·格里尔",
+  "name_en": "Jamieson Greer",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Office of the United States Trade Representative 美国贸易代表 Office of the United States Trade Representative United States Trade Representative”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/jamieson-greer.json（sanju-neige，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2026/02/Jamieson-Greer.jpg",
+    "source": "https://www.whitehouse.gov/administration/cabinet/",
+    "file": "jamieson-greer.jpg",
+    "source_kind": "官方照片（补采）",
+    "license": "公有领域或 CC BY 3.0：白宫网站版权页称政府制作的材料不受版权保护，第三方内容按 CC BY 3.0 授权；署“白宫”；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Office of the United States Trade Representative",
+      "role_en": "United States Trade Representative"
+    }
+  ],
+  "notes": [
+    "补采任务 sanju-neige（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“Office of the United States Trade Representative 美国贸易代表 Office of the United States Trade Representative United States Trade Representative”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/jamieson-greer.json（sanju-neige，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-jamieson-greer",
+    "line": "cadre",
+    "subject_id": "jamieson-greer",
+    "title": "贾米森·格里尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.mcc.gov/about/profile/bio-greer-jamieson/",
+        "title": "Ambassador Jamieson Greer",
+        "excerpt": "U.S. Trade Representative; J.D., University of Virginia; joint Master in Global Business Law; B.A., Brigham Young University.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.prnewswire.com/news-releases/king--spalding-hires-ustr-chief-of-staff-jamieson-greer-as-international-trade-partner-301052022.html",
+        "title": "King & Spalding Hires USTR Chief of Staff Jamieson Greer",
+        "excerpt": "Greer has been USTR Chief of Staff since May 2017.",
+        "published_at": "2020-05-04",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.law.virginia.edu/uvalawyer/fall2020/2000s-class-notes",
+        "title": "UVA Law 2000s Class Notes",
+        "excerpt": "2007: Jamieson Greer is now a partner with King & Spalding’s international trade team.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-neige",
+      "research"
+    ],
+    "person": {
+      "name": {
+        "value": "贾米森·格里尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法学博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国贸易代表办公室",
+        "role": "美国贸易代表",
+        "start": {
+          "value": "2025-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2004-09",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2007",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "2007-05",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2007",
+            "duration_years": null
+          }
+        },
+        "organization": "弗吉尼亚大学",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2020-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国贸易代表办公室",
+        "role": "幕僚长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2020-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "King & Spalding律师事务所",
+        "role": "合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国贸易代表办公室",
+        "role": "美国贸易代表",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国政要",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月、国籍、首份全职工作开始年月、党籍及入党锚点未取得可采用的原始来源。",
+      "本科和联合硕士毕业年份、法院书记员与空军任期、此前两家律所任期未取得；只登记已经核实的学位和任职。",
+      "MCC网页将2025-02-27写为参议院确认日；USTR新闻检索显示2025-02-26，准确确认与宣誓日期待原件对核，since保留到月。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "United States Trade Representative | Office of the United States Trade Representative",
+    "review_items": [
+      "完整简历卡缺项：nationality、birth_date、work_start。保留seed级事实包。"
+    ]
+  }
+}

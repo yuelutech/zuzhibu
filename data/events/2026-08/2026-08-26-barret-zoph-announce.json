@@ -1,0 +1,81 @@
+{
+  "id": "2026-08-26-barret-zoph-announce",
+  "date": "2026-08-26",
+  "kind": "announce",
+  "kind_label": "宣布",
+  "person_id": "barret-zoph",
+  "person": {
+    "name_zh": "巴雷特·佐夫",
+    "name_en": "Barret Zoph",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-26",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "谷歌旗下“深层思维”公司",
+      "role": "研究副总裁",
+      "organization_en": "Google DeepMind",
+      "role_en": "Vice President of Research",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "zoph-reuters"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "巴雷特·佐夫将任谷歌旗下“深层思维”公司研究副总裁",
+  "summary": "8月26日，佐夫宣布将加入谷歌旗下“深层思维”公司，担任研究副总裁；具体生效日未公布。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "zoph-reuters",
+      "url": "https://www.investing.com/news/stock-market-news/thinking-machines-lab-cofounder-barret-zoph-joins-google-4878287",
+      "title": "Thinking Machines Lab co-founder Barret Zoph joins Google",
+      "publisher": "Reuters（Investing.com转载）",
+      "published_at": "2026-08-26",
+      "excerpt": "Zoph will join Google’s DeepMind as Vice President of Research",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094711",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（zoph-reuters：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-aug-barret-zoph",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 barret-zoph（库里没有此人）",
+      "现任职务新增：谷歌旗下“深层思维”公司研究副总裁",
+      "履历新增：2026-08 谷歌旗下“深层思维”公司研究副总裁",
+      "所属局：按宣布职务定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "barret-zoph"
+  }
+}

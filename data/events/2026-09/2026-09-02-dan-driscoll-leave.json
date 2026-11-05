@@ -1,0 +1,95 @@
+{
+  "id": "2026-09-02-dan-driscoll-leave",
+  "date": "2026-09-02",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "dan-driscoll",
+  "person": {
+    "name_zh": "丹尼尔·德里斯科尔",
+    "name_en": "Dan Driscoll",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-31",
+  "effective_at": "2026-09-02",
+  "ended_roles": [
+    {
+      "organization": "美国陆军部",
+      "organization_en": "Department of the Army",
+      "role": "部长",
+      "role_en": "Secretary of the Army",
+      "start": null,
+      "end": "2026-09-02",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "丹尼尔·德里斯科尔卸任美国陆军部长",
+  "summary": "白宫8月31日证实德里斯科尔辞职；其9月1日声明称9月2日为最后一个完整工作日。其他现职未查清，本次检索未发现已公布的具体新任命。",
+  "bureaus": [
+    "military"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.aol.com/articles/driscoll-breaks-silence-resigning-army-171606000.html",
+      "title": "Driscoll breaks silence after resigning as Army secretary",
+      "publisher": "The Hill",
+      "published_at": "2026-09-02",
+      "excerpt": "Tomorrow is my last full day in the role",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://www.news.cn/world/20260901/77f6598915ad4385a42acd583f4c8330/c.html",
+      "title": "美国陆军部长辞职　被曝与防长不和",
+      "publisher": "新华社",
+      "published_at": "2026-09-01",
+      "excerpt": "白宫8月31日证实，陆军部长丹尼尔·德里斯科尔在任职约18个月后辞职",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "核查只因来源记录问题搁置：删去未核实的来源，其余字段已核实",
+      "更正撤回：effective_at → 2026-09-03、ended_roles[0].end → 2026-09-03（所据《华盛顿邮报》网页打不开，没有可核的来源，按“没有来源的更正不收”撤回；本条来源 e1 写明最后一个完整工作日是 9 月 2 日）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：不是一级来源；e2：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 dan-driscoll（库里没有此人）"
+    ],
+    "notes": [
+      "原任“美国陆军部 部长 Department of the Army Secretary of the Army”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "military",
+    "person_id": "dan-driscoll",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

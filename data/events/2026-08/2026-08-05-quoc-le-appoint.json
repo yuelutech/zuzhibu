@@ -1,0 +1,100 @@
+{
+  "id": "2026-08-05-quoc-le-appoint",
+  "date": "2026-08-05",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "quoc-le",
+  "person": {
+    "name_zh": "黎国",
+    "name_en": "Quoc Le",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-08-05",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "探索循环公司",
+      "role": "联合创始人",
+      "organization_en": "Discovery Loop",
+      "role_en": "cofounder",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e6",
+        "e7",
+        "e8"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "黎国联合创办探索循环公司",
+  "summary": "8月5日公布的消息显示，黎国离开谷歌，与迪恩、盖马瓦特及比尼亚尔斯联合创办Discovery Loop。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e6",
+      "url": "https://www.investing.com/news/stock-market-news/google-shakes-up-ai-leadership-as-deepmind-chief-shifts-role-4838716?trk=public_post_comment-text",
+      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
+      "publisher": "Reuters（Investing.com转载）",
+      "published_at": "2026-08-05",
+      "excerpt": "Quoc Le",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    },
+    {
+      "id": "e7",
+      "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+      "title": "4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup",
+      "publisher": "WIRED",
+      "published_at": "2026-08-05",
+      "excerpt": "Quoc Le",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e8",
+      "url": "https://www.discoveryloop.com/",
+      "title": "Discovery Loop — Continuous Exploration",
+      "publisher": "Discovery Loop",
+      "published_at": null,
+      "excerpt": "Quoc Le",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 quoc-le（库里没有此人）",
+      "现任职务新增：探索循环公司联合创始人",
+      "履历新增：2026-08 探索循环公司联合创始人",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "quoc-le",
+    "reason": "主要职务“探索循环公司 联合创始人”：企业职务，原属二局"
+  }
+}

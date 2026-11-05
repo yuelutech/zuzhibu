@@ -1,0 +1,533 @@
+{
+  "id": "denis-yarats",
+  "name_zh": "丹尼斯·亚拉茨",
+  "name_en": "Denis Yarats",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务““解惑”人工智能公司 联合创始人、首席技术官 Perplexity Co-founder and Chief Technology Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/denis-yarats.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "Perplexity",
+      "role_en": "Co-founder and Chief Technology Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务““解惑”人工智能公司 联合创始人、首席技术官 Perplexity Co-founder and Chief Technology Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "denis-yarats-20261018",
+    "line": "cadre",
+    "subject_id": "denis-yarats",
+    "title": "丹尼斯·亚拉茨简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.linkedin.com/posts/perplexity-ai_catch-our-cto-and-cofounder-denis-yarats-activity-7188266547738488832-X9nl",
+        "title": "Perplexity official post",
+        "excerpt": "our CTO and cofounder Denis Yarats",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s2",
+        "url": "https://devby.io/be/news/denis-yaretc",
+        "title": "Denis Yarats interview",
+        "excerpt": "Родился в 1987 году в Гомеле.",
+        "published_at": "2019-03-05",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://belmarket.by/businessman/c7bac346-6f32-4f6c-b635-3319318342de",
+        "title": "Денис Ярац",
+        "excerpt": "Университет он закончил в 2022 году",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.perplexity.ai/fr/hub/blog/perplexity-sonar-dominates-new-search-arena-evolution",
+        "title": "Perplexity Sonar domine la nouvelle évaluation Search Arena",
+        "excerpt": "le cofondateur et CTO de Perplexity, Denis Yarats",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "丹尼斯·亚拉茨"
+    ],
+    "person": {
+      "name": {
+        "value": "丹尼斯·亚拉茨",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "白俄罗斯",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": "本人访谈称其为Белорус（白俄罗斯人）。",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1987-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1987",
+          "duration_years": null
+        }
+      },
+      "birth_place": {
+        "value": "戈梅利",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2011-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "2011",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "纽约大学",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "博士",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "“解惑”人工智能公司",
+        "role": "联合创始人、首席技术官",
+        "start": {
+          "value": "2022-07",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2022",
+            "duration_years": null
+          }
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3",
+          "s4"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2005-07",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2005",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2011-07",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "organization": "白俄罗斯国立大学",
+        "role": null,
+        "program": "应用数学与信息学",
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2011-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "organization": "Yandex公司",
+        "role": "数据分析学校负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2013-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2013",
+            "duration_years": null
+          }
+        },
+        "organization": "微软公司",
+        "role": "工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2013",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2016-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2016",
+            "duration_years": null
+          }
+        },
+        "organization": "Quora",
+        "role": "机器学习部门负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2016",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "Facebook人工智能研究实验室",
+        "role": "研究工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2018-07",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2018",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2022-07",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2022",
+            "duration_years": null
+          }
+        },
+        "organization": "纽约大学",
+        "role": null,
+        "program": null,
+        "degree_awarded": {
+          "value": "博士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-07",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2022",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "“解惑”人工智能公司",
+        "role": "联合创始人、首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3",
+          "s4"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "“解惑”人工智能公司",
+    "conflicts": [],
+    "unknowns": [
+      "本科具体学位名称、博士专业正式名称、Facebook离职年月未知。公司官网开发者旧链接已转向栏目页；现职由公司官网法语公告及官方领英帖交叉核对；领英按二级来源记录。官方标准照待补。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

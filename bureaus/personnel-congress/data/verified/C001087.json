@@ -1,0 +1,688 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001087",
+      "line": "cadre",
+      "subject_id": "c001087",
+      "title": "里克·克劳福德简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/members/c001087",
+          "title": "Office of the Clerk, U.S. House of Representatives — Eric A. \"Rick\" Crawford",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Eric A. \"Rick\" Crawford\nArkansas (AR) – 1st, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://history.house.gov/People/Listing/C/CRAWFORD,-Rick-(C001087)/",
+          "title": "CRAWFORD, Rick | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born at Homestead Air Force Base, Miami-Dade County, Florida, January 22, 1966;\nUnited States Army, 1985-1989;\n(January 3, 2011-present)",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://crawford.house.gov/about-rick",
+          "title": "About Rick | U.S. Congressman Rick Crawford",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "He served as an Explosive Ordnance Disposal Technician, completing four years of service and advancing to the rank of Sergeant.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.astate.edu/dotAsset/7d15f53d-bf98-46f8-bbe6-235ef939b145.pdf",
+          "title": "New Ground — College of Agriculture, Summer 2007, Vol. 02 No. 01",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Rick Crawford (B.S. in Agriculture Business and Economics, 1996)",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://encyclopediaofarkansas.net/entries/Rick-Crawford-8438/",
+          "title": "Eric Alan \"Rick\" Crawford (1966–) - Encyclopedia of Arkansas",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Eric Alan “Rick” Crawford was born on January 22, 1966, on Homestead Air Force Base in Florida.",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=1530",
+          "title": "Speaker Johnson Appoints New Chairman and Members to the House Permanent Select Committee on Intelligence",
+          "published_at": "2025-01-16",
+          "checked_at": "2026-10-19",
+          "excerpt": "Speaker Johnson today appointed Representative Rick Crawford (AR-1) to serve as Chairman of the House Permanent Select Committee on Intelligence",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://transportation.house.gov/news/documentsingle.aspx?DocumentID=408130",
+          "title": "Graves Announces Updates to T&I Committee and Subcommittee Leadership",
+          "published_at": "2025-01-21",
+          "checked_at": "2026-10-19",
+          "excerpt": "Rick Crawford (R-AR) will now serve as the Vice Chairman of the full Committee.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.fec.gov/data/committee/C00462374/?cycle=2024",
+          "title": "CRAWFORD FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "CRAWFORD FOR CONGRESS\nPrincipal campaign committee ID: C00462374 Registration date: May 27, 2009",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2011-12-01/html/CDIR-2011-12-01-AR-H-1.htm",
+          "title": "Congressional Directory for the 112th Congress (2011-2012), December 2011 — Arkansas, First District",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "B.A.,\n    Agricultural Business and Economics, Arkansas State University, 1996;",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://clerk.house.gov/Committees/AG00",
+          "title": "Office of the Clerk, U.S. House of Representatives — Committee on Agriculture",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "119th Congress, 2nd Session\nCommittee on Agriculture\nEric A. \"Rick\" Crawford, AR",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://rollcall.com/2009/05/04/arkansas-army-vet-gears-up-to-challenge-marion-berry/",
+          "title": "Arkansas: Army Vet Gears Up to Challenge Marion Berry – Roll Call",
+          "published_at": "2009-05-04",
+          "checked_at": "2026-10-19",
+          "excerpt": "Republican Rick Crawford will form an exploratory committee this week",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:AR"
+      ],
+      "person": {
+        "name": {
+          "value": "里克·克劳福德",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1966-01-22",
+          "source_ids": [
+            "s2",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "佛罗里达州迈阿密-戴德县霍姆斯特德空军基地",
+          "source_ids": [
+            "s2",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1985",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "第一份全职工作为美国陆军现役爆炸物处理技术员。众议院历史人物页及国会名录均记载服役时间为1985—1989年；议员官网确认高中毕业后入伍。按第一份全职工作的开始年份取1985年，未补月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1985",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "阿肯色州立大学农业商业与经济学理学学士学位",
+          "source_ids": [
+            "s2",
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2009-05",
+          "source_ids": [
+            "s9",
+            "s12"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：本人主要竞选委员会 CRAWFORD FOR CONGRESS（C00462374）在联邦选举委员会登记，2009-05-27；来源：https://www.fec.gov/data/committee/C00462374/?cycle=2024 。同期2009-05-04的 Roll Call 报道明确称其为共和党人，并报道拟成立探索委员会：https://rollcall.com/2009/05/04/arkansas-army-vet-gears-up-to-challenge-marion-berry/ 。未找到本人选民党籍登记、公开宣布加入共和党的日期或可核实就任日期的党组织职务。检索发现克雷格黑德县共和党委员会第一副主席的转载线索，但无可核实到任日期及原始依据，未采用为第2级锚点。2009-05-04尚处探索阶段，不以报道日期替代正式登记日期；2010年党派选举及2011年就任均晚于本登记锚点。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2009-05-27",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（阿肯色州第1选区）",
+          "role": "",
+          "start": {
+            "value": "2011-01-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院情报常设特别委员会",
+          "role": "主席",
+          "start": {
+            "value": "2025-01-16",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s7"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院农业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s11"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院交通和基础设施委员会",
+          "role": "副主席",
+          "start": {
+            "value": "2025-01-21",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s8"
+          ],
+          "roles": [
+            "副主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s2",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1989",
+            "source_ids": [
+              "s2",
+              "s6",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国陆军",
+          "role": "爆炸物处理技术员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s6",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "爆炸物处理技术员",
+            "中士"
+          ],
+          "role_category": null,
+          "role_basis": "议员官网明确职务为 Explosive Ordnance Disposal Technician，并记载服役中晋升 Sergeant；未取得具体晋衔日期。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "discharge",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国陆军",
+          "role": "退出现役",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "退出现役"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1992",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "阿肯色州立大学校刊及众议院历史人物页确认1996年取得学士学位；未找到能打开并确认入学年份的原始页面，按允许规则以1996减4推算为1992年。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1996",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "阿肯色州立大学",
+          "role": null,
+          "program": "农业商业与经济学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s2",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009-05-27",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国联邦众议院阿肯色州第1选区选举",
+          "role": "共和党参选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9",
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "共和党参选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-01-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（阿肯色州第1选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（阿肯色州第1选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025-01-16",
+                "source_ids": [
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "众议院情报常设特别委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s3",
+                "s7"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025-01-21",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "众议院交通和基础设施委员会",
+              "role": "副主席",
+              "roles": [
+                "副主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s3",
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.degree",
+          "alternatives": [
+            {
+              "value": "阿肯色州立大学农业商业与经济学理学学士学位",
+              "source_ids": [
+                "s2",
+                "s5",
+                "s6"
+              ],
+              "inferred": false,
+              "basis": "校方2007年校刊、众议院历史人物页及阿肯色百科均记为 B.S.。",
+              "inference": null
+            },
+            {
+              "value": "阿肯色州立大学农业商业与经济学文学学士学位",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": "2011年国会名录记为 B.A.。",
+              "inference": null
+            }
+          ],
+          "selected_value": "阿肯色州立大学农业商业与经济学理学学士学位",
+          "reason": "选用授予学位学校的校刊及国会现行历史人物页共同记载的 B.S.；一级来源之间的学位类别差异保留，交AI政见确认。"
+        },
+        {
+          "field": "current_roles.众议院情报常设特别委员会.start",
+          "alternatives": [
+            {
+              "value": "2025-01-16",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": "议长2025-01-16公告明确写当日任命。",
+              "inference": null
+            },
+            {
+              "value": "2025-01-15",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": "阿肯色百科写为2025-01-15获任命。",
+              "inference": null
+            }
+          ],
+          "selected_value": "2025-01-16",
+          "reason": "采用作出任命的议长办公室一级来源，未采用二级百科所列日期。"
+        }
+      ],
+      "unknowns": [
+        "入伍及退出现役月份：查过众议院历史人物页、议员官网传记、国会名录和阿肯色百科，仅找到1985—1989年。",
+        "本科实际入学年份：议员官网及学校校刊未写入学年；LinkedIn 搜索线索显示1989—1996年，但原文打开失败，未作为证据；结构化学习起年按1996减4推算为1992年。",
+        "本科学习是否全日制：查过学校校刊、议员官网和众议院历史人物页，没有明确记载。",
+        "1996年毕业后至首次参选前的履历起止：议员官网、学校校刊、国会名录和阿肯色百科确认其曾任自由职业牛仔竞技解说员、制作人、KAIT-TV 新闻主播和农业记者、KFIN-FM 农业节目主管、Delta Farm Roundup 制作人和主播、AgWatch Network 创办人及经营者、约翰迪尔经销商集团营销经理；没有查到各岗位可核实的开始和结束日期，未补成1996—2010年的连续任职。",
+        "AgWatch Network 创办日期和离任日期：查过议员官网、学校校刊、阿肯色百科及2009年 Roll Call 报道，没有找到；2007年校刊写共同拥有和经营，2009年报道写拥有者和总裁，均未写就任日期。",
+        "首次参选阶段结束日期及首次共和党提名日期：本次打开的来源未提供可直接采用的初选日期，参选履历 end 留空、ongoing=false。",
+        "农业委员会本届任职起日：众议院书记官第119届委员会名单确认现任委员，未列个人就任日期。",
+        "情报委员会历届委员任职的完整起止：议员官网概称2017年起任委员，阿肯色百科另记2019年曾暂时离开，未取得完整交接记录，未合成2017年至今的连续委员履历。",
+        "族裔：本次检索未找到符合要求的本人自述或官方统计来源。",
+        "党组织职务锚点：发现克雷格黑德县共和党委员会第一副主席的转载线索，未找到可核实的任职日期和原始来源。",
+        "选民党籍登记及本人公开宣布加入共和党的日期：检索本人官网、竞选官网、FEC 和公开报道，未找到可用记录。"
+      ],
+      "excluded": [
+        "底稿『2025-01开始担任美国联邦众议员』：这是本届任期时间；首次担任该选区联邦众议员的日期为2011-01-03。",
+        "底稿『1985年1月参加工作』：未找到1月依据；第一份全职经历为美国陆军现役，改为1985年入伍。",
+        "底稿『阿肯色州立大学农业经济学理学学士学位』：学校校刊专业原文为 Agriculture Business and Economics，改为农业商业与经济学。",
+        "底稿『1989—1996年阿肯色州立大学学习』：1989年入学仅检索到无法打开的 LinkedIn 线索，未沿用无证日期。",
+        "底稿『1996—2010年农业媒体记者、农业观察网络创始人』：多个单位和身份被合为一条，起止日期无证，未采用。",
+        "底稿『2010—2011年共和党联邦众议员候选人』：候选人阶段与当选人阶段混写，起止日期无证；仅保留有FEC登记日期支持的参选阶段。",
+        "底稿『2010年5月加入美国共和党』：未采用旧稿无来源月份；改取2009-05-27主要竞选委员会登记的第3级锚点。",
+        "底稿『佛罗里达州霍姆斯特德空军基地人』：官方原文明确基地所在迈阿密-戴德县，保留基地及县级地点，不改写为霍姆斯特德市。",
+        "底稿现任委员会列表：遗漏众议院农业委员会委员及交通和基础设施委员会副主席，已按官方现职页面补入。",
+        "阿肯色百科『2025-01-15任情报委员会主席』：与议长当日任命公告冲突，采用2025-01-16。",
+        "2011年国会名录『B.A.』：与校方校刊及众议院现行历史人物页的 B.S. 冲突，列入 conflicts，当前选用理学学士。",
+        "退役中士军衔不写为现役军衔：官网仅记载服役时晋升中士，已放入军队履历。",
+        "2009-05-04探索委员会报道：报道写拟成立和正在探索，不将该报道日写成正式登记日期。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（阿肯色州第1选区），美国国会众议院；Bioguide C001087",
+      "review_items": [
+        "一级来源学位类别冲突：校方校刊和众议院现行历史人物页为B.S.，2011年国会名录为B.A.；当前选用理学学士，交AI政见确认。",
+        "交通和基础设施委员会的实际职务为副主席，按官方原文保留；本批简化职务列表未列副主席。",
+        "出生地原文为迈阿密-戴德县境内空军基地，未取得将其归入具体城市的证据，保留官方地点层级。",
+        "本科起年1992为毕业年减4的规则推算；1989年入学线索未取得可打开原文。",
+        "1996年至2009年的多个媒体和商业岗位已证实身份，起止时间仍有缺口。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,757 @@
+{
+  "id": "mark-mclaughlin",
+  "name_zh": "马克·麦克劳克林",
+  "name_en": "Mark McLaughlin",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“高通公司 Chair of the Board Qualcomm Chair of the Board”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/mark-mclaughlin.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://s204.q4cdn.com/645488518/files/doc_downloads/bod/photo_resized.png",
+    "source": "https://investor.qualcomm.com/governance/board-of-directors/default.aspx"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Qualcomm",
+      "role_en": "Chair of the Board"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“高通公司 Chair of the Board Qualcomm Chair of the Board”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "mark-mclaughlin-20261018",
+    "line": "cadre",
+    "subject_id": "mark-mclaughlin",
+    "title": "马克·麦克劳克林简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926005781/tm2528704-1_def14a.htm",
+        "title": "Qualcomm 2026 Proxy Statement",
+        "published_at": "2026-01-22",
+        "checked_at": "2026-10-18",
+        "excerpt": "MARK D. McLAUGHLIN; AGE: 60; CHAIR OF THE BOARD",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.qualcomm.com/news/releases/2019/08/qualcomm-board-names-mark-mclaughlin-chairman",
+        "title": "Qualcomm Board Names Mark McLaughlin Chairman",
+        "published_at": "2019-08-13",
+        "checked_at": "2026-10-18",
+        "excerpt": "effective August 13, 2019",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://law.seattleu.edu/about/newscenter/lawyer-magazine/alumni-profiles/former-army-pilot-mark-mclaughlin-now-flies-high-in-the-world-of-cybersecurity.html",
+        "title": "Former Army pilot Mark McLaughlin now flies high in the world of cybersecurity",
+        "published_at": "2016-08-24",
+        "checked_at": "2026-10-18",
+        "excerpt": "he graduated from West Point in 1988; The 1994 graduate of Seattle University School of Law",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "马克·麦克劳克林"
+    ],
+    "person": {
+      "name": {
+        "value": "马克·麦克劳克林",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1965-07",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "2026-01-22代理声明60岁，对应1965-01-23至1966-01-22，中间月份1965-07。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-01-22",
+          "duration_years": null
+        }
+      },
+      "birth_place": {
+        "value": "宾夕法尼亚州费城",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1988-06",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "西点1988年毕业后入伍；毕业月依美国学年5月，入伍起始月取次月6月。",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "1988-05",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "西雅图大学",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法律博士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "高通公司",
+        "role": "董事长",
+        "roles": [
+          "董事长"
+        ],
+        "start": {
+          "value": "2019-08",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "Snowflake 公司",
+        "role": "董事",
+        "roles": [
+          "董事"
+        ],
+        "start": {
+          "value": "2023-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "Rubrik 公司",
+        "role": "董事",
+        "roles": [
+          "董事"
+        ],
+        "start": {
+          "value": "2022-11",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1984-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1988年毕业减4年，入学9月。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1988",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1988-05",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "美国毕业月取5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1988",
+            "duration_years": null
+          }
+        },
+        "organization": "美国军事学院",
+        "role": null,
+        "program": "政治学与经济学",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1988-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1988年毕业后入伍，月份按毕业次月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1988-05",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "美国陆军",
+        "role": "直升机飞行员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "直升机飞行员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1991-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1994年法学院毕业减美国法学院标准学制3年，9月入学。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1994",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1994-05",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "毕业月依美国学年5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1994",
+            "duration_years": null
+          }
+        },
+        "organization": "西雅图大学",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法律博士学位",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2000-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007-11",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "威瑞信公司",
+        "role": "管理人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "管理人员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008-11",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "威瑞信公司",
+        "role": "顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "威瑞信公司",
+        "role": "总裁、首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "威瑞信公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "派拓网络公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "派拓网络公司",
+        "role": "董事长、总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长",
+          "总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "派拓网络公司",
+        "role": "董事长、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "派拓网络公司",
+        "role": "副董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-08",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "高通公司",
+        "role": "董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "高通公司",
+    "conflicts": [],
+    "unknowns": [
+      "国籍未找到直接陈述；没有以美国出生、美国军籍代替国籍证据。",
+      "军队退役年月、早期律师事务所名称与起止、Signio销售及业务发展副总裁起始年月未核到。",
+      "威瑞信2000至2007年各管理岗位名称和交接时间未载，按原文management and leadership roles概括。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "Mark McLaughlin；高通公司；董事长",
+    "review_items": [
+      "表外姓名自译，锁定高通董事长，排除同名运动员、律师、地产高管。",
+      "2015年起高通董事与2019年8月起董事长分开记录，前者作为兼职补入。",
+      "国籍缺项，待补资料。"
+    ]
+  }
+}

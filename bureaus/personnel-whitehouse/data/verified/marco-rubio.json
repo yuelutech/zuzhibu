@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-marco-rubio",
+      "line": "cadre",
+      "subject_id": "marco-rubio",
+      "title": "马尔科·鲁比奥简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.mcc.gov/about/profile/bio-rubio-marco/",
+          "title": "Secretary Marco Rubio",
+          "excerpt": "He served as U.S. Senator until 2025.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://history.state.gov/departmenthistory/people/rubio-marco",
+          "title": "Marco Rubio — Office of the Historian",
+          "excerpt": "Entry on Duty: January 21, 2025",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-FL-S-1.htm",
+          "title": "Congressional Directory — Marco A. Rubio",
+          "excerpt": "MARCO A. RUBIO, Republican, of West Miami, FL; born in Miami, May 28, 1971;",
+          "published_at": "2022-10-26",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.floridabar.org/the-florida-bar-news/rubio-to-lead-house/",
+          "title": "Rubio to lead House",
+          "excerpt": "going to work as a floor manager at the GOP convention in San Diego, California.",
+          "published_at": "2005-04-01",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.senate.gov/states/FL/senators.shtml",
+          "title": "Florida Senators",
+          "excerpt": "Marco Rubio",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-neige",
+        "research"
+      ],
+      "person": {
+        "name": {
+          "value": "马尔科·鲁比奥",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1971-05-28",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "佛罗里达迈阿密",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1996-06",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：1996年法学院毕业后从事共和党大会及多尔竞选工作；首份全职工作月按毕业月5月的次月登记。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1996-05",
+            "duration_years": null
+          }
+        },
+        "education": null,
+        "degree": {
+          "value": "迈阿密大学法学博士学位",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国国务院",
+          "role": "国务卿",
+          "start": {
+            "value": "2025-01-21",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1989-09",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1993",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1993-05",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1993",
+              "duration_years": null
+            }
+          },
+          "organization": "佛罗里达大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "理学学士学位",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1993-09",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1996",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1996-05",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1996",
+              "duration_years": null
+            }
+          },
+          "organization": "迈阿密大学",
+          "role": null,
+          "program": "法学",
+          "degree_awarded": {
+            "value": "法学博士学位",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996-06",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：1996年法学院毕业后从事共和党大会及多尔竞选工作；首份全职工作月按毕业月5月的次月登记。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "1996-05",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "1996-07",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "1996",
+              "duration_years": null
+            }
+          },
+          "organization": "鲍勃·多尔总统竞选团队",
+          "role": "迈阿密－戴德县主管",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2000-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2000",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2008-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2008",
+              "duration_years": null
+            }
+          },
+          "organization": "佛罗里达州众议院",
+          "role": "议员、多数党党鞭、多数党领袖、议长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-01-03",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-01-20",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦参议院",
+          "role": "参议员（佛罗里达州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-21",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国务院",
+          "role": "国务卿",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国政要",
+      "conflicts": [],
+      "unknowns": [
+        "入党锚点尚未取得选举原始记录，party_joined_at留空；2005年律师协会采访只记1999—2000年特别选举。",
+        "早期律师任期、城市委员会任期及佛罗里达国际大学兼职完整起止日期未逐项取证；未将只知先后顺序的经历补成连续任期。",
+        "本科转学经过及实际入学日期未确认，登记的本科起年是按标准学制推算。",
+        "国家安全事务助理兼任的近期报道原文未成功打开，暂不写入现任；待一级来源补证。",
+        "未取得国籍的直接来源，nationality留空。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": "Secretary of State | U.S. Department of State",
+      "review_items": [
+        "完整简历卡缺项：nationality。保留seed级事实包。"
+      ]
+    }
+  ],
+  "source_task": "sanju-neige"
+}

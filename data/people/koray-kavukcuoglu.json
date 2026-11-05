@@ -1,0 +1,548 @@
+{
+  "id": "koray-kavukcuoglu",
+  "name_zh": "科拉伊·卡武克丘奥卢",
+  "name_en": "Koray Kavukcuoglu",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Google and Google DeepMind Senior Vice President, Google DeepMind Google and Google DeepMind Senior Vice President, Google DeepMind”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/koray-kavukcuoglu.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "source": "https://blog.google/authors/koray-kavukcuoglu/",
+    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/koray.width-400.format-webp.webp"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Google and Google DeepMind",
+      "role_en": "Senior Vice President, Google DeepMind"
+    },
+    {
+      "organization_en": "Google and Google DeepMind",
+      "role_en": "Chief AI Architect, Google"
+    }
+  ],
+  "notes": [
+    "SEC field blank: no individual biography in the latest Alphabet annual report or proxy statement."
+  ],
+  "events": [
+    "2026-08-05-koray-kavukcuoglu-transfer"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Google and Google DeepMind Senior Vice President, Google DeepMind Google and Google DeepMind Senior Vice President, Google DeepMind”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "koray-kavukcuoglu-20261018",
+    "line": "cadre",
+    "subject_id": "koray-kavukcuoglu",
+    "title": "科拉伊·卡武克丘奥卢简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://blog.google/authors/koray-kavukcuoglu/",
+        "title": "Koray Kavukcuoglu — Google",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "SVP, Google DeepMind and Chief AI Architect, Google",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+        "title": "The next chapter of our AI momentum",
+        "published_at": "2026-08-05",
+        "checked_at": "2026-10-18",
+        "excerpt": "Koray Kavukcuoglu will take on an expanded role as SVP of Google DeepMind",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://arkasnews.com/koray-kavukcuoglu-the-turk-at-the-head-of-the-deep-mind-demet-cengiz/",
+        "title": "Koray Kavukcuoglu, The Turk at the Head of the Deep Mind — Demet Cengiz",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "graduated from Middle East Technical University (METU), Department of Aerospace Engineering in 1999",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://10haber.net/yazarlar/ismet-berkan/ib-gundem/2026-08-06/",
+        "title": "İB Gündem — İsmet Berkan",
+        "published_at": "2026-08-06",
+        "checked_at": "2026-10-18",
+        "excerpt": "Kasım 2012’de Londra’ya taşınıp DeepMind’da araştırmacı bilim insanı olarak çalışmaya başlamış.",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://cs.nyu.edu/~yann/people.html",
+        "title": "Yann LeCun lab — People",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Koray Kavukcuoglu 2005-2007 (MSc), 2007-2010 (PhD). Research Scientist, NEC Labs, Princeton.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "科拉伊·卡武克丘奥卢"
+    ],
+    "person": {
+      "name": {
+        "value": "科拉伊·卡武克丘奥卢",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "土耳其",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1977-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "本科1999年毕业减22年；月份取7月。",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1999",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1999-07",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "Roketsan研发工程师始于1999年；月份未知取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1999",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "纽约大学",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "计算机科学博士学位",
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "谷歌旗下“深层思维”公司",
+        "role": "高级副总裁",
+        "roles": [
+          "高级副总裁"
+        ],
+        "start": {
+          "value": "2026-08",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "谷歌公司",
+        "role": "首席人工智能架构师",
+        "roles": [
+          "首席人工智能架构师"
+        ],
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1994",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1999",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "中东技术大学",
+        "role": null,
+        "program": "航空航天工程",
+        "degree_awarded": {
+          "value": "学士学位",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1999-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1999年开始；月份取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1999",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2003",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Roketsan 公司",
+        "role": "研发工程师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研发工程师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "纽约大学",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": {
+          "value": "硕士学位",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "纽约大学",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": {
+          "value": "博士学位",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012-11",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "日本电气公司研究院",
+        "role": "研究科学家",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研究科学家"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-11",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-08",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "DeepMind 公司、谷歌旗下“深层思维”公司",
+        "role": "研究科学家、研究副总裁、首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研究科学家",
+          "研究副总裁",
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-08",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "谷歌旗下“深层思维”公司",
+        "role": "高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [
+          "高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "谷歌旗下“深层思维”公司",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月无直接记录；按本科毕业年推算。",
+      "2003年中东技术大学硕士学位已核到；与1999—2003年任职重叠，在职学习方式未明。",
+      "Google首席人工智能架构师具体到任月待补；研究副总裁和首席技术官交接时间未查到。",
+      "2026年8月公告和现行作者页列高级副总裁、首席人工智能架构师；首席技术官是否保留未明确，不据此申报离任。"
+    ],
+    "excluded": [
+      "Arkas和10Haber将纽约大学硕士写为2003—2005年、博士2005—2010年；采用一级来源纽约大学实验室所列2005—2007、2007—2010年。"
+    ],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Koray Kavukcuoglu；谷歌旗下“深层思维”公司；高级副总裁",
+    "review_items": [
+      "中文名沿用本库译名；与表内名再次校对。"
+    ]
+  }
+}

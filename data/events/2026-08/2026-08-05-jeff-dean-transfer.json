@@ -1,0 +1,119 @@
+{
+  "id": "2026-08-05-jeff-dean-transfer",
+  "date": "2026-08-05",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "jeff-dean",
+  "person": {
+    "name_zh": "杰夫·迪恩",
+    "name_en": "Jeff Dean",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-08-05",
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "谷歌旗下“深层思维”公司",
+      "role": "首席科学家",
+      "organization_en": "Google DeepMind",
+      "role_en": "chief scientist",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e7"
+      ]
+    },
+    {
+      "organization": "谷歌研究院",
+      "role": "首席科学家",
+      "organization_en": "Google Research",
+      "role_en": "chief scientist",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "e7"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "探索循环公司",
+      "role": "联合创始人、首席执行官",
+      "organization_en": "Discovery Loop",
+      "role_en": "cofounder and CEO",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e7",
+        "e8"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "杰夫·迪恩离开谷歌并出任探索循环公司联合创始人、首席执行官",
+  "summary": "8月5日公布的消息显示，迪恩离开谷歌，与三名同事共同创办Discovery Loop。迪恩在采访中确认由其担任首席执行官。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e7",
+      "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+      "title": "4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup",
+      "publisher": "WIRED",
+      "published_at": "2026-08-05",
+      "excerpt": "“I think I’m the CEO,” says Dean, sheepishly.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e8",
+      "url": "https://www.discoveryloop.com/",
+      "title": "Discovery Loop — Continuous Exploration",
+      "publisher": "Discovery Loop",
+      "published_at": null,
+      "excerpt": "Our founding team",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 jeff-dean（库里没有此人）",
+      "现任职务新增：探索循环公司联合创始人、首席执行官",
+      "履历新增：2026-08 探索循环公司联合创始人、首席执行官",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [
+      "原任“谷歌旗下“深层思维”公司 首席科学家 Google DeepMind chief scientist”：记录里本来就没有现任职务",
+      "原任“谷歌研究院 首席科学家 Google Research chief scientist”：记录里本来就没有现任职务"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "jeff-dean",
+    "reason": "主要职务“探索循环公司 联合创始人、首席执行官”：企业职务，原属二局"
+  }
+}

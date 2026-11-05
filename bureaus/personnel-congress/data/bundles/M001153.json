@@ -1,0 +1,589 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-m001153",
+      "line": "cadre",
+      "subject_id": "m001153",
+      "title": "丽莎·穆尔科斯基简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "sen 2003-01-07 ... 2023-01-03~2029-01-03 AK Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: F",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born May 22, 1957 in Ketchikan, Alaska Territory",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+          "title": "维基百科：Lisa_Murkowski",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born May 22, 1957 in Ketchikan, Alaska Territory",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+          "title": "维基百科：Lisa_Murkowski",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "May 22, 1957 in Ketchikan, Alaska Territory, U.S.",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+          "title": "维基百科：Lisa_Murkowski",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Committee on Indian Affairs (Chair); Appropriations; Energy and Natural Resources; HELP",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+          "title": "维基百科：Lisa_Murkowski",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Georgetown University: B.A. in Economics, 1980 (two years at Willamette before transferring)",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+          "title": "维基百科：Lisa_Murkowski",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Willamette University College of Law: J.D., 1985",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+          "title": "维基百科：Lisa_Murkowski",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "1987–1989 attorney, Anchorage District Court clerk's office; 1989–1998 private practice",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+          "title": "维基百科：Lisa_Murkowski",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Alaska House of Representatives, January 19, 1999 – December 20, 2002 (districts 14, 18)",
+          "tier": 3
+        },
+        {
+          "id": "s11",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "appointed by her father Gov. Frank Murkowski in December 2002; sworn in January 7, 2003; won 2010 as write-in",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+          "title": "维基百科：Lisa_Murkowski",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "appointed by her father Gov. Frank Murkowski in December 2002; sworn in January 7, 2003; won 2010 as write-in",
+          "tier": 3
+        },
+        {
+          "id": "s13",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+          "title": "维基百科：Lisa_Murkowski",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "attorney in Anchorage 1987–1998 (J.D. 1985)",
+          "tier": 3
+        },
+        {
+          "id": "s14",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+          "title": "维基百科：Lisa_Murkowski",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Alaska House of Representatives ... In office January 19, 1999 – December 20, 2002",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "senate",
+        "state:AK"
+      ],
+      "person": {
+        "name": {
+          "value": "丽莎·穆尔科斯基",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1957-05-22",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "阿拉斯加州凯奇坎",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1985",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：阿拉斯加州执业律师；底稿备注：维基载1987年起任安克雷奇地区法院书记员办公室律师；本项目按法学院毕业(1985)衔接执业取参加工作节点",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1985",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "威拉米特大学法学院法学博士学位",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1998-11",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以共和党身份当选阿拉斯加州众议员（1998年11月当选，1999年1月就任）；来源：https://en.wikipedia.org/wiki/Lisa_Murkowski；底稿备注：其父弗兰克·穆尔科斯基为共和党参议员/州长，党籍家族渊源更早；取最早可文证的'以共和党参选'节点（1998年州众议员选举），月份按当选(11月)推定；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1998-11",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（阿拉斯加州）",
+          "role": "",
+          "start": {
+            "value": "2003-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院拨款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院能源与自然资源委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工与养老金委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院印第安事务委员会",
+          "role": "主席",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：学士学制4年自1980毕业倒推；先在威拉米特大学就读两年后转入乔治城",
+            "inference": {
+              "rule": "degree_duration",
+              "from_date": "1980",
+              "duration_years": 5
+            }
+          },
+          "end": {
+            "value": "1980",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "乔治城大学",
+          "role": null,
+          "program": "经济学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1982",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": true,
+            "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1985毕业倒推",
+            "inference": {
+              "rule": "degree_duration",
+              "from_date": "1985",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "1985",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "威拉米特大学法学院",
+          "role": null,
+          "program": "法律",
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1998",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "阿拉斯加州",
+          "role": "执业律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "执业律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "阿拉斯加州众议院",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003-01-07",
+            "source_ids": [
+              "s11",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（阿拉斯加州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11",
+            "s12"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（阿拉斯加州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "律师执业起始年",
+          "alternatives": [
+            {
+              "value": "Codex/本项目参加工作口径：1985(法学院毕业)",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "维基：1987年起任律师",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "首段参加工作取1985(毕业衔接)，时间线律师段起1985；1987细分入底稿",
+          "reason": "底稿（Care 2026-06）记录的取舍，官方来源优先；待本机复核"
+        }
+      ],
+      "unknowns": [
+        "底稿缺项：乔治城/威拉米特两段学历的精确入学年（按学制倒推）",
+        "底稿缺项：1985-1987年间活动（法学院毕业至维基所载1987年执业之间）",
+        "底稿缺项：eFD 最新年度申报的申报日期与完整持仓（自动化访问被拒）"
+      ],
+      "excluded": [
+        "参加工作月份「1985年6月」：底稿推定（维基载1987年起任安克雷奇地区法院书记员办公室律师；本项目按法学院毕业(1985)衔接执业取参加工作节点），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

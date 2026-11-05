@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-justin-bytheway",
+      "line": "cadre",
+      "subject_id": "justin-bytheway",
+      "title": "贾斯廷·拜瑟韦简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
+          "title": "Nominations Sent to the Senate",
+          "published_at": "2026-08-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "Justin Bytheway, of Utah, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kingdom of Tonga.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.foreign.senate.gov/download/093026_bytheway_testimonypdf",
+          "title": "Statement of Justin Bytheway",
+          "published_at": "2026-09-30",
+          "checked_at": "2026-10-18",
+          "excerpt": "My family has shared the adventures and demands of Foreign Service life across six overseas assignments.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.senate.gov/legislative/nom_cmtec.htm",
+          "title": "Nominations in Committee (Civilian)",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Justin Bytheway, of Utah, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kingdom of Tonga.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.abc.net.au/news/2019-07-09/regional-australias-american-basketball-stars/11061690",
+          "title": "Regional Australia’s American basketball stars",
+          "published_at": "2019-07-09",
+          "checked_at": "2026-10-18",
+          "excerpt": "Justin Bytheway, a US consul based in Perth.",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "贾斯廷·拜瑟韦",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": null,
+        "birth_place": null,
+        "work_start": null,
+        "education": null,
+        "degree": null,
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国驻汤加大使馆",
+          "role": "大使",
+          "start": {
+            "value": "2026-08-07",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "roles": [
+            "大使"
+          ],
+          "sector": "politics",
+          "appointment_state": "提名人选"
+        }
+      ],
+      "careers": [],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "出生年月、出生地、最高学历学位、参加工作起始年月未查到。",
+        "2019年7月澳大利亚广播公司报道其为驻珀斯领事，任期起止未查到。",
+        "2026年9月本人证词确认其家庭驻达兰，未列本人当时职衔和任职日期；未据此写总领事。",
+        "本人证词称来自犹他州格伦伍德，未据此填出生地。",
+        "领英公开简介访问返回999；检索摘要不作履历依据。",
+        "未查到党籍、入党锚点和族裔。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Justin Bytheway；美国驻汤加大使馆",
+      "review_items": [
+        "资料不足，保留seed级；不生成完整简历卡。"
+      ]
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

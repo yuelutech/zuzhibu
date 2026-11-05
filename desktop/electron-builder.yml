@@ -1,0 +1,63 @@
+# electron-builder 配置（Windows 安装包）。正式构建在仓库根目录运行 python -m tools.installer.build：
+# 它先备好 ../build/installer/stage（嵌入版 Python、程序与附带数据）和 ../build/installer/zuzhibu.ico，再调用 electron-builder。
+appId: com.yuelutech.zuzhibu
+productName: AI政见·组织部
+copyright: AI政见
+directories:
+  output: ../dist
+  buildResources: resources
+files:
+  - main.js
+  - preload.js
+  - lib/**
+  - pages/**
+  - package.json
+asar: true
+electronLanguages:
+  - zh-CN
+  - en-US
+extraResources:
+  # 嵌入版 Python（python3xx._pth 指向 ..\pyapp）和程序、附带数据；外壳按 resources/runtime/python.exe -m zuzhibu 启动本地服务
+  - from: ../build/installer/stage/runtime
+    to: runtime
+  - from: ../build/installer/stage/pyapp
+    to: pyapp
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+  icon: ../build/installer/zuzhibu.ico
+  artifactName: zuzhibu-${version}-win-x64-setup.${ext}
+nsis:
+  # 一步安装：只给当前用户装到 %LOCALAPPDATA%\Programs\AI政见·组织部，不弹管理员确认；装完打开软件
+  oneClick: true
+  perMachine: false
+  allowElevation: false
+  runAfterFinish: true
+  createDesktopShortcut: always
+  createStartMenuShortcut: true
+  shortcutName: AI政见·组织部
+  uninstallDisplayName: AI政见·组织部
+  # 卸载不删本机数据和设置（%LOCALAPPDATA%\zuzhibu、%APPDATA%\zuzhibu）
+  deleteAppDataOnUninstall: false
+  installerLanguages:
+    - zh_CN
+  language: "2052"
+  installerIcon: ../build/installer/zuzhibu.ico
+  uninstallerIcon: ../build/installer/zuzhibu.ico
+  include: resources/installer.nsh
+  differentialPackage: false
+appx:
+  # 微软应用商店的商店包（python -m tools.installer.build --store，用上面同一个解包目录打）：不签名，商店审核通过后由商店签名。
+  # 身份三项 identityName、publisher、publisherDisplayName 要和合作伙伴中心“产品标识”页一致，由 build.py 传进来；
+  # displayName 要和在商店预留的名称一致。图标由 tools/installer/icon.py 画，构建时放进 ../build/installer/store-resources/appx
+  displayName: AI政见·组织部
+  applicationId: zuzhibu
+  backgroundColor: "#B8141C"
+  languages:
+    - zh-CN
+  minVersion: 10.0.17763.0
+  maxVersionTested: 10.0.26100.0
+  artifactName: zuzhibu-${version}-win-x64-store.${ext}
+publish: null

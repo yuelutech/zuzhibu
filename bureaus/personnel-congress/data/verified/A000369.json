@@ -1,0 +1,878 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "cadre-a000369",
+      "line": "cadre",
+      "subject_id": "a000369",
+      "title": "马克·阿莫迪简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/A/AMODEI,-Mark-E--(A000369)/",
+          "title": "AMODEI, Mark E. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "born in Carson City, Ormsby County (now an independent city), Nev., June 12, 1958",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/A000369",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Mark E. Amodei\nNevada (NV) – 2nd, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://clerk.house.gov/committees/AP00",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Mark E. Amodei, NV",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://clerk.house.gov/committees/II00",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "119th Congress, 2nd Session\nCommittee on Natural Resources\nMark E. Amodei, NV",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://amodei.house.gov/meet-mark/committees-and-caucuses",
+          "title": "Committees and Caucuses | Congressman Mark Amodei",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Congressman Amodei serves on the House Appropriations Committee and three of its subcommittees. He is the Chairman of the Homeland Security Subcommittee.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.unr.edu/government/alumni/",
+          "title": "Alumni in Government | Governmental Relations and Community Engagement | University of Nevada, Reno",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Mark Amodei\nU.S. House of Representatives, Nevada, District 2\nB.A. in Political Science, '80",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.mcgeorgecommunitystories.com/2024/05/alumnus-is-u-s-congressman/",
+          "title": "Alumnus served as U.S. Congressman for over a decade | McGeorge Community Stories",
+          "published_at": "2024-05-11",
+          "checked_at": "2026-10-17",
+          "excerpt": "received his law degree from the University of the Pacific McGeorge Law School in 1983.",
+          "tier": null
+        },
+        {
+          "id": "s9",
+          "url": "https://docs.house.gov/meetings/AS/AS02/20160908/105268/HHRG-114-AS02-Bio-AmodeiM-20160908.pdf",
+          "title": "BIOGRAPHY — MARK E. AMODEI",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Lawyer, Kummer, et al., 2004-2007\nLawyer, Allison, MacKenzie, et al., 1987-2004\nLawyer, United States Army, Judge Advocate General Corps, 1983-1987",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-NV-H-2.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022.",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "J.D., University of the Pacific, McGeorge School of Law, Sacramento, CA, 1983",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.asn-online.org/policy/webdocs/NV-Mark%20Amodei.pdf",
+          "title": "Bloomberg Government — Mark Amodei (R-NV-02)",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "He was elected chairman of the Nevada Republican Party in May 2010",
+          "tier": null
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:NV"
+      ],
+      "person": {
+        "name": {
+          "value": "马克·阿莫迪",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s6",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1958-06-12",
+          "source_ids": [
+            "s1",
+            "s8",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "内华达州卡森城",
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1984",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "按第一份有起始年份依据的全职军职推算：众议院现行人物页记载美国陆军军法署任期为1984—1987年，采用1984年；1983年这一不同记载列入conflicts。来源：https://history.house.gov/People/Listing/A/AMODEI,-Mark-E--(A000369)/",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1984",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s8",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "太平洋大学麦乔治法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s8",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2010-05",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：当选内华达州共和党主席，2010-05；来源：https://www.asn-online.org/policy/webdocs/NV-Mark%20Amodei.pdf 。检索未找到可公开核实的本人选民党籍登记日期。已查到第3级锚点：AMODEI FOR NEVADA竞选委员会于2009-09-17登记，FEC列其为共和党参议员候选人，来源：https://www.fec.gov/data/committee/C00467365/?cycle=2010&tab=about-committee ；按锚点级别优先规则不选用。2011年以共和党身份就任联邦众议员属于更低级锚点，不选用。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "2010-05",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": null
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（内华达州第2选区）",
+          "role": "",
+          "start": {
+            "value": "2011-09-13",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院自然资源委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1976",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "本科入学年推算：内华达大学雷诺分校政治学文学学士毕业年份为1980年，1980－4＝1976。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1980",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1980",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "内华达大学雷诺分校",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1984",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1987",
+            "source_ids": [
+              "s1",
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国陆军",
+          "role": "军法署律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "军法署律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1987",
+            "source_ids": [
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2004",
+            "source_ids": [
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Allison MacKenzie 律师事务所",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1998",
+            "source_ids": [
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "内华达州众议院",
+          "role": "众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2011",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "内华达州参议院",
+          "role": "参议员、临时议长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "参议员",
+            "临时议长"
+          ],
+          "role_category": null,
+          "role_basis": "众议院现行人物页记载州参议员任期1999—2011年、临时议长任期2003—2005年；合并为同一单位一条。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2010-05",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2011-05",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "内华达州共和党",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s8",
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2004",
+            "source_ids": [
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Kummer Kaempfer Bonner Renshaw and Ferrario 律师事务所",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2008",
+            "source_ids": [
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "内华达州矿业协会",
+          "role": "会长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "会长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "私人执业",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-09-13",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（内华达州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（内华达州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.work_start / careers[美国陆军].start",
+          "alternatives": [
+            {
+              "value": "1984",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": "众议院现行人物页：Judge Advocate General's Corps, United States Army, 1984-1987。",
+              "inference": null
+            },
+            {
+              "value": "1983",
+              "source_ids": [
+                "s8",
+                "s9",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": "法学院校友传记、众议院存档履历和国会名录记载军法署任期1983—1987年。",
+              "inference": null
+            }
+          ],
+          "selected_value": "1984",
+          "reason": "按规则采用众议院现行官方人物页；不同起始年份并列，交AI政见确认。"
+        },
+        {
+          "field": "careers[内华达州众议院].start",
+          "alternatives": [
+            {
+              "value": "1997",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": "众议院现行人物页记载member of the Nevada state assembly, 1997。",
+              "inference": null
+            },
+            {
+              "value": "1996",
+              "source_ids": [
+                "s8",
+                "s9",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": "校友传记、存档履历和国会名录记载1996—1998年。",
+              "inference": null
+            }
+          ],
+          "selected_value": "1997",
+          "reason": "采用众议院现行人物页的任职起始年；未将其他资料中的1996年直接作为就任年。交AI政见确认。"
+        },
+        {
+          "field": "careers[内华达州参议院].start/end",
+          "alternatives": [
+            {
+              "value": "1999—2011",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": "众议院现行人物页的州参议员任期。",
+              "inference": null
+            },
+            {
+              "value": "1998—2010",
+              "source_ids": [
+                "s8",
+                "s9",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": "校友传记、存档履历和国会名录的州参议员任期。",
+              "inference": null
+            }
+          ],
+          "selected_value": "1999—2011",
+          "reason": "按规则采用众议院现行官方人物页，交AI政见确认。"
+        },
+        {
+          "field": "careers[内华达州参议院].临时议长任期",
+          "alternatives": [
+            {
+              "value": "2003—2005",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": "众议院现行人物页的临时议长任期。",
+              "inference": null
+            },
+            {
+              "value": "2003—2008",
+              "source_ids": [
+                "s9",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": "众议院存档履历和国会名录的临时议长任期。",
+              "inference": null
+            }
+          ],
+          "selected_value": "2003—2005",
+          "reason": "按规则采用众议院现行官方人物页，职务合并进州参议院履历，交AI政见确认。"
+        },
+        {
+          "field": "careers[Allison MacKenzie 律师事务所].end",
+          "alternatives": [
+            {
+              "value": "2004",
+              "source_ids": [
+                "s8",
+                "s9"
+              ],
+              "inferred": false,
+              "basis": "法学院2024年校友传记和众议院2016年存档履历均记载1987—2004年。",
+              "inference": null
+            },
+            {
+              "value": "2002",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": "Bloomberg资料所附旧版议员履历记载1987—2002年。",
+              "inference": null
+            },
+            {
+              "value": "1987年至2022年名录编纂时仍任职",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": "2022年国会名录记载1987-present。",
+              "inference": null
+            }
+          ],
+          "selected_value": "2004",
+          "reason": "采用较新的法学院机构传记，并有众议院专门履历交叉支持；国会名录的延续状态与其后律所任职记录不一致。交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "法学院学习起始时间：已查众议院现行人物页、国会名录、众议院存档履历及麦乔治法学院校友传记，均确认1983年取得J.D.，未找到入学年份；未沿用底稿1980年入学，未生成缺少起始日期的学习条目。",
+        "学历时间线缺口：1980年本科毕业至军职开始之间，已知1983年取得法学博士，但法学院完整就读起止时间缺证。",
+        "众议院拨款委员会现次任职起始日期：已查书记官委员会名单、议员委员会页和Bloomberg履历，未取得可直接采用的正式生效日期，current_roles.start留空。",
+        "众议院自然资源委员会第119届任职起始日期：书记官名单及议员委员会页确认现任；任职公告原文打开失败，未采用公告日期。",
+        "私人执业结束日期：2016年众议院存档履历记载2009-Present；已查现行国会人物页和2024年法学院传记，未找到结束日期或截至2026-10-17仍在执业的明确依据，end留空、ongoing=false。",
+        "现役军衔：已检索州议会官方履历，搜索结果显示Captain，但相关原文未能成功读取支持段落；本包不写上尉军衔。",
+        "学习形式：已查国会及大学来源，没有找到本科、法学院就读是否全日制的明确说明，full_time留空。",
+        "荣誉学位：已查国会人物页、国会名录及大学校友传记，没有找到已授予荣誉学位的依据。",
+        "其他历史兼职：众议院存档履历和国会名录列有政府工作组及委员会成员身份，但未给出可用任职起始日期，未生成annotations。"
+      ],
+      "excluded": [
+        "底稿『美国联邦众议员现职始于2025-01』：这是本届任期日期；众议院现行人物页记载连续国会任职始于2011-09-13。",
+        "底稿『1983年7月参加工作』：月份无来源；首份全职经历为现役军职，动作改为入伍，起始年份按conflicts选值记录。",
+        "底稿『1980—1983年太平洋大学麦乔治法学院学习』：1983年取得学位有证，1980年入学未获依据。",
+        "底稿『1987—1996年内华达州律师』：原始来源提供具体律所及更长任期，改按单位分别记录。",
+        "底稿『1997—1999年内华达州众议员』：1999年结束未获本次已读取原文的明确支持；采用有来源的1998年结束记载。",
+        "底稿『1996年11月加入美国共和党』：没有对应选票或登记原始证据；采用2010年5月出任州共和党主席的第二级锚点。",
+        "查到『2009-09-17竞选委员会登记』：是有效第三级锚点；按级别优先规则采用第二级党组织职务锚点。",
+        "查到『1994年州大学董事会参选』：来源记载落选，不写任职，也未作为党派选举入党锚点。",
+        "查到『国土安全小组委员会主席』：属于小组委员会职务，按本批规则不单列current_roles。",
+        "查到2024年校友传记所列委员会及小组委员会职务：仅用于历史事实，现任委员会按第119届书记官名单填写。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

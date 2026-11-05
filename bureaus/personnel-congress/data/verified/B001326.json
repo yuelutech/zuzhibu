@@ -1,0 +1,519 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001326",
+      "line": "cadre",
+      "subject_id": "b001326",
+      "title": "贾内尔·拜纳姆简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/members/B001326",
+          "title": "Office of the Clerk, U.S. House of Representatives — Janelle S. Bynum",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Janelle S. Bynum\nOregon (OR) – 5th, Democrat\nOath of Office: Jan. 03, 2025\nCommittee on Financial Services",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://history.house.gov/People/Detail/36507225698",
+          "title": "BYNUM, Janelle S. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Washington, D.C, January 31, 1975; ... M.B.A., University of Michigan, Ann Arbor, Mich., 2000; ... 2017-2025;",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+          "title": "Oregon Secretary of State : U.S. Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Born in Washington, D.C. January 31, 1975. Florida Agricultural and Mechanical University, Tallahassee, B.S., 1996. University of Michigan, Ann Arbor, MBA, 2000;",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.oit.edu/news/oregon-tech-announces-2023-commencement-speakers",
+          "title": "Oregon Tech announces 2023 commencement speakers",
+          "published_at": "2023-06-05",
+          "checked_at": "2026-10-18",
+          "excerpt": "Bynum earned her undergraduate degree in Electrical Engineering from Florida A&M University and her Master of Business Administration from the University of Michigan—Ross Business School.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.girlslikeyouandme.com/janelle-bynum",
+          "title": "State Representative Janelle Bynum is passing opportunity On",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "I graduated in 2000 and then I ended up leaving in 2002",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.wweek.com/news/2016/10/19/janelle-bynum-brought-family-leave-to-east-portland-mcdonalds-workers/",
+          "title": "Janelle Bynum Brought Family Leave to East Portland McDonald's Workers",
+          "published_at": "2016-10-18",
+          "checked_at": "2026-10-18",
+          "excerpt": "I see that through the lens of being an African-American woman",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://multco.us/info/may-2016-primary-election-results",
+          "title": "May 2016 Primary Election Results | Multnomah County",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "State Representative, 51st District (DEM)\nCandidate: Janelle S Bynum Votes: 1,963",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres22eh/html/BILLS-119hres22eh.htm",
+          "title": "H. Res. 22 — Engrossed in House",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "January 9, 2025. ... elected to ... Committee on Financial Services: ... Ms. Bynum",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://justfacts.votesmart.org/candidate/biography/168102/janelle-bynum",
+          "title": "Janelle Bynum's Biography | Vote Smart",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Gender:\nFemale\nMBA, Business Administration, University of Michigan, 2000\nBS, Electrical Engineering, Flordia A&M University, 1996",
+          "tier": 2
+        },
+        {
+          "id": "s11",
+          "url": "https://www.newsfromthestates.com/article/democrats-bynum-mcleod-skinner-battle-take-chavez-deremer-oregons-hottest-house-race",
+          "title": "Democrats Bynum, McLeod-Skinner battle to take on Chavez-DeRemer in Oregon’s hottest House race",
+          "published_at": "2024-05-13",
+          "checked_at": "2026-10-18",
+          "excerpt": "She moved with her husband, Mark, to Oregon in 2002",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:OR"
+      ],
+      "person": {
+        "name": {
+          "value": "贾内尔·拜纳姆",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s9",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1975-01-31",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "哥伦比亚特区华盛顿",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "密歇根大学工商管理硕士学位",
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2016-05",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以民主党候选人身份参加俄勒冈州众议院第51选区2016年5月初选，县选务机构正式结果列明其姓名和DEM党别；来源：https://multco.us/info/may-2016-primary-election-results 。已检索选民登记或本人宣布加入民主党的记录、党组织任职记录、州级参选登记及早期参选公告，未取得可打开并确认日期的第1至第3级锚点。2016年3月参选公告的原网页无法打开，不采用；2023年联邦参选登记晚于已确认的2016年党派参选记录，不采用；2017年就任州众议员属于更低级锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2016-05",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": {
+          "value": "非洲裔",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（俄勒冈州第5选区）",
+          "role": "",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院金融服务委员会",
+          "role": "委员",
+          "start": {
+            "value": "2025-01-09",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1992",
+            "source_ids": [
+              "s2",
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "国会官方传记和俄勒冈州官方蓝皮书均记载1996年获本科学位；按美国本科标准四年学制计算：1996－4＝1992。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1996",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佛罗里达农工大学",
+          "role": null,
+          "program": "电气工程",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s2",
+              "s3",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s5",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s6",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "麦当劳特许经营企业",
+          "role": "经营者、所有人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s6",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "经营者",
+            "所有人"
+          ],
+          "role_category": null,
+          "role_basis": "本人访谈记载2002年离开原职赴俄勒冈州为婆婆的麦当劳企业任职，随后购入门店；经营者与所有人的交接日期未公开，合并记录。经营企业的法律实体名称未取得。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s2",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025",
+            "source_ids": [
+              "s2",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "俄勒冈州众议院",
+          "role": "州众议员（第51选区、第39选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员（第51选区）",
+            "州众议员（第39选区）"
+          ],
+          "role_category": null,
+          "role_basis": "Vote Smart分别记载2017—2023年代表第51选区、2023—2025年代表第39选区；同一议院任职合并记录。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（俄勒冈州第5选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（俄勒冈州第5选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025-01-09",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "众议院金融服务委员会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：查阅国会官方传记、俄勒冈州官方蓝皮书、Vote Smart、本人访谈及相关报道，确认大学毕业后曾任通用汽车工程师，但未找到直接记载首份全职工作起始年的可靠原文；work_start留null，不把1996年毕业直接当作入职日期。",
+        "通用汽车履历：本人访谈确认2002年离开，Vote Smart记载转向系统工程师；起始日期未取得，未列为带起止日期的履历条目。本人还提及产品工程和供应商质量工程经历，各职务交接日期未知。",
+        "硕士学习履历：官方来源确认2000年取得密歇根大学MBA；本人访谈确认参加通用汽车资助的全日制学习项目，保留部分工资和福利，但未明确给出学习起始年或学习年限；不沿用底稿1998年起读的日期，未列入带起止日期的学习条目。",
+        "麦当劳企业：本人访谈确认2002年开始进入家族经营业务，随后购入门店；购买日期、企业法律实体名称及截至截止日是否仍实际经营未取得明确资料，不据历史经营经历填写现任企业职务。",
+        "州议会任职日期：国会官方传记仅记2017—2025年；尚未取得可打开原文支持具体就任、离任日及选区变更生效日，保留年份。",
+        "州议会委员会职务及其他兼职：俄勒冈理工学院2023年官方介绍列有州议会委员会领导职务、Grand Central Bakery董事和其他机构经历，但未提供就任或生效日期，未加入履历括注。",
+        "入党更高级锚点：已检索公开选民登记、本人加入民主党声明、党组织任职、州级参选登记和早期参选公告；未取得可核实日期的第1至第3级锚点。2016年3月参选公告原网页打不开，现采用官方2016年5月民主党初选记录。",
+        "完整简历卡：参加工作年份缺少合格依据，card_type留null。"
+      ],
+      "excluded": [
+        "底稿『佛罗里达农工大学电气工程理学学士学位』作为最高学位：官方来源确认另于2000年取得密歇根大学工商管理硕士，最高学位已更正。",
+        "底稿『大学学历』：已取得工商管理硕士，改为研究生学历。",
+        "底稿『1996年参加工作』：未找到直接支持首份全职工作起始年的可靠原文，不沿用。",
+        "底稿『2002年7月参加工作』：2002年为离开通用汽车并转入家族企业的年份，月份无依据。",
+        "底稿『1996—2002年通用汽车公司转向系统工程师』：工程师身份及2002年离开有依据，1996年起始日期未取得，未完整沿用该条时间线。",
+        "底稿『1998—2000年在职攻读MBA』：起始年无依据；本人访谈描述的是公司资助的全日制学习项目。",
+        "底稿『2002—2016年麦当劳特许经营企业所有人』：2016年终止无依据，2023年和2024年来源仍记载其拥有门店。",
+        "底稿『众议院小企业委员会委员、众议院科学、空间和技术委员会委员』：第119届国会官方名单列为金融服务委员会委员，两个底稿委员会职务不采用。",
+        "底稿『2016年5月加入美国民主党』：旧稿自身不作证据；本次同月数值仅依据重新打开的官方民主党初选结果推断。",
+        "底稿『1992年本科入学』：未作为直接事实沿用，本次按官方1996年毕业记录减四年重新推算。",
+        "网页『LegisLetter记载1996—2000年通用汽车工程师』：未取得其原始任职记录依据，不采用该聚合网页时间线。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（俄勒冈州第5选区）＋美国国会众议院；Bioguide B001326",
+      "review_items": [
+        "优先补取通用汽车首次全职入职年份原始记录。",
+        "优先补取2016年俄勒冈州参选登记受理日；若取得合格第3级锚点，按规则替换现用第4级锚点。",
+        "补取密歇根大学MBA入学或项目年限记录后，再补研究生学习履历。",
+        "本包为研究候选事实包，尚未进入另一次会话的独立核查。"
+      ]
+    }
+  ]
+}

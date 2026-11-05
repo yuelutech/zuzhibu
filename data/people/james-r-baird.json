@@ -1,0 +1,717 @@
+{
+  "id": "james-r-baird",
+  "name_zh": "吉姆·贝尔德",
+  "name_en": "James R. Baird",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "reverified",
+  "ids": {
+    "bioguide": "B001307"
+  },
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入，reverify.py 重核通过",
+  "portrait": {
+    "file": "james-r-baird.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rep._Jim_Baird_official_photo,_116th_congress.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（US House of Representatives；https://baird.house.gov/about），File:Rep. Jim Baird official photo, 116th congress.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Rep._Jim_Baird_official_photo%2C_116th_congress.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-b001307",
+    "line": "cadre",
+    "subject_id": "b001307",
+    "title": "吉姆·贝尔德简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://history.house.gov/People/Listing/B/BAIRD,-James-(B001307)/",
+        "title": "BAIRD, James | US House of Representatives: History, Art & Archives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "born in Fountain County, Ind., June 4, 1945",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://clerk.house.gov/members/B001307",
+        "title": "Office of the Clerk, U.S. House of Representatives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "James R. Baird\nIndiana (IN) – 4th, Republican",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+        "title": "The Constitution of the United States: A Transcription | National Archives",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "been seven Years a Citizen of the United States",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://baird.house.gov/about/",
+        "title": "Biography | U.S. Congressman Jim Baird",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "After returning from Vietnam, Congressman Baird earned a Doctoral degree from the University of Kentucky in monogastric nutrition.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-IN-H-4.htm",
+        "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022.",
+        "published_at": "2022-10-26",
+        "checked_at": "2026-10-18",
+        "excerpt": "Ph.D., monogastric nutrition, University of Kentucky, Lexington, KY, 1975; military: First Lieutenant, U.S. Army, 1969-72",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.thewellnews.com/2018-midterms/new-member-to-watch/in-04-jim-baird/",
+        "title": "IN-04: Jim Baird (R) | The Well News | Pragmatic, Governance, Fiscally Responsible, News & Analysis",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Agriculture and Community Development Agent, Purdue University Cooperative Extension Service; Greencastle, IN, — 1975-1988",
+        "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://www.wfyi.org/2024-indiana-us-house-district-4",
+        "title": "2024 Election - U.S. House - District 4",
+        "published_at": "2024-10-16",
+        "checked_at": "2026-10-18",
+        "excerpt": "University of Kentucky, Ph.D. Animal Science Monogastric Nutrition (1975)",
+        "tier": 2
+      },
+      {
+        "id": "s8",
+        "url": "https://baird.house.gov/about/committees-and-caucuses.htm",
+        "title": "Committees | U.S. Congressman Jim Baird",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Committee on Agriculture",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "reverified",
+      "house",
+      "state:IN"
+    ],
+    "person": {
+      "name": {
+        "value": "吉姆·贝尔德",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1945-06-04",
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "印第安纳州方廷县",
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1969",
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "inferred": true,
+        "basis": "众议院历史人物页记载美国陆军服役时间为1969—1972年，国会名录同时记载其陆军中尉军衔及服役年份；按第一份有起始年份依据的全职军职推定1969年入伍。来源：https://history.house.gov/People/Listing/B/BAIRD,-James-(B001307)/；https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-IN-H-4.htm",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1969",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s1",
+          "s4",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "肯塔基大学单胃动物营养学哲学博士学位",
+        "source_ids": [
+          "s4",
+          "s5",
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（印第安纳州第4选区）",
+        "role": "",
+        "start": {
+          "value": "2019-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s4"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院农业委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s8"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院外交事务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s4",
+          "s8"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院科学、空间和技术委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s8"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1963",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "官方人物页及国会名录记载1967年取得普渡大学理学学士学位；按美国本科标准学制四年倒推：1967－4＝1963。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1967",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1967",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "普渡大学",
+        "role": null,
+        "program": "动物科学",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s4",
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1969",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1972",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国陆军",
+        "role": "中尉",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "中尉"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1975",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1988",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "普渡大学合作推广服务机构",
+        "role": "农业与社区发展推广员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "农业与社区发展推广员"
+        ],
+        "role_category": {
+          "value": "Agriculture and Community Development Agent",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "按本人竞选履历公开转载中的职位名称翻译；原文另记载其为帕克、普特南和弗米利恩三县畜牧专员。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1980",
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Baird Family Farms",
+        "role": "业主",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5",
+          "s6",
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [
+          "业主"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1984",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Indiana Home Care Plus",
+        "role": "业主",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "业主"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1992",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Agmax",
+        "role": "销售与营养总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "销售与营养总监"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "普特南县委员会",
+        "role": "委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "委员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "印第安纳州众议院",
+        "role": "众议员（第44选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5",
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "众议员（第44选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（印第安纳州第4选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s4"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦众议员（印第安纳州第4选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [],
+    "unknowns": [
+      "入党时间：已检索选民登记、本人加入共和党的公开声明、党组织职务、州县参选登记及FEC记录，未取得早期登记或党职起始日期。FEC委员会页明确登记于2017-12-11，但检索发现2006年共和党县委员初选线索；州选务机构putnam2.pdf正文及截图均未成功读取，地方报道原文亦打开失败，无法据原文确定最早合格锚点，暂留null。",
+      "硕士学习起始时间：众议院历史人物页、议员官方传记、国会名录和WFYI确认1969年取得普渡大学动物科学理学硕士学位，没有取得可采用的入学日期，未单列硕士学习条目。",
+      "博士学习起始时间及学习方式：官方人物页、议员传记和国会名录确认1975年取得肯塔基大学博士学位，没有取得可采用的入学日期或在职学习依据，未单列博士学习条目。",
+      "履历缺口：1967—1969年硕士学习的起始日期、1972—1975年的具体任职或博士学习起始日期仍缺原文依据。",
+      "Landmark Cooperative任职：公开转载的本人履历记载饲料部门养猪项目主任，没有起止日期，未列入careers。",
+      "企业现职：Baird Family Farms业主身份有1980年起始依据及2024年公开记录；Indiana Home Care Plus业主身份有1984年起始依据，未取得两项身份持续至2026-10-18的明确证据，均不列current_roles，careers的ongoing填false、end留null。",
+      "委员会任职起始时间：众议院书记官第119届议员页及议员委员会页确认三个全体委员会的现任委员身份，未取得就任或生效日期，start均留null。",
+      "具体月份：陆军服役、农业推广、企业经历、县委员和州众议员任职的所采用来源主要只提供年份，未补月份。",
+      "出生城市：官方人物页和国会名录只明确到印第安纳州方廷县，未采用其他网站的城市细化。",
+      "族裔：已查国会官方人物页和议员官方传记，未找到本人自述或官方统计依据。",
+      "退出现役日期：官方人物页和国会名录记载陆军服役止于1972年，未找到单独记载退出现役的具体日期。",
+      "普渡大学推广任职：采用公开转载的本人履历所列1975—1988年；检索线索另指向1974—1983年普特南县推广员经历，其引用的1983年报纸原件未成功读取，尚未确定两者是否为不同县域或不同岗位阶段。"
+    ],
+    "excluded": [
+      "底稿『普渡大学动物科学理学硕士学位』作为最高学位：官方传记及国会名录确认其已取得肯塔基大学博士学位，改列博士学位。",
+      "底稿『1979—1983年在肯塔基大学动物科学专业在职博士学习』：官方来源记载博士取得年份为1975年，且没有支持底稿入学年份和在职学习方式的依据。",
+      "底稿『1972—2006年普渡大学合作推广系统农业经济和畜牧推广人员、普特南县农场经营者』：未取得该整段起止时间和组合职务的依据，按分别有来源的单位及日期重建。",
+      "底稿『1969年6月参加工作』：来源只明确陆军服役始于1969年，删除6月，动作改为入伍。",
+      "底稿『2006年11月加入美国共和党』：没有支持该月份的已读取原始锚点，未沿用。",
+      "底稿『现任联邦众议员起始2025-01』：该日期对应本届宣誓；官方人物页记载连续国会任职始于2019-01-03，改用首次担任现选区职务的日期。",
+      "底稿仅列农业委员会和科学、空间和技术委员会：书记官及议员官方页面还列外交事务委员会，已补入。",
+      "检索所得FEC委员会登记日期2017-12-11：晚于2006年党派初选线索，未直接用作加入共和党的时间。",
+      "原竞选网站electjimbaird.com：打开后跳转至博彩内容，未采用为人物事实来源。",
+      "维基百科及其镜像：仅用于寻找原始来源，未列入sources。"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "美国联邦众议员（印第安纳州第4选区）＋美国国会众议院；Bioguide B001307",
+    "review_items": [
+      "重新取得2006年普特南县共和党初选结果原件及更早的参选登记记录，以确定入党推断锚点。",
+      "核对1983年《The Banner Graphic》推广员离任报道，厘清县域岗位阶段与1975—1988年大学推广履历的关系。",
+      "补取硕士和博士入学日期，再补充学习履历。",
+      "补取三个第119届全体委员会职务的实际生效日期。"
+    ]
+  }
+}

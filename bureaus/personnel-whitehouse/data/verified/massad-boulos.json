@@ -1,0 +1,322 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-massad-boulos",
+      "line": "cadre",
+      "subject_id": "massad-boulos",
+      "title": "马萨德·布洛斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.mofa.gov.ae/en/MediaHub/News/2026/9/16/bin-Zayed-usa",
+          "title": "Abdullah bin Zayed receives US President's Senior Advisor for Arab and African Affairs",
+          "published_at": "2026-09-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "Massad Boulos, US President's Senior Advisor for Arab and African Affairs.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://kafaraka.gov.lb/massad-boulos/",
+          "title": "Massad Boulos | Kafaraka Municipality",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "He was born in 1971; He graduated from Huston University as doctor in laws.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://foreignpolicy.com/events/fp-msc-2026/emerging-threats-forum/",
+          "title": "Emerging Threats Forum — speaker biography: Massad Boulos",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "BBA, University of Houston-Downtown; Doctorate of Jurisprudence, Texas Southern University; previously SCOA Managing Director/CEO.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.miragenews.com/massad-boulos-named-senior-advisor-for-africa-1436885/",
+          "title": "Department of State: Massad Boulos Named Senior Advisor for Africa",
+          "published_at": "2025-04-02",
+          "checked_at": "2026-10-18",
+          "excerpt": "appointment of Massad Boulos as Senior Advisor for Africa; also Senior Advisor to the President on Arab and Middle Eastern Affairs.",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/43723_S_C_O_A__NIGERIA_PLC-_QUARTER_5_-_FINANCIAL_STATEMENT_FOR_2024_FINANCIAL_STATEMENTS_APRIL_2025.pdf",
+          "title": "SCOA Nigeria 2024 Annual Report",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Dr. Massad F. Boulos — Managing Director/CEO.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.marketscreener.com/news/scoa-nigeria-s-c-o-a-nigeria-plc-quarter-5-financial-statement-for-2025-ce7e51ddda8dfe27",
+          "title": "SCOA Nigeria 2025 Annual Report (issuer release)",
+          "published_at": "2026-04-02",
+          "checked_at": "2026-10-18",
+          "excerpt": "Engr. Amresh Shrisvastava — Managing Director/CEO.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.investing.com/news/world-news/trump-says-massad-boulos-will-serve-as-adviser-on-arab-middle-eastern-affairs-3747950",
+          "title": "Reuters: Trump picks Massad Boulos to serve as adviser on Arab, Middle Eastern affairs",
+          "published_at": "2024-12-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Lebanon; became a U.S. citizen.",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "马萨德·布洛斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1971-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "家乡政府公布出生年1971，未公布月份，按规则取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1971",
+            "duration_years": null
+          }
+        },
+        "birth_place": {
+          "value": "黎巴嫩",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "得克萨斯南方大学法学专业",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法学博士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "白宫",
+          "role": "总统阿拉伯及非洲事务高级顾问",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "总统阿拉伯及非洲事务高级顾问"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国国务院",
+          "role": "非洲事务高级顾问",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "roles": [
+            "非洲事务高级顾问"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "白宫",
+          "role": "总统阿拉伯及非洲事务高级顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [
+            "总统阿拉伯及非洲事务高级顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国务院",
+          "role": "非洲事务高级顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [
+            "非洲事务高级顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [
+        {
+          "field": "person.education",
+          "alternatives": [
+            {
+              "value": "休斯敦大学法学博士",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "休斯敦大学市中心分校工商管理学士；得克萨斯南方大学法律博士",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "休斯敦大学市中心分校工商管理学士；得克萨斯南方大学法学博士",
+          "reason": "用户选择采用2026年会议简介中具体学校和学位，保留家乡政府网页差异。"
+        }
+      ],
+      "unknowns": [
+        "第一份全职工作及开始年份未知；会议简介“近三十年”未给出确切起年，不倒推出参加工作年份。",
+        "SCOA 2024年年报列其为董事总经理兼首席执行官；2025年年报列 Amresh Shrisvastava 为继任者，未取得布洛斯离任日期。",
+        "标致尼日利亚董事、日产尼日利亚董事长兼首席执行官任期未知；本人企业职务不列为现职。",
+        "本科与法律学位的学校表述冲突，待答复；具体就读年月未知。",
+        "非洲事务顾问会议简介写2025年3月任命，国务院公告转载刊于4月2日，生效日未查到，当前仅列年。",
+        "党籍及入党锚点未查到。",
+        "两项学位采用会议简介，入学、毕业年份均未查到。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "Massad Boulos；白宫",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

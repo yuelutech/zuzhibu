@@ -1,0 +1,121 @@
+{
+  "id": "2026-09-09-paul-christiano-appoint",
+  "date": "2026-09-09",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "paul-christiano",
+  "person": {
+    "name_zh": "保罗·克里斯蒂亚诺",
+    "name_en": "Paul Christiano",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-09-09",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "OpenAI基金会",
+      "role": "董事",
+      "organization_en": "OpenAI Foundation",
+      "role_en": "Board member",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "e9"
+      ]
+    },
+    {
+      "organization": "OpenAI基金会安全与安保委员会",
+      "role": "委员",
+      "organization_en": "Safety and Security Committee of the OpenAI Foundation Board",
+      "role_en": "member",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "committee",
+      "source_ids": [
+        "e9"
+      ]
+    },
+    {
+      "organization": "OpenAI集团公益公司",
+      "role": "董事会无表决权观察员",
+      "organization_en": "OpenAI Group PBC",
+      "role_en": "non-voting observer on the Board",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "e9"
+      ]
+    }
+  ],
+  "other_current_roles": [
+    {
+      "organization": "美国国家标准与技术研究院人工智能标准与创新中心",
+      "role": "高级技术顾问",
+      "organization_en": "Center for AI Standards and Innovation, National Institute of Standards and Technology",
+      "role_en": "Senior Technical Advisor",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e9"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "保罗·克里斯蒂亚诺获任OpenAI基金会董事",
+  "summary": "OpenAI9月9日宣布克里斯蒂亚诺加入基金会董事会及其安全与安保委员会，并担任OpenAI集团公益公司董事会无表决权观察员。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e9",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board/",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "publisher": "OpenAI",
+      "published_at": "2026-09-09",
+      "excerpt": "We’re announcing the appointment of Paul Christiano to the OpenAI Foundation Board.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 paul-christiano（库里没有此人）",
+      "现任职务新增：OpenAI基金会董事",
+      "履历新增：2026-09 OpenAI基金会董事",
+      "现任职务新增：OpenAI基金会安全与安保委员会委员",
+      "现任职务新增：OpenAI集团公益公司董事会无表决权观察员",
+      "履历新增：2026-09 OpenAI集团公益公司董事会无表决权观察员",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "paul-christiano",
+    "reason": "主要职务“OpenAI基金会 董事”：AI 与科技机构名单"
+  }
+}

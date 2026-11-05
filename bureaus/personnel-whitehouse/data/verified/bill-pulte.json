@@ -1,0 +1,494 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-bill-pulte",
+      "line": "cadre",
+      "subject_id": "bill-pulte",
+      "title": "比尔·普尔特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.fhfa.gov/about/leadership/william-j-pulte",
+          "title": "William J. Pulte, Director",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "On March 14, 2025, William J. Pulte was sworn in as the 5th Director of U.S. Federal Housing.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.fanniemae.com/about-us/corporate-governance/board-directors",
+          "title": "Board of Directors | Fannie Mae",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "William J. Pulte, Chair",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.freddiemac.com/governance/board-directors",
+          "title": "Board of Directors | Freddie Mac",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "William J. Pulte; Chair",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://projects.propublica.org/trump-team-financial-disclosures/appointees/pulte-william-j/",
+          "title": "William J. Pulte financial disclosure",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Pulte Capital Partners LLC | CEO, 4/2011 - Present",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://pulse2.com/twitter-philanthropy-bill-pulte/",
+          "title": "Twitter Philanthropy: How Bill Pulte Is Using Social Media For Good Causes",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Bill Pulte graduated from Northwestern University in 2010 and briefly worked at Penske Capital Partners",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://en.majalla.com/node/331660/profiles/bill-pulte-trump-friendly-acting-intelligence-director",
+          "title": "Bill Pulte: the Trump-friendly acting intelligence director",
+          "published_at": "2026-06-19",
+          "checked_at": "2026-10-18",
+          "excerpt": "Born in Florida in 1988",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.odni.gov/14064/pr-12-26/",
+          "title": "Jay Clayton Sworn In As Director Of National Intelligence",
+          "published_at": "2026-08-03",
+          "checked_at": "2026-10-18",
+          "excerpt": "Today, Jay Clayton was sworn in as the nation’s ninth Director of National Intelligence.",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4672015/bill-pulte-clayton-dni-monday/",
+          "title": "Jay Clayton to take over as DNI on Monday: Bill Pulte",
+          "published_at": "2026-08-02",
+          "checked_at": "2026-10-18",
+          "excerpt": "will start transitioning into his new role",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "比尔·普尔特",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1988-07",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：来源给出生年1988，未核得原始出生月，按7月记录。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1988",
+            "duration_years": null
+          }
+        },
+        "birth_place": {
+          "value": "佛罗里达",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2010-06",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：来源记2010年大学毕业后任职Penske；毕业月按5月、首职月按次月6月推测。实际到任月未知。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2010",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "西北大学",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": null,
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦住房金融局",
+          "role": "局长",
+          "start": {
+            "value": "2025-03-14",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "局长"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "房利美公司",
+          "role": "董事长",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "董事长"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "房地美公司",
+          "role": "董事长",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3"
+          ],
+          "roles": [
+            "董事长"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2006-09",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：本科2010年毕业减4年；入学月按9月。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "2010",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2010-05",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 9.6：美国毕业月按5月。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2010",
+              "duration_years": null
+            }
+          },
+          "organization": "西北大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010-06",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：来源记2010年大学毕业后任职Penske；毕业月按5月、首职月按次月6月推测。实际到任月未知。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "2010",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "Penske Capital Partners",
+          "role": "投资从业人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "投资从业人员"
+          ],
+          "role_category": {
+            "value": "worked at Penske Capital Partners",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "报道只给私募投资机构从业身份，未给具体职级；任职结束时间未知。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-04",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Pulte Capital Partners",
+          "role": "首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016-07",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：原来源仅载年份，月份按缺月取7月推测；不是来源所载具体月份。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2016",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2020-07",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：原来源仅载年份，月份按缺月取7月推测；不是来源所载具体月份。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2020",
+              "duration_years": null
+            }
+          },
+          "organization": "普尔特集团",
+          "role": "董事",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "董事"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-03-14",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国联邦住房金融局",
+          "role": "局长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [
+            "局长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-06-19",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2026-08-03",
+            "source_ids": [
+              "s7",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国家情报总监办公室",
+          "role": "代理国家情报总监",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "代理国家情报总监"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "代理",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "FHFA官网与两家企业现行董事名录分别确认三项现职；库内现职为空须补回。",
+        "Penske具体职级、离任时间，以及Pulte Capital离任时间未核得；2011年申报起始月份已核。",
+        "党籍登记及入党锚点、学位种类、标准照像素质量未核。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Bill Pulte；美国联邦住房金融局",
+      "review_items": [
+        "中文名不在v1.4人名表，沿用库内名称并列names.csv待审；出生月及首职月为规则推测。"
+      ]
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

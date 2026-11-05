@@ -1,0 +1,960 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001243",
+      "line": "cadre",
+      "subject_id": "b001243",
+      "title": "玛莎·布雷克本简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BLACKBURN,-Marsha-(B001243)/",
+          "title": "BLACKBURN, Marsha | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Laurel, Jones County, Miss., June 6, 1952; … member of the Tennessee state senate, 1998-2002",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.blackburn.senate.gov/about-marsha",
+          "title": "About Marsha - U.S. Senator Marsha Blackburn of Tennessee",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Marsha Blackburn is the senior senator for Tennessee and the first woman to represent the Volunteer State in the United States Senate.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Blackburn, Marsha (R-TN) … Committee on Commerce, Science, and Transportation … Committee on Finance … Committee on the Judiciary … Committee on Veterans' Affairs … Joint Economic Committee",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.blackburn.senate.gov/committee-assignments",
+          "title": "Committee Assignments - U.S. Senator Marsha Blackburn of Tennessee",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Senator Blackburn serves on the Senate Finance Committee, one of the original committees established in the Senate.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.blackburn.senate.gov/index.php/2019/1/marsha-blackburn-sworn-us-senator-tennessee",
+          "title": "Marsha Blackburn Sworn in as U.S. Senator from Tennessee",
+          "published_at": "2019-01-03",
+          "checked_at": "2026-10-18",
+          "excerpt": "Today, Marsha Blackburn began her service in the United States Senate as she was sworn in as Tennessee’s junior Senator.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://web.archive.org/web/20110716234012/http://library.msstate.edu/cprc/blackburn.asp",
+          "title": "Mississippi State University Libraries : The Marsha Blackburn Collection",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Her professional career began in 1973 when she was hired as a sales manager for Times Mirror, Inc.",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.cals.msstate.edu/alumni/alumnus.asp",
+          "title": "CALS Alumni of the Year | College of Agriculture and Life Sciences | Mississippi State University",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Marsha, a Laurel native, is a 1973 graduate with a bachelor of science in home economics",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://memo.msstate.edu/story.php?id=6703",
+          "title": "MSU Libraries rebrands Congressional and Political Research Center to Mississippi Political Collections",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Tennessee Sen. Marsha Blackburn, a 1974 MSU graduate.",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.barrasso.senate.gov/newsroom-news-releases-barrasso-announces-deputy-whip-team/",
+          "title": "Barrasso Announces Deputy Whip Team",
+          "published_at": "2025-01-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "the Republican Senators who will serve on the Deputy Whip team during the 119th Congress. … Senator Marsha Blackburn (R-TN)",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.eac.gov/tennessee-voter-info",
+          "title": "Tennessee Voter Info | U.S. Election Assistance Commission",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Update Political Party: In Tennessee you do not register under a certain party.",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://tennesseelookout.com/2026/08/06/blackburn-advances-to-general-election-first-woman-to-win-party-nomination/",
+          "title": "Blackburn advances to general election, first woman to win party nomination",
+          "published_at": "2026-08-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "becoming the first woman to win the Republican nomination for governor.",
+          "tier": 2
+        },
+        {
+          "id": "s13",
+          "url": "https://www.wsmv.com/2026/08/07/marsha-blackburn-wins-tennessee-gop-gubernatorial-primary/",
+          "title": "Marsha Blackburn wins Tennessee GOP gubernatorial primary",
+          "published_at": "2026-08-06",
+          "checked_at": "2026-10-18",
+          "excerpt": "U.S. Sen. Marsha Blackburn clinched the Republican nomination to run for Tennessee governor after voters chose her during the Aug. 6 primaries",
+          "tier": 2
+        },
+        {
+          "id": "s14",
+          "url": "https://apnews.com/article/marsha-blackburn-tennessee-governor-825194baa14e0d12714573daea7104f8",
+          "title": "Republican US Sen. Marsha Blackburn joins Tennessee race for governor",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Republican U.S. Sen. Marsha Blackburn announced Wednesday that she is entering the open Tennessee governor’s race in 2026",
+          "tier": 2
+        },
+        {
+          "id": "s15",
+          "url": "https://www.williamsonscene.com/news/marsha-blackburn-tennessee-governor-campaign/article_f118cb54-6538-4a89-8019-2151b3d196c8.html",
+          "title": "Inside the Campaign Trail for Gov. with Marsha Blackburn",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "served as the Williamson County Party Chair from 1989-1991",
+          "tier": 2
+        },
+        {
+          "id": "s16",
+          "url": "https://cawp.rutgers.edu/individual/marsha-blackburn-198986k",
+          "title": "Marsha Blackburn (198986k)",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "State Senator (1999-2002)",
+          "tier": 1
+        },
+        {
+          "id": "s17",
+          "url": "https://www.senate.gov/general/committee_membership/committee_memberships_JSEC.htm",
+          "title": "U.S. Senate: Joint Economic Committee",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Joint Economic Committee … Blackburn, Marsha (TN)",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "senate",
+        "state:TN"
+      ],
+      "person": {
+        "name": {
+          "value": "玛莎·布雷克本",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1952-06-06",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "密西西比州劳雷尔",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1973",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "密西西比州立大学图书馆官方传记明确称其职业经历始于1973年受聘为 Times Mirror, Inc. 销售经理，据首份职业工作的开始年份推定参加工作时间。该传记另将 Southwestern 的经历明确记为学生经理，未作为参加工作依据。来源：https://web.archive.org/web/20110716234012/http://library.msstate.edu/cprc/blackburn.asp",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1973",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "密西西比州立大学家政学理学学士学位",
+          "source_ids": [
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1989",
+          "source_ids": [
+            "s7",
+            "s11",
+            "s15"
+          ],
+          "inferred": true,
+          "basis": "第2级锚点：1989年任田纳西州威廉森县共和党主席，来源只到年；来源：https://web.archive.org/web/20110716234012/http://library.msstate.edu/cprc/blackburn.asp 。任职年份另见：https://www.williamsonscene.com/news/marsha-blackburn-tennessee-governor-campaign/article_f118cb54-6538-4a89-8019-2151b3d196c8.html 。第1级检索未找到本人公开宣布加入或转入共和党的日期；美国选举援助委员会说明田纳西州选民登记不登记党籍：https://www.eac.gov/tennessee-voter-info 。创办县青年共和党组织的记载没有日期，未作锚点；底稿1998年8月参选锚点既无原始依据，也晚于已证实的第2级锚点，未采用。",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（田纳西州）",
+          "role": "",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国参议院共和党党团",
+          "role": "副党鞭",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s10"
+          ],
+          "roles": [
+            "副党鞭"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院商业、科学和运输委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院财政委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院退伍军人事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院联合经济委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s17"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1973",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Times Mirror, Inc.",
+          "role": "销售经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "销售经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1978",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Mercantile Stores, Inc. 的 Castner Knott 分部",
+          "role": "零售时装及特别活动主管",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "零售时装及特别活动主管"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1978",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Marketing Strategies",
+          "role": "创办人、所有者",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创办人",
+            "所有者"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1989",
+                "source_ids": [
+                  "s7",
+                  "s15"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1991",
+                "source_ids": [
+                  "s15"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国共和党田纳西州威廉森县党组织",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s7",
+                "s15"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1992",
+                "source_ids": [
+                  "s1",
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1992",
+                "source_ids": [
+                  "s1",
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国联邦众议员选举（田纳西州第6选区）",
+              "role": "参选人",
+              "roles": [
+                "参选人"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s7"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s2",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1997",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "田纳西州电影、娱乐和音乐委员会",
+          "role": "执行主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "执行主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1998",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s1",
+              "s16"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "田纳西州参议院",
+          "role": "州参议员（第23选区）、少数党党鞭",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员（第23选区）",
+            "少数党党鞭"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003-01-03",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（田纳西州第7选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（田纳西州第7选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（田纳西州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（田纳西州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025-08",
+                "source_ids": [
+                  "s12",
+                  "s14"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2026-08-06",
+                "source_ids": [
+                  "s12",
+                  "s13"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "田纳西州州长选举",
+              "role": "共和党参选人",
+              "roles": [
+                "共和党参选人"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s12",
+                "s13",
+                "s14"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2026-08-06",
+                "source_ids": [
+                  "s12",
+                  "s13"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "田纳西州州长选举",
+              "role": "共和党候选人",
+              "roles": [
+                "共和党候选人"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s12",
+                "s13"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "careers.study.end",
+          "alternatives": [
+            {
+              "value": "1973",
+              "source_ids": [
+                "s1",
+                "s7",
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1974",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1973",
+          "reason": "国会现行人物页、大学图书馆官方传记存档和大学学院校友页均记1973年；大学2022年消息记1974年。候选事实采用1973年，一级来源之间的年份差异列入复核。未用存在争议的毕业年份倒推本科入学年。"
+        },
+        {
+          "field": "careers.田纳西州参议院.start",
+          "alternatives": [
+            {
+              "value": "1998",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1999",
+              "source_ids": [
+                "s16",
+                "s15"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1998",
+          "reason": "国会现行官方人物页直接记州参议院任职为1998—2002年；罗格斯大学数据库记1999—2002年，地方报道记1999—2003年。按现行国会官方页面暂取1998年，实际就任日期列入复核。"
+        },
+        {
+          "field": "careers.田纳西州参议院.end",
+          "alternatives": [
+            {
+              "value": "2002",
+              "source_ids": [
+                "s1",
+                "s16"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2003",
+              "source_ids": [
+                "s15"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2002",
+          "reason": "采用国会现行官方人物页的2002年；地方报道的2003年并列保留，不补具体交接日期。"
+        },
+        {
+          "field": "careers.田纳西州电影、娱乐和音乐委员会.role",
+          "alternatives": [
+            {
+              "value": "执行主任",
+              "source_ids": [
+                "s2",
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "主席",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "执行主任",
+          "reason": "采用议员本人现行官方传记的 executive director，大学图书馆官方传记存档同样使用该职称；学院校友页的 chairman 并列保留。"
+        }
+      ],
+      "unknowns": [
+        "本科入学时间：查过国会人物页、密西西比州立大学图书馆传记存档、学院校友页及大学消息，未找到明确入学年份。毕业年存在1973与1974两种一级来源记载；1973减4所得1969年又早于国会页所记1970年高中毕业，未进行本科入学年推算，学习条目暂未列入 careers。",
+        "参加工作月份：大学图书馆官方传记只记1973年，未找到月份。",
+        "Times Mirror 离职时间：大学图书馆官方传记记1973年受聘、1975年任另一公司职务，未明确前职终止日期，end 留 null。",
+        "Marketing Strategies 终止时间及截止日任职状态：大学历史传记记1978年成为所有者，并称当时仍经营；未找到2026-10-18仍任职或明确终止年份的证据，end 留 null、ongoing 为 false。",
+        "副党鞭开始日期：2025-01-07公告使用将任职表述，未写生效日；现行传记确认仍在 Deputy Whip Team，current_roles.start 留 null，未把公告日作为就任日。",
+        "第119届五个委员会职务开始日期：参议院现行分工表、联合经济委员会成员名单及议员委员会页确认在任，未取得明确生效日期，start 均留 null。",
+        "州参议院少数党党鞭起止时间：大学官方传记确认担任该职，未给交接日期，与州参议员职务合列。",
+        "历史国会委员会及党鞭系统兼职日期：国会人物页、大学传记和学院校友页可见部分职务，未取得完整的就任和终止日期，未写入履历括注。",
+        "2002、2018及2024年竞选阶段日期：已查国会人物页、大学传记及参议院就职公告，未取得足以划分参选、获提名、当选阶段的完整原始日期，未沿用底稿候选人条目。",
+        "族裔：罗格斯大学研究数据库列 White；本次未取得本人族裔自述或政府官方族裔统计，ethnicity 留 null。"
+      ],
+      "excluded": [
+        "底稿『美国联邦参议员现职起点2025-01』：2019-01-03就职公告确认首次就任；2025年连任未产生新的职务起点。",
+        "底稿『1974年参加工作』『1974年6月参加工作』：大学官方传记明确职业经历始于1973年；月份没有依据。",
+        "底稿『1970—1974年密西西比州立大学学习』：入学年无来源，毕业年份存在一级来源差异，未照抄。",
+        "底稿『1974—1978年时代镜报公司销售经理』：官方大学传记记1973年受聘，并记1975—1978年另任百货公司主管。",
+        "底稿『1978—1995年市场战略公司创办人、总裁』：来源支持1978年创办并拥有 Marketing Strategies，未支持总裁职称或1995年终止。",
+        "底稿『1998年8月加入美国共和党』：没有原始锚点，改用1989年县共和党主席这一第2级锚点。",
+        "底稿『1998—1999年共和党田纳西州参议员候选人』：未取得该竞选阶段起止依据；现行国会页已将1998年列入州参议院任职。",
+        "底稿『2002—2003年联邦众议员候选人』『2018—2019年联邦参议员候选人』：未区分获提名、当选和就职阶段，未沿用。",
+        "大学传记存档『州参议院任职六年』：与该页所记1998年当选、2003年进入众议院及现行国会任期记录不一致，未据此推算任期。",
+        "议员 About Marsha 页较后段的旧小组委员会资深成员职称：同页顶部及现行委员会页列主席；小组委员会按本批规则不单列现职。",
+        "联合经济委员会网站 republicans/members 页面：打开后仍列 Rob Portman、Kelly Loeffler 等旧成员，未作第119届成员依据；采用参议院现行总分工表及专门成员页。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（田纳西州）＋美国国会参议院；Bioguide B001243",
+      "review_items": [
+        "毕业年份1973与1974的一级来源冲突，交AI政见确认。",
+        "州参议院实际就任年份1998与1999的来源差异，复核州选务及就职原始记录。",
+        "电影、娱乐和音乐委员会执行主任与主席职称差异，交AI政见确认。",
+        "补查本科入学原始记录，取得日期后补入学习履历。",
+        "联合经济委员会为国会两院联合委员会；本包按本批前缀规则写作『参议院联合经济委员会』，复核译名表。",
+        "Castner Knott：大学图书馆存档拼作 Caster Knott，大学其他官方资料使用 Castner Knott；机构译名表复核。",
+        "本包为研究候选事实包，等待下一会话逐字段独立核验。"
+      ]
+    }
+  ]
+}

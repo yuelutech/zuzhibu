@@ -1,0 +1,751 @@
+{
+  "id": "robyn-m-denholm",
+  "name_zh": "罗宾·丹霍姆",
+  "name_en": "Robyn M. Denholm",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“特斯拉公司 Chair of the Board Tesla Chair of the Board”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/robyn-m-denholm.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "source": "https://www.blackbird.vc/team/robyn-denholm",
+    "url": "https://cdn.prod.website-files.com/62d67952134ba04fe9cbd586/62d67952134ba03918cbd7c7_616e4dbdfa1e94556b8a55b9_271_Blackbird_Staff_Headshots_credit_Anna_Kucera%2520copynz.avif"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Tesla",
+      "role_en": "Chair of the Board"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“特斯拉公司 Chair of the Board Tesla Chair of the Board”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "robyn-m-denholm-20261018",
+    "line": "cadre",
+    "subject_id": "robyn-m-denholm",
+    "title": "罗宾·丹霍姆简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://ir.tesla.com/corporate/robyn-m-denholm",
+        "title": "Robyn M. Denholm | Tesla Investor Relations",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Chair since November 2018.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://global.abb/content/dam/abb/global/group/management/board-and-executive-committee/archive/robyn%20denholm%20-%20cv.pdf",
+        "title": "Robyn Denholm — ABB archived CV",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Born 1963. U.S. and Australian citizen.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/j/NASDAQ_JNPR_2009.pdf",
+        "title": "Juniper Networks 2009 Form 10-K, page 14",
+        "published_at": "2010-02-26",
+        "checked_at": "2026-10-18",
+        "excerpt": "from December 1984 to May 1989, Ms. Denholm served at Arthur Andersen and Company",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.blackbird.vc/team/robyn-denholm",
+        "title": "Robyn Denholm — Board Member | Blackbird",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "I’m a Board Member at Blackbird. This Blackbird has flown the nest.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "罗宾·丹霍姆",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国、澳大利亚",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1963-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "ABB列1963年出生；月份按cadre.md第3节第3条取7月。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1963",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1984-12",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "education": {
+        "value": "新南威尔士大学商学硕士学位",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "硕士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "特斯拉公司",
+        "role": "董事长",
+        "start": {
+          "value": "2018-11",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "董事长"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1984-12",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1989-05",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "安达信公司",
+        "role": "审计岗位",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "审计岗位"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1989-05",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1996-01",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "丰田汽车澳大利亚公司",
+        "role": "财务管理岗位",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "财务管理岗位"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1996-01",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2003",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "太阳微系统公司",
+        "role": "财务主管",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "财务主管"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "太阳微系统公司",
+        "role": "财务高级副总裁、首席会计官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "财务高级副总裁",
+          "首席会计官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007-08",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "太阳微系统公司",
+        "role": "企业战略规划高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "企业战略规划高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007-08",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "瞻博网络公司",
+        "role": "执行副总裁、首席财务官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "执行副总裁",
+          "首席财务官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016-02",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "瞻博网络公司",
+        "role": "执行副总裁、首席财务官、首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "执行副总裁",
+          "首席财务官",
+          "首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2014-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018-11",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "特斯拉公司",
+        "role": "董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "澳大利亚电信公司",
+        "role": "首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "澳大利亚电信公司",
+        "role": "首席财务官、战略负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席财务官",
+          "战略负责人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-11",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "特斯拉公司",
+        "role": "董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Blackbird",
+        "role": "运营合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "运营合伙人"
+        ],
+        "role_category": null,
+        "role_basis": "来源s1记载2021年1月出任运营合伙人；现职因来源冲突暂空，结束日期未知，本条仅保留有来源的历史任职起点。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "特斯拉公司",
+    "conflicts": [
+      {
+        "field": "careers.Juniper.end",
+        "alternatives": [
+          {
+            "value": "2016-02",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2016-03",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2016-02",
+        "reason": "2026-10-18用户确认采用特斯拉现行简历的2016年2月；ABB存档原值保留。"
+      },
+      {
+        "field": "current_roles.Blackbird",
+        "alternatives": [
+          {
+            "value": "运营合伙人",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "Board Member；同页另有 This Blackbird has flown the nest 提示",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": null,
+        "reason": "2026-10-18用户确认：保留特斯拉董事长，Blackbird现职暂空并列出冲突。未选定Blackbird现任职务，未推定离任或换岗日期。"
+      }
+    ],
+    "unknowns": [
+      "悉尼大学入学年月、新南威尔士大学商学硕士学习起点及学习方式未找到。",
+      "部分太阳微系统公司、瞻博网络公司内部换岗月份未找到。",
+      "Blackbird现职因官网冲突暂空；历史运营合伙人的结束日期未知。特斯拉董事长已核实。"
+    ],
+    "excluded": [
+      "悉尼大学荣誉工商管理博士不列为已获学历学位。"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": [
+      "丹霍姆译名为拟译，待审。",
+      "技术委员会兼职仅作咨询身份，不进入企业现任段。",
+      "有来源的无起始日期经历：悉尼大学；经济学；终点：1985；来源：s2",
+      "来源s1阅读记录：现行简历列董事、Blackbird、Telstra及Juniper经历；Juniper终点为2016年2月。",
+      "来源s2阅读记录：列悉尼大学1985年本科、新南威尔士大学1999年商学硕士及历年职位。",
+      "Blackbird官网人物页照片已核看；人物现职冲突与照片出处分开记录。",
+      "2026-10-18按用户选择移除Blackbird现职；保留2021年1月历史任职起点，ongoing=false、end=null，表示持续状态及结束日期未知。"
+    ]
+  }
+}

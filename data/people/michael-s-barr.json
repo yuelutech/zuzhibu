@@ -1,0 +1,746 @@
+{
+  "id": "michael-s-barr",
+  "name_zh": "迈克尔·巴尔",
+  "name_en": "Michael S. Barr",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“Board of Governors of the Federal Reserve System Governor Board of Governors of the Federal Reserve System Governor”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/michael-s-barr.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www.federalreserve.gov/aboutthefed/images/Barr_michael_8x10_July_25_22-444_rdax_130x162s.jpg",
+    "source": "https://www.federalreserve.gov/aboutthefed/bios/board/barr.htm",
+    "file": "michael-s-barr.jpg",
+    "source_kind": "官方照片（补采）",
+    "license": "美国联邦政府官网人物照；页面未单列图片许可。"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Board of Governors of the Federal Reserve System",
+      "role_en": "Governor"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“Board of Governors of the Federal Reserve System Governor Board of Governors of the Federal Reserve System Governor”：总统、白宫、内阁与独立机构）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-michael-s-barr",
+    "line": "cadre",
+    "subject_id": "michael-s-barr",
+    "title": "迈克尔·巴尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.federalreserve.gov/aboutthefed/bios/board/barr.htm",
+        "title": "Michael S. Barr — Federal Reserve",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "took office ... July 19, 2022; Vice Chair for Supervision ... February 28, 2025",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://regents.umich.edu/files/meetings/10-21/2021-10-IV-1.pdf",
+        "title": "University of Michigan Regents — Personnel recommendations, October 2021, pp.18–19",
+        "published_at": "2021-10",
+        "checked_at": "2026-10-18",
+        "excerpt": "B.A. ... 1987; M.Phil. ... 1989; J.D. ... 1992; joined ... faculty in 2001",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "迈克尔·巴尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1965-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "本科1987年毕业减22年，出生月份按7月",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1987",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1992-06",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "1992年法律毕业后任法官助理，月份按毕业后次月6月",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "1992",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "耶鲁大学法学院研究生",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法律博士",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦储备委员会",
+        "role": "理事",
+        "start": {
+          "value": "2022-07-19",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "理事"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1983",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "本科1987年毕业减4年",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1987",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1987",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "耶鲁大学",
+        "role": "历史学专业学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "历史学专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1989年取得MPhil，按两年制倒推",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1989",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1989",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "牛津大学莫德林学院",
+        "role": "国际关系专业研究生学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "哲学硕士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "国际关系专业研究生学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1989",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "1992年取得JD，按三年制倒推",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1992",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1992",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "耶鲁大学法学院",
+        "role": "法律专业学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "法律博士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法律专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "来源明确法律教育完成后即任Leval法官助理，按毕业年记",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1992",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "美国纽约南区联邦地区法院",
+        "role": "皮埃尔·勒瓦尔法官助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "皮埃尔·勒瓦尔法官助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国最高法院",
+        "role": "戴维·苏特大法官助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "戴维·苏特大法官助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1995",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国财政部",
+        "role": "部长特别助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "部长特别助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国财政部",
+        "role": "副助理部长（主管社区发展政策）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副助理部长（主管社区发展政策）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1999",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "白宫",
+        "role": "总统特别顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总统特别顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "密歇根大学法学院",
+        "role": "助理教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "助理教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "密歇根大学法学院",
+        "role": "教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国财政部",
+        "role": "助理部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "助理部长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "密歇根大学福特公共政策学院",
+        "role": "院长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "院长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-07-19",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025-02-28",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦储备委员会",
+        "role": "副主席（主管监管）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副主席（主管监管）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-07-19",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国联邦储备委员会",
+        "role": "理事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "理事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月、首职月份为规则推算；党籍、入党时间未查到。",
+      "国务院政策规划团队经历已由校方证实，起止年份未查到，未补造条目日期。",
+      "大学教授和院长离职时间、法官助理终止时间及部分职务衔接月份未查清。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Michael S. Barr；美国联邦储备委员会",
+    "review_items": []
+  }
+}

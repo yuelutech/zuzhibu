@@ -1,0 +1,602 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-c001130",
+      "line": "cadre",
+      "subject_id": "c001130",
+      "title": "贾丝明·克罗克特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "rep 2023-01-03~ TX-30 Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: F",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.birthday 1981-03-29",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.birthday 1981-03-29",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Born in St. Louis, Missouri",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Committee on the Judiciary (2025-present) with Subcommittee on Oversight (Ranking Member); Committee on Oversight and Government Reform (Vice Ranking Member, 2025-present)",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "She graduated in 2003 with a Bachelor of Arts in business administration from Rhodes College",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "graduating from the University of Houston Law Center in 2006 with a Juris Doctor",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "From 2007 to 2010...attorney for the Bowie County Public Defender's Office",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "In 2010, Crockett started her own law firm, Crockett Law PLLC, which operated until 2022",
+          "tier": 3
+        },
+        {
+          "id": "s11",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Texas House of Representatives from the 100th district (2021-2023)",
+          "tier": 3
+        },
+        {
+          "id": "s12",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. representative for Texas's 30th congressional district since 2023",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. representative for Texas's 30th congressional district since 2023",
+          "tier": 3
+        },
+        {
+          "id": "s14",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "From 2007 to 2010, Jasmine Crockett was an attorney for the Bowie County Public Defender's Office",
+          "tier": 3
+        },
+        {
+          "id": "s15",
+          "url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+          "title": "维基百科：Jasmine_Crockett",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "She narrowly defeated Birabil in a primary runoff, advancing to the November 2020 general election",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "house",
+        "state:TX"
+      ],
+      "person": {
+        "name": {
+          "value": "贾丝明·克罗克特",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1981-03-29",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "密苏里州圣路易斯",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2006",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：取得法学博士后进入法律职业；底稿备注：规则①：2006年法学院毕业衔接法律职业；2006-2007过渡入 missing",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2006",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "休斯敦大学法律中心法学博士学位",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2020-07",
+          "source_ids": [
+            "s15"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以民主党身份参选并胜出党内初选：2020年得克萨斯州众议员民主党初选决选（因疫情延至7月）；来源：https://en.wikipedia.org/wiki/Jasmine_Crockett；底稿备注：首次自身竞选；安全民主党选区(TX-100)中初选决选为决定性一役，2020年得州初选决选延至7月；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2020-07",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（得克萨斯州第30选区）",
+          "role": "",
+          "start": {
+            "value": "2023-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院司法委员会监督小组委员会",
+          "role": "资深成员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "资深成员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院监督和政府改革委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自2003倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2003",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2003",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "罗兹学院",
+          "role": null,
+          "program": "工商管理",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": true,
+            "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自2006倒推",
+            "inference": {
+              "rule": "degree_duration",
+              "from_date": "2006",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "休斯敦大学法律中心",
+          "role": null,
+          "program": "法律",
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "鲍伊县公设辩护人办公室",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "克罗克特律师事务所",
+          "role": "创始律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "创始律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "得克萨斯州议会众议院",
+          "role": "得克萨斯州众议员（第100选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "得克萨斯州众议员（第100选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s12",
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（得克萨斯州第30选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s12",
+            "s13"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（得克萨斯州第30选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "底稿缺项：罗兹/休斯敦法律中心入学年（按学制倒推）",
+        "底稿缺项：2006-2007法学院毕业至公设辩护人过渡（年份模式可容）",
+        "底稿缺项：众议院 PTR 明细（须人工到书记官入口核取）"
+      ],
+      "excluded": [
+        "参加工作月份「2006年6月」：底稿推定（规则①：2006年法学院毕业衔接法律职业；2006-2007过渡入 missing），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

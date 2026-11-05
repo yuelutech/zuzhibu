@@ -1,0 +1,294 @@
+{
+  "id": "darline-graham",
+  "name_zh": "达琳·格雷姆",
+  "name_en": "Darline Graham",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {
+    "bioguide": "G000608"
+  },
+  "resume": {
+    "id": "cadre-darline-graham",
+    "line": "cadre",
+    "subject_id": "darline-graham",
+    "title": "达琳·格雷姆简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.governor.sc.gov/news/2026-07/gov-mcmaster-appoints-darline-graham-us-senate",
+        "title": "Gov. McMaster Appoints Darline Graham to the U.S. Senate",
+        "published_at": "2026-07-13",
+        "checked_at": "2026-10-17",
+        "excerpt": "COLUMBIA, S.C. — Governor Henry McMaster today announced the appointment of Darline Graham to the United States Senate to fill the vacancy created by the passing of U.S. Senator Lindsey Graham.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.dgraham.senate.gov/",
+        "title": "DARLINE GRAHAM, SENATOR FOR SOUTH CAROLINA",
+        "published_at": null,
+        "checked_at": "2026-10-17",
+        "excerpt": "appointed as a Republican to the United States Senate on July 13, 2026, to fill the vacancy caused by the death of Lindsey O. Graham; took the oath of office on July 14, 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current）",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "bio.gender: F; bio.birthday: 1964-06-12",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://web.archive.org/web/20261017094556/https://www.dgraham.senate.gov/",
+        "title": "Senator Darline Graham（参议员官网，网页存档 2026-10-17）",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "born in Central, Pickens County, S.C., June 12, 1964; B.S., sociology, College of Charleston, Charleston, S.C., 1989; M.A., rehabilitation counseling, South Carolina State University, Orangeburg, S.C., 2009; ... commissioner, South Carolina Commission for the Blind; appointed as a Republican",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://web.archive.org/web/20261014204133/https://governor.sc.gov/news/2026-07/gov-mcmaster-appoints-darline-graham-us-senate",
+        "title": "Gov. McMaster Appoints Darline Graham to U.S. Senate（南卡罗来纳州州长办公室，网页存档 2026-10-14）",
+        "published_at": "2026-07",
+        "checked_at": "2026-10-22",
+        "excerpt": "Darline Graham, a native of Central, S.C., has dedicated her career to public service. Since 2019, she has served as Commissioner of the South Carolina Commission for the Blind",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s4",
+          "s1"
+        ],
+        "basis": "出生于美国南卡罗来纳州皮肯斯县；现任须具美国公民身份的联邦参议员",
+        "inferred": false,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1964-06-12",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "南卡罗来纳州皮肯斯县",
+        "source_ids": [
+          "s4",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "南卡罗来纳州立大学康复咨询文学硕士学位",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s4",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": null,
+      "name": {
+        "value": "达琳·格雷姆",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（南卡罗来纳州）",
+        "role": "",
+        "start": {
+          "value": "2026-07-14",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-07-14",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国联邦参议员（南卡罗来纳州）",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-07",
+          "source_ids": [
+            "s4",
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "按下一条2026年7月获任联邦参议员衔接。",
+          "inference": {
+            "rule": "adjacent_entry",
+            "from_date": "2026-07",
+            "duration_years": null
+          }
+        },
+        "organization": "南卡罗来纳州盲人委员会",
+        "role": "主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作时间未见来源；曾在克莱姆森大学、南卡罗来纳州就业和劳动力厅、南卡罗来纳州职业康复厅任职（任职年份未见来源）"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-17",
+  "updated_at": "2026-10-22",
+  "roles_checked_at": "2026-10-17",
+  "events": [
+    "2026-07-14-darline-graham-appoint"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-07-14",
+      "event": "2026-07-14-darline-graham-appoint",
+      "reason": "主要职务“美国联邦参议员（南卡罗来纳州）”：参众两院"
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true,
+  "portrait": {
+    "file": "darline-graham.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Darline_Graham,_member_of_the_United_States_Senate_from_South_Carolina_(2026).jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（Rosa Pineda, United States Senate；https://www.dgraham.senate.gov/ (File)），File:Official portrait of Darline Graham, member of the United States Senate from South Carolina (2026).jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Official_portrait_of_Darline_Graham%2C_member_of_the_United_States_Senate_from_South_Carolina_%282026%29.jpg"
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-kash-patel",
+      "line": "cadre",
+      "subject_id": "kash-patel",
+      "title": "卡什·帕特尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.fbi.gov/about/leadership-and-structure/director-patel",
+          "title": "Director Kash Patel",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Kash Patel became the ninth Director of the FBI on February 20, 2025. He graduated from the University of Richmond in 2002 with a bachelor's degree in criminal justice and history; earned his juris doctor; began his career in 2005 as a public defender in Florida. In 2014 he began his DOJ tenure as a national security prosecutor. In 2020 he became DoD chief of staff.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.fbi.gov/news/stories/new-fbi-director-takes-oath-of-office",
+          "title": "New FBI Director Takes Oath of Office",
+          "published_at": "2025-02-25",
+          "checked_at": "2026-10-18",
+          "excerpt": "On February 21, Kash Patel was sworn in as the ninth Director of the FBI.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "inbox",
+        "liuju",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "卡什·帕特尔",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1980-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3.3条：本科毕业2002年减22年，未查得出生月按7月；不是直接记载的生日。",
+          "inference": {
+            "rule": "birth_from_graduation",
+            "from_date": "2002",
+            "duration_years": 22
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "2005-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3.3、9.6条：已核首份全职岗位始于2005年；来源未给月份，美国毕业后首份工作按6月记录。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2005",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法学博士学位",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦调查局",
+          "role": "局长",
+          "start": {
+            "value": "2025-02-21",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1998",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3.3、9.6条：毕业年减标准学制4年。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "2002",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "里士满大学",
+          "role": null,
+          "program": "刑事司法和历史",
+          "degree_awarded": {
+            "value": "学士学位",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佛罗里达公设辩护机构",
+          "role": "公设辩护律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国司法部",
+          "role": "国家安全检察官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2020",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国防部",
+          "role": "幕僚长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-02-21",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国联邦调查局",
+          "role": "局长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [
+        {
+          "field": "current_roles[0].start",
+          "alternatives": [
+            {
+              "value": "2025-02-20",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2025-02-21",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2025-02-21",
+          "reason": "以官方报道明确记载的2025年2月21日宣誓就职日为任职起始日；官方简历另载2月20日成为局长，两种表述均保留。"
+        }
+      ],
+      "unknowns": [
+        "国籍未取得明确来源。",
+        "法学博士的学校、取得年份未从本次打开的一级来源中取得。",
+        "众议院情报委员会、国家安全委员会、国家情报总监办公室及基金会经历有官方文字，起止时间未载，未编入有起止日期的履历。",
+        "2014年后的岗位交接时间及2020年国防部职务离任时间未核定。"
+      ],
+      "excluded": [
+        "不从任命总统党籍、投票倾向或政治捐款推断本人党籍及入党时间。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "卡什·帕特尔；美国联邦调查局局长",
+      "review_items": [
+        "表外人名建议译法见 names.csv，待人工复核；未标作新华社已核译名。",
+        "译名表内标为待核的机构、职务按现有写法保留；逐项清单见README检查提示。"
+      ]
+    }
+  ],
+  "source_task": "liuju"
+}

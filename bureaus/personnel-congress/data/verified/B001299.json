@@ -1,0 +1,597 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001299",
+      "line": "cadre",
+      "subject_id": "b001299",
+      "title": "吉姆·班克斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.congress.gov/member/jim-banks/B001299",
+          "title": "Jim Banks | Congress.gov | Library of Congress",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Senator Jim Banks (1979 - ) In Congress 2017 - Present; Party Republican; Senate Indiana 119th (2025-Present)",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-IN.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Indiana",
+          "published_at": "2022-10-26",
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Columbia City, July 16, 1979; Whitley County Council, 2008-10; Indiana State Senate, 2010-16; Supply Corps Officer, 2012-15",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://magazine.college.indiana.edu/20-under-40/20-under-40-2019.html",
+          "title": "20 Under 40: 2019: THE COLLEGE: Indiana University Bloomington",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Indiana Congressman Jim Banks (B.A. ’04, Political Science)",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.grace.edu/wp-content/uploads/2018/04/289_Fall17_Web.pdf",
+          "title": "Grace College & Seminary — Fall 2017 — Jim Banks: Alumni of the Year Award Recipient",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Jim joined the United States Navy Reserve as a supply corps officer in 2012 and attended Grace College where he earned his MBA in 2013.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.grace.edu/a-congressman-with-compassion-how-a-masters-in-business-administration-degree-helped-banks-make-a-difference/",
+          "title": "A Congressman with Compassion: How a Masters in Business Administration Degree Helped Banks Make a Difference",
+          "published_at": "2023-09-15",
+          "checked_at": "2026-10-18",
+          "excerpt": "Jim Banks decided to pursue his MBA degree online when he joined the military.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.senate.gov/senators/NewSenators.htm",
+          "title": "U.S. Senate: New Senators 2001-present",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Jim Banks | R-IN | General election | January 3, 2025",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Banks, Jim (R-IN); Committee on Armed Services; Committee on Banking, Housing, and Urban Affairs; Committee on Health, Education, Labor, and Pensions; Committee on Veterans' Affairs",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.banks.senate.gov/wp-content/uploads/2025/01/Senator-Jim-Banks-Bio.pdf",
+          "title": "Senator Jim Banks — Official Biography",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Senator Jim Banks is a native Hoosier, born and raised in Columbia City. He is the son of a factory worker",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.banks.senate.gov/",
+          "title": "Home Page - Senator Jim Banks",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Jim Banks - U.S. Senator for Indiana",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://dailycitizen.focusonthefamily.com/senator-jim-banks-former-focus-staffer-sworn-in-to-119th-congress/",
+          "title": "Senator Jim Banks, Former Focus Staffer, Sworn In to 119th Congress",
+          "published_at": "2025-01-08",
+          "checked_at": "2026-10-18",
+          "excerpt": "The Columbia City native, who previously served four terms in the House of Representatives, is also a member of the U.S. Naval Reserve.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "senate",
+        "state:IN"
+      ],
+      "person": {
+        "name": {
+          "value": "吉姆·班克斯",
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1979-07-16",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "印第安纳州哥伦比亚市",
+          "source_ids": [
+            "s3",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s3",
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "格雷斯学院工商管理硕士学位",
+          "source_ids": [
+            "s3",
+            "s5",
+            "s6",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（印第安纳州）",
+          "role": "",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7",
+            "s10"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院军事委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院银行、住房和城市事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工和养老金委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院退伍军人事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "印第安纳州惠特利县议会",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010",
+            "source_ids": [
+              "s3",
+              "s4",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016",
+            "source_ids": [
+              "s3",
+              "s4",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "印第安纳州参议院",
+          "role": "州参议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2012",
+                "source_ids": [
+                  "s3",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": false,
+              "organization": "美国海军预备役",
+              "role": "补给军官",
+              "roles": [
+                "补给军官"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s3",
+                "s4",
+                "s5"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2014",
+                "source_ids": [
+                  "s3",
+                  "s4",
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2015",
+                "source_ids": [
+                  "s3",
+                  "s4",
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国海军预备役驻阿富汗部队",
+              "role": "补给军官",
+              "roles": [
+                "补给军官"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s3",
+                "s4",
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-01",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（印第安纳州第3选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（印第安纳州第3选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-03",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（印第安纳州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7",
+            "s10"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（印第安纳州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "careers.annotations.美国海军预备役.end",
+          "alternatives": [
+            {
+              "value": "2015",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2025-01-08仍为美国海军预备役成员",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": null,
+          "reason": "2022年国会名录列预备役服役期为2012—2015年，2025年原雇主报道仍称其为预备役成员。保留有两项来源支持的2012年起始年，结束日期留空，不主张持续至截止日；交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过国会名录、参议员官方传记、学校履历及 Focus on the Family 原雇主报道，未找到第一份全职工作的开始日期和全职性质依据，work_start 留空。",
+        "本科履历：印第安纳大学官网及国会名录确认2004年取得政治学文学学士学位；入学年检索出现1997年线索，但 National Review 原文打不开，未生成起止时间条目，也未按毕业年减4覆盖该线索。",
+        "硕士学习起始时间：格雷斯学院确认2013年取得工商管理硕士学位，并确认采用在线学习方式；可打开原文未明确开始年份或实际学习年限，未生成学习括注。",
+        "入党时间：已搜索选民党籍登记、本人公开加入声明及县共和党主席任期。官方传记确认曾任惠特利县共和党主席，但未给日期；载有2007—2011年任期的 Cook Political Report 页面后续打开返回403，Vote Smart 页面返回403，2007年 Howey Politics 报刊原件打开超时，未据搜索摘要取锚点。已打开FEC众议员候选人页，其联邦参选登记属于低于县党职的锚点，未以较晚登记替代待取证的第2级锚点。",
+        "早期工作履历：Focus on the Family 原雇主确认曾任公共政策部门职员，未列任职起止；Hagerman Group业务发展总监、Bradley Company经纪人的起止线索未取得可打开的机构原文，未列入履历。",
+        "共和党研究委员会主席：官方传记及格雷斯学院确认其在第117届国会担任主席，未取得明确就任和离任日期的原文，未生成日期括注。",
+        "委员会起始日期：参议院第119届委员会名单确认四项委员会委员职务，未找到各项实际生效日期，start 均留空。",
+        "众议员任期终止日期：Congress.gov 确认任职至2025年，本次可打开原文未列具体离任日，end 保留年份。",
+        "族裔：查过国会资料、官方传记及学校资料，未找到本人自述或官方统计依据。",
+        "军衔及退役日期：可打开的国会名录未列军衔，预备役结束时间存在来源差异，未填写 military_rank 或退出现役条目。",
+        "出生日期第二来源：官方国会名录确认1979-07-16；Bioguide无法打开，未取得第二个可稳定打开的官方或权威百科来源。",
+        "完整简历卡：参加工作时间缺证，本科与硕士履历缺起始依据，暂不指定完整简历卡。"
+      ],
+      "excluded": [
+        "底稿『2004年参加工作』『2004年6月参加工作』：未找到第一份全职工作的依据，年份和月份均不沿用。",
+        "底稿『印第安纳大学政治学文学学士学位』作为最高学位：学校资料和国会名录确认另有2013年工商管理硕士学位，最高学位改取硕士。",
+        "底稿『大学学历』：已取得工商管理硕士学位，改为研究生学历。",
+        "底稿『2000—2004年印第安纳大学学习』：2000年没有来源，且检索发现更早入学线索，未沿用。",
+        "底稿『2004—2008年印第安纳州商业地产和建筑企业工作人员』：单位、职务及起止日期均缺原文依据，未沿用。",
+        "底稿『2013—2013年格雷斯学院学习』：2013年是学位取得年，未找到同年入学依据。",
+        "底稿『2012年至今美国海军预备役军官』：已确认2012年加入，未确认持续至截止日，取消ongoing=true。",
+        "底稿『2008年11月加入美国共和党』：无有效锚点依据；县共和党主席经历属于优先检索的更高级锚点。",
+        "底稿『2021—2023年共和党研究委员会主席』：官方来源确认第117届国会主席身份，本次未取得明确交接日期，不沿用具体起止年。",
+        "第119届小组委员会职务：按本批规则不在current_roles单列。",
+        "搜索结果中的 National Review、Howey Politics、Vote Smart、Cook Political Report、2024年及2026年国会名录细节：相关原文打开失败或后续返回403，未作为采纳字段的来源。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（印第安纳州）＋美国国会参议院；Bioguide B001299",
+      "review_items": [
+        "优先补取第一份全职工作的原始履历及开始日期。",
+        "补取2007年就任惠特利县共和党主席的可打开原文，再按第2级锚点填写party_joined_at。",
+        "补取本科入学年与硕士学习开始年份，完成从大学起的履历。",
+        "核实海军预备役服役结束日期及军衔，确认来源差异。",
+        "补取共和党研究委员会主席的实际任职起止日期。",
+        "本包为候选研究事实包，逐字段独立核查另行进行。"
+      ]
+    }
+  ]
+}

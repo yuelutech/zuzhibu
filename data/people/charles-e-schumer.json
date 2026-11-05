@@ -1,0 +1,872 @@
+{
+  "id": "charles-e-schumer",
+  "name_zh": "查克·舒默",
+  "name_en": "Charles E. Schumer",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "S000148"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "charles-e-schumer.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Chuck_Schumer_official_photo.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（U.S. Senate Photographic Studio/Jeff McEvoy；https://www.schumer.senate.gov/about-chuck），File:Chuck Schumer official photo.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Chuck_Schumer_official_photo.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-s000148",
+    "line": "cadre",
+    "subject_id": "s000148",
+    "title": "查克·舒默简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 1999-01-06~ NY Democrat; Minority Leader since 2025-01-03",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Schumer was born on November 23, 1950, in Midwood, Brooklyn",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+        "title": "维基百科：Chuck_Schumer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Schumer was born on November 23, 1950, in Midwood, Brooklyn",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+        "title": "维基百科：Chuck_Schumer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Committee on Rules and Administration; Select Committee on Intelligence (ex officio as Minority Leader)",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+        "title": "维基百科：Chuck_Schumer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "graduating magna cum laude and Phi Beta Kappa in 1971 with BA in social studies",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+        "title": "维基百科：Chuck_Schumer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "earning his Juris Doctor with honors in 1974",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+        "title": "维基百科：Chuck_Schumer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Schumer served three terms, from 1975 to 1981",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "He served nine terms in the United States House of Representatives from 1981 to 1999 (16th 1981-1983; 10th 1983-1993; 9th 1993-1999)",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+        "title": "维基百科：Chuck_Schumer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "He served nine terms in the United States House of Representatives from 1981 to 1999 (16th 1981-1983; 10th 1983-1993; 9th 1993-1999)",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://www.fec.gov/data/candidate/S8NY00082/",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "FEC Senate candidate S8NY00082 (NY)",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "serving since 1999 as a United States senator from New York; elected minority leader November 2016; Majority Leader January 20, 2021 - January 3, 2025; Minority Leader January 3, 2025-",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+        "title": "维基百科：Chuck_Schumer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "serving since 1999 as a United States senator from New York; elected minority leader November 2016; Majority Leader January 20, 2021 - January 3, 2025; Minority Leader January 3, 2025-",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+        "title": "维基百科：Chuck_Schumer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Schumer served three terms, from 1975 to 1981 (NY State Assembly)",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+        "title": "维基百科：Chuck_Schumer",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Schumer served three terms, from 1975 to 1981 (NY State Assembly, Democrat)",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:NY"
+    ],
+    "person": {
+      "name": {
+        "value": "查克·舒默",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1950-11-23",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "纽约州纽约市布鲁克林区",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1975",
+        "source_ids": [
+          "s14"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：就任纽约州众议员（纽约州议会众议院）；底稿备注：1974年11月当选，1975年1月州议会开议就任为其首份正式职务；从未执业律师；月份按统一推定规则②（州议会1月就职）",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1975",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哈佛大学法学院法学博士学位",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "1974-11",
+        "source_ids": [
+          "s15"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次以民主党身份当选纽约州众议员（1974年11月普选）；来源：https://en.wikipedia.org/wiki/Chuck_Schumer；底稿备注：无更早党籍登记/党内职务可锚；取首次当选党派制公职普选月（规则②，11月）；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "1974-11",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（纽约州）",
+        "role": "",
+        "start": {
+          "value": "1999-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国参议院民主党领袖",
+        "role": "",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院少数党领袖",
+        "role": "",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院规则和行政委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院情报特别委员会",
+        "role": "当然委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "当然委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1967",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1971倒推；高中1967年毕业衔接",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1971",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1971",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哈佛学院",
+        "role": null,
+        "program": "社会研究",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1971",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1974倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1974",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1974",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哈佛大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1975",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1981",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "纽约州议会众议院",
+        "role": "纽约州众议员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "纽约州众议员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1981",
+          "source_ids": [
+            "s9",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1999",
+          "source_ids": [
+            "s9",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（纽约州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9",
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联邦众议员（纽约州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "1981",
+              "source_ids": [
+                "s9",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "1983",
+              "source_ids": [
+                "s9",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "纽约州第16选区",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s9",
+              "s10"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "1983",
+              "source_ids": [
+                "s9",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "1993",
+              "source_ids": [
+                "s9",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "纽约州第10选区",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s9",
+              "s10"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "1993",
+              "source_ids": [
+                "s9",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "1999",
+              "source_ids": [
+                "s9",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "纽约州第9选区",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s9",
+              "s10"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1999",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "推算：年份模式下并入1999就任，发布稿不单列",
+          "inference": null
+        },
+        "organization": "查克·舒默参议员竞选委员会",
+        "role": "民主党联邦参议员候选人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "民主党联邦参议员候选人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1999",
+          "source_ids": [
+            "s12",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（纽约州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12",
+          "s13"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（纽约州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2005",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2009",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "民主党参议院竞选委员会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2017",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2021",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国参议院少数党领袖",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2021",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2025",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国参议院多数党领袖",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [
+                "s12",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国参议院少数党领袖",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s12",
+              "s13"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：哈佛学院/法学院入学年（按学制倒推）",
+      "底稿缺项：1974-1975就任前过渡期具体活动（年份模式无碍）",
+      "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1975年1月」：底稿推定（1974年11月当选，1975年1月州议会开议就任为其首份正式职务；从未执业律师；月份按统一推定规则②（州议会1月就职）），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

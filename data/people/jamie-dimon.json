@@ -1,0 +1,961 @@
+{
+  "id": "jamie-dimon",
+  "name_zh": "杰米·戴蒙",
+  "name_en": "Jamie Dimon",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "jamie-dimon.jpg",
+    "source": "维护者提供（杰米·戴蒙_Jamie-Dimon_摩根大通.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Global_Financial_Context_James_Dimon.jpg"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "JPMorgan Chase & Co.",
+      "role_en": "Chairman of the Board"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-jamie-dimon",
+    "line": "cadre",
+    "subject_id": "jamie-dimon",
+    "title": "杰米·戴蒙简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.jpmorganchase.com/about/leadership/jamie-dimon",
+        "title": "Jamie Dimon | JPMorganChase (Leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Jamie Dimon is Chairman of the Board and Chief Executive Officer of JPMorgan Chase & Co., a global financial services firm with assets of $3.2 trillion and operations worldwide.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.jpmorganchase.com/about/leadership/jamie-dimon",
+        "title": "Jamie Dimon | JPMorganChase (Leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Dimon became CEO on January 1, 2006 and one year later also became Chairman of the Board. He was named President and Chief Operating Officer upon the company’s merger with Bank One Corporation on July 1, 2004. Dimon joined Bank One as Chairman and CEO in 2000.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.jpmorganchase.com/about/leadership/jamie-dimon",
+        "title": "Jamie Dimon | JPMorganChase (Leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Dimon began his career at American Express Company. Next, he served as Chief Financial Officer and then President at Commercial Credit, which made numerous acquisitions and divestitures, including acquiring Primerica Corporation in 1987 and The Travelers Corporation in 1993.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.jpmorganchase.com/about/leadership/jamie-dimon",
+        "title": "Jamie Dimon | JPMorganChase (Leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Dimon served as President and Chief Operating Officer of Travelers from 1990 through 1998 while concurrently serving as Chief Operating Officer of its Smith Barney Inc. subsidiary before becoming co-Chairman and Co-CEO of the combined brokerage following the 1997 merger of Smith Barney and Salomon Brothers. In 1998, Dimon was named President of Citigroup Inc., the global financial services company formed by the combination of Travelers Group and Citicorp.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.jpmorganchase.com/about/leadership/jamie-dimon",
+        "title": "Jamie Dimon | JPMorganChase (Leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Dimon earned his bachelor’s degree from Tufts University and holds an MBA from Harvard Business School. He serves on the boards of directors of a number of non-profit institutions including the Business Roundtable, Bank Policy Institute and Harvard Business School.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "title": "JPMorgan Chase & Co. Form 10-K for fiscal year 2025 (Executive officers of the registrant)",
+        "published_at": "2026-02-13",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chairman of the Board since December 2006 and Chief Executive Officer since December 2005.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm",
+        "title": "JPMorgan Chase & Co. 2026 Proxy Statement (DEF 14A), director nominee James Dimon",
+        "published_at": "2026-04-06",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chairman of the Board (since 2006) and Director (since 2004); Chief Executive Officer (since 2005)",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm",
+        "title": "JPMorgan Chase & Co. 2026 Proxy Statement (DEF 14A), director nominee James Dimon",
+        "published_at": "2026-04-06",
+        "checked_at": "2026-10-21",
+        "excerpt": "President (2004-2018)",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm",
+        "title": "JPMorgan Chase & Co. 2026 Proxy Statement (DEF 14A), director nominee James Dimon",
+        "published_at": "2026-04-06",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chairman and Chief Executive Officer at Bank One Corporation (2000-2004)",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm",
+        "title": "JPMorgan Chase & Co. 2026 Proxy Statement (DEF 14A), director nominee James Dimon",
+        "published_at": "2026-04-06",
+        "checked_at": "2026-10-21",
+        "excerpt": "Director since: 2004 and Chairman of the Board since 2006",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.jpmorganchase.com/ir/news/2026/jpmc-names-doug-petno-and-troy-rohrbaugh-co-presidents-of-the-company",
+        "title": "JPMorganChase Names Doug Petno and Troy Rohrbaugh Co-Presidents of the Company",
+        "published_at": "2026-06-25",
+        "checked_at": "2026-10-21",
+        "excerpt": "“The changes announced today mark an important step in our Board’s thoughtful process around succession planning and development of our top leaders,” said Jamie Dimon, Chairman and CEO.",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/a3q26erfexhibit991narrative.htm",
+        "title": "JPMorgan Chase & Co. Earnings Release – Third Quarter 2026 Results (Form 8-K Exhibit 99.1)",
+        "published_at": "2026-10-13",
+        "checked_at": "2026-10-21",
+        "excerpt": "Jamie Dimon, Chairman and CEO, commented on the financial results:",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://www.britannica.com/money/Jamie-Dimon",
+        "title": "Jamie Dimon | Banking Career, JPMorgan Chase, & Politics | Britannica Money",
+        "published_at": "2025-02-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "James “Jamie” Dimon (born March 13, 1956, New York City, U.S.) is a billionaire businessman and the chair and chief executive officer of JPMorgan Chase & Co. (JPM).",
+        "tier": 2
+      },
+      {
+        "id": "s14",
+        "url": "https://www.britannica.com/money/Jamie-Dimon",
+        "title": "Jamie Dimon | Banking Career, JPMorgan Chase, & Politics | Britannica Money",
+        "published_at": "2025-02-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "1978: Earns a bachelor’s degree from Tufts University.",
+        "tier": 2
+      },
+      {
+        "id": "s15",
+        "url": "https://www.britannica.com/money/Jamie-Dimon",
+        "title": "Jamie Dimon | Banking Career, JPMorgan Chase, & Politics | Britannica Money",
+        "published_at": "2025-02-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "1982: Completes an MBA at Harvard Business School.",
+        "tier": 2
+      },
+      {
+        "id": "s16",
+        "url": "https://www.britannica.com/money/Jamie-Dimon",
+        "title": "Jamie Dimon | Banking Career, JPMorgan Chase, & Politics | Britannica Money",
+        "published_at": "2025-02-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "1982–1985: Works as assistant to the president of American Express, mentored by Sandy Weill.",
+        "tier": 2
+      },
+      {
+        "id": "s17",
+        "url": "https://www.britannica.com/money/Jamie-Dimon",
+        "title": "Jamie Dimon | Banking Career, JPMorgan Chase, & Politics | Britannica Money",
+        "published_at": "2025-02-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "In 1985 both Dimon and Weill left American Express to co-lead Travelers Group (then known as Commercial Credit), a financial services conglomerate that merged with Citigroup (C) in 1998.",
+        "tier": 2
+      },
+      {
+        "id": "s18",
+        "url": "https://www.britannica.com/money/Jamie-Dimon",
+        "title": "Jamie Dimon | Banking Career, JPMorgan Chase, & Politics | Britannica Money",
+        "published_at": "2025-02-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "1998: Departs Travelers Group after conflict with Weill over leadership.",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": "公司官网简介用 he 指称",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s13"
+        ],
+        "inferred": false,
+        "basis": "出生于美国纽约市（大英百科）",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1956-03-13",
+        "source_ids": [
+          "s13"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "纽约州纽约市",
+        "source_ids": [
+          "s13"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1982-07",
+        "source_ids": [
+          "s3",
+          "s16"
+        ],
+        "inferred": true,
+        "basis": "第一份全职工作：1982年哈佛商学院毕业后进入美国运通公司任总裁助理（官网称其职业生涯始于美国运通公司；大英百科列1982—1985年）；月份未检得；参加工作月份无记载，取 7 月（cadre.md 第 3 节第 3 条）",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1982",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "s5",
+          "s15"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哈佛大学工商管理硕士学位",
+        "source_ids": [
+          "s5",
+          "s15"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "杰米·戴蒙",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "摩根大通公司",
+        "role": "董事长、首席执行官、董事",
+        "start": {
+          "value": "2006-12",
+          "source_ids": [
+            "s6",
+            "s7",
+            "s1",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s7",
+          "s1",
+          "s12",
+          "s10"
+        ],
+        "roles": [
+          "董事长",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1974",
+          "source_ids": [
+            "s5",
+            "s14"
+          ],
+          "inferred": true,
+          "basis": "毕业年 1978 减标准学制 4 年（写法第 6 节）",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1978",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1978",
+          "source_ids": [
+            "s5",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "塔夫茨大学",
+        "role": null,
+        "program": null,
+        "degree_awarded": {
+          "value": "学士学位",
+          "source_ids": [
+            "s5",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1980",
+          "source_ids": [
+            "s5",
+            "s15"
+          ],
+          "inferred": true,
+          "basis": "毕业年 1982 减标准学制 2 年（写法第 6 节）",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1982",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1982",
+          "source_ids": [
+            "s5",
+            "s15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哈佛大学商学院",
+        "role": null,
+        "program": "工商管理",
+        "degree_awarded": {
+          "value": "工商管理硕士学位",
+          "source_ids": [
+            "s5",
+            "s15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s15"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1982-07",
+          "source_ids": [
+            "s16",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "与首段参加工作一致（参加工作月份无记载，取 7 月）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1982",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1985",
+          "source_ids": [
+            "s16",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国运通公司",
+        "role": "总裁助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s16",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1985",
+          "source_ids": [
+            "s3",
+            "s17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1990",
+          "source_ids": [
+            "s3",
+            "s17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "商业信贷公司（Commercial Credit）",
+        "role": "首席财务官、总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s17"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席财务官",
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1990",
+          "source_ids": [
+            "s4",
+            "s17",
+            "s18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s4",
+            "s17",
+            "s18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "旅行者集团",
+        "role": "总裁、首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s17",
+          "s18"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "1997",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "1998",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "所罗门美邦公司",
+            "role": "联席董事长、联席首席执行官",
+            "roles": [
+              "联席董事长",
+              "联席首席执行官"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s4"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s4",
+            "s18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s4",
+            "s18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "花旗集团",
+        "role": "总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s18"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2000",
+          "source_ids": [
+            "s2",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2004-07",
+          "source_ids": [
+            "s2",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美一银行公司",
+        "role": "董事长、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2004-07",
+          "source_ids": [
+            "s2",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2005-12",
+          "source_ids": [
+            "s2",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "摩根大通公司",
+        "role": "总裁、首席运营官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s7",
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席运营官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005-12",
+          "source_ids": [
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006-12",
+          "source_ids": [
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "摩根大通公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s7",
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006-12",
+          "source_ids": [
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018",
+          "source_ids": [
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "摩根大通公司",
+        "role": "董事长、总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s7",
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长",
+          "总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018",
+          "source_ids": [
+            "s1",
+            "s6",
+            "s7",
+            "s11",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "摩根大通公司",
+        "role": "董事长、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s6",
+          "s7",
+          "s11",
+          "s12"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "摩根大通公司",
+    "conflicts": [
+      {
+        "field": "current_roles[首席执行官].start",
+        "alternatives": [
+          {
+            "value": "2005-12",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2006-01",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2005-12",
+        "reason": "10-K 写 Chief Executive Officer since December 2005；官网写 became CEO on January 1, 2006。草稿按10-K取2005-12"
+      },
+      {
+        "field": "current_roles[董事长].start",
+        "alternatives": [
+          {
+            "value": "2006-12",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2007-01",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2006-12",
+        "reason": "10-K 写 Chairman of the Board since December 2006；官网写成为CEO“一年后”兼任董事长（即约2007年1月）；委托书写 since 2006。草稿按10-K取2006-12"
+      }
+    ],
+    "unknowns": [
+      "塔夫茨大学所学专业、学位类别：一级、二级来源只写 bachelor’s degree（维基百科称心理学和经济学文学学士，未采用）",
+      "哈佛商学院入学年份：未检得",
+      "1978—1980年是否在波士顿管理咨询机构工作：维基百科等称其曾在 Management Analysis Center 任咨询顾问，未检得一级或二级来源；官网称其职业生涯始于美国运通公司，故参加工作按1982年",
+      "各职务起始月份（美国运通、商业信贷公司、旅行者集团、花旗集团、美一银行）：未检得",
+      "2018年卸任总裁的月份：委托书只写 2004-2018"
+    ],
+    "excluded": [
+      "美邦公司（Smith Barney）首席运营官：起始时间无来源，不写进履历括注"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Jamie Dimon；摩根大通公司；董事长、首席执行官、董事",
+    "review_items": []
+  }
+}

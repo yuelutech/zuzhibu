@@ -1,0 +1,811 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001287",
+      "line": "cadre",
+      "subject_id": "b001287",
+      "title": "阿米·贝拉简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/15032386873",
+          "title": "BERA, Ami | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Los Angeles, Los Angeles County, Calif., March 2, 1965",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/Members/B001287",
+          "title": "Office of the Clerk, U.S. House of Representatives — Ami Bera",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Ami Bera\nCalifornia (CA) – 6th, Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://bera.house.gov/about",
+          "title": "About | U.S. Representative Ami Bera",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "working as clinical professor of medicine and associate dean for admissions and outreach at University of California, Davis",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.bio.uci.edu/community-spotlight-ami-bera-87-b-s-91-m-d/",
+          "title": "Community Spotlight: Ami Bera ’87 B.S., ’91 M.D.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "earning both his B.S. from the Biological Sciences School and M.D. from the School of Medicine.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.fec.gov/data/committee/C00461061/?cycle=2024",
+          "title": "BERA FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Registration date: April 23, 2009\nHouse candidate California - 06 Democratic Party",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://amednews.com/article/20130107/government/130109988/4/",
+          "title": "New physician faces in Congress - American Medical News",
+          "published_at": "2013-01-07",
+          "checked_at": "2026-10-18",
+          "excerpt": "California Pacific Medical Center, San Francisco (1991-95)",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://www.ucdavis.edu/news/smooth-operation",
+          "title": "SMOOTH OPERATION ... | UC Davis",
+          "published_at": "2004-05-21",
+          "checked_at": "2026-10-18",
+          "excerpt": "Amerish Bera, clinical professor of medicine",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-CA.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — California",
+          "published_at": "2022-10-26",
+          "checked_at": "2026-10-18",
+          "excerpt": "associate dean of admissions for University of California, Davis Medical School, 2004-07",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.govinfo.gov/content/pkg/GPO-CDOC-108hdoc226/pdf/GPO-CDOC-108hdoc226-3-2.pdf",
+          "title": "Asian and Pacific Islander Americans in Congress — Ami Bera",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "served as the part-time medical director of care management",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://history.house.gov/Exhibitions-and-Publications/APA/Historical-Data/By-State-and-Territory/",
+          "title": "Asian and Pacific Islander American Representatives, Senators, Delegates, and Resident Commissioners by State and Territory",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "CA | BERA, Ami | 113th (2013-2015) | House",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://insideelections.com/person/amerish-bera/",
+          "title": "Amerish Bera | D | CA-03 (FEC+BIO) – Inside Elections",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "118 | House of Representatives | CA-06 | 2023-2025",
+          "tier": 2
+        },
+        {
+          "id": "s13",
+          "url": "https://www.ucdavis.edu/news/medical-school-welcomes-36th-class",
+          "title": "Medical school welcomes 36th class | UC Davis",
+          "published_at": "2004-10-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "Amerish Bera, assistant dean of admissions and outreach",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:CA"
+      ],
+      "person": {
+        "name": {
+          "value": "阿米·贝拉",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1965-03-02",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "加利福尼亚州洛杉矶",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1991",
+          "source_ids": [
+            "s7",
+            "s3",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职医疗任职起年推算：American Medical News 记载其于1991—1995年任加利福尼亚太平洋医疗中心内科实习医师、住院医师；议员官网和欧文分校官网确认其1991年医学院毕业后进入该中心接受内科住院医师训练。来源：https://amednews.com/article/20130107/government/130109988/4/；https://bera.house.gov/about；https://www.bio.uci.edu/community-spotlight-ami-bera-87-b-s-91-m-d/。来源未给起始月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1991",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "加利福尼亚大学欧文分校医学院医学博士学位",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2009-04",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：民主党候选人 Amerish Bera 的主要竞选委员会 BERA FOR CONGRESS（C00461061）在联邦选举委员会登记，2009-04-23；来源：https://www.fec.gov/data/committee/C00461061/?cycle=2024。已检索公开选民登记、本人公开宣布入党及党组织职务，未找到第1、2级日期锚点；FEC 候选人页的参选声明列表未显示可读取的首次F2受理日，采用委员会登记日。排除底稿2010年6月：没有登记依据，且晚于已找到的第3级锚点；2013年民主党身份就任属于较低的第5级锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2009-04-23",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": {
+          "value": "亚裔",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（加利福尼亚州第6选区）",
+          "role": "",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s12"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院外交委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s1"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院情报常设特别委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s1"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1983",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": true,
+            "basis": "官方传记记载1987年获得理学学士学位；按本科毕业年减4推算：1987－4＝1983。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1987",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1987",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚大学欧文分校",
+          "role": null,
+          "program": "生物科学",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1991",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1995",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "加利福尼亚太平洋医疗中心",
+          "role": "内科实习医师、住院医师、总住院医师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "内科实习医师",
+            "内科住院医师",
+            "总住院医师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "MedClinic Medical Group",
+          "role": "内科医师、内科主任、助理医学主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "内科医师",
+            "内科主任",
+            "助理医学主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1998",
+                "source_ids": [
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1999",
+                "source_ids": [
+                  "s7"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "Mercy Healthcare Sacramento",
+              "role": "护理管理医学主任",
+              "roles": [
+                "护理管理医学主任"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s7",
+                "s10",
+                "s3",
+                "s5"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s1",
+              "s7",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2004",
+            "source_ids": [
+              "s1",
+              "s7",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "萨克拉门托县卫生与公众服务部",
+          "role": "首席医疗官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席医疗官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2004",
+            "source_ids": [
+              "s7",
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "加利福尼亚大学戴维斯分校医学院",
+          "role": "临床医学教授、招生和外联副院长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "临床医学教授",
+            "招生和外联副院长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（加利福尼亚州第7选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s9",
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（加利福尼亚州第7选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（加利福尼亚州第6选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s12"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（加利福尼亚州第6选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.birth_place",
+          "alternatives": [
+            {
+              "value": "加利福尼亚州洛杉矶",
+              "source_ids": [
+                "s1",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "加利福尼亚州拉帕尔马",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "加利福尼亚州洛杉矶",
+          "reason": "采用众议院现行人物页；众议院亚太裔议员传记亦记载洛杉矶。2022年国会名录记载拉帕尔马，属一级来源之间的差异，保留交AI政见确认。"
+        },
+        {
+          "field": "careers.uc_davis.organization",
+          "alternatives": [
+            {
+              "value": "加利福尼亚大学戴维斯分校医学院",
+              "source_ids": [
+                "s3",
+                "s5",
+                "s8",
+                "s9",
+                "s10",
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "加利福尼亚大学欧文分校医学院",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "加利福尼亚大学戴维斯分校医学院",
+          "reason": "采用任职学校当年新闻及议员现行官方传记，并获国会名录交叉支持；众议院简传写欧文分校。一级来源差异保留交AI政见确认。"
+        },
+        {
+          "field": "careers.uc_davis.associate_dean.end",
+          "alternatives": [
+            {
+              "value": "2007",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2008",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2007",
+          "reason": "在已打开的带明确起止年份官方资料中采用较新的2022年国会名录。该日期仅指副院长职务；教授离任日期未找到，合并任职条目的end保持null。一级来源差异保留交AI政见确认。"
+        },
+        {
+          "field": "careers.bachelor.end",
+          "alternatives": [
+            {
+              "value": "1987",
+              "source_ids": [
+                "s1",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1983",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1987",
+          "reason": "采用国会官方传记及欧文分校人物页面标题中的1987届标识；American Medical News 简历框写1983，与官方学位记录不符。"
+        }
+      ],
+      "unknowns": [
+        "医学博士学习起始日期：查过众议院人物页、议员官网、欧文分校官网及众议院亚太裔议员传记，确认1991年取得医学博士，未找到入学日期；本批不按医学院标准学制倒推，未单列缺起始日期的学习条目。",
+        "参加工作月份：查过议员官网、欧文分校官网及American Medical News，只找到1991年起的医疗任职年份。",
+        "医疗任职月份及同单位职务交接日期：上述官方传记和医学媒体未给出；未将住院医师、总住院医师以及MedClinic各职务拆成推定日期条目。",
+        "戴维斯分校教授职务终止日期：查过议员官网、学校新闻、国会名录及American Medical News；未找到终止日期，2013年的媒体报道仍写2004年至当时。",
+        "第6选区任职起始月日及第7选区结束月日：已打开Inside Elections任期表，只按其中明确的2023年记录；国会现届书记官页的2025年1月3日是本届宣誓日期。",
+        "委员会职务起始日期：查过书记官页、议员官网及众议院历史页，确认第119届仍任外交委员会和情报常设特别委员会委员，未找到可直接采用的实际到任日期。",
+        "竞选经历起止日期：FEC委员会登记日可作入党锚点，但不直接作为参选身份就任日期；未找到足够的提名、生效及结束日期证据，未沿用底稿2010—2013年候选人括注。",
+        "学习是否全日制：已打开的学校及国会传记未明确说明，full_time留null。"
+      ],
+      "excluded": [
+        "底稿『现职自2025年1月开始』：该日为第119届宣誓日期；第6选区任期表从2023年开始。",
+        "底稿『1991—1994年加利福尼亚太平洋医疗中心』：医学媒体记载1991—1995年，采用重新取证年份。",
+        "底稿『1994—1997年MedClinic医疗集团医师、管理人员』：医学媒体记载1995—1999年，并明确内科医师、内科主任、助理医学主任职务。",
+        "底稿『1997—1999年默西医疗保健公司护理管理医学主任』：重新取得的年份为1998—1999年；官方传记明确为兼职，放入同期MedClinic任职括注。",
+        "底稿『1999—2005年萨克拉门托县首席医疗官』：国会官方传记和医学媒体均记载1999—2004年。",
+        "底稿『2005—2012年戴维斯分校临床医学教授、招生和外联副院长』：学校2004年新闻已记载其教授及招生职务；2012年终止日期未取得依据。",
+        "底稿『1987年开始医学博士学习』：未取得入学日期原文，不沿用。",
+        "底稿『1991年6月参加工作』：未找到起始月份，保留有证据的1991年。",
+        "底稿『2010年6月加入美国民主党』：未取得该日期依据，改用2009年4月23日FEC委员会登记的第3级锚点。",
+        "底稿『东亚和太平洋小组委员会资深少数党成员』作为独立现职：本批仅列全委员会，外交委员会职务写委员。",
+        "检索结果中的2026年加州第3选区参选身份：属于竞选中的另一选区，截至截止日现任选区仍为第6选区。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（加利福尼亚州第6选区）＋美国国会众议院",
+      "review_items": [
+        "出生地一级来源冲突：洛杉矶与拉帕尔马，已选众议院现行人物页的洛杉矶，交AI政见确认。",
+        "副院长任职学校一级来源冲突：戴维斯分校与欧文分校，已选学校原文和议员官网支持的戴维斯分校，交AI政见确认。",
+        "副院长离任年份一级来源冲突：2007与2008，已选较新国会名录的2007，交AI政见确认。",
+        "医学博士学习条目缺入学日期；现有最高学位字段已有学校及国会官方依据。",
+        "核对Mercy Healthcare Sacramento及MedClinic Medical Group的中文机构译名。"
+      ]
+    }
+  ]
+}

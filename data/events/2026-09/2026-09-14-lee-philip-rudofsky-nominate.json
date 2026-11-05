@@ -1,0 +1,78 @@
+{
+  "id": "2026-09-14-lee-philip-rudofsky-nominate",
+  "date": "2026-09-14",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "lee-philip-rudofsky",
+  "person": {
+    "name_zh": "李·菲利普·鲁多夫斯基",
+    "name_en": "Lee Philip Rudofsky",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-09-14",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国联邦第八巡回上诉法院",
+      "role": "法官",
+      "organization_en": "United States Court of Appeals for the Eighth Circuit",
+      "role_en": "United States Circuit Judge",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "李·菲利普·鲁多夫斯基获提名出任美国联邦第八巡回上诉法院法官",
+  "summary": "白宫9月14日向参议院送交鲁多夫斯基的巡回上诉法院法官提名。",
+  "bureaus": [
+    "justice"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "美国白宫",
+      "published_at": "2026-09-14",
+      "excerpt": "Lee Philip Rudofsky, of Arkansas,",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 lee-philip-rudofsky（库里没有此人）",
+      "现任职务新增：美国联邦第八巡回上诉法院法官",
+      "履历新增：2026-09 美国联邦第八巡回上诉法院法官",
+      "所属局：按提名职务定为六局·公检法干部局"
+    ],
+    "notes": [
+      "2026-10-21 重放：第三轮补采简历覆盖过这条提名，补回现任职务：现任职务新增：美国联邦第八巡回上诉法院法官；履历新增：2026-09 美国联邦第八巡回上诉法院法官"
+    ],
+    "bureau_before": null,
+    "bureau_after": "justice",
+    "person_id": "lee-philip-rudofsky"
+  }
+}

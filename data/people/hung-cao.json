@@ -1,0 +1,479 @@
+{
+  "id": "hung-cao",
+  "name_zh": "高雄",
+  "name_en": "Hung Cao",
+  "bureau": "military",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "resume": {
+    "id": "cadre-hung-cao",
+    "line": "cadre",
+    "subject_id": "hung-cao",
+    "title": "高雄简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://docs.house.gov/meetings/AS/AS00/20260514/119273/HHRG-119-AS00-20260514-SD001.pdf",
+        "title": "The Honorable Hung Cao—Acting Secretary of the Navy",
+        "excerpt": "assumed responsibility as Acting Secretary of the Navy on April 22, 2026. ... entered the Navy as a Seaman Recruit in 1989 ... commissioned ... in 1996.",
+        "published_at": "2026-05-14",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.thedailybeast.com/maga-navy-boss-spreads-unhinged-theories-about-witches-and-cannibalism",
+        "title": "MAGA Navy Boss Spreads Unhinged Theories About Witches and Cannibalism",
+        "excerpt": "Cao, a 54-year-old Vietnamese refugee",
+        "published_at": "2026-04-23",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://ktvz.com/politics/cnn-us-politics/2026/04/25/hung-cao-said-the-military-should-be-filled-with-alpha-males-and-alpha-females-now-hes-trumps-acting-navy-secretary/",
+        "title": "Hung Cao ... Trump’s acting Navy secretary",
+        "excerpt": "After retiring from the Navy in 2021, he ran for Congress as a Republican in 2022 and challenged Kaine in 2024.",
+        "published_at": "2026-04-25",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.cna.com.tw/news/aopl/202604240128.aspx",
+        "title": "高雄接任代理美國海軍部長 背景經歷一次看",
+        "excerpt": "美國海軍部長費倫昨天遭革職，海軍二號文職官員高雄（Hung Cao）接任代理部長。",
+        "published_at": "2026-04-24",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://news.usni.org/2026/09/15/cao-toti-breckenridge-formally-nominated-for-top-navy-jobs",
+        "title": "Cao, Toti, Breckenridge Formally Nominated for Top Navy Jobs",
+        "excerpt": "Acting Navy Secretary Hung Cao was nominated to be permanent Navy Secretary.",
+        "published_at": "2026-09-15",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s6",
+        "url": "https://www.investing.com/news/stock-market-news/trump-selects-hung-cao-to-serve-as-us-navy-secretary-4884719",
+        "title": "Trump selects Hung Cao to serve as US Navy secretary",
+        "published_at": "2026-09-01",
+        "checked_at": "2026-10-21",
+        "excerpt": "he plans to nominate Hung Cao to become the next U.S. Navy secretary.",
+        "tier": null
+      },
+      {
+        "id": "s7",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
+        "title": "Nominations Sent to the Senate",
+        "published_at": "2026-09-14",
+        "checked_at": "2026-10-17",
+        "excerpt": "Hung Cao, of Virginia,",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "高雄",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国籍",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1971-10",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "2026-04-23报道54岁，出生区间1971-04-24至1972-04-23，取中点年月1971-10。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-04-23",
+          "duration_years": 54
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1989-07",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "来源仅记年份，按规则以7月记录。",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1989",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "应用物理学研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "硕士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2022",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：以共和党候选人身份参加2022年国会众议院选举，来源只到年；来源：https://ktvz.com/politics/cnn-us-politics/2026/04/25/hung-cao-said-the-military-should-be-filled-with-alpha-males-and-alpha-females-now-hes-trumps-acting-navy-secretary/",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2022",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": {
+        "value": "海军上校（退役）",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国海军部",
+        "role": "部长",
+        "start": {
+          "value": "2026-09-01",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s6",
+          "s7"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "提名人选"
+      },
+      {
+        "organization": "美国海军部",
+        "role": "代理部长",
+        "start": {
+          "value": "2026-04-22",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "代理"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1989-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "来源仅记年份，按规则以7月记录。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "美国海军",
+        "role": "新兵",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1992-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "按毕业年减四年及美国学年9月推算本科入学。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1996",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1996-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "毕业月份未载，按美国学年默认5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1996",
+            "duration_years": null
+          }
+        },
+        "organization": "美国海军学院",
+        "role": null,
+        "program": "海洋工程",
+        "degree_awarded": {
+          "value": "学士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1996-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "1996年军校毕业授衔，月份按5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1996",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2021-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国海军",
+        "role": "特种作战军官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-04-22",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国海军部",
+        "role": "代理部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "代理",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-09-01",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国海军部",
+        "role": "部长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5",
+          "s6"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "提名人选",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "海军部副部长的具体起止日期、CACI副总裁及客户高管的起止日期未在已读取官方简历中列出，暂未补入有日期履历。",
+      "应用物理学硕士的授予学校和年份未在本次官方简历中列出。",
+      "出生年月按带日期年龄陈述推算；未采信未核实的网络生日。",
+      "国籍按美国政府高级公职官方身份记录；官网未单列国籍字段。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "2026年9月14日部长正式提名已另列events.json；参议院待审名单仍有该项，现职保留代理状态。"
+    ]
+  },
+  "data_cutoff": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "roles_checked_at": "2026-10-18",
+  "events": [
+    "2026-09-14-hung-cao-nominate",
+    "2026-09-01-hung-cao-announce"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "military",
+      "date": "2026-09-14",
+      "event": "2026-09-14-hung-cao-nominate",
+      "reason": ""
+    }
+  ],
+  "origin": "一局动态新建；补采简历 bureaus/personnel-others/data/verified/hung-cao.json（wuju，程序检查通过，待独立核查）",
+  "name_zh_pending": true,
+  "portrait": {
+    "file": "hung-cao.jpg",
+    "source": "https://www.navy.mil/Resources/Photo-Gallery/igphoto/2003814108/",
+    "source_kind": "官方照片（军方官网）",
+    "license": "公有领域：美国联邦政府职务作品，Office of the Under Secretary of the Navy（This photograph is considered public domain and has been cleared for release.）；已换蓝白渐变底",
+    "url": "https://media.defense.gov/2025/Oct/04/2003814108/-1/-1/0/251003-N-AA000-1001.JPG"
+  }
+}

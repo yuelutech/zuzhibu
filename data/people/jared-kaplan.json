@@ -1,0 +1,455 @@
+{
+  "id": "jared-kaplan",
+  "name_zh": "贾里德·卡普兰",
+  "name_en": "Jared Kaplan",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Anthropic公司 联合创始人、首席科学官 Anthropic Co-Founder and Chief Science Officer”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/jared-kaplan.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/e0b9c953261bb0f99008f2918100ffefdade25ed-640x800.jpg",
+    "source": "https://www.anthropic.com/company/leadership"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Anthropic",
+      "role_en": "Co-Founder and Chief Science Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Anthropic公司 联合创始人、首席科学官 Anthropic Co-Founder and Chief Science Officer”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "jared-kaplan-20261018",
+    "line": "cadre",
+    "subject_id": "jared-kaplan",
+    "title": "贾里德·卡普兰简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.anthropic.com/company/leadership",
+        "title": "Leadership at Anthropic",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Jared Kaplan Co-Founder and Chief Science Officer",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://physics-astronomy.jhu.edu/directory/jared-kaplan/",
+        "title": "Jared Kaplan — Johns Hopkins University",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Associate Professor ... Education: PhD, Harvard University",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://krieger.jhu.edu/physics/wp-content/uploads/sites/11/2013/05/JaredKaplanCVFall2018.pdf",
+        "title": "Jared Kaplan CV",
+        "published_at": "2018",
+        "checked_at": "2026-10-18",
+        "excerpt": "SLAC National Accelerator Laboratory 2009 - 2012 Research Associate",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://hub.jhu.edu/gazette/2014/march-april/jhu-sloan-fellowships/",
+        "title": "Three from JHU selected for Sloan Research Fellowships",
+        "published_at": "2014-03",
+        "checked_at": "2026-10-18",
+        "excerpt": "He received his bachelor's degree in physics and math from Stanford in 2005",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.forbes.com/profile/jared-kaplan/",
+        "title": "Jared Kaplan — Forbes",
+        "published_at": "2026-09-15",
+        "checked_at": "2026-10-18",
+        "excerpt": "Age 42 ... Citizenship United States",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "贾里德·卡普兰"
+    ],
+    "person": {
+      "name": {
+        "value": "贾里德·卡普兰",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1984-03",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": true,
+        "basis": "页面最后更新2026-09-15，年龄42；区间1983-09-16至1984-09-15，取中间月份。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-09-15",
+          "duration_years": 42
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2009-06",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "博士毕业后2009年研究职位；美国毕业默认5月，次月取6月。",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "2009-05",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "哈佛大学物理学专业",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哲学博士",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "Anthropic 公司",
+        "role": "联合创始人、首席科学官",
+        "roles": [
+          "联合创始人",
+          "首席科学官"
+        ],
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "2005年毕业减4年标准学制。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "2005",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "2005",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": null,
+        "program": "物理学、数学",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "2009年博士毕业后首个研究职位取6月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2009-05",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2012",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "SLAC 国家加速器实验室",
+        "role": "研究助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "研究助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": "博士后研究员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "博士后研究员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "约翰斯·霍普金斯大学",
+        "role": "助理教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "助理教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "约翰斯·霍普金斯大学",
+        "role": "副教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "副教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Anthropic 公司",
+        "role": "联合创始人、首席科学官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联合创始人",
+          "首席科学官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "Anthropic 公司",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月采用Forbes带更新日期年龄推算；直接生日未核到。",
+      "博士入学时间暂缺；OpenAI任职性质、起止和职务未获得可用完整原文。",
+      "JHU当前处休假状态，开始休假日期未知；CV聘任从2012年起，校报记2013年来校，分别保留其任职与到校口径。",
+      "Anthropic联合创始人为2021年，首席科学官具体到任日期未知，合并列示已有职务。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Jared Kaplan；Anthropic 公司；联合创始人、首席科学官",
+    "review_items": [
+      "研究助理按Research Associate原职务译写；最高学位有学校来源。"
+    ]
+  }
+}

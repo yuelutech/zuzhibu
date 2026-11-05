@@ -1,0 +1,112 @@
+{
+  "id": "karoline-leavitt",
+  "name_zh": "卡罗琳·莱维特",
+  "name_en": "Karoline Leavitt",
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-karoline-leavitt",
+    "line": "cadre",
+    "subject_id": "karoline-leavitt",
+    "title": "卡罗琳·莱维特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.whitehouse.gov/releases/2026/08/never-surrender-karoline-leavitts-historic-tenure-as-white-house-press-secretary/",
+        "title": "NEVER SURRENDER: Karoline Leavitt’s Historic Tenure as White House Press Secretary",
+        "published_at": "2026-08-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Today, Karoline Leavitt completes her final day as the 36th White House Press Secretary",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://press.foxnews.com/press/2026/10/fox-news-media-signs-karoline-leavitt-as-contributor",
+        "title": "FOX NEWS MEDIA SIGNS KAROLINE LEAVITT AS CONTRIBUTOR",
+        "published_at": "2026-10-05",
+        "checked_at": "2026-10-21",
+        "excerpt": "on November 1st",
+        "tier": null
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "卡罗琳·莱维特",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "离任"
+    },
+    "current_roles": [],
+    "careers": [],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "events": [
+    "2026-08-27-karoline-leavitt-leave",
+    "2026-10-05-karoline-leavitt-announce"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-08-27",
+      "event": "2026-08-27-karoline-leavitt-leave",
+      "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+    }
+  ],
+  "origin": "一局动态新建",
+  "planned_roles": [
+    {
+      "action": "任",
+      "organization": "福克斯新闻传媒",
+      "role": "特约评论员",
+      "organization_en": "FOX News Media",
+      "role_en": "Contributor",
+      "date": "2026-11-01",
+      "sector": "enterprise",
+      "source_ids": [
+        "s2"
+      ],
+      "event": "2026-10-05-karoline-leavitt-announce"
+    }
+  ]
+}

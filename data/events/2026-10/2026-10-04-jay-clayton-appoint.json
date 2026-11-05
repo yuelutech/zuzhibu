@@ -1,0 +1,104 @@
+{
+  "id": "2026-10-04-jay-clayton-appoint",
+  "date": "2026-10-04",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "jay-clayton",
+  "person": {
+    "name_zh": "杰伊·克莱顿",
+    "name_en": "Jay Clayton",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-10-04",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国白宫",
+      "role": "人工智能事务主管",
+      "organization_en": "White House",
+      "role_en": "AI czar",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    },
+    {
+      "organization": "美国超级智能工作组",
+      "role": "负责人",
+      "organization_en": "Super Intelligence Force",
+      "role_en": "head",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": [
+    {
+      "organization": "美国国家情报总监办公室",
+      "role": "国家情报总监",
+      "organization_en": "Office of the Director of National Intelligence",
+      "role_en": "Director of National Intelligence",
+      "start": "2026-08-03",
+      "end": null,
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "杰伊·克莱顿兼任美国白宫人工智能事务主管",
+  "summary": "特朗普10月4日宣布，国家情报总监克莱顿兼任人工智能事务主管，并领导新设的超级智能工作组。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.marketscreener.com/news/latest/Trump-names-intelligence-chief-Clayton-as-AI-czar-to-head-task-force-12373826/",
+      "title": "Trump names intelligence chief Clayton as AI czar, to head task force",
+      "publisher": "路透社（MarketScreener转载）",
+      "published_at": "2026-10-04",
+      "excerpt": "he had named Director of National Intelligence Jay Clayton the administration's AI czar",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "现任职务新增：美国白宫人工智能事务主管",
+      "履历新增：2026-10 美国白宫人工智能事务主管",
+      "现任职务新增：美国超级智能工作组负责人",
+      "履历新增：2026-10 美国超级智能工作组负责人"
+    ],
+    "notes": [],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "jay-clayton",
+    "reason": "主要职务“美国国家情报总监办公室 国家情报总监”：总统、白宫、内阁与独立机构"
+  }
+}

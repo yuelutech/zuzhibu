@@ -1,0 +1,559 @@
+{
+  "id": "larry-page",
+  "name_zh": "拉里·佩奇",
+  "name_en": "Larry Page",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Google and Google DeepMind Co-founder, Google Google and Google DeepMind Co-founder, Google”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/larry-page.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "source": "https://research.google/people/lawrencepage/",
+    "url": "https://storage.googleapis.com/gweb-research2023-media/pubtools/183.png"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Google and Google DeepMind",
+      "role_en": "Co-founder, Google"
+    },
+    {
+      "organization_en": "Google and Google DeepMind",
+      "role_en": "Director, Alphabet"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Google and Google DeepMind Co-founder, Google Google and Google DeepMind Co-founder, Google”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "larry-page-20261018",
+    "line": "cadre",
+    "subject_id": "larry-page",
+    "title": "拉里·佩奇简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm",
+        "title": "Alphabet 2026 Proxy Statement",
+        "published_at": "2026-04-24",
+        "checked_at": "2026-10-18",
+        "excerpt": "Larry Page Co-Founder Director since 1998",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://research.google/people/lawrencepage/",
+        "title": "Lawrence Page — Google Research",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Larry Page became Google's president, products in April 2001.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.ebsco.com/research-starters/biography/larry-page",
+        "title": "Larry Page — EBSCO Research Starters",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "born on March 26, 1973, in Lansing, Michigan",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/page-larry",
+        "title": "Page, Larry — The Columbia Encyclopedia",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "American business executive and computer scientist; Univ. of Michigan (B.S.E., 1995), Stanford (M.S., 1998).",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "拉里·佩奇"
+    ],
+    "person": {
+      "name": {
+        "value": "拉里·佩奇",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1973-03",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "密歇根州兰辛",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1998-09",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "education": {
+        "value": "斯坦福大学计算机科学专业",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "理学硕士学位",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [
+        {
+          "value": "美国国家工程院院士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        }
+      ],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "字母表公司",
+        "role": "联合创始人、董事、执行委员会主席",
+        "roles": [
+          "联合创始人",
+          "董事",
+          "执行委员会主席"
+        ],
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1991-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "按1995年本科毕业减4年，入学月取9月",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1995-05",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1995-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "毕业月按美国学年取5月",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1995-05",
+            "duration_years": null
+          }
+        },
+        "organization": "密歇根大学",
+        "role": null,
+        "program": "计算机工程",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1995-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "1995年开始研究生学习，入学月取9月",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1995-09",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1998-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "毕业月按美国学年取5月",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1998-05",
+            "duration_years": null
+          }
+        },
+        "organization": "斯坦福大学",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": {
+          "value": "理学硕士学位",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "谷歌公司",
+        "role": "联合创始人、首席执行官、首席财务官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联合创始人",
+          "首席执行官",
+          "首席财务官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "谷歌公司",
+        "role": "产品总裁、首席财务官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "产品总裁",
+          "首席财务官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "谷歌公司",
+        "role": "产品总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "产品总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "谷歌公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-10",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "字母表公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "字母表公司",
+    "conflicts": [
+      {
+        "field": "Google President, Products start",
+        "alternatives": [
+          {
+            "value": "2001-04",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "2001-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2001-07",
+        "reason": "用户已确认采用2026年SEC代理声明的2001年7月。"
+      }
+    ],
+    "unknowns": [
+      "执行委员会主席的首次到任时间未见记录。博士研究未取得学位，不列为最高学历。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "Larry Page；字母表公司；联合创始人、董事、执行委员会主席",
+    "review_items": [
+      "现任董事及执行委员会主席保留在现任段；开始时间未知不另造履历条目。",
+      "出生地二级资料有Lansing与East Lansing差异，采用EBSCO明确的Lansing记载。",
+      "谷歌研究人员页官方肖像原图为180×225，已列portraits.csv；入库前须复核成像质量，未放大或生成替代照。"
+    ]
+  }
+}

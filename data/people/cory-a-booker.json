@@ -1,0 +1,830 @@
+{
+  "id": "cory-a-booker",
+  "name_zh": "科里·布克",
+  "name_en": "Cory A. Booker",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "B001288"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "cory-a-booker.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cory_Booker,_official_portrait_(119th_Congress).jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（U.S. Senate；https://www.booker.senate.gov/about/press-kit (File)），File:Cory Booker, official portrait (119th Congress).jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cory_Booker%2C_official_portrait_%28119th_Congress%29.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-b001288",
+    "line": "cadre",
+    "subject_id": "b001288",
+    "title": "科里·布克简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2013-10-31~ NJ Democrat (special election)",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.birthday 1969-04-27; born in Washington, D.C.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.birthday 1969-04-27; born in Washington, D.C.",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Booker was born in Washington, D.C.",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Agriculture, Nutrition, and Forestry; Foreign Relations; Small Business and Entrepreneurship; The Judiciary",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Bachelor of Arts in political science in 1991",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "a Master of Arts in sociology in 1992",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "earning a degree in United States history in 1994 (Rhodes Scholar)",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "obtained his Juris Doctor in 1997 from Yale Law School",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "staff attorney for the Urban Justice Center in New York and program coordinator of the Newark Youth Project",
+        "tier": 3
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "won an upset victory for a seat on the Municipal Council of Newark in 1998 through June 30, 2002",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "founded Newark Now (after 2002 mayoral loss)",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "took office as mayor of Newark on July 1, 2006 through October 31, 2013",
+        "tier": 3
+      },
+      {
+        "id": "s15",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sworn in as the junior U.S. senator from New Jersey October 31 (2013)",
+        "tier": 1
+      },
+      {
+        "id": "s16",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sworn in as the junior U.S. senator from New Jersey October 31 (2013)",
+        "tier": 3
+      },
+      {
+        "id": "s17",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "served as staff attorney for the Urban Justice Center in New York and program coordinator of the Newark Youth Project",
+        "tier": 3
+      },
+      {
+        "id": "s18",
+        "url": "https://en.wikipedia.org/wiki/Cory_Booker",
+        "title": "维基百科：Cory_Booker",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "declared the winner of the Democratic primary, with approximately 59%",
+        "tier": 3
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:NJ"
+    ],
+    "person": {
+      "name": {
+        "value": "科里·布克",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1969-04-27",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "哥伦比亚特区",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1997",
+        "source_ids": [
+          "s17"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：任纽约城市司法中心工作人员律师、纽瓦克青年项目项目协调员；底稿备注：规则①：1997年法学院毕业衔接法律援助/社区岗位",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1997",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s10"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "耶鲁大学法学院法学博士学位",
+        "source_ids": [
+          "s10"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2013-08",
+        "source_ids": [
+          "s18"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次党派制选举：2013年8月赢得新泽西州联邦参议员特别选举民主党初选（纽瓦克市议员/市长为无党派市政职务，不作锚点）；来源：https://en.wikipedia.org/wiki/Cory_Booker；底稿备注：比照B01帕迪利亚案：纽瓦克市政为无党派选举，取首个党派制选举(2013参议员民主党初选，8月有据)；民主党渊源更早但无更高优先级锚点；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2013-08",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（新泽西州）",
+        "role": "",
+        "start": {
+          "value": "2013-10-31",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院农业、营养和林业委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院外交关系委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院小企业和创业委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院司法委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1991倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1991",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1991",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": null,
+        "program": "政治学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1991",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1992",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "斯坦福大学",
+        "role": null,
+        "program": "社会学",
+        "degree_awarded": {
+          "value": "文学硕士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1994",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "牛津大学王后学院",
+        "role": null,
+        "program": "美国史",
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1994",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1997倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1997",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1997",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "耶鲁大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "纽约城市司法中心、纽瓦克青年项目",
+        "role": "工作人员律师、项目协调员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工作人员律师",
+          "项目协调员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "新泽西州纽瓦克市议会",
+        "role": "市议员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "市议员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2006",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "纽瓦克现在组织",
+        "role": "创始人、董事会主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "创始人",
+          "董事会主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "新泽西州纽瓦克市",
+        "role": "市长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "市长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "s15",
+            "s16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（新泽西州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s15",
+          "s16"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（新泽西州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2019",
+              "source_ids": [
+                "s15",
+                "s16"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2020",
+              "source_ids": [
+                "s15",
+                "s16"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "科里·布克总统竞选委员会总统参选人（民主党党内初选）",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s15",
+              "s16"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：斯坦福本科/耶鲁法学院入学年（按学制倒推）",
+      "底稿缺项：牛津王后学院学位等级（各源记述不一）",
+      "底稿缺项：2020年后及最新 eFD 申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1997年6月」：底稿推定（规则①：1997年法学院毕业衔接法律援助/社区岗位），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

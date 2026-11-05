@@ -1,0 +1,97 @@
+{
+  "id": "2026-08-27-karoline-leavitt-leave",
+  "date": "2026-08-27",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "karoline-leavitt",
+  "person": {
+    "name_zh": "卡罗琳·莱维特",
+    "name_en": "Karoline Leavitt",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-08-27",
+  "effective_at": "2026-08-27",
+  "ended_roles": [
+    {
+      "organization": "美国白宫",
+      "organization_en": "White House",
+      "role": "新闻秘书",
+      "role_en": "Press Secretary",
+      "start": null,
+      "end": "2026-08-27",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": {
+    "organization": "福克斯新闻媒体",
+    "organization_en": "FOX News Media",
+    "role": "特约评论员",
+    "role_en": "Contributor",
+    "start": "2026-11-01",
+    "end": null,
+    "concurrent": false,
+    "sector": "enterprise",
+    "source_ids": [
+      "e2"
+    ]
+  },
+  "new_appointment_checked": false,
+  "headline": "卡罗琳·莱维特卸任白宫新闻秘书",
+  "summary": "白宫8月27日确认当天是莱维特担任新闻秘书的最后一天。10月5日，福克斯新闻媒体宣布聘其为特约评论员，计划11月1日开始；其其他现职未查清。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/releases/2026/08/never-surrender-karoline-leavitts-historic-tenure-as-white-house-press-secretary/",
+      "title": "NEVER SURRENDER: Karoline Leavitt’s Historic Tenure as White House Press Secretary",
+      "publisher": "The White House",
+      "published_at": "2026-08-27",
+      "excerpt": "Today, Karoline Leavitt completes her final day as the 36th White House Press Secretary",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [
+      "ended_roles[0].organization → 美国白宫（原写“白宫”；机构写法统一，2026-10-22 维护者定）"
+    ],
+    "reasons": [],
+    "notes": [
+      "已核：e1",
+      "e2：不是一级来源",
+      "离任后有无其他现职、新任命，程序核不了，按未查清写回（不转七局）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 karoline-leavitt（库里没有此人）"
+    ],
+    "notes": [
+      "原任“白宫 新闻秘书 White House Press Secretary”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "karoline-leavitt",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

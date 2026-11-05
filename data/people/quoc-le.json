@@ -1,0 +1,246 @@
+{
+  "id": "quoc-le",
+  "name_zh": "黎国",
+  "name_en": "Quoc Le",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "resume": {
+    "id": "quoc-le-20261018",
+    "line": "cadre",
+    "subject_id": "quoc-le",
+    "title": "黎国简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.discoveryloop.com/",
+        "title": "Discovery Loop — The Team",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Quoc Le",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://news.tuoitre.vn/meet-le-viet-quoc-a-vietnamese-talent-at-google-10348939.htm",
+        "title": "Meet Le Viet Quoc, a Vietnamese talent at Google",
+        "published_at": "2019-02-15",
+        "checked_at": "2026-10-18",
+        "excerpt": "Vietnamese national Le Viet Quoc",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://eecs.berkeley.edu/research/colloquium/210414-2/",
+        "title": "Neural Architecture Search and Meta Pseudo Labels",
+        "published_at": "2021-04-14",
+        "checked_at": "2026-10-18",
+        "excerpt": "Quoc Le is a principal research scientist at Google Brain. He obtained his PhD at Stanford",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.technologyreview.es/article/quoc-le-32-visionario",
+        "title": "Quoc Le, 32. Visionario",
+        "published_at": "2014-08-22",
+        "checked_at": "2026-10-18",
+        "excerpt": "Quoc Le, 32. Visionario; 22 de agosto de 2014",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://fulbright.edu.vn/dr-quoc-le-and-ben-wilkinson-join-fulbright-university-vietnam-board/",
+        "title": "Dr. Quoc Le and Ben Wilkinson Join Fulbright University Vietnam Board",
+        "published_at": "2018-03-04",
+        "checked_at": "2026-10-18",
+        "excerpt": "Quoc obtained his PhD in Computer Science at Stanford University and a Bachelor of Software Engineering (First Class Honors) at the Australian National University.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "黎国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "越南",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1982-02",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "2014-08-22时32岁，区间1981-08-23至1982-08-22，取中间月份1982-02",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2014-08-22",
+          "duration_years": 32
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2013-06",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "本科后研究学习，2013年博士后正式任谷歌研究人员；缺毕业月按美国规则6月",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "2013",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "博士研究生",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "斯坦福大学计算机科学博士学位",
+        "source_ids": [
+          "s2",
+          "s3",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "探索循环公司",
+        "role": "联合创始人",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [
+          "联合创始人"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2013年博士毕业后全职研究；美国毕业后首份工作月取6月",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2013",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "谷歌公司",
+        "role": "谷歌大脑研究科学家、主要研究科学家",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "谷歌大脑研究科学家",
+          "主要研究科学家"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "探索循环公司",
+    "conflicts": [],
+    "unknowns": [
+      "谷歌各职务交接、离任及Discovery Loop创办具体日期未知。",
+      "澳大利亚国立大学软件工程学士及斯坦福计算机科学博士的具体学习起止年月未核定。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "2011年Google Brain经历由大学原文确认为实习，不作参加工作年份。",
+      "有来源的无起始日期经历：探索循环公司；联合创始人；终点：未找到；来源：s1",
+      "来源s1阅读记录：列于官网 founding team。",
+      "来源s2阅读记录：2013年离开斯坦福后任谷歌大脑研究人员）。",
+      "已打开机构人物页并核看单人照片，链接另见 portraits.csv。",
+      "2018年富布赖特大学董事任命原文补证本科软件工程、斯坦福博士计算机科学专业；未按报道日推定董事实际到任日。"
+    ]
+  },
+  "data_cutoff": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "roles_checked_at": "2026-10-18",
+  "events": [
+    "2026-08-05-quoc-le-appoint"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-08-05",
+      "event": "2026-08-05-quoc-le-appoint",
+      "reason": "主要职务“探索循环公司 联合创始人”：企业职务，原属二局"
+    }
+  ],
+  "origin": "一局动态新建；补采简历 bureaus/personnel-sv/data/verified/quoc-le.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "name_zh_pending": true
+}

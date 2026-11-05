@@ -1,0 +1,84 @@
+{
+  "id": "2026-09-18-diane-sullivan-acting",
+  "date": "2026-09-18",
+  "kind": "acting",
+  "kind_label": "代理",
+  "person_id": "diane-sullivan",
+  "person": {
+    "name_zh": "黛安·沙利文",
+    "name_en": "Diane Sullivan",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-03",
+  "effective_at": "2026-09-18",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国国家首都规划委员会",
+      "organization_en": "National Capital Planning Commission",
+      "role": "代理执行主任",
+      "role_en": "Acting Executive Director",
+      "start": "2026-09-18",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "黛安·沙利文获指定代理NCPC执行主任",
+  "summary": "NCPC于2026年9月3日宣布，现行规划处主任黛安·沙利文将在阿科斯塔2026年9月18日离任时接任代理执行主任。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.ncpc.gov/participate/releases/2026/NCPC_Executive_Director_Marcel_Acosta_to_Retire_After_25_Years_of_Federal_Service.pdf",
+      "title": "NCPC Executive Director Marcel Acosta to Retire After 25 Years of Federal Service",
+      "publisher": "National Capital Planning Commission",
+      "published_at": "2026-09-03",
+      "excerpt": "NCPC Chairman Mark Paoletta announced that Current Planning Division Director Diane Sullivan will serve as Acting Executive Director, effective upon Acosta’s departure.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "summary_zh → NCPC于2026年9月3日宣布，现行规划处主任黛安·沙利文将在阿科斯塔2026年9月18日离任时接任代理执行主任。"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 diane-sullivan（库里没有此人）",
+      "现任职务新增：美国国家首都规划委员会代理执行主任",
+      "履历新增：2026-09 美国国家首都规划委员会代理执行主任"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "diane-sullivan",
+    "reason": "新任职务不在各局范围（主要职务“美国国家首都规划委员会 代理执行主任”：不在各局范围），暂留原局"
+  }
+}

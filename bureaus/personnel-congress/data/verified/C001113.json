@@ -1,0 +1,893 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001113",
+      "line": "cadre",
+      "subject_id": "c001113",
+      "title": "凯瑟琳·科尔特斯·马斯托简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/C/CORTEZ-MASTO,-Catherine-Marie-(C001113)/",
+          "title": "CORTEZ MASTO, Catherine Marie | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Las Vegas, Nev., March 29, 1964; B.A., University of Nevada, 1986; J.D., Gonzaga University School of Law, 1990",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+          "title": "U.S. Senate: Committee Assignments of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Cortez Masto, Catherine (D-NV)",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been nine Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-NV-S-1.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022.",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "B.S., finance, University of Nevada, Reno, 1986; J.D., Gonzaga University, Spokane, WA, 1990",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.cortezmasto.senate.gov/about/biography/",
+          "title": "Biography - Senator Catherine Cortez Masto",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Catherine Cortez Masto is a proud, third-generation Nevadan who is focused on protecting working families across her state.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.senate.gov/senators/NewSenators.htm",
+          "title": "U.S. Senate: New Senators 2001-present",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Catherine Cortez Masto | D-NV | General election | January 3, 2017",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.gonzaga.edu/news-events/stories/law-grad-catherine-cortez-masto-becomes-first-latina-in-us-senate",
+          "title": "Law Grad Catherine Cortez Masto Becomes First Latina in U.S. Senate | Gonzaga University",
+          "published_at": "2016-11-15",
+          "checked_at": "2026-10-19",
+          "excerpt": "I’m proud to be Nevada’s 1st female and our nation’s 1st Latina senator.",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://nshe.nevada.edu/system-administration/news/2014/11/catherine-cortez-masto-named-executive-vice-chancellor/",
+          "title": "Catherine Cortez Masto named executive vice chancellor – NSHE System Administration",
+          "published_at": "2014-11-25",
+          "checked_at": "2026-10-19",
+          "excerpt": "executive vice chancellor for the Nevada System of Higher Education (NSHE) beginning January 1, 2015.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.ebsco.com/research-starters/womens-studies-and-feminism/catherine-cortez-masto/",
+          "title": "Catherine Cortez Masto | Women's Studies and Feminism | Research Starters | EBSCOhost",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "From 2002 to 2005, she was the assistant county manager of Clark County, Nevada.",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://special.library.unlv.edu/ark:/62930/d1668d234",
+          "title": "Catherine Cortez Masto oral history interview: transcript | UNLV Special Collections Portal",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "I took a year off and worked at Carson Construction Company here in Southern Nevada with Doug Carson and his family.",
+          "tier": 2
+        },
+        {
+          "id": "s11",
+          "url": "https://www.clarkcountynv.gov/assets/documents/government/departments/elections/phon.pdf",
+          "title": "Political History of Nevada (Twelfth Edition)",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "GENERAL ELECTION—NOVEMBER 7, 2006 … Cortez Masto, Catherine (D)",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "senate",
+        "state:NV"
+      ],
+      "person": {
+        "name": {
+          "value": "凯瑟琳·科尔特斯·马斯托",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s5",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1964-03-29",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "内华达州拉斯维加斯",
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "冈萨加大学法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2006-11",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以民主党候选人身份参加内华达州总检察长大选，2006-11-07；来源：https://www.clarkcountynv.gov/assets/documents/government/departments/elections/phon.pdf 。该州务卿编纂的官方选举史列有大选日期及其民主党候选人记录，2006年初选结果未列总检察长竞选。检索未取得本人选民党籍登记、公开宣布加入民主党或更早党组织任职的合格证据；2006年州级首次参选登记及公开宣布参选日期未取得可打开原文。2015年以后的联邦参选登记晚于本锚点，不采用；2019—2021年民主党参议员竞选委员会主席经历亦晚于本锚点，不采用。底稿2006年8月没有原始证据，不采用。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2006-11-07",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": {
+          "value": "拉丁裔",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": "冈萨加大学报道逐字引用本人公开推文，自称为美国首位拉丁裔女性参议员。",
+          "inference": null
+        },
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（内华达州）",
+          "role": "",
+          "start": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院银行、住房和城市事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院能源和自然资源委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院财政委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院印第安人事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1982",
+            "source_ids": [
+              "s4",
+              "s8"
+            ],
+            "inferred": true,
+            "basis": "官方国会名录及内华达州高等教育系统公告均记载1986年取得金融学理学学士学位；按本科毕业年减4推算：1986－4＝1982。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1986",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1986",
+            "source_ids": [
+              "s4",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "内华达大学里诺分校",
+          "role": null,
+          "program": "金融",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s4",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s8",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "内华达州州长鲍勃·米勒办公室",
+          "role": "拉斯维加斯办公室负责人、幕僚长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "拉斯维加斯办公室负责人",
+            "幕僚长"
+          ],
+          "role_category": null,
+          "role_basis": "本人口述先管理拉斯维加斯办公室，后任幕僚长；交接日期未明确，合并记录。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2001",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦检察官办公室（华盛顿哥伦比亚特区）",
+          "role": "刑事检察官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "刑事检察官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2005",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "内华达州克拉克县政府",
+          "role": "助理县行政官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "助理县行政官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007-01",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s1",
+              "s7",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "内华达州总检察长办公室",
+          "role": "总检察长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7",
+            "s9",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总检察长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-01-01",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "内华达州高等教育系统",
+          "role": "执行副校长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "执行副校长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016-06-14",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（内华达州）参选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦参议员（内华达州）参选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016-06-14",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016-11-08",
+            "source_ids": [
+              "s4",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会参议院",
+          "role": "民主党联邦参议员（内华达州）候选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s7",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "民主党联邦参议员（内华达州）候选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016-11-08",
+            "source_ids": [
+              "s4",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（内华达州）当选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s6",
+            "s7",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦参议员（内华达州）当选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "当选人",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（内华达州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（内华达州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2019",
+                "source_ids": [
+                  "s1",
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2021",
+                "source_ids": [
+                  "s1",
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "民主党参议员竞选委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "careers.内华达大学里诺分校.degree_awarded",
+          "alternatives": [
+            {
+              "value": "文学学士（B.A.）",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "金融学理学学士（B.S.）",
+              "source_ids": [
+                "s4",
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "理学学士",
+          "reason": "采用授予学校所属内华达州高等教育系统的明确学历记载，国会名录亦记为B.S.；众议院历史人物页的B.A.并列留存，交AI政见确认。"
+        },
+        {
+          "field": "careers.内华达州州长办公室.职务交接",
+          "alternatives": [
+            {
+              "value": "1995年升任幕僚长",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1995年获聘，先管理拉斯维加斯办公室，后任幕僚长",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1995—1999年任拉斯维加斯办公室负责人、幕僚长",
+          "reason": "本人完整口述明确职务先后关系，未明确交接年份；合并同一办公室经历，不将1995年写成幕僚长任职起点。"
+        },
+        {
+          "field": "careers.内华达州总检察长.end",
+          "alternatives": [
+            {
+              "value": "2014",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": "2014年11月公告称其最后一届任期在当年结束。",
+              "inference": null
+            },
+            {
+              "value": "2015",
+              "source_ids": [
+                "s1",
+                "s7",
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2015",
+          "reason": "采用国会官方履历及州务卿编纂的历任总检察长表，两者均明确列至2015年；不采用高等教育系统任命公告对原职届满年份的概述。"
+        }
+      ],
+      "unknowns": [
+        "work_start：查过本人参议院传记、国会名录、众议院历史人物页、内华达州高等教育系统公告、EBSCO传记及UNLV本人完整口述史。本人明确本科毕业后、法学院入学前在Carson Construction Company任职一年，但没有给出该工作的起止年月、职务及明确全职表述，未找到可直接确定首份全职工作开始时间的原文，字段留null。",
+        "careers.冈萨加大学法学院.start：官方国会履历及学校报道确认1990年毕业并取得J.D.；查过学校报道和本人口述史，没有找到明确入学年份。本批只允许本科入学年减4及有明确年限的在职学习倒推，未以法学院标准学制补1987年，未建立缺少开始日期的学习条目。",
+        "careers.早期工作：本人口述确认Carson Construction Company任职、Michael Wendell法官助理经历及Netzorg, Raleigh, Hunt and McGarry律师事务所律师经历，但没有明确各条起始年份；未按时序、任职年限或底稿补日期，暂不建立列表条目。",
+        "careers.内华达州高等教育系统.end：已打开官方任命公告，确认2015-01-01生效，国会官方履历确认实际担任过该职；检索到2015年4月离职报道但原文打开失败，未采用其结束日期，end留null、ongoing为false。",
+        "careers.2006年总检察长竞选：官方选举史确认2006-11-07以民主党候选人身份参加大选，但首次登记参选、获得提名及当选后就职前状态的完整起止日期未取得可打开原文，未建立竞选阶段条目。",
+        "current_roles.委员会.start：第119届参议院官方名单确认四个委员会委员身份，未取得各项首次就任或本届任职生效日期，start均留null。",
+        "careers.学习.full_time：所开官方学历来源未明确全日制或非全日制，留null。",
+        "careers.2001—2002及2005—2007之间的具体衔接：现有可打开原文只支持部分年份，未找到完整交接日期。",
+        "party_joined_at.更高级锚点：已检索党籍登记、公开加入民主党、州级参选登记、州党组织任职及FEC页面，未取得早于2006年大选且可打开的第1—3级锚点。州选务网站部分页面只返回空壳或访问失败，未列入sources。"
+      ],
+      "excluded": [
+        "底稿『1990年参加工作／1990年6月参加工作』：本人记载法学院之前已有建筑公司任职，1990年不是已证实的首份全职工作起点；月份亦无依据。",
+        "底稿『1986—1990年冈萨加大学法学院学习』：仅1990年毕业有证据，1986年入学未获支持。",
+        "底稿『1990—1994年拉斯维加斯市民事律师』：本人记载毕业后先任法官助理，再入律师事务所；底稿单位、起止年份未获支持。",
+        "底稿『1994—1996年联邦刑事检察官』：可打开传记记载相关经历为1999—2001年。",
+        "底稿『1996—2000年鲍勃·米勒办公室幕僚长』：本人口述1995年获聘，先任拉斯维加斯办公室负责人，后任幕僚长；传记将该段结束年份记为1999年。",
+        "底稿『2000—2003年地方政府和高等教育系统法律、行政人员』：混合不同机构且无具体职务依据，不保留。",
+        "底稿『2003—2006年内华达州高等教育系统执行副校长』：官方公告明确该职2015年1月1日起生效。",
+        "底稿『2006—2007年总检察长候选人』：未核实完整候选人阶段起点，不沿用；当选后身份亦应与候选人区分。",
+        "底稿『2016—2017年联邦参议员候选人』：改按2015年参选、2016年6月初选、11月大选及2017年1月就职分别记录。",
+        "底稿『现任参议员起始2023-01』：2023年是连任届次，开始担任内华达州联邦参议员的日期为2017-01-03。",
+        "底稿『2006年8月加入美国民主党』：没有原始锚点证据；州务卿官方选举史的2006年初选结果未列总检察长竞选，本次采用有明确党籍和日期的大选记录。",
+        "底稿『congress-legislators仓库首页』：不作为本次事实来源。",
+        "底稿『完整简历卡』：首份全职工作的开始时间未核实，card_type留null。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（内华达州）＋美国国会参议院；Bioguide C001113",
+      "review_items": [
+        "本科B.A.与B.S.的一级来源冲突已并列，选用高等教育系统记载的B.S.，交AI政见确认。",
+        "总检察长离任年份的一级来源冲突已并列，选用国会履历及州务卿历任表的2015年，交AI政见确认。",
+        "首份全职工作起始日期缺证，当前保留seed级候选事实包。",
+        "法学院入学及早期工作的日期缺口列入unknowns，补证后再补履历。",
+        "本包为研究会话候选结构化稿，交下一会话逐字段重新联网核验。"
+      ]
+    }
+  ]
+}

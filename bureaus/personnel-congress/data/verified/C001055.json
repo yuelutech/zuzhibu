@@ -1,0 +1,966 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001055",
+      "line": "cadre",
+      "subject_id": "c001055",
+      "title": "埃德·凯斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/11776",
+          "title": "CASE, Ed | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Hilo, Territory of Hawai'i, September 27, 1952; ... (January 3, 2019-present).",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/C001055",
+          "title": "Office of the Clerk, U.S. House of Representatives — Ed Case",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Ed Case ... Hawaii (HI) – 1st, Democrat ... Committee on Appropriations",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://case.house.gov/about/",
+          "title": "Biography | U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Since returning to Congress in 2019, Case has served on the House Committee on Appropriations",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-HI.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Hawaii",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Carlsmith Ball (law firm), 1983-2002 (partner, 1989-2002; managing partner, 1992-94); Bays Lung Rose & Holma (law firm), 2007-13",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.hawaii.edu/news/article.php?aId=681",
+          "title": "Hilo: Hilo-Born Congressman Ed Case to Deliver Fall Commencement Address | University of Hawaii News",
+          "published_at": "2003-12-08",
+          "checked_at": "2026-10-19",
+          "excerpt": "He earned a bachelor of arts in psychology from Williams College in Williamstown, Massachusetts in 1975.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://archives.midweek.com/content/story/midweek_coverstory/which_way_will_ed_run/P3/",
+          "title": "Which Way Will Ed Run? | MidWeek Cover Story",
+          "published_at": "2005-02-24",
+          "checked_at": "2026-10-19",
+          "excerpt": "In the fall of 1971, Case followed his destiny to prestigious Williams College ... He lost in the primary by 36 votes.",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://the.honoluluadvertiser.com/article/2002/Sep/03/ln/ln10a.html",
+          "title": "Ed Case: Smart, blunt, impatient for change | The Honolulu Advertiser",
+          "published_at": "2002-09-03",
+          "checked_at": "2026-10-19",
+          "excerpt": "ran for the House in 1986 and lost to Democratic incumbent Brian Taniguchi by 36 votes.",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://edcase.com/experience/",
+          "title": "Experience - Ed Case for Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Senior Vice President/Chief Legal Officer, Outrigger Hotels Hawaii, Waikiki (2013-2018)",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.hawaiinewsnow.com/story/22829823/case-to-work-at-outrigger-ends-political-career/",
+          "title": "Ed Case to work at Outrigger, ends political career",
+          "published_at": "2013-07-12",
+          "checked_at": "2026-10-19",
+          "excerpt": "joining Outrigger Enterprises Group as Senior Vice President and Chief Legal Officer on July 22nd.",
+          "tier": 2
+        },
+        {
+          "id": "s11",
+          "url": "https://manoa.hawaii.edu/library/research/collections/archives/hawaii-congressional-papers-collection/ed-case-papers/",
+          "title": "Ed Case Papers - University of Hawaiʻi at Mānoa - Hamilton Library",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "He was a “jackeroo” (cowboy) on an Australian sheep and cattle ranch for a year after graduating from high school.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:HI"
+      ],
+      "person": {
+        "name": {
+          "value": "埃德·凯斯",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1952-09-27",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "夏威夷州希洛",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "加利福尼亚大学黑斯廷斯法学院法学博士学位",
+          "source_ids": [
+            "s5",
+            "s6",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1986",
+          "source_ids": [
+            "s7",
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：1986年参加夏威夷州众议院民主党初选，以36票之差负于民主党现任议员 Brian Taniguchi；MidWeek 明确记载1986年初选落选36票，Honolulu Advertiser 对应记载对手及其民主党身份，日期仅取来源明确的年份。来源：https://archives.midweek.com/content/story/midweek_coverstory/which_way_will_ed_run/P3/ ；https://the.honoluluadvertiser.com/article/2002/Sep/03/ln/ln10a.html 。检索本人官网、大学档案、州选务网站及FEC候选人页面，未取得更早的第1级登记或本人宣布、第2级党组织职务、第3级州级参选登记受理日期。1975年起任松永幕僚不作入党锚点；1985年社区委员会选举不作党派选举锚点；1994年初选及2002年联邦参选、就职均晚于1986年，不采用。家庭共和党背景不作为本人曾登记共和党的证据。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1986",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（夏威夷州第1选区）",
+          "role": "",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1971",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1975",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "威廉姆斯学院",
+          "role": null,
+          "program": "心理学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1977",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦众议员斯帕克·松永办公室",
+          "role": "立法助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "立法助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1977",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1978",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦参议员斯帕克·松永办公室",
+          "role": "立法助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "立法助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1979",
+            "source_ids": [
+              "s8",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1979",
+            "source_ids": [
+              "s8",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "夏威夷州劳工部",
+          "role": "法律助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8",
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1981",
+            "source_ids": [
+              "s5",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1982",
+            "source_ids": [
+              "s5",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "夏威夷州最高法院首席大法官威廉·理查森办公室",
+          "role": "法律助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1983",
+            "source_ids": [
+              "s5",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s5",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Carlsmith Ball 律师事务所",
+          "role": "律师、合伙人、管理合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师",
+            "合伙人",
+            "管理合伙人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1985",
+                "source_ids": [
+                  "s5",
+                  "s6",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "1989",
+                "source_ids": [
+                  "s5",
+                  "s6",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "马诺阿社区委员会",
+              "role": "委员、主席",
+              "roles": [
+                "委员",
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s5",
+                "s9",
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1994",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2002-11",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "夏威夷州众议院",
+          "role": "州众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1999",
+                "source_ids": [
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2000",
+                "source_ids": [
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "夏威夷州众议院",
+              "role": "多数党领袖",
+              "roles": [
+                "多数党领袖"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s5"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002-11-30",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2003-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（夏威夷州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（夏威夷州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003-01-04",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（夏威夷州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（夏威夷州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s5",
+              "s9",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013",
+            "source_ids": [
+              "s5",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Bays Lung Rose & Holma 律师事务所",
+          "role": "律师、管理律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s9",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师",
+            "管理律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-07-22",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s5",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Outrigger Enterprises Group",
+          "role": "高级副总裁、首席法务官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s9",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "高级副总裁",
+            "首席法务官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（夏威夷州第1选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（夏威夷州第1选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.Carlsmith Ball.start",
+          "alternatives": [
+            {
+              "value": "1983",
+              "source_ids": [
+                "s5",
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1989",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1983",
+          "reason": "采用国会名录及本人履历一致记载的1983年；国会名录另明确1989年为成为合伙人的年份。大学档案人物介绍写律师任期1989—2002年。一级来源之间的差异列入复核。"
+        },
+        {
+          "field": "careers.美国国会众议院.2003—2007任期.end",
+          "alternatives": [
+            {
+              "value": "2007-01-03",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2007-01-04",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2007-01-03",
+          "reason": "采用美国众议院现行官方人物页列明的任期终止日期；大学档案人物介绍记载相差一天。一级来源之间的差异列入复核。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过众议院人物页、议员官网、大学档案、MidWeek及Honolulu Advertiser人物报道。高中毕业后的澳大利亚牧场牛仔经历早于1975年，但未取得明确起始日期及全职性质记录；1975年松永办公室经历又有从暑期实习进入的记载，未找到转为正式全职职员的日期，work_start留空。",
+        "法学院学习起始时间：查过国会名录、众议院人物页、大学官方介绍及本人官网，只确认1981年取得法学博士，未找到明确入学年份；不沿用底稿1978年，不以三年学制倒推，未建立起始时间缺证的学习条目。",
+        "族裔：查过议员官网、大学档案及人物报道，未取得满足本人明确自述或官方统计条件的族裔记录。",
+        "入党锚点精确日期：1986年初选经历有媒体证据；州选务结果页访问不稳定，未取得该场选举日期的可用官方原文，因此只保留1986年。",
+        "早期参选登记：检索州选务网站及FEC候选人资料，未取得1986年前的州级党派参选登记受理日期。",
+        "1979年州劳工部法律助理经历：来源只记年份，没有月份、任职性质及与法学院学习的同期关系。",
+        "私人部门机构历史名称：官方传记及国会名录使用Carlsmith Ball、Bays Lung Rose & Holma等名称，未取得各任职年度的机构更名记录。",
+        "现任议员党团及跨党派议题组织职务：议员官网列有多个组织及职务，但未取得逐项就任或生效日期，未写入履历括注。",
+        "1982年至1983年、2018年离开Outrigger至2019年就任国会议员之间的具体衔接日期未查得；未补造工作或交接月份。",
+        "荣誉学位、国家级院士、军衔：已查官方传记及国会名录，未找到相应记录。"
+      ],
+      "excluded": [
+        "底稿『现职开始于2025-01』：这是本届国会任期起点；开始代表现选区的连续任职日期为2019-01-03。",
+        "底稿『1975年参加工作』及发布稿『1975年6月参加工作』：存在更早的牧场工作经历，1975年办公室经历又涉及实习起点；首份全职工作日期未确认。",
+        "底稿『1978—1981年法学院学习』：1981年学位有证据，1978年入学未取得直接证据。",
+        "底稿『Carlsmith Ball任职至1994年』：国会名录及本人履历记载任职至2002年，1994年结束的是管理合伙人职务。",
+        "底稿『1999—2002年多数党领袖』：国会名录记载为1999—2000年。",
+        "底稿『2007—2018年夏威夷州律师、Outrigger管理人员』：拆为2007—2013年律所任职、2013-07-22—2018年Outrigger任职。",
+        "底稿『2025年起任拨款委员会委员』：议员官方传记明确自2019年重返国会后担任该委员会委员。",
+        "底稿『1994年9月加入美国民主党』：未提供当时锚点，且查得更早的1986年党派初选经历。",
+        "查得『1975年起为民主党议员松永工作』：幕僚任职不作为入党锚点。",
+        "查得『1985年当选马诺阿社区委员会委员』：未作为党派选举入党锚点。",
+        "查得『家庭为温和共和党家庭』：家庭党籍不作为本人党籍或改党日期证据。",
+        "查得『2002年州长竞选、2006年及2012年参议员竞选、2010年众议员特别选举』：官方人物页确认参选经历，但未逐项取得起始日期，未编造候选人履历区间。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（夏威夷州第1选区），美国国会众议院；Bioguide C001055",
+      "review_items": [
+        "参加工作时间缺证，完整简历卡的五项必填条件未满足，保留seed级。",
+        "复核1986年民主党初选锚点，补取州选务原始结果或登记记录。",
+        "提交AI政见确认两处一级来源冲突：Carlsmith Ball起始年份、2007年国会任期终止日。",
+        "法学院入学年份缺证，学历已取证，学习履历条目暂缺。",
+        "本事实包为研究会话候选稿，待下一会话逐字段重新联网核查。"
+      ]
+    }
+  ]
+}

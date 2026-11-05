@@ -1,0 +1,739 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001101",
+      "line": "cadre",
+      "subject_id": "c001101",
+      "title": "凯瑟琳·克拉克简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/15032398493",
+          "title": "CLARK, Katherine M. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in New Haven, New Haven County, Conn., July 17, 1963",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/c001101",
+          "title": "Office of the Clerk, U.S. House of Representatives — Katherine M. Clark",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Massachusetts (MA) – 5th, Democrat; There are no Committee assignments.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://katherineclark.house.gov/2022/11/30/2022-11-statement-from-katherine-clark-on-her-election-to-democratic-whip/",
+          "title": "Statement from Katherine Clark on Her Election to Democratic Whip",
+          "published_at": "2022-11-30",
+          "checked_at": "2026-10-19",
+          "excerpt": "Congresswoman Katherine Clark (MA-5) released the following statement on her election to House Democratic Whip for the 118th Congress",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://news.cornell.edu/stories/2021/11/cornell-washington-interns-front-lines-policy-debates",
+          "title": "Cornell in Washington interns on front lines of policy debates | Cornell Chronicle",
+          "published_at": "2021-11-18",
+          "checked_at": "2026-10-19",
+          "excerpt": "U.S. Rep. Katherine Clark, J.D. ’89, the assistant speaker of the House",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://web.archive.org/web/20140201095256/http://www.mass.gov/legis/journal/187/sj010511.htm",
+          "title": "UNCORRECTED PROOF OF SENATE JOURNAL FOR 01/05/11",
+          "published_at": "2011-01-05",
+          "checked_at": "2026-10-19",
+          "excerpt": "the Senators-elect then took and subscribed the oaths of office",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://archives.lib.state.ma.us/server/api/core/bitstreams/0972e5db-cd2f-45b0-aa00-5a051954021e/content",
+          "title": "PERAC Pension News No. 26 — February 2011",
+          "published_at": "2011-02",
+          "checked_at": "2026-10-19",
+          "excerpt": "Senator Clark served in the Massachusetts House from 2008-2010 before joining the Senate this year.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://electionstats.state.ma.us/elections/view/111527/",
+          "title": "PD43+ » 2004 State Senate Democratic Primary Middlesex and Essex District",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "2004 State Senate Democratic Primary; Middlesex and Essex District; Katherine M. Clark",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.fec.gov/data/candidate/H4MA05084/",
+          "title": "CLARK, KATHERINE - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Political party: Democratic Party",
+          "tier": 1
+        },
+        {
+          "id": "s13",
+          "url": "https://www.house.gov/leadership",
+          "title": "Leadership | house.gov",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Democratic Whip; Rep. Katherine Clark",
+          "tier": 1
+        },
+        {
+          "id": "s14",
+          "url": "https://katherineclark.house.gov/2023/01/03/2023-1-democratic-whip-katherine-clark-announces-new-hires-expanded-team/",
+          "title": "Democratic Whip Katherine Clark Announces New Hires, Expanded Team",
+          "published_at": "2023-01-03",
+          "checked_at": "2026-10-19",
+          "excerpt": "Democratic Whip Katherine Clark (MA-5) announced initial key leadership hires for the 118th Congress.",
+          "tier": 1
+        },
+        {
+          "id": "s15",
+          "url": "https://www.cornellsun.com/article/2019/12/rep-katherine-clark-j-d-89-talks-law-school-impeachment-and-controversial-speakers",
+          "title": "Rep. Katherine Clark J.D. ’89 Talks Law School, Impeachment and Controversial Speakers - The Cornell Daily Sun",
+          "published_at": "2019-12-09",
+          "checked_at": "2026-10-19",
+          "excerpt": "Born in Woodbridge, Connecticut, Clark attended St. Lawrence University in New York.",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:MA"
+      ],
+      "person": {
+        "name": {
+          "value": "凯瑟琳·克拉克",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1963-07-17",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "康涅狄格州纽黑文",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "康奈尔大学法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2004",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以民主党候选人身份参加马萨诸塞州参议院 Middlesex and Essex 选区民主党初选，2004年；来源：https://electionstats.state.ma.us/elections/view/111527/ 。检索未找到更早的本人党籍登记、公开宣布入党、党组织任职或州级参选登记受理日期。FEC 页面所列联邦参选声明晚于2004年，且现列为修订后的版本，不采用；2017年民主党国会竞选委员会职务、2019年起国会党团领导职务均晚于已证实的2004年党派选举锚点，不采用。梅尔罗斯学校委员会选举未取得属于党派选举的证据，不作锚点。底稿2002年11月无来源，不采用。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2004",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（马萨诸塞州第5选区）",
+          "role": "",
+          "start": {
+            "value": "2013-12-10",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国众议院少数党党鞭",
+          "role": "",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s1",
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s13",
+            "s14"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1981",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "众议院官方传记记载1985年取得圣劳伦斯大学文学学士学位；按美国本科4年倒推：1985－4＝1981。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1985",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1985",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "圣劳伦斯大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1990",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1991",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦法院",
+          "role": "法官助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法官助理"
+          ],
+          "role_category": {
+            "value": "clerk, federal court",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "官方传记仅写联邦法院 clerk，采用法律职业语境下的法官助理译法；未扩充法院辖区和法官姓名。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1991",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1993",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "科罗拉多州总检察长办公室",
+          "role": "检察官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "检察官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2001",
+            "source_ids": [
+              "s1",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s1",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "梅尔罗斯学校委员会",
+          "role": "委员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "委员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s1",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s1",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "马萨诸塞州众议院",
+          "role": "州众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-01-05",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "马萨诸塞州参议院",
+          "role": "州参议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-12-10",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（马萨诸塞州第5选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（马萨诸塞州第5选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2021",
+                "source_ids": [
+                  "s1",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2023",
+                "source_ids": [
+                  "s1"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国众议院",
+              "role": "助理议长",
+              "roles": [
+                "助理议长"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s5"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2023",
+                "source_ids": [
+                  "s1",
+                  "s14"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "美国众议院",
+              "role": "少数党党鞭",
+              "roles": [
+                "少数党党鞭"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s13",
+                "s14"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "person.birth_place",
+          "alternatives": [
+            {
+              "value": "康涅狄格州纽黑文",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "康涅狄格州伍德布里奇",
+              "source_ids": [
+                "s15"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "康涅狄格州纽黑文",
+          "reason": "采用众议院现行官方人物页；学生报采访报道的出生城市记载不同。"
+        },
+        {
+          "field": "careers.马萨诸塞州参议院.start",
+          "alternatives": [
+            {
+              "value": "2010",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2011-01-05",
+              "source_ids": [
+                "s7",
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2011-01-05",
+          "reason": "采用州参议院2011年1月5日议事录列名及集体宣誓记录；同期州政府刊物亦明确她于2011年加入参议院。众议院人物页将起年写为2010。一级来源冲突列入复核清单，交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过众议院官方传记、TIME 人物报道、Chicago Sun-Times 报道及康奈尔采访。官方传记未给私人执业起年；TIME 只写法学院毕业后在芝加哥任职两年，Sun-Times 写1980年代末任职且1988年已在芝加哥，未找到能区分在校任职与首份全职工作的明确起始日期，work_start 留 null。",
+        "早期律师履历：官方传记确认私人执业、科罗拉多地区检察官委员会律师、马萨诸塞州儿童保育服务办公室总法律顾问、州总检察长办公室政策部门负责人等经历，未给这些职务的起止时间；未建立无起始日期的履历条目。",
+        "康奈尔大学法学院学习：众议院传记和康奈尔大学新闻确认1989年取得法学博士，未找到入学时间；未沿用底稿1985年入学，未按三年学制倒推。",
+        "哈佛大学肯尼迪政府学院学习：众议院官方传记和州政府刊物确认公共管理硕士，官方传记记毕业年为1997；未找到本人入学年、学习年限及在职或脱产依据，未沿用1995—1997年在职学习条目。",
+        "本科专业：查过众议院官方传记、圣劳伦斯大学页面和康奈尔采访，未找到专业依据；program 留 null。",
+        "族裔：已打开的官方人物页未提供本人族裔自述或官方统计记录，ethnicity 留 null。",
+        "梅尔罗斯学校委员会：两份官方来源均写2001—2007年，未找到可打开的当年宣誓记录；底稿2002—2008年及2005年起任主席的日期未取得可采用原始依据。",
+        "马萨诸塞州众议员起止日期：两份官方简介均写2008—2010年；2008年3月13日众议院议事录原址返回403，存档页未读到文件正文，未采用具体就任日。2011年1月5日转任州参议员已证实，州众议员终止日仍需原始记录核对。",
+        "众议院民主党团副主席：2022年官方声明确认她担任第116届国会民主党团副主席，但未取得明确就任与终止日期的直接记录，本次未保留有精确起止主张的括注。",
+        "少数党党鞭起始月日：官方资料确认第118届国会起担任，2023年1月3日公告已称现职党鞭；未把该公告日直接作为就任日，结构化起始时间保留到2023年。",
+        "入党锚点：检索本人党籍登记、早期党组织职务、州级参选登记及FEC候选人记录，未找到早于2004年的合格锚点；州初选结果网页只直接呈现2004年，入党推断保留年精度。",
+        "出生日期第二来源：州公共官员名录的目录页可打开，所链接PDF未成功读取；未将目录页作为出生日期证据。",
+        "学历学校第二来源：哈佛肯尼迪学院校友当选国会页面检索可见1997年公共管理硕士信息，但多次打开失败，未列入 sources。"
+      ],
+      "excluded": [
+        "底稿『2025年1月开始担任现选区联邦众议员』：这是本届宣誓时间；众议院官方人物页记连续任职自2013年12月10日起，已改用首次担任现选区职务的时间。",
+        "底稿『1989年参加工作』及旧发布稿『1989年6月参加工作』：未找到首份全职工作的明确起始依据，年份和月份均未沿用。",
+        "底稿『1985—1989年康奈尔大学法学院学习』：只证实1989年取得学位，未证实1985年入学。",
+        "底稿『1989—1995年芝加哥律师、联邦法院书记员、科罗拉多地区检察官委员会法律工作人员』：合并了不同机构且无各段起止依据；仅重建官方明确记载的1990—1991年联邦法院法官助理及1991—1993年科罗拉多州总检察长办公室检察官条目。",
+        "底稿『1995—2002年马萨诸塞州儿童保育服务办公室总法律顾问、政策负责人』：官方传记将总法律顾问和政策部门负责人分属不同机构，未给起止日期，未保留该合并条目。",
+        "底稿『1995—1997年哈佛在职公共管理硕士学习』：只证实1997年取得公共管理硕士，未证实入学年和在职学习状态。",
+        "底稿『2002—2008年梅尔罗斯学校委员会委员』：两份已打开的官方来源均记为2001—2007年，采用官方来源。",
+        "底稿『2005—2008年梅尔罗斯学校委员会主席』：未取得可打开的任职起止原始证据。",
+        "底稿『2002年11月加入美国民主党』：无合格锚点，改用2004年民主党州参议院初选锚点。",
+        "底稿『2019—2021年众议院民主党团副主席』：职务已获官方证明，起止日期直接证据未补齐，未照抄时间段。",
+        "查到『众议院拨款委员会委员』：2022年声明属于历史任职；第119届书记官现行人物页明确没有委员会职务，未写进 current_roles。",
+        "查到『2016年圣劳伦斯大学荣誉人文学博士』：属于荣誉学位，不纳入最高已取得学位和正文学历。",
+        "查到『1988年已在芝加哥 Keck, Mahin & Cate 律所』：报道未区分实习、暑期工作和全职执业，未据此认定1988年参加工作。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（马萨诸塞州第5选区）、美国众议院少数党党鞭；Bioguide C001101",
+      "review_items": [
+        "参加工作时间缺少合格起始依据，未满足完整简历卡五项必填条件，保留 seed 级候选事实包。",
+        "交AI政见确认州参议员起年一级来源冲突：众议院人物页2010年；州参议院宣誓记录2011年1月5日，本包选后者。",
+        "核对州众议员终止年份：官方简介写2010年，转任州参议员宣誓日为2011年1月5日，需补直接离任记录。",
+        "补核梅尔罗斯学校委员会选举年与实际就任年，区分2001年和2002年的口径。",
+        "全文履历仍缺研究生入学时间及早期律师、州政府任职起止日期，未以底稿补齐。",
+        "本包为研究候选稿，下一会话逐字段重新联网核查。"
+      ]
+    }
+  ]
+}

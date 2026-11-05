@@ -1,0 +1,801 @@
+{
+  "id": "brendan-carr",
+  "name_zh": "布伦丹·卡尔",
+  "name_en": "Brendan Carr",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“Federal Communications Commission Chairman Federal Communications Commission Chairman”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/brendan-carr.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": {
+    "file": "brendan-carr.jpg",
+    "source": "https://www.fcc.gov/general/commissioners-press-photos",
+    "source_kind": "官方照片（机构官网）",
+    "license": "公有领域：联邦通信委员会网站政策页（Website Policies & Notices）及隐私政策页均未列版权条款。按《美国法典》第17编第105条：“Copyright protection under this title is not available for any work of the United States；已换蓝白渐变底",
+    "url": "https://www.fcc.gov/sites/default/files/Leadership-Brendan-Carr.jpg"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Federal Communications Commission",
+      "role_en": "Chairman"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“Federal Communications Commission Chairman Federal Communications Commission Chairman”：总统、白宫、内阁与独立机构）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-brendan-carr",
+    "line": "cadre",
+    "subject_id": "brendan-carr",
+    "title": "布伦丹·卡尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://docs.house.gov/meetings/IF/IF16/20260114/118825/HHRG-119-IF16-Bio-CarrB-20260114.pdf",
+        "title": "Brendan Carr official biography submitted to House",
+        "published_at": "2026-01-14",
+        "checked_at": "2026-10-18",
+        "excerpt": "Chairman; joined FCC ... 2012; designated ... January 20, 2025",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://en.wikipedia.org/wiki/Brendan_Carr",
+        "title": "Brendan Carr",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "January 5, 1979; graduated ... 2001; a year as a paralegal; law clerk from 2008 to 2009",
+        "tier": 3
+      },
+      {
+        "id": "s3",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202500109/pdf/DCPD-202500109.pdf",
+        "title": "Order on Federal Commission and Board Chairman Designations",
+        "published_at": "2025-01-20",
+        "checked_at": "2026-10-18",
+        "excerpt": "Brendan Carr — Chairman of the Federal Communications Commission",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.commerce.senate.gov/wp-content/uploads/media/doc/CONFIDENTIAL%20Questionnaire%20for%20Brendan%20Carr_Redacted.pdf",
+        "title": "Brendan Carr — Senate nominee questionnaire",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "January 5, 1979; Washington, D.C. Credit Debt Solutions: Sales (6/2001–8/2001). Venable, Baetjer, Howard & Civiletti LLP: Paralegal (9/2001–8/2002).",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "布伦丹·卡尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1979-01",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "哥伦比亚特区",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "2001-06",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "education": {
+        "value": "美国天主教大学哥伦布法学院研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法律博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦通信委员会",
+        "role": "主席",
+        "start": {
+          "value": "2025-01-20",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "美国联邦通信委员会",
+        "role": "委员",
+        "start": {
+          "value": "2017-08-11",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1997-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "美国学年惯例：入学9月、毕业5月；来源仅载年份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1997",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2001-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "美国学年惯例：入学9月、毕业5月；来源仅载年份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2001",
+            "duration_years": null
+          }
+        },
+        "organization": "乔治敦大学",
+        "role": "政府学专业学习",
+        "program": "政府学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "政府学专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001-06",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001-08",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Credit Debt Solutions 公司",
+        "role": "销售人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "销售人员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002-08",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Venable、Baetjer、Howard & Civiletti 律师事务所",
+        "role": "律师助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "2002-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "美国学年惯例：入学9月、毕业5月；来源仅载年份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2002",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2005-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "美国学年惯例：入学9月、毕业5月；来源仅载年份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "2005",
+            "duration_years": null
+          }
+        },
+        "organization": "美国天主教大学哥伦布法学院",
+        "role": "法律专业学习",
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "法律专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005-09",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008-08",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Wiley Rein 律师事务所",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008-08",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009-07",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国第四巡回上诉法院",
+        "role": "丹尼斯·谢德法官助理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "丹尼斯·谢德法官助理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009-08",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012-05",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Wiley Rein 律师事务所",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-06",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2014-02",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "联邦通信委员会总法律顾问办公室",
+        "role": "律师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2014-02",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-01",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦通信委员会",
+        "role": "阿吉特·帕伊委员法律顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "阿吉特·帕伊委员法律顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-01",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-04",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦通信委员会",
+        "role": "代理总法律顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "代理总法律顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-04",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-08",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦通信委员会",
+        "role": "总法律顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总法律顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-08",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国联邦通信委员会",
+        "role": "委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "委员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-01-20",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国联邦通信委员会",
+        "role": "主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [
+      {
+        "field": "careers.2012_transition",
+        "alternatives": [
+          {
+            "value": "问卷主表：2012年5月离开Wiley，6月进入FCC",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "附履历：2012年6月离开Wiley，7月进入FCC",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "2012-05离开Wiley；2012-06进入FCC",
+        "reason": "按本次明确选择采用问卷主表，保留附履历月份差异。"
+      }
+    ],
+    "unknowns": [
+      "本科转学年月未查清；1997年本科入学及2002年JD入学按标准学制推算。",
+      "入党时间未查清；具体出生日期和早期工作年份暂据三级来源。FCC官网人物页返回403，现职以提交国会的官方简历核对。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": "Brendan Carr；联邦通信委员会",
+    "review_items": []
+  }
+}

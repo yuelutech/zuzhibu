@@ -1,0 +1,697 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001039",
+      "line": "cadre",
+      "subject_id": "c001039",
+      "title": "凯特·坎马克简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/C/CAMMACK,-Kat-(C001039)/",
+          "title": "CAMMACK, Kat | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Denver, Denver County, Colo., February 16, 1988; ... M.S., Naval War College, Newport, R.I., 2018;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/C001039",
+          "title": "Office of the Clerk, U.S. House of Representatives — Kat Cammack",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Florida (FL) – 3rd, Republican ... Committee on Agriculture ... Committee on Energy and Commerce",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.fec.gov/data/committee/C00730895/",
+          "title": "KAT FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Principal campaign committee ID: C00730895 Registration date: December 13, 2019",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.fec.gov/data/candidate/H0FL03175/?cycle=2026&election_full=true",
+          "title": "CAMMACK, KAT - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Candidate for House Florida - 03 ID: H0FL03175 REPUBLICAN PARTY",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://red.msudenver.edu/2021/kat-cammack-was-once-homeless-now-shes-the-youngest-republican-woman-in-the-u-s-house/?category=282",
+          "title": "Kat Cammack was once homeless. Now, she’s the youngest Republican woman in the U.S. House.",
+          "published_at": "2021-01-05",
+          "checked_at": "2026-10-19",
+          "excerpt": "That early 2012 morning in Yoho’s driveway ... a master’s in national defense and strategic studies from NWC.",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-FL.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Florida",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "February 16, 1988; ... M.S., Naval War College, Newport, RI, 2018; ... staff, U.S. Representative Ted Yoho of Florida, 2012-20;",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.wuft.org/news/2019/12/13/ted-yohos-former-deputy-chief-of-staff-kat-cammack-to-run-for-congress/",
+          "title": "Ted Yoho's Former Deputy Chief Of Staff Kat Cammack To Run For Congress",
+          "published_at": "2019-12-13",
+          "checked_at": "2026-10-19",
+          "excerpt": "She had served as deputy chief of staff for Yoho since 2013",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://www.wuft.org/fresh-take-florida/2020-08-19/incumbents-former-aide-wins-republican-primary-in-floridas-3rd-congressional-district",
+          "title": "Yoho’s Former Aide Wins Republican Primary In Florida’s 3rd Congressional District",
+          "published_at": "2020-08-19",
+          "checked_at": "2026-10-19",
+          "excerpt": "Yoho’s chief of staff all during 2013 ... named deputy chief of staff in August 2019 through the end of the year.",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://www.ustravel.org/sites/default/files/media_root/document/2020_Election-Profiles.pdf",
+          "title": "2020 Election Profiles — Kat Cammack (FL-3)",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "College, 2015-2018; BA, International Relations, Metropolitan State Univ. of Denver, 2006-2011;",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:FL"
+      ],
+      "person": {
+        "name": {
+          "value": "凯特·坎马克",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1988-02-16",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "科罗拉多州丹佛",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2012",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "按目前取得原文证据的首份全职工作起年推算。学校官网报道记载，她于2012年初迁往佛罗里达州，开始担任特德·约霍竞选经理，并计划用一年从事政治工作；此前在校零工不计。来源：https://red.msudenver.edu/2021/kat-cammack-was-once-homeless-now-shes-the-youngest-republican-woman-in-the-u-s-house/?category=282 。2007—2008年银行任职线索的全职性质未取得证据。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2012",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s6",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "美国海军战争学院国防与战略研究理学硕士学位",
+          "source_ids": [
+            "s1",
+            "s6",
+            "s7",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2019-12",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：凯特·坎马克的主要竞选委员会 KAT FOR CONGRESS（C00730895）在联邦选举委员会登记，2019-12-13；来源：https://www.fec.gov/data/committee/C00730895/ ；候选人及共和党身份对应来源：https://www.fec.gov/data/candidate/H0FL03175/?cycle=2026&election_full=true 。已检索选民登记、本人公开入党声明及早期党组织职务，未找到可核实的第1级或第2级锚点。为约霍竞选及担任其幕僚不作入党锚点；2020年共和党初选和2021年就任公职属于更低级、较晚锚点，不采用；2026年修订参选声明不作首次登记。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2019-12-13",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（佛罗里达州第3选区）",
+          "role": "",
+          "start": {
+            "value": "2021-01-03",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院农业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院能源和商业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2006",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "丹佛大都会州立学院",
+          "role": null,
+          "program": "国际关系",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s7",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s7",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2009",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "弗吉尼亚大学",
+          "role": null,
+          "program": "Semester at Sea",
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "特德·约霍国会竞选团队",
+          "role": "竞选经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "竞选经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2020",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦众议员特德·约霍办公室",
+          "role": "工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员"
+          ],
+          "role_category": {
+            "value": "staff",
+            "source_ids": [
+              "s1",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "采用国会现行官方传记的职务类别；具体幕僚长、副幕僚长职衔及交接时间存在来源差异，另列 conflicts。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "study",
+              "start": {
+                "value": "2015",
+                "source_ids": [
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2018",
+                "source_ids": [
+                  "s1",
+                  "s7",
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国海军战争学院",
+              "role": null,
+              "roles": [],
+              "program": "国防与战略研究",
+              "degree_awarded": {
+                "value": "理学硕士",
+                "source_ids": [
+                  "s1",
+                  "s7",
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s6",
+                "s7",
+                "s10"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-12-13",
+            "source_ids": [
+              "s4",
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "佛罗里达州第3选区联邦众议员选举",
+          "role": "参选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s4",
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "参选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": true
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-01-03",
+            "source_ids": [
+              "s1",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（佛罗里达州第3选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（佛罗里达州第3选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.bachelor.end",
+          "alternatives": [
+            {
+              "value": "2011",
+              "source_ids": [
+                "s1",
+                "s7",
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2011年参加毕业典礼时尚欠学分；2015年返校后完成学位，授予年份未明确",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": null,
+          "reason": "国会官方传记与授予本科院校的报道存在一级来源冲突。本科已取得及专业有证据，毕业日期留缺，交AI政见确认。"
+        },
+        {
+          "field": "careers.ted_yoho_campaign.start",
+          "alternatives": [
+            {
+              "value": "2012",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2011",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2012",
+          "reason": "采用学校官网对本人经历的详细采访，其明确把到达约霍家、开始竞选经理工作的时间写为2012年初；二级人物资料的2011年不采用。"
+        },
+        {
+          "field": "careers.ted_yoho_office",
+          "alternatives": [
+            {
+              "value": "staff，2012—2020年",
+              "source_ids": [
+                "s1",
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2013年起任副幕僚长，2019年12月报道时已为前任",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2013年任幕僚长，随后五年多列为兼职雇员，2019年8月至年底任副幕僚长",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "工作人员，2012—2020年",
+          "reason": "采用国会现行官方传记的任职范围和职务类别；不同报道对具体职衔的时间划分不一致，不拆分或补造交接日期。"
+        }
+      ],
+      "unknowns": [
+        "本科毕业日期：已查国会历史人物页、国会名录、学校官网采访及毕业典礼名册；官方传记记2011年，学校采访称当年尚欠学分、2015年返校完成，未取得一致的学位授予日期。",
+        "参加工作月份：学校官网仅明确2012年初，未找到具体月份。",
+        "早期银行及出版机构工作：检索发现2007—2008年 Wells Fargo 柜员及 HMRS Publishing 任职线索；未取得符合来源要求且明确全职性质的原文，不作为参加工作锚点。",
+        "特德·约霍竞选团队任职结束日期：学校官网明确2012年竞选经理经历，未明确结束日期。",
+        "约霍办公室具体职衔和交接日期：国会官方传记仅列 staff；WUFT 两篇报道的副幕僚长起年不同，具体职衔留待原始雇佣记录确认。",
+        "Grit Strategies 创办及任职起止：WUFT 2019年报道确认其为创办人和所有者，未给开始日期，未单列履历或现任企业职务。",
+        "第119届农业委员会、能源和商业委员会委员就任日期：众议院书记官现行名单确认在任，未取得精确生效日期，current_roles.start 留空。",
+        "2019年参选后的候选人、当选人阶段：已查 WUFT 初选报道及佛罗里达州候选人列表；本次未形成各阶段起止的完整原始证据链，未补造阶段交接日期。",
+        "族裔：未取得本人自述或可实际读取的官方统计原文。",
+        "其他党团及任务组职务：本人官网简介和委员会页打开返回403，未凭搜索摘要写入。"
+      ],
+      "excluded": [
+        "底稿『2011年参加工作』及发布稿『2011年6月参加工作』：没有原始履历依据，采用学校官网明确的2012年竞选经理经历推算，月份留缺。",
+        "底稿『大学学历、丹佛大都会州立大学国际关系文学学士学位』作为最高学历学位：已取得美国海军战争学院硕士学位。",
+        "底稿『2013—2019年美国海军战争学院国家安全和战略研究文学硕士』：现行国会官方传记记2018年理学硕士；可读取二级人物资料记学习时间2015—2018年，专业为国防与战略研究。",
+        "底稿『2007—2011年本科』：入学年没有来源，已打开的 National Journal 人物资料记2006年开始；毕业日期另列一级来源冲突。",
+        "底稿『2011—2013年佛罗里达州政治和公共政策机构工作人员』：未找到该单位和职务的原文证据。",
+        "底稿『2013—2019年约霍办公室副幕僚长』：国会官方传记只确认2012—2020年 staff，具体职衔时间存在冲突。",
+        "底稿『2019—2021年共和党联邦众议员候选人』：参选、获提名和当选属于不同阶段，不能合写成全时段候选人。",
+        "底稿『2025年1月开始担任现职』：该日期是本届宣誓日期；首次担任该选区众议员为2021年1月3日。",
+        "底稿『2020年8月加入美国共和党』：已有更早的第三级锚点，即2019年12月13日竞选委员会登记。",
+        "底稿『2025年起任两委员会委员』：农业委员会任职可追溯至第117届，能源和商业委员会可追溯至第118届；未把本届国会起始日期当作首次就任日期。",
+        "搜索线索中的白人族裔说法：未取得本人自述或可读取的官方统计证据。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（佛罗里达州第3选区），美国国会众议院；Bioguide C001039",
+      "review_items": [
+        "本科毕业日期存在一级来源冲突，交AI政见确认；确认前搁置完整简历卡。",
+        "核对2007—2008年银行任职是否为全职；如取得更早全职工作的合格证据，重新计算参加工作时间。",
+        "核对约霍办公室原始雇佣记录中的任职范围、兼职性质及具体职衔。",
+        "补齐参选、共和党候选人和当选人阶段的原始选务日期后，再扩展竞选履历。"
+      ]
+    }
+  ]
+}

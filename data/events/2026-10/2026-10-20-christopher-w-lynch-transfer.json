@@ -1,0 +1,93 @@
+{
+  "id": "2026-10-20-christopher-w-lynch-transfer",
+  "date": "2026-10-20",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "christopher-w-lynch",
+  "person": {
+    "name_zh": "克里斯托弗·W.林奇",
+    "name_en": "Christopher W. Lynch",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": null,
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "美国白宫总统信函办公室",
+      "role": "总统特别助理兼副主任",
+      "organization_en": "Office of Presidential Correspondence, Office of the Staff Secretary, Executive Office of the President",
+      "role_en": "Special Assistant to the President and Deputy Director",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "美国白宫法律顾问办公室",
+      "role": "总统特别助理兼助理法律顾问",
+      "organization_en": "Office of the White House Counsel",
+      "role_en": "Special Assistant to the President and Associate Counsel",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "克里斯托弗·W.林奇转任美国总统特别助理兼白宫助理法律顾问",
+  "summary": "联邦新闻网10月19日的人事动态报道列明，林奇转任总统特别助理兼白宫助理法律顾问，前职为总统特别助理兼总统信函办公室副主任。报道未列宣布日和生效日。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-16/",
+      "title": "Federal Movers & Shakers | October 19, 2026",
+      "publisher": "Federal News Network",
+      "published_at": "2026-10-19",
+      "excerpt": "Special Assistant to the President and Associate Counsel",
+      "checked_at": "2026-10-20",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-20",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261020-080004",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "daily",
+  "lead": "active-christopher-w-lynch",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-20",
+    "changes": [
+      "新建人物记录 christopher-w-lynch（库里没有此人）",
+      "现任职务新增：美国白宫法律顾问办公室总统特别助理兼助理法律顾问",
+      "履历新增：2026-10 美国白宫法律顾问办公室总统特别助理兼助理法律顾问",
+      "所属局：定为三局·白宫干部局"
+    ],
+    "notes": [
+      "原任“美国白宫总统信函办公室 总统特别助理兼副主任 Office of Presidential Correspondence, Office of the Staff Secretary, Executive Office of the President Special Assistant to the President and Deputy Director”：记录里本来就没有现任职务"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "christopher-w-lynch",
+    "reason": "主要职务“美国白宫法律顾问办公室 总统特别助理兼助理法律顾问”：总统、白宫、内阁与独立机构"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-austin-holmes",
+      "line": "cadre",
+      "subject_id": "austin-holmes",
+      "title": "奥斯汀·霍姆斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
+          "title": "Nominations Sent to the Senate",
+          "published_at": "2026-09-14",
+          "checked_at": "2026-10-18",
+          "excerpt": "Austin Holmes, of Florida, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Haiti.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.holmesequity.com/austin-holmes",
+          "title": "Austin Holmes — Holmes Equity",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Austin Holmes is the Chief Executive Officer of RallyX. Starting as an Operations Auditor with the United Nations.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.senate.gov/legislative/nom_cmtec.htm",
+          "title": "Nominations in Committee (Civilian)",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Austin Holmes, of Florida, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Haiti.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "奥斯汀·霍姆斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": null,
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "研究生",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "工商管理硕士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "RallyX公司",
+          "role": "首席执行官",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "首席执行官"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "霍姆斯股权投资公司",
+          "role": "管理合伙人",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "管理合伙人"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国驻海地大使馆",
+          "role": "大使",
+          "start": {
+            "value": "2026-09-14",
+            "source_ids": [
+              "s1",
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "roles": [
+            "大使"
+          ],
+          "sector": "politics",
+          "appointment_state": "提名人选"
+        }
+      ],
+      "careers": [],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [],
+      "unknowns": [
+        "未查到出生年月、出生地和族裔。",
+        "联合国运营审计员为最早职业，未查到起止年份，参加工作时间留空。",
+        "福尔曼大学文学学士、新东南大学国际商务工商管理硕士已核实，入学和毕业年份未查到。",
+        "南方浸信会神学院变革型领导博士在读，未获博士学位；入学时间未查到。",
+        "RallyX首席执行官和霍姆斯股权投资公司管理合伙人任职起点未查到。",
+        "2016年和2021年救灾活动未提供所在机构的明确职衔，未转写为履历职务。",
+        "未查到党籍及入党锚点。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Austin Holmes；RallyX公司",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

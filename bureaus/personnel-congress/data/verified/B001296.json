@@ -1,0 +1,535 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001296",
+      "line": "cadre",
+      "subject_id": "b001296",
+      "title": "不伦丹·博伊尔简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/B/BOYLE,-Brendan-Francis-(B001296)/",
+          "title": "BOYLE, Brendan Francis | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Philadelphia, Philadelphia County, Pa., February 6, 1977;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://archives.house.state.pa.us/people/member-biography?ID=1160",
+          "title": "Brendan F. Boyle — PA House Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "B.A., government, Hesburgh Program in Public Service, University of Notre Dame, 1999;",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://clerk.house.gov/members/B001296",
+          "title": "Brendan F. Boyle | Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Brendan F. Boyle\nPennsylvania (PA) – 2nd, Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://docs.house.gov/meetings/HA/HA00/20230228/115340/HHRG-118-HA00-Bio-BoyleB-20230228.pdf",
+          "title": "Congressman Brendan F. Boyle (PA-02), Ranking Member, House Committee on the Budget",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "He graduated from Harvard in 2005, earning a master's degree in Public Policy.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://budget.house.gov/about/members/",
+          "title": "Members | The U.S. House Committee on the Budget",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Ranking Member\nBrendan Boyle\nPA - 2",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://clerk.house.gov/committees/WM00",
+          "title": "Committee on Ways and Means | Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "119th Congress, 2nd Session\nCommittee on Ways and Means\nBrendan F. Boyle, PA",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.inquirer.com/philly/news/local/20081101_A_fierce_race_for_170th_District_state_House_seat.html",
+          "title": "A fierce race for 170th District state House seat",
+          "published_at": "2008-11-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "worked as a management consultant for American Management Systems",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://www.legistorm.com/person/bio/227391/Brendan_Francis_Boyle.html",
+          "title": "Rep. Brendan Boyle - D Pennsylvania, 2nd, In Office - Biography | LegiStorm",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "D Pennsylvania, 13th (2015-2019), 2nd (2019-) In Office",
+          "tier": 2
+        },
+        {
+          "id": "s10",
+          "url": "https://waysandmeans.house.gov/members/",
+          "title": "Full Committee - Ways and Means",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Minority Members\nBrendan Boyle (PA)",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:PA"
+      ],
+      "person": {
+        "name": {
+          "value": "不伦丹·博伊尔",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1977-02-06",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "宾夕法尼亚州费城",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "哈佛大学肯尼迪政府学院公共政策硕士学位",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2008",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以民主党候选人身份参加宾夕法尼亚州众议院选举并当选，2008；州众议院官方履历明确记载 elected as a Democrat，日期仅到年；来源：https://archives.house.state.pa.us/people/member-biography?ID=1160 。第1级选民登记或本人公开宣布加入日期未找到；第2级2012年州众议院民主党竞选委员会主席线索所涉哈佛校刊原文打开失败，未采用；第3级州级首次参选登记日期未取得，联邦参选登记晚于已有州级参选经历，未采用。2004年、2006年落选经历已获州议会官方履历确认，但该页未明确这两次参选的党籍和选票日期，列入补证。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2008",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（宾夕法尼亚州第2选区）",
+          "role": "",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s9"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院预算委员会",
+          "role": "资深成员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s6"
+          ],
+          "roles": [
+            "资深成员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院筹款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3",
+            "s7",
+            "s10"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1995",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "官方履历记载圣母大学文学学士毕业年份为1999年；按美国本科四年制计算：1999－4＝1995。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1999",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1999",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "圣母大学",
+          "role": null,
+          "program": "政府学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015-01-02",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "宾夕法尼亚州众议院",
+          "role": "州众议员（第170选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员（第170选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（宾夕法尼亚州第13选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（宾夕法尼亚州第13选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（宾夕法尼亚州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s9"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（宾夕法尼亚州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.宾夕法尼亚州众议院.任期",
+          "alternatives": [
+            {
+              "value": "2008－2014",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2009－2015-01-02",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": "州众议院档案的届次表自2009年起列其为第170选区议员，传记明确记载2015年1月2日离任。",
+              "inference": null
+            }
+          ],
+          "selected_value": "2009－2015-01-02",
+          "reason": "采用任职机构州众议院档案的届次表及明确离任日期；国会人物页的2008年与州档案所记当选年相同。一级来源之间的任期表述差异交AI政见确认。"
+        },
+        {
+          "field": "person.degree",
+          "alternatives": [
+            {
+              "value": "哈佛大学肯尼迪政府学院公共政策文学硕士（M.A.）",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": "州众议院档案写作M.A., public policy。",
+              "inference": null
+            },
+            {
+              "value": "哈佛大学肯尼迪政府学院公共政策硕士（M.P.P.）",
+              "source_ids": [
+                "s1",
+                "s5"
+              ],
+              "inferred": false,
+              "basis": "国会人物页明确写作M.P.P.；提交众议院听证会的本人传记写作master's degree in Public Policy。",
+              "inference": null
+            }
+          ],
+          "selected_value": "哈佛大学肯尼迪政府学院公共政策硕士（M.P.P.）",
+          "reason": "采用国会人物页明确列示的学位缩写，并以听证会传记及同期媒体报道交叉支持。一级来源之间的学位缩写差异交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作时间：查过国会人物页、州众议院档案、2008年《费城问询报》报道、LegiStorm、本人LinkedIn及活动传记线索；已打开的可读原文确认其曾任American Management Systems管理顾问及国防部顾问，但没有取得第一份全职工作的可靠开始日期，work_start留null。",
+        "早期工作履历：American Management Systems管理顾问、美国国防部顾问的任职身份有来源；起止日期未取得可复核原文，未建立带日期的履历条目。底稿所列1999－2004和2005－2008两个期间未获证实。",
+        "哈佛学习履历：国会人物页及听证会传记确认2005年取得公共政策硕士；未查到可用原文明确入学年份、学习年限及脱产或在职性质，未建立起止时间条目。",
+        "本科就读性质：州众议院档案和国会传记未明确全日制或非全日制，full_time留null。",
+        "入党锚点：未取得选民党籍登记或本人公开宣布加入的日期；2012年党组织职务线索所涉哈佛校刊打开返回403，相关媒体网页复开超时；州级首次参选登记和2004年、2006年党派选票尚未取得。2008年锚点需继续向更早记录追溯。",
+        "现选区任职日期：可读LegiStorm页面明确第2选区自2019年起；未取得明确首次代表该选区的月日原文。书记官页面的2025年1月3日为本届宣誓日期。",
+        "委员会起始日期：预算委员会资深成员及筹款委员会委员的现任身份已获一级来源确认；未取得连续任职首次生效日期，current_roles.start留null。",
+        "其他教学经历：国会人物页及听证会传记确认曾任德雷塞尔大学兼职教授，但未取得可靠起止日期；议员官网关于普林斯顿大学客座讲师的传记打开失败，未写入履历或现任。",
+        "族裔：未取得本人自述或官方统计来源，不填写。",
+        "完整简历卡：参加工作时间缺证，首段五项门槛未满足；保留研究候选事实包，card_type留null。"
+      ],
+      "excluded": [
+        "底稿『现职起始2025-01』：书记官页面记载的是第119届宣誓日期；代表现第2选区的连续任职自2019年起。",
+        "底稿『圣母大学公共服务项目』作为本科专业：官方履历将government与Hesburgh Program in Public Service分别列示，本科专业采用政府学。",
+        "底稿『1999－2004年美国国防部海军海上系统司令部顾问』：未取得该单位细分及起止日期的可用原文。",
+        "底稿『2004－2005年哈佛学习』：2005年毕业有证据，2004年入学没有可用依据。",
+        "底稿『2005－2008年国防项目咨询顾问』：2008年媒体仅确认当时为商业顾问，未明确国防项目或该段起止日期。",
+        "底稿『1999年6月参加工作』：检索摘要出现的月份和年份未取得可靠可读原文，不沿用。",
+        "底稿『首个顾问条目为军职，参加工作或入伍待定』：已取得的官方来源仅记顾问身份，没有现役服役依据，work_start_action采用参加工作。",
+        "底稿『2008年11月加入美国民主党』：可用官方锚点只到2008年，不补当选月份。",
+        "底稿『预算委员会职务仅作履历括注』：按本批规则单列为现任委员会职务。",
+        "检索所得LegiStorm带hashkey页面的就业年月及哈佛2002－2004年学习线索：复开超时，普通公开页相关内容受订阅限制，不作为日期证据。",
+        "检索所得白人族裔说法：来源不符合本人自述或官方统计要求，不采用。",
+        "打不开的议员官网页面、哈佛校刊、Congress.gov页面及活动传记PDF：不列入sources。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（宾夕法尼亚州第2选区）＋美国国会众议院；Bioguide B001296",
+      "review_items": [
+        "AI政见确认：州众议员任期的一级来源表述差异。",
+        "AI政见确认：哈佛硕士学位M.A.与M.P.P.的一级来源缩写差异。",
+        "补取首次全职工作开始日期后，再评估完整简历卡门槛。",
+        "补取2004年及2006年州级参选登记、党派初选选票和更高优先级党籍锚点，重新评估2008年入党推断。",
+        "下一会话逐字段重新联网核查，本包为研究候选稿。"
+      ]
+    }
+  ]
+}

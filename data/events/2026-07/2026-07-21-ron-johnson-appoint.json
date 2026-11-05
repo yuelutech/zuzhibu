@@ -1,0 +1,89 @@
+{
+  "id": "2026-07-21-ron-johnson-appoint",
+  "date": "2026-07-21",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "ron-johnson",
+  "person": {
+    "name_zh": "罗恩·詹森",
+    "name_en": "Ron Johnson",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-07-22",
+  "effective_at": "2026-07-21",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国参议院预算委员会",
+      "role": "主席",
+      "organization_en": "U.S. Senate Committee on the Budget",
+      "role_en": "chairman",
+      "start": "2026-07-21",
+      "end": null,
+      "concurrent": true,
+      "sector": "committee",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": [
+    {
+      "organization": "美国联邦参议员（威斯康星州）",
+      "role": "",
+      "organization_en": "United States Senate",
+      "role_en": "U.S. Senator",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "罗恩·约翰逊接任美国参议院预算委员会主席",
+  "summary": "罗恩·约翰逊办公室7月22日公告称，参议院共和党会议于前一天选定他担任预算委员会主席，接替逝世的林赛·格雷姆。",
+  "bureaus": [
+    "congress"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.ronjohnson.senate.gov/2026/07/22/sen-johnson-named-chairman-of-the-u-s-senate-committee-on-the-budget/",
+      "title": "Sen. Johnson Named Chairman of the U.S. Senate Committee on the Budget",
+      "publisher": "Office of U.S. Senator Ron Johnson",
+      "published_at": "2026-07-22",
+      "excerpt": "Yesterday, U.S. Senator Ron Johnson (R-Wis.) was named chairman of the U.S. Senate Committee on the Budget by the Republican Conference.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152417",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "congress",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "现任职务新增：美国参议院预算委员会主席"
+    ],
+    "notes": [],
+    "bureau_before": "congress",
+    "bureau_after": "congress",
+    "person_id": "ron-johnson",
+    "reason": "主要职务“美国联邦参议员（威斯康星州）”：参众两院"
+  }
+}

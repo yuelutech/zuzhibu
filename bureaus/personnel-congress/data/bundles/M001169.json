@@ -1,0 +1,705 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-m001169",
+      "line": "cadre",
+      "subject_id": "m001169",
+      "title": "克里斯·墨菲简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "sen 2013-01-03~2031-01-03 CT Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: M",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Christopher Scott Murphy (born August 3, 1973) in White Plains, New York",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Chris_Murphy",
+          "title": "维基百科：Chris_Murphy",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Christopher Scott Murphy (born August 3, 1973) in White Plains, New York",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Chris_Murphy",
+          "title": "维基百科：Chris_Murphy",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born August 3, 1973 in White Plains, New York",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Chris_Murphy",
+          "title": "维基百科：Chris_Murphy",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Appropriations; Foreign Relations; Health, Education, Labor, and Pensions",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "https://www.murphy.senate.gov",
+          "title": "www.murphy.senate.gov",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Appropriations; Foreign Relations; Health, Education, Labor, and Pensions",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Chris_Murphy",
+          "title": "维基百科：Chris_Murphy",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Bachelor of Arts degree from Williams College",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Chris_Murphy",
+          "title": "维基百科：Chris_Murphy",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Juris Doctor degree from the University of Connecticut School of Law",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://en.wikipedia.org/wiki/Chris_Murphy",
+          "title": "维基百科：Chris_Murphy",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "From 1997 to 1998, Murphy worked for Connecticut State Senate Majority Leader George Jepsen",
+          "tier": 3
+        },
+        {
+          "id": "s11",
+          "url": "https://en.wikipedia.org/wiki/Chris_Murphy",
+          "title": "维基百科：Chris_Murphy",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Connecticut House: 1999–2003 (81st district)",
+          "tier": 3
+        },
+        {
+          "id": "s12",
+          "url": "https://en.wikipedia.org/wiki/Chris_Murphy",
+          "title": "维基百科：Chris_Murphy",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Connecticut State Senate: January 3, 2003 – January 3, 2007 (16th district)",
+          "tier": 3
+        },
+        {
+          "id": "s13",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "rep 2007-2013 CT-5 Democrat",
+          "tier": 1
+        },
+        {
+          "id": "s14",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. Senator: assumed office January 3, 2013",
+          "tier": 1
+        },
+        {
+          "id": "s15",
+          "url": "https://en.wikipedia.org/wiki/Chris_Murphy",
+          "title": "维基百科：Chris_Murphy",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Connecticut House of Representatives: In office January 3, 1999 – January 3, 2003",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "senate",
+        "state:CT"
+      ],
+      "person": {
+        "name": {
+          "value": "克里斯·墨菲",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1973-08-03",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "纽约州怀特普莱恩斯",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1996",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：威廉姆斯学院毕业参加工作；底稿备注：1996年本科毕业；最早可文证职务为1997年起任州参议院多数党领袖杰普森办公室工作人员，参加工作节点取毕业",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1996",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "康涅狄格大学法学院法学博士学位",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1998-11",
+          "source_ids": [
+            "s15"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以民主党身份当选康涅狄格州众议员（1998年11月当选，1999年就任）；来源：https://en.wikipedia.org/wiki/Chris_Murphy；底稿备注：取最早以民主党当选州众议员节点(1998)；月份按当选(11月)；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1998-11",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（康涅狄格州）",
+          "role": "",
+          "start": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院拨款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院外交关系委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工与养老金委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1992",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1996倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1996",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "威廉姆斯学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1997",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1998",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "康涅狄格州参议院多数党领袖乔治·杰普森办公室",
+          "role": "工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "工作人员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": true,
+            "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：在州众议院任内在职修读、约2002年取得",
+            "inference": {
+              "rule": "degree_duration",
+              "from_date": "2002",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "康涅狄格大学法学院",
+          "role": null,
+          "program": "法律",
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1999",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2003",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "康涅狄格州众议院",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "study",
+              "start": {
+                "value": "1999",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2002",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "康涅狄格大学法学院",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": {
+                "value": "法学博士",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "concurrent": true,
+              "source_ids": [
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "康涅狄格州参议院",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007-01",
+            "source_ids": [
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013",
+            "source_ids": [
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（康涅狄格州第5选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s13"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（康涅狄格州第5选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-01-03",
+            "source_ids": [
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（康涅狄格州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s14"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（康涅狄格州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "康涅狄格大学法学院J.D.年份",
+          "alternatives": [
+            {
+              "value": "Codex：1999",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "通行记载/与其1999年就任州众议员相容：约2002（在职修读）",
+              "source_ids": [],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "约2002，列入终审复核",
+          "reason": "底稿（Care 2026-06）记录的取舍，官方来源优先；待本机复核"
+        }
+      ],
+      "unknowns": [
+        "底稿缺项：威廉姆斯学院与康涅狄格大学法学院精确入学/毕业年",
+        "底稿缺项：1996-1997（本科毕业至杰普森办公室之间）",
+        "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+      ],
+      "excluded": [
+        "参加工作月份「1996年6月」：底稿推定（1996年本科毕业；最早可文证职务为1997年起任州参议院多数党领袖杰普森办公室工作人员，参加工作节点取毕业），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

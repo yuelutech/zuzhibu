@@ -1,0 +1,77 @@
+{
+  "id": "2026-08-07-stanley-brown-confirm",
+  "date": "2026-08-07",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "stanley-l-brown",
+  "person": {
+    "name_zh": "斯坦利·布朗",
+    "name_en": "Stanley Brown",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国驻赤道几内亚大使馆",
+      "role": "特命全权大使",
+      "organization_en": "United States Embassy — Republic of Equatorial Guinea",
+      "role_en": "Ambassador Extraordinary and Plenipotentiary to the Republic of Equatorial Guinea",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "参议院确认斯坦利·布朗出任美国驻赤道几内亚大使",
+  "summary": "参议院于2026-08-07确认Stanley Brown出任美国驻赤道几内亚大使（PN1022-8）。到任日期未由确认记录给出。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "Stanley Brown, of Virginia, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Equatorial Guinea.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "“美国驻赤道几内亚大使馆特命全权大使”：此人已于 2026-10-20 在同一机构到任（驻赤道几内亚大使），确认阶段不另写"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "stanley-l-brown"
+  }
+}

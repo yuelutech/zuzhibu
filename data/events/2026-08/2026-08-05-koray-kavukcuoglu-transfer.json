@@ -1,0 +1,117 @@
+{
+  "id": "2026-08-05-koray-kavukcuoglu-transfer",
+  "date": "2026-08-05",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "koray-kavukcuoglu",
+  "person": {
+    "name_zh": "科拉伊·卡武克丘奥卢",
+    "name_en": "Koray Kavukcuoglu",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-08-05",
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "谷歌旗下“深层思维”公司",
+      "role": "首席技术官",
+      "organization_en": "Google DeepMind",
+      "role_en": "Chief Technology Officer",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e5",
+        "e6"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "谷歌旗下“深层思维”公司",
+      "role": "高级副总裁",
+      "organization_en": "Google DeepMind",
+      "role_en": "SVP of Google DeepMind",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e5"
+      ]
+    }
+  ],
+  "other_current_roles": [
+    {
+      "organization": "谷歌公司",
+      "role": "首席人工智能架构师",
+      "organization_en": "Google",
+      "role_en": "Chief AI Architect",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "e5"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "科拉伊·卡武克丘奥卢升任谷歌旗下“深层思维”公司高级副总裁并接掌日常运营",
+  "summary": "谷歌8月5日宣布卡武克丘奥卢由“深层思维”首席技术官升任高级副总裁，直接向皮柴汇报，负责Gemini模型开发、前沿人工智能研究及相关应用和开发者团队。他继续兼任谷歌首席人工智能架构师。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e5",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "title": "The next chapter of our AI momentum",
+      "publisher": "Google",
+      "published_at": null,
+      "excerpt": "will step up as SVP of Google DeepMind",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e6",
+      "url": "https://www.investing.com/news/stock-market-news/google-shakes-up-ai-leadership-as-deepmind-chief-shifts-role-4838716?trk=public_post_comment-text",
+      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
+      "publisher": "Reuters（Investing.com转载）",
+      "published_at": "2026-08-05",
+      "excerpt": "Koray Kavukcuoglu",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "现任职务新增：谷歌旗下“深层思维”公司高级副总裁",
+      "履历新增：2026-08 谷歌旗下“深层思维”公司高级副总裁"
+    ],
+    "notes": [
+      "原任“谷歌旗下“深层思维”公司 首席技术官 Google DeepMind Chief Technology Officer”在记录的现任职务里找不到对应项，未移出"
+    ],
+    "bureau_before": "ai",
+    "bureau_after": "ai",
+    "person_id": "koray-kavukcuoglu",
+    "reason": "主要职务“谷歌旗下“深层思维”公司 高级副总裁”：AI 与科技机构名单"
+  }
+}

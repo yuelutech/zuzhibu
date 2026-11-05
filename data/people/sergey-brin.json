@@ -1,0 +1,446 @@
+{
+  "id": "sergey-brin",
+  "name_zh": "谢尔盖·布林",
+  "name_en": "Sergey Brin",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Google and Google DeepMind Co-founder, Google Google and Google DeepMind Co-founder, Google”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/sergey-brin.json（erju-jianli-3，程序检查通过，待独立核查）",
+  "portrait": {
+    "source": "https://research.google/people/sergeybrin/",
+    "url": "https://storage.googleapis.com/gweb-research2023-media/pubtools/700.png"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Google and Google DeepMind",
+      "role_en": "Co-founder, Google"
+    },
+    {
+      "organization_en": "Google and Google DeepMind",
+      "role_en": "Director, Alphabet"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“Google and Google DeepMind Co-founder, Google Google and Google DeepMind Co-founder, Google”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "sergey-brin-20261018",
+    "line": "cadre",
+    "subject_id": "sergey-brin",
+    "title": "谢尔盖·布林简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://abc.xyz/investor/board-and-governance/default.aspx",
+        "title": "Alphabet Board & Governance",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Sergey Brin.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm",
+        "title": "Alphabet 2026 Proxy Statement — Sergey Brin",
+        "published_at": "2026-04-24",
+        "checked_at": "2026-10-18",
+        "excerpt": "Sergey Brin Co-Founder Director since 1998.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.cs.umd.edu/community/alumnus/sergey-brin",
+        "title": "Sergey Brin — UMD",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Master of Science Degree in 1995.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://lemelson.mit.edu/resources/sergey-brin-and-larry-page",
+        "title": "Sergey Brin and Larry Page — MIT Lemelson",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Born in Moscow, Russia, on August 21, 1973",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/brin-sergey",
+        "title": "Brin, Sergey — Encyclopaedia Judaica",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "U.S. co-founder of Google.",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "谢尔盖·布林",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1973-08",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1998-09",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "education": {
+        "value": "斯坦福大学计算机科学理学硕士学位",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "硕士",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "谷歌公司",
+        "role": "联合创始人",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [
+          "联合创始人"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "字母表公司",
+        "role": "董事",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1993-09",
+          "source_ids": [
+            "s3",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "来源仅载1993年；按 cadre.md 3.3 的学年规则，入学取9月、毕业取5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1995-05",
+          "source_ids": [
+            "s3",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "来源仅载1995年；按 cadre.md 3.3 的学年规则，入学取9月、毕业取5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1995",
+            "duration_years": null
+          }
+        },
+        "organization": "斯坦福大学",
+        "role": null,
+        "program": "计算机科学",
+        "degree_awarded": {
+          "value": "理学硕士学位",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "谷歌公司",
+        "role": "总裁、董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "董事长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001-07",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011-04",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "谷歌公司",
+        "role": "技术总裁、联合创始人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "技术总裁",
+          "联合创始人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015-10",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "谷歌公司",
+        "role": "总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-10",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019-12",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "字母表公司",
+        "role": "总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "Alphabet 公司",
+    "conflicts": [],
+    "unknowns": [
+      "本科入学年月未找到；没有按标准四年倒推，避免把非标准提前毕业写成确定事实。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "MIT普及介绍将学位记为BA/MA，采用本人母校UMD明确列出的BS/MS；MIT仅用于出生日期。",
+      "1998年为谷歌董事任期起点；Alphabet法人董事从2015年重组延续，待复核精确法律日期。",
+      "有来源的无起始日期经历：马里兰大学；数学、计算机科学；终点：1993；来源：s3",
+      "字母表董事精确起始日期未核定，现任董事起始日期留空；联合创始人归属谷歌。",
+      "来源s1阅读记录：现任董事名单。",
+      "来源s2阅读记录：列1998年起历次总裁职务和终点。",
+      "来源s3阅读记录：1993年马里兰大学数学、计算机科学理学学士，1995年斯坦福计算机科学硕士。",
+      "来源s5阅读记录：1993年秋进入斯坦福。"
+    ]
+  }
+}

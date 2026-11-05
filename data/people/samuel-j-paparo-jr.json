@@ -1,0 +1,363 @@
+{
+  "id": "samuel-j-paparo-jr",
+  "name_zh": "塞缪尔·帕帕罗",
+  "name_en": "Samuel J. Paparo, Jr.",
+  "name_zh_pending": true,
+  "bureau": "military",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-22",
+  "origin": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“U.S. Pacific Command Admiral, Commander, U.S. Pacific Command U.S. Pacific Command Admiral, Commander, U.S. Pacific Command”：国防部与军队）；补采简历 bureaus/personnel-others/data/verified/samuel-j-paparo-jr.json（wuju，程序检查通过，待独立核查）",
+  "portrait": {
+    "file": "samuel-j-paparo-jr.jpg",
+    "source": "https://www.navy.mil/Resources/Photo-Gallery/igphoto/2003557169/",
+    "source_kind": "官方照片（军方官网）",
+    "license": "公有领域：美国联邦政府职务作品，Mass Communication Specialist 1st Class John Bellino（U.S. Navy photo）（This photograph is considered public domain and has been cleared for release.）；已换蓝白渐变底",
+    "url": "https://media.defense.gov/2024/Oct/02/2003557169/-1/-1/0/241002-N-CE729-1003.JPG"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Pacific Command",
+      "role_en": "Admiral, Commander, U.S. Pacific Command"
+    }
+  ],
+  "notes": [
+    "Command renamed from U.S. Indo-Pacific Command in June 2026."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "military",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“U.S. Pacific Command Admiral, Commander, U.S. Pacific Command U.S. Pacific Command Admiral, Commander, U.S. Pacific Command”：国防部与军队）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-samuel-j-paparo-jr",
+    "line": "cadre",
+    "subject_id": "samuel-j-paparo-jr",
+    "title": "塞缪尔·帕帕罗简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://docs.house.gov/meetings/AS/AS00/20260422/119131/HMTG-119-AS00-Bio-PaparoS-20260422.pdf",
+        "title": "Admiral Samuel Paparo — official biography",
+        "excerpt": "Adm. Sam Paparo, a native of Morton, Pennsylvania, graduated from Villanova University and was commissioned in 1987.",
+        "published_at": "2026-04-22",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "name_zh",
+        "url": "https://www.news.cn/mil/2024-05/07/c_1212359536.htm",
+        "title": "中文译名用例：塞缪尔·帕帕罗",
+        "excerpt": "塞缪尔·帕帕罗",
+        "published_at": "2024-05-07",
+        "checked_at": "2026-10-18",
+        "tier": 2
+      },
+      {
+        "id": "s_current",
+        "url": "https://www.mod.go.jp/en/article/2026/10/53d146ad5e82a1ba035c3e85cda38633b472e0d9.html",
+        "title": "Courtesy call on Defense Minister Koizumi by Admiral Paparo, Commander, U.S. Pacific Command",
+        "excerpt": "On October 9th 2026 ... Admiral Paparo, Commander, U.S. Pacific Command.",
+        "published_at": "2026-10-09",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft"
+    ],
+    "person": {
+      "name": {
+        "value": "塞缪尔·帕帕罗",
+        "source_ids": [
+          "name_zh"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国籍",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1965-07",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "出生年月未公布；本科毕业年减22，月份取7月。",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1987",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1987-05",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": true,
+        "basis": "本科毕业并授衔年份为1987年；具体月份未载，按美国毕业月5月。",
+        "inference": {
+          "rule": "academic_calendar",
+          "from_date": "1987",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "欧道明大学国际研究文学硕士、海军研究生院系统分析理学硕士双硕士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "入伍",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": {
+        "value": "海军上将",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国太平洋司令部",
+        "role": "司令",
+        "start": {
+          "value": "2024-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s_current"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1983-09",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "按毕业年减四年及美国学年9月推算本科入学。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1987",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1987-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "毕业月份未载，按美国学年默认5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1987",
+            "duration_years": null
+          }
+        },
+        "organization": "维拉诺瓦大学",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1987-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "本科毕业并授衔年份为1987年；具体月份未载，按美国毕业月5月。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1987",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "美国海军",
+        "role": "军官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2024-04",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国太平洋舰队",
+        "role": "司令",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国印度—太平洋司令部",
+        "role": "司令",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月未见直接记录，按1987年本科毕业减22年、月份取7月。",
+      "本科专业、学位类别和两个硕士的学习年月未载。",
+      "官方简历列海军中央司令部/第五舰队/联合海上力量司令、中央司令部作战主任、第10航母打击群司令、第7舰载机联队联队长、第195战斗攻击机中队中队长、阿富汗努里斯坦省重建队负责人等任职，未列完整任期。",
+      "官方native地为宾夕法尼亚莫顿，未直接认定出生地。",
+      "国籍依据官方美国海军军官身份记录；未见独立国籍声明。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": [
+      "任务所称印度—太平洋司令部对应现职；2026年10月日本防卫省会见记录称U.S. Pacific Command，现任用美国太平洋司令部，2024年到任履历保留当时名称。"
+    ]
+  }
+}

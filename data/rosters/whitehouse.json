@@ -1,0 +1,132 @@
+{
+  "id": "whitehouse",
+  "title": "白宫",
+  "groups": [
+    {
+      "title": "总统",
+      "style": "lead",
+      "members": [
+        {
+          "person": "donald-trump",
+          "post": "美国总统"
+        }
+      ]
+    },
+    {
+      "title": "副总统",
+      "style": "lead",
+      "members": [
+        {
+          "person": "jd-vance",
+          "post": "美国副总统"
+        }
+      ]
+    },
+    {
+      "title": "核心成员",
+      "style": "row",
+      "members": [
+        {
+          "person": "marco-rubio",
+          "post": "国务卿兼国家安全事务助理"
+        },
+        {
+          "person": "susie-wiles",
+          "post": "白宫办公厅主任"
+        }
+      ]
+    },
+    {
+      "title": "内阁成员",
+      "note": "按英文姓氏字母排列",
+      "style": "grid",
+      "members": [
+        {
+          "person": "scott-bessent",
+          "post": "财政部部长"
+        },
+        {
+          "person": "todd-blanche",
+          "post": "司法部长"
+        },
+        {
+          "person": "doug-burgum",
+          "post": "内政部部长"
+        },
+        {
+          "person": "jay-clayton",
+          "post": "国家情报总监"
+        },
+        {
+          "person": "doug-collins",
+          "post": "退伍军人事务部部长"
+        },
+        {
+          "person": "sean-duffy",
+          "post": "运输部部长"
+        },
+        {
+          "person": "jamieson-greer",
+          "post": "美国贸易代表"
+        },
+        {
+          "person": "pete-hegseth",
+          "post": "国防部（战争部）部长",
+          "short_post": "国防部部长"
+        },
+        {
+          "person": "robert-f-kennedy-jr",
+          "post": "卫生与公众服务部部长"
+        },
+        {
+          "person": "kelly-loeffler",
+          "post": "小企业管理局局长"
+        },
+        {
+          "person": "howard-lutnick",
+          "post": "商务部部长"
+        },
+        {
+          "person": "linda-e-mcmahon",
+          "post": "教育部部长"
+        },
+        {
+          "person": "markwayne-mullin",
+          "post": "国土安全部部长"
+        },
+        {
+          "person": "john-l-ratcliffe",
+          "post": "中央情报局局长"
+        },
+        {
+          "person": "brooke-rollins",
+          "post": "农业部部长"
+        },
+        {
+          "person": "keith-sonderling",
+          "post": "劳工部部长"
+        },
+        {
+          "person": "scott-turner",
+          "post": "住房和城市发展部部长"
+        },
+        {
+          "person": "russ-vought",
+          "post": "管理和预算办公室主任"
+        },
+        {
+          "person": "mike-waltz",
+          "post": "常驻联合国代表"
+        },
+        {
+          "person": "chris-wright",
+          "post": "能源部部长"
+        },
+        {
+          "person": "lee-zeldin",
+          "post": "环境保护署署长"
+        }
+      ]
+    }
+  ]
+}

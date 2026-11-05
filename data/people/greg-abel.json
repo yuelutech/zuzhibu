@@ -1,0 +1,1051 @@
+{
+  "id": "greg-abel",
+  "name_zh": "格雷格·阿贝尔",
+  "name_en": "Greg Abel",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "greg-abel.jpg",
+    "source": "维护者提供（格雷格·阿贝尔_Greg-Abel_伯克希尔-哈撒韦_原图.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Berkshire Hathaway Inc.",
+      "role_en": "President and Chief Executive Officer"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-greg-abel",
+    "line": "cadre",
+    "subject_id": "greg-abel",
+    "title": "格雷格·阿贝尔简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526004727/d32284d8ka.htm",
+        "title": "Berkshire Hathaway Inc. Form 8-K/A (Item 5.02), January 6, 2026",
+        "published_at": "2026-01-06",
+        "checked_at": "2026-10-21",
+        "excerpt": "As previously announced, on January 1, 2026, Mr. Greg Abel became Berkshire’s President and Chief Executive Officer.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm",
+        "title": "Berkshire Hathaway Inc. 2026 Proxy Statement (DEF 14A)",
+        "published_at": "2026-03-13",
+        "checked_at": "2026-10-21",
+        "excerpt": "GREGORY E. ABEL, age 63, has been a director of the Corporation since 2018 and became Berkshire’s Chief Executive Officer on January 1, 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm",
+        "title": "Berkshire Hathaway Inc. 2026 Proxy Statement (DEF 14A)",
+        "published_at": "2026-03-13",
+        "checked_at": "2026-10-21",
+        "excerpt": "He was the Corporation’s Vice Chairman – Non-Insurance Operations between 2018 and 2025. Between 2008 and 2018, Mr. Abel served as the Chief Executive Officer of Berkshire Hathaway Energy Company (“BHE”), a wholly owned Berkshire subsidiary.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm",
+        "title": "Berkshire Hathaway Inc. 2026 Proxy Statement (DEF 14A)",
+        "published_at": "2026-03-13",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Abel served as BHE’s Chairman until July 2025. Mr. Abel served as a director of The Kraft Heinz Company until May 2024.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm",
+        "title": "Berkshire Hathaway Inc. 2026 Proxy Statement (DEF 14A)",
+        "published_at": "2026-03-13",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Abel is a current director and Chairman Emeritus of the Horatio Alger Association of Distinguished Americans, Inc.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm",
+        "title": "Berkshire Hathaway Inc. 2026 Proxy Statement (DEF 14A)",
+        "published_at": "2026-03-13",
+        "checked_at": "2026-10-21",
+        "excerpt": "As previously announced, Gregory E. Abel succeeded Warren Buffett as Berkshire’s Chief Executive Officer on January 1, 2026. Mr. Buffett continues to be the Chairman of the Board of Directors.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm",
+        "title": "Berkshire Hathaway Inc. Form 10-K for fiscal year 2025",
+        "published_at": "2026-03-02",
+        "checked_at": "2026-10-21",
+        "excerpt": "Effective January 1, 2026, Mr. Abel became Berkshire’s Chief Executive Officer. Mr. Buffett remains the Chairman of Berkshire’s Board of Directors.",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm",
+        "title": "Berkshire Hathaway Inc. Form 10-K for fiscal year 2025 (signature page)",
+        "published_at": "2026-03-02",
+        "checked_at": "2026-10-21",
+        "excerpt": "Director—President and Chief Executive Officer",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312525115695/d28310d8k.htm",
+        "title": "Berkshire Hathaway Inc. Form 8-K (Item 5.02), May 8, 2025",
+        "published_at": "2025-05-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "On May 4, 2025, Berkshire’s Board of Directors voted unanimously to appoint Mr. Abel to become Berkshire’s President and CEO effective on January 1, 2026. Mr. Abel, age 62, has been a director of the Corporation and the Corporation’s Vice Chairman – Non-Insurance Operations since 2018.",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312525115695/d28310d8k.htm",
+        "title": "Berkshire Hathaway Inc. Form 8-K (Item 5.02), May 8, 2025",
+        "published_at": "2025-05-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Abel has served as BHE’s Chairman since 2011.",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312525115695/d28310d8k.htm",
+        "title": "Berkshire Hathaway Inc. Form 8-K (Item 5.02), May 8, 2025",
+        "published_at": "2025-05-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "He was a director of AEGIS Insurance Services Inc., a provider of property and liability insurance for the energy industry, from 2016 – 2023.",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.berkshirehathaway.com/news/jan1018.pdf",
+        "title": "Berkshire Hathaway Inc. News Release, January 10, 2018",
+        "published_at": "2018-01-10",
+        "checked_at": "2026-10-21",
+        "excerpt": "Gregory E. Abel and Ajit Jain were then elected to serve as Directors to fill the resulting vacancies on the Board of Directors.",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://www.cbc.ca/news/business/berkshire-hathaway-1.6011602",
+        "title": "Edmonton-born Greg Abel picked as Warren Buffett's successor as Berkshire Hathaway CEO (CBC News)",
+        "published_at": "2021-05-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "Abel was born in Edmonton, Alta., on June 1, 1962, which makes him almost 59 years old. He was educated at the University of Alberta with a degree in commerce, and he's an accountant by training.",
+        "tier": 2
+      },
+      {
+        "id": "s14",
+        "url": "https://www.cnbc.com/make-it/2025/05/07/warren-buffett-greg-abel-understands-businesses-extremely-well.html",
+        "title": "Warren Buffett: Greg Abel 'understands businesses extremely well' (CNBC)",
+        "published_at": "2025-05-07",
+        "checked_at": "2026-10-21",
+        "excerpt": "He graduated from the University of Alberta in 1984 with a bachelor of commerce degree in accounting, and worked as an accountant after college — first for PricewaterhouseCoopers, and then with geothermal electricity company CalEnergy, which later became MidAmerican Energy.",
+        "tier": 2
+      },
+      {
+        "id": "s15",
+        "url": "https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html",
+        "title": "Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game (CNBC)",
+        "published_at": "2026-06-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Abel, a longtime Iowa resident who was born in the Canadian city of Edmonton in 1962, was among the 22 people from 16 countries who participated in an annual naturalization ceremony hosted by the Iowa Cubs Thursday night in Des Moines, before the AAA minor league baseball team played the Buffalo Bisons.",
+        "tier": 2
+      },
+      {
+        "id": "s16",
+        "url": "https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html",
+        "title": "Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game (CNBC)",
+        "published_at": "2026-06-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Berkshire Hathaway CEO Greg Abel is now a citizen of the United States.",
+        "tier": 2
+      },
+      {
+        "id": "s17",
+        "url": "https://www.sec.gov/Archives/edgar/data/1081316/000108131605000022/mehc10k-2004.htm",
+        "title": "MidAmerican Energy Holdings Company Form 10-K for fiscal year 2004",
+        "published_at": "2005-03-01",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Abel joined MEHC in 1992 and initially served as Vice President and Controller. Mr. Abel is a Chartered Accountant and from 1984 to 1992 was employed by Price Waterhouse. As a Manager in the San Francisco office of Price Waterhouse, he was responsible for clients in the energy industry.",
+        "tier": 1
+      },
+      {
+        "id": "s18",
+        "url": "https://www.sec.gov/Archives/edgar/data/1081316/000108131608000006/mehc10k-123107.htm",
+        "title": "MidAmerican Energy Holdings Company Form 10-K for fiscal year 2007",
+        "published_at": "2008-02-29",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Abel has been the President and Chief Operating Officer since 1998 and a director since 2000. Mr. Abel joined MEHC in 1992. Mr. Abel is also a director of PacifiCorp.",
+        "tier": 1
+      },
+      {
+        "id": "s19",
+        "url": "https://www.sec.gov/Archives/edgar/data/1081316/000108131618000014/bhe123117form10-k.htm",
+        "title": "Berkshire Hathaway Energy Company Form 10-K for fiscal year 2017",
+        "published_at": "2018-02-26",
+        "checked_at": "2026-10-21",
+        "excerpt": "On January 10, 2018, Mr. Gregory E. Abel resigned as PacifiCorp's Chairman of the Board of Directors and Chief Executive Officer and Mr. William J. Fehrman was elected as PacifiCorp's Chairman of the Board of Directors and Chief Executive Officer.",
+        "tier": 1
+      },
+      {
+        "id": "s20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1081316/000108131618000014/bhe123117form10-k.htm",
+        "title": "Berkshire Hathaway Energy Company Form 10-K for fiscal year 2017",
+        "published_at": "2018-02-26",
+        "checked_at": "2026-10-21",
+        "excerpt": "As of February 16, 2018, Berkshire Hathaway, Mr. Walter Scott, Jr., a member of BHE's Board of Directors (along with his family members and related or affiliated entities) and Mr. Gregory E. Abel, BHE's Executive Chairman, beneficially owned 90.2%, 8.8% and 1.0%, respectively, of BHE's voting common stock.",
+        "tier": 1
+      },
+      {
+        "id": "s21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465923036287/tm2230899d2_def14a.htm",
+        "title": "The Kraft Heinz Company 2023 Proxy Statement (DEF 14A), director nominee Gregory E. Abel",
+        "published_at": "2023-03-24",
+        "checked_at": "2026-10-21",
+        "excerpt": "Vice Chair, Non-Insurance Operations (January 2018 to present)",
+        "tier": 1
+      },
+      {
+        "id": "s22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465923036287/tm2230899d2_def14a.htm",
+        "title": "The Kraft Heinz Company 2023 Proxy Statement (DEF 14A), director nominee Gregory E. Abel",
+        "published_at": "2023-03-24",
+        "checked_at": "2026-10-21",
+        "excerpt": "President (1998 to January 2018)",
+        "tier": 1
+      },
+      {
+        "id": "s23",
+        "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465923036287/tm2230899d2_def14a.htm",
+        "title": "The Kraft Heinz Company 2023 Proxy Statement (DEF 14A), director nominee Gregory E. Abel",
+        "published_at": "2023-03-24",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chief Executive Officer (2008 to January 2018)",
+        "tier": 1
+      },
+      {
+        "id": "s24",
+        "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465923036287/tm2230899d2_def14a.htm",
+        "title": "The Kraft Heinz Company 2023 Proxy Statement (DEF 14A), director nominee Gregory E. Abel",
+        "published_at": "2023-03-24",
+        "checked_at": "2026-10-21",
+        "excerpt": "H.J. Heinz Holding Corporation, one of our predecessor companies (2013 to 2015)",
+        "tier": 1
+      },
+      {
+        "id": "s25",
+        "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465923036287/tm2230899d2_def14a.htm",
+        "title": "The Kraft Heinz Company 2023 Proxy Statement (DEF 14A), director nominee Gregory E. Abel",
+        "published_at": "2023-03-24",
+        "checked_at": "2026-10-21",
+        "excerpt": "HomeServices of America Inc., a residential real estate services company and subsidiary of Berkshire Hathaway Inc. (previously Homeservices.com Inc.) (1999 to October 2020)",
+        "tier": 1
+      },
+      {
+        "id": "s26",
+        "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465923036287/tm2230899d2_def14a.htm",
+        "title": "The Kraft Heinz Company 2023 Proxy Statement (DEF 14A), director nominee Gregory E. Abel",
+        "published_at": "2023-03-24",
+        "checked_at": "2026-10-21",
+        "excerpt": "Director since July 2015",
+        "tier": 1
+      },
+      {
+        "id": "s27",
+        "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465923036287/tm2230899d2_def14a.htm",
+        "title": "The Kraft Heinz Company 2023 Proxy Statement (DEF 14A), director nominee Gregory E. Abel",
+        "published_at": "2023-03-24",
+        "checked_at": "2026-10-21",
+        "excerpt": "Director (January 2018 to present)",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": "公司报送文件称 Mr. Greg Abel",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s15",
+          "s16"
+        ],
+        "inferred": false,
+        "basis": "CNBC 2026-06-27报道其已于2026年6月25日在爱荷华州得梅因入籍美国；生于加拿大埃德蒙顿（见出生地）。是否保留加拿大国籍未检得来源",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1962-06-01",
+        "source_ids": [
+          "s13"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "加拿大埃德蒙顿",
+        "source_ids": [
+          "s13",
+          "s15"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1984-07",
+        "source_ids": [
+          "s17",
+          "s14"
+        ],
+        "inferred": true,
+        "basis": "第一份全职工作：1984年大学毕业后进入普华会计师事务所（Price Waterhouse）任会计师，1984—1992年在该所；月份未检得；参加工作月份无记载，取 7 月（cadre.md 第 3 节第 3 条）",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1984",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "大学本科",
+        "source_ids": [
+          "s14",
+          "s13"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "阿尔伯塔大学会计专业商学学士学位",
+        "source_ids": [
+          "s14",
+          "s13"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "格雷格·阿贝尔",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "伯克希尔-哈撒韦公司",
+        "role": "总裁、首席执行官、董事",
+        "start": {
+          "value": "2026-01",
+          "source_ids": [
+            "s1",
+            "s8",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s8",
+          "s2",
+          "s12",
+          "s27"
+        ],
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1980",
+          "source_ids": [
+            "s14",
+            "s13"
+          ],
+          "inferred": true,
+          "basis": "毕业年 1984 减标准学制 4 年（写法第 6 节）",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1984",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1984",
+          "source_ids": [
+            "s14",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "阿尔伯塔大学",
+        "role": null,
+        "program": "会计",
+        "degree_awarded": {
+          "value": "商学学士学位",
+          "source_ids": [
+            "s14",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s14",
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1984-07",
+          "source_ids": [
+            "s17",
+            "s14"
+          ],
+          "inferred": true,
+          "basis": "与首段参加工作一致（参加工作月份无记载，取 7 月）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1984",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1992",
+          "source_ids": [
+            "s17",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "普华会计师事务所",
+        "role": "会计师、旧金山办事处经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s17",
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "会计师",
+          "旧金山办事处经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "s17",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s17",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "加利福尼亚能源公司（CalEnergy）",
+        "role": "副总裁、主计长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s17",
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副总裁",
+          "主计长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1998",
+          "source_ids": [
+            "s18",
+            "s22"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s18",
+            "s22"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "中美能源控股公司",
+        "role": "总裁、首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s18",
+          "s22"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "1999",
+              "source_ids": [
+                "s25"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2020-10",
+              "source_ids": [
+                "s25"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "HomeServices of America 公司",
+            "role": "董事",
+            "roles": [
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s25"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s3",
+            "s22",
+            "s23"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011",
+          "source_ids": [
+            "s3",
+            "s22",
+            "s23"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "中美能源控股公司",
+        "role": "总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s22",
+          "s23"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "s10",
+            "s22",
+            "s23",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018-01",
+          "source_ids": [
+            "s10",
+            "s22",
+            "s23",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "伯克希尔-哈撒韦能源公司（原中美能源控股公司）",
+        "role": "董事长、总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10",
+          "s22",
+          "s23",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长",
+          "总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2013",
+              "source_ids": [
+                "s24"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2015",
+              "source_ids": [
+                "s24"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "亨氏控股公司",
+            "role": "董事",
+            "roles": [
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s24"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2015-07",
+              "source_ids": [
+                "s26",
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2024-05",
+              "source_ids": [
+                "s26",
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "卡夫亨氏公司",
+            "role": "董事",
+            "roles": [
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s26",
+              "s4"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2016",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2023",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "AEGIS Insurance Services 公司",
+            "role": "董事",
+            "roles": [
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-01",
+          "source_ids": [
+            "s12",
+            "s21",
+            "s27",
+            "s3",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025-12",
+          "source_ids": [
+            "s12",
+            "s21",
+            "s27",
+            "s3",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "伯克希尔-哈撒韦公司",
+        "role": "非保险业务副董事长、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s12",
+          "s21",
+          "s27",
+          "s3",
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "非保险业务副董事长",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2018-01",
+              "source_ids": [
+                "s20",
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2025-07",
+              "source_ids": [
+                "s20",
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "伯克希尔-哈撒韦能源公司",
+            "role": "执行董事长",
+            "roles": [
+              "执行董事长"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s20",
+              "s4"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-01",
+          "source_ids": [
+            "s1",
+            "s8",
+            "s2",
+            "s6",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "伯克希尔-哈撒韦公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s8",
+          "s2",
+          "s6",
+          "s7"
+        ],
+        "ongoing": true,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "伯克希尔-哈撒韦公司",
+    "conflicts": [
+      {
+        "field": "current_roles.roles",
+        "alternatives": [
+          {
+            "value": "总裁兼首席执行官",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "首席执行官",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "总裁兼首席执行官",
+        "reason": "8-K/A（2026-01-06）和10-K签名页写 President and Chief Executive Officer；委托书只写 Chief Executive Officer。按8-K/A和10-K，现职应为总裁兼首席执行官，名单上的“首席执行官”宜改为“总裁兼首席执行官”"
+      },
+      {
+        "field": "careers[伯克希尔-哈撒韦能源公司].roles",
+        "alternatives": [
+          {
+            "value": "Executive Chairman",
+            "source_ids": [
+              "s20"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "Chairman",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "Executive Chairman",
+        "reason": "2018年2月BHE年报称其为 Executive Chairman；伯克希尔文件称其2011年起任BHE董事长、2025年7月卸任。2018年1月后具体头衔以执行董事长计，何时改称董事长未检得"
+      }
+    ],
+    "unknowns": [
+      "大学入学年份：未检得一级或二级来源",
+      "参加工作月份：只检得1984年起受雇于普华会计师事务所，月份未检得",
+      "在加利福尼亚能源公司任副总裁兼财务总监的截止时间：来源只说入职时（initially）任此职，1998年起任总裁兼首席运营官",
+      "在太平洋电力公司（PacifiCorp）任董事、董事长兼首席执行官的起始时间：未检得",
+      "霍雷肖·阿尔杰美国杰出人士协会董事、荣誉主席的起始时间：未检得",
+      "是否保留加拿大国籍：未检得来源（CNBC转述WHO-TV称其为“former Canadian citizen”，非直接陈述）"
+    ],
+    "excluded": [
+      "中美能源控股公司董事（2000起）：止期无来源，主线条目已结束，不能写成在任，不写进括注",
+      "太平洋电力公司（PacifiCorp）董事：起始时间无来源，不写进履历括注",
+      "太平洋电力公司（PacifiCorp）董事长、首席执行官：起始时间无来源，不写进履历括注",
+      "霍雷肖·阿尔杰美国杰出人士协会董事、荣誉主席：起始时间无来源，不写进履历括注"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Greg Abel；伯克希尔-哈撒韦公司；总裁、首席执行官、董事",
+    "review_items": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "2026-09-03-shantanu-narayen-announce",
+  "date": "2026-09-03",
+  "kind": "announce",
+  "kind_label": "宣布",
+  "person_id": "shantanu-narayen",
+  "person": {
+    "name_zh": "尚塔努·纳拉延",
+    "name_en": "Shantanu Narayen",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-03",
+  "effective_at": "2026-12-01",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "Adobe公司",
+      "role": "执行董事长",
+      "organization_en": "Adobe",
+      "role_en": "Executive Chair",
+      "start": "2026-12-01",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "adobe-shantanu",
+        "c1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "Adobe宣布尚塔努·纳拉延将于12月1日转任执行董事长",
+  "summary": "Adobe于9月3日宣布，纳拉延将于12月1日转任执行董事长，配合查克拉瓦蒂接任总裁兼首席执行官。截至10月18日，该安排尚未生效。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "adobe-shantanu",
+      "url": "https://news.adobe.com/news/2026/09/adobe-announces-anil-chakravarthy-to-become-president-and-ceo",
+      "title": "Adobe Announces Anil Chakravarthy to Become President and CEO and Shantanu Narayen to Become Executive Chair on December 1, 2026",
+      "publisher": "Adobe",
+      "published_at": "2026-09-03",
+      "excerpt": "Shantanu Narayen will transition to executive chair",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "c1",
+      "url": "https://news.adobe.com/news/2026/09/adobe-announces-anil-chakravarthy-to-become-president-and-ceo",
+      "title": "Adobe Announces Anil Chakravarthy to Become President and CEO and Shantanu Narayen to Become Executive Chair on December 1, 2026",
+      "publisher": "",
+      "published_at": "2026-09-03",
+      "excerpt": "will become Adobe’s next president and chief executive officer and join the Board of Directors effective December 1, 2026. Shantanu Narayen will transition to executive chair",
+      "supports": [
+        "effective_at"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094711",
+    "corrections": [
+      "effective_at → 2026-12-01（来源 c1）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（adobe-shantanu：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-sep-shantanu-narayen",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 shantanu-narayen（库里没有此人）",
+      "拟于 2026-12-01 任Adobe公司执行董事长（生效日之前不改现任）",
+      "所属局：按宣布职务定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "shantanu-narayen"
+  }
+}

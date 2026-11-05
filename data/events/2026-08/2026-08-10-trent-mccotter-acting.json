@@ -1,0 +1,77 @@
+{
+  "id": "2026-08-10-trent-mccotter-acting",
+  "date": "2026-08-10",
+  "kind": "acting",
+  "kind_label": "代理",
+  "person_id": "trent-mccotter",
+  "person": {
+    "name_zh": "特伦特·麦科特",
+    "name_en": "Trent McCotter",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": null,
+  "effective_at": "2026-08-10",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国司法部",
+      "role": "代理常务副部长",
+      "organization_en": "United States Department of Justice",
+      "role_en": "Acting Deputy Attorney General",
+      "start": "2026-08-10",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "特伦特·麦科特任美国司法部代理常务副部长",
+  "summary": "麦科特8月10日开始担任代理常务副部长。",
+  "bureaus": [
+    "justice"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.justice.gov/dag/staff-profile/meet-acting-deputy-attorney-general",
+      "title": "Meet the Acting Deputy Attorney General",
+      "publisher": "美国司法部",
+      "published_at": null,
+      "excerpt": "Trent McCotter became the Acting Deputy Attorney General on August 10, 2026.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 trent-mccotter（库里没有此人）",
+      "现任职务新增：美国司法部代理常务副部长",
+      "履历新增：2026-08 美国司法部代理常务副部长",
+      "所属局：定为六局·公检法干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "justice",
+    "person_id": "trent-mccotter",
+    "reason": "主要职务“美国司法部 代理常务副部长”：法院、司法部与执法机构"
+  }
+}

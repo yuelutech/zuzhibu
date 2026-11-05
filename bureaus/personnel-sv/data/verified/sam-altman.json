@@ -1,0 +1,470 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "sam-altman-20261018",
+      "line": "cadre",
+      "subject_id": "sam-altman",
+      "title": "萨姆·奥尔特曼简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://openai.com/our-structure/",
+          "title": "Our structure — OpenAI",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Sam Altman.",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.biography.com/business-leaders/a65810455/sam-altman",
+          "title": "Sam Altman: Meet the Tech Innovator at the Heart of OpenAI",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born on April 22, 1985.",
+          "tier": 2
+        },
+        {
+          "id": "s3",
+          "url": "https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board/",
+          "title": "Sam Altman returns as CEO, OpenAI has a new initial board",
+          "published_at": "2023-11-29",
+          "checked_at": "2026-10-18",
+          "excerpt": "Sam Altman returns as CEO",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://aiforgood.itu.int/speaker/sam-altman/",
+          "title": "Sam Altman — ITU AI for Good",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "American software engineers.",
+          "tier": 1
+        }
+      ],
+      "tags": [],
+      "person": {
+        "name": {
+          "value": "萨姆·奥尔特曼",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1985-04",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "2005-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2005年离校创办Loopt；首份工作月份按美国学年规则取6月。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2005",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "斯坦福大学肄业",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": null,
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": {
+          "value": "斯坦福大学",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "开放人工智能研究中心（OpenAI）",
+          "role": "首席执行官",
+          "start": {
+            "value": "2023-11",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "roles": [
+            "首席执行官"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "开放人工智能研究中心（OpenAI）基金会",
+          "role": "董事",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "董事"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "开放人工智能研究中心（OpenAI）集团公益公司",
+          "role": "董事",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "董事"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2005-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "2005年离校创办Loopt；首份工作月份按美国学年规则取6月。",
+            "inference": {
+              "rule": "first_full_time_job",
+              "from_date": "2005",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Loopt 公司",
+          "role": "联合创始人、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014-02",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Y Combinator 公司",
+          "role": "合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "合伙人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014-02",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Y Combinator 公司",
+          "role": "总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "总裁"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-12",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "开放人工智能研究中心（OpenAI）",
+          "role": "联合创始人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023-11",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "开放人工智能研究中心（OpenAI）",
+          "role": "首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-11",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "开放人工智能研究中心（OpenAI）",
+          "role": "首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "OpenAI",
+      "conflicts": [
+        {
+          "field": "careers.Stanford.start",
+          "alternatives": [
+            {
+              "value": "2003",
+              "source_ids": [
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2004",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": null,
+          "reason": "入学年份冲突，暂留空；两来源均支持肄业。"
+        }
+      ],
+      "unknowns": [
+        "斯坦福大学入学年：Biography为2003年，ITU活动简历为2004年；未列入带时间的学习条目。",
+        "基金会及集团本届董事起始年月未找到；其他投资企业现职未获得本次可采用的官方证据。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": [
+        "来源s1阅读记录：列基金会董事、集团董事及首席执行官。",
+        "来源s2阅读记录：列Loopt、YC、OpenAI履历及斯坦福肄业。",
+        "来源s4阅读记录：此页面入学年与Biography资料不同；仅采用国籍类别及肄业事实。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-3"
+}

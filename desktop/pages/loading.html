@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:">
+<title>AI政见·组织部</title>
+<style>
+  :root { --red: #B8141C; --paper: #F6F4EF; --ink: #1A1A1A; --meta: #777777; --overlay: 48px; }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    display: flex; flex-direction: column; background: var(--paper); color: var(--ink);
+    font-family: "Microsoft YaHei UI", "Microsoft YaHei", "PingFang SC", system-ui, sans-serif; user-select: none;
+  }
+  .bar {
+    flex: none; height: env(titlebar-area-height, var(--overlay)); min-height: var(--overlay); background: var(--red);
+    -webkit-app-region: drag;
+  }
+  .main { flex: 1; display: grid; place-items: center; -webkit-app-region: drag; }
+  .brand { display: flex; flex-direction: column; align-items: center; gap: 18px; }
+  .logo { width: 72px; height: 72px; }
+  .name { font-family: "SimSun", "NSimSun", "Songti SC", serif; font-size: 26px; font-weight: 700; letter-spacing: .08em; }
+  .wait { display: flex; align-items: center; gap: 10px; color: var(--meta); font-size: 14px; }
+  .spin {
+    width: 16px; height: 16px; border: 2px solid rgba(199, 22, 30, .2); border-top-color: var(--red); border-radius: 50%;
+    animation: spin .9s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce) { .spin { animation: none; } }
+</style>
+</head>
+<body>
+  <div class="bar"></div>
+  <div class="main">
+    <div class="brand">
+      <svg class="logo" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#B8141C"/><path fill="#fff" fill-rule="evenodd" d="M13.5 48 24 16h6.5L41 48h-7l-2.1-6.8h-9.8L20.5 48zM24 35.6h6.1L27 25.4zM44 16h6.5v32H44z"/></svg>
+      <div class="name">AI政见·组织部</div>
+      <div class="wait"><span class="spin"></span><span>正在打开</span></div>
+    </div>
+  </div>
+</body>
+</html>

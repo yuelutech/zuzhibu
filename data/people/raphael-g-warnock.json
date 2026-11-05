@@ -1,0 +1,641 @@
+{
+  "id": "raphael-g-warnock",
+  "name_zh": "拉斐尔·沃诺克",
+  "name_en": "Raphael G. Warnock",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "W000790"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "raphael-g-warnock.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Raphael_Warnock_official_photo.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（U.S. Senate Photographic Studio, Rebecca Hammel；.mw-parser-output .plainlist ul{line-height:inherit;list-style:none none;margin:0}.mw-parser-output .plainlist u），File:Raphael Warnock official photo.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Raphael_Warnock_official_photo.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-w000790",
+    "line": "cadre",
+    "subject_id": "w000790",
+    "title": "拉斐尔·沃诺克简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2021-01-20~2029-01-03 GA Democrat",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: M",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "July 23, 1969 in Savannah, Georgia",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Raphael_Warnock",
+        "title": "维基百科：Raphael_Warnock",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "July 23, 1969 in Savannah, Georgia",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://www.gpb.org/news/2025/01/06/ossoff-warnock-pick-new-senate-committee-assignments",
+        "title": "www.gpb.org",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Warnock appointed to Senate Finance Committee; returns to Agriculture and Banking committees",
+        "tier": null
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Raphael_Warnock",
+        "title": "维基百科：Raphael_Warnock",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "graduated cum laude in 1991 with a Bachelor of Arts degree in psychology",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Raphael_Warnock",
+        "title": "维基百科：Raphael_Warnock",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "earned Master of Divinity, Master of Philosophy, and Doctor of Philosophy degrees from Union Theological Seminary",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Raphael_Warnock",
+        "title": "维基百科：Raphael_Warnock",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Abyssinian Baptist Church (New York): Youth pastor and assistant pastor during the 1990s",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Raphael_Warnock",
+        "title": "维基百科：Raphael_Warnock",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "In January 2001, Warnock was elected senior pastor (Douglas Memorial Community Church, Baltimore)",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Raphael_Warnock",
+        "title": "维基百科：Raphael_Warnock",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "On Father's Day 2005, Warnock was named senior pastor",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Assumed office January 20, 2021 (special election victory January 5, 2021)",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Raphael_Warnock",
+        "title": "维基百科：Raphael_Warnock",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Abyssinian Baptist Church: Youth pastor and assistant pastor roles during the 1990s",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://www.fec.gov/data/candidates/?q=Raphael+Warnock",
+        "title": "www.fec.gov",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "FEC candidate S0GA00559 (2020/2021 GA Senate special)",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:GA"
+    ],
+    "person": {
+      "name": {
+        "value": "拉斐尔·沃诺克",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1969-07-23",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "佐治亚州萨凡纳",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1991",
+        "source_ids": [
+          "s12"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：莫尔豪斯学院毕业后任阿比西尼亚浸礼会教堂青年牧师；底稿备注：1991年本科毕业衔接宗教机构任职；月份按毕业次月推定",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1991",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "纽约联合神学院神学哲学博士学位",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2020-01",
+        "source_ids": [
+          "s13"
+        ],
+        "inferred": true,
+        "basis": "第3级锚点：首次以民主党身份参选联邦参议员：2020年1月宣布参加佐治亚州联邦参议员特别选举（FEC ID S0GA00559）；来源：https://www.fec.gov/data/candidates/?q=Raphael+Warnock；底稿备注：2020年1月宣布参选；取该最早以民主党参选节点",
+        "inference": {
+          "rule": "party_anchor_candidacy_filing",
+          "from_date": "2020-01",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（佐治亚州）",
+        "role": "",
+        "start": {
+          "value": "2021-01-20",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院农业、营养与林业委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院银行、住房与城市事务委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院财政委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1987",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1991倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1991",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1991",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "莫尔豪斯学院",
+        "role": null,
+        "program": "心理学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s6"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1991",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：本科毕业衔接、博士约2005年完成",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "2005",
+            "duration_years": 14
+          }
+        },
+        "end": {
+          "value": "2005",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "纽约联合神学院",
+        "role": null,
+        "program": "神学",
+        "degree_awarded": {
+          "value": "神学硕士、哲学硕士、哲学博士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1991",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2001",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "纽约阿比西尼亚浸礼会教堂",
+        "role": "青年牧师、助理牧师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "青年牧师",
+          "助理牧师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "study",
+            "start": {
+              "value": "1991",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2005",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "纽约联合神学院",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": {
+              "value": "神学硕士、哲学硕士、哲学博士",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "concurrent": true,
+            "source_ids": [
+              "s8"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2005",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "巴尔的摩道格拉斯纪念社区教堂",
+        "role": "主任牧师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "主任牧师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "亚特兰大埃比尼泽浸礼会教堂",
+        "role": "主任牧师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": true,
+        "roles": [
+          "主任牧师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-01-20",
+          "source_ids": [
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（佐治亚州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（佐治亚州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：联合神学院各学位（M.Div./M.Phil./Ph.D.）精确年份",
+      "底稿缺项：阿比西尼亚浸礼会教堂任职精确起止",
+      "底稿缺项：eFD 最新年度申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1991年6月」：底稿推定（1991年本科毕业衔接宗教机构任职；月份按毕业次月推定），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "id": "craig-h-barratt",
+  "name_zh": "克雷格·巴拉特",
+  "name_en": "Craig H. Barratt",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“英特尔公司 Independent Chair of the Board Intel Independent Chair of the Board”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/craig-h-barratt.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://intelcorp.scene7.com/is/image/intelcorp/dr-craig-barratt-1920x1080%3A1920-1080?dpr=off&fmt=png8-alpha&ts=1782320999472",
+    "source": "https://www.intel.com/content/www/us/en/corporate/biography/dr-craig-h-barratt.html"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Intel",
+      "role_en": "Independent Chair of the Board"
+    }
+  ],
+  "notes": [
+    "The proxy biography predates the Chair appointment."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“英特尔公司 Independent Chair of the Board Intel Independent Chair of the Board”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "craig-h-barratt-20261018",
+    "line": "cadre",
+    "subject_id": "craig-h-barratt",
+    "title": "克雷格·巴拉特简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.intel.com/content/www/us/en/corporate/biography/dr-craig-h-barratt.html",
+        "title": "Intel：Dr. Craig H. Barratt",
+        "excerpt": "was named chair of the board in May 2026.",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm",
+        "title": "Intel 2026 Proxy Statement",
+        "excerpt": "Age: 63 Director Since: 2025",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.sydney.edu.au/news-opinion/news/2016/04/07/meet-our-alumni-achievement-award-winners.html",
+        "title": "Sydney：Alumni Achievement Award winners",
+        "excerpt": "Craig Barratt (BSc ’83 BE (Electrical) ’85)",
+        "published_at": "2016-04-07",
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "克雷格·巴拉特"
+    ],
+    "person": {
+      "name": {
+        "value": "克雷格·巴拉特",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1962-09",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "2026年3月23日代理声明列63岁，区间1962-03-24至1963-03-23，取中间月份1962年9月。",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-03-23",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "斯坦福大学电气工程专业",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "英特尔公司",
+        "role": "董事长",
+        "start": {
+          "value": "2026-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "直觉外科公司",
+        "role": "首席独立董事",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "Astera Labs 公司",
+        "role": "董事",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2003",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2011-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "organization": "Atheros Communications 公司",
+        "role": "总裁兼首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2013-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2013",
+            "duration_years": null
+          }
+        },
+        "organization": "高通 Atheros 公司",
+        "role": "总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2013",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2017-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2017",
+            "duration_years": null
+          }
+        },
+        "organization": "谷歌公司",
+        "role": "接入及能源业务负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2017",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2019-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2019",
+            "duration_years": null
+          }
+        },
+        "organization": "Barefoot Networks 公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2019",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2020-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2020",
+            "duration_years": null
+          }
+        },
+        "organization": "英特尔公司",
+        "role": "高级副总裁兼总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-11",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "英特尔公司",
+        "role": "独立董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-05",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "英特尔公司",
+        "role": "董事长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "英特尔公司",
+    "conflicts": [],
+    "unknowns": [
+      "国籍、首份全职工作的开始时间未查明。",
+      "1983年理学学士和1985年工程学学士的入学日期、硕士博士日期未查明。",
+      "2020年至2025年主要职业及私营公司兼职名单未查明。",
+      "已核实经历，开始时间未知：悉尼大学；纯数学与物理、电气工程专业学习；已获理学、工程学双学士；结束1985-07。来源：s1、s3。",
+      "已核实经历，开始时间未知：斯坦福大学；电气工程专业研究生学习；已获硕士、博士。来源：s1。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "本人为英特尔现任董事长 Craig H. Barratt，非前首席执行官 Craig R. Barrett。",
+    "review_items": []
+  }
+}

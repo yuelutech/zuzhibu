@@ -1,0 +1,148 @@
+{
+  "id": "2026-08-03-bill-pulte-leave",
+  "date": "2026-08-03",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "bill-pulte",
+  "person": {
+    "name_zh": "比尔·普尔特",
+    "name_en": "Bill Pulte",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": null,
+  "effective_at": "2026-08-03",
+  "ended_roles": [
+    {
+      "organization": "美国国家情报总监办公室",
+      "role": "代理国家情报总监",
+      "organization_en": "Office of the Director of National Intelligence",
+      "role_en": "Acting Director of National Intelligence",
+      "start": null,
+      "end": "2026-08-03",
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": [
+    {
+      "organization": "美国联邦住房金融局",
+      "role": "局长",
+      "organization_en": "Federal Housing Finance Agency",
+      "role_en": "Director",
+      "start": "2025-03-14",
+      "end": null,
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e2",
+        "e4"
+      ]
+    },
+    {
+      "organization": "房利美",
+      "role": "董事会主席",
+      "organization_en": "Fannie Mae",
+      "role_en": "Chair",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "e3"
+      ]
+    },
+    {
+      "organization": "房地美",
+      "role": "董事会主席",
+      "organization_en": "Freddie Mac",
+      "role_en": "Chair",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "e4"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "比尔·普尔特卸任美国代理国家情报总监",
+  "summary": "普尔特8月3日向克莱顿交接国家情报总监职务。他继续担任联邦住房金融局局长及房利美、房地美董事会主席。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://finwire.io/news/politics-news/jay-clayton-sworn-in-as-trumps-dni-bill-pulte-steps-down-before-another-round-of-agency-layoffs",
+      "title": "Jay Clayton sworn in as Trump’s DNI — Bill Pulte steps down before another round of agency layoffs",
+      "publisher": "纽约邮报（finwire.io转载）",
+      "published_at": "2026-08-03",
+      "excerpt": "Pulte said he’d be stepping back on Monday",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://www.fhfa.gov/about/leadership/william-j-pulte",
+      "title": "William J. Pulte, Director",
+      "publisher": "美国联邦住房金融局",
+      "published_at": null,
+      "excerpt": "On March 14, 2025, William J. Pulte was sworn in as the 5th Director of U.S. Federal Housing",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e3",
+      "url": "https://www.fanniemae.com/about-us/corporate-governance/board-directors",
+      "title": "Board of Directors",
+      "publisher": "房利美",
+      "published_at": null,
+      "excerpt": "William J. Pulte, Chair",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e4",
+      "url": "https://www.freddiemac.com/governance/board-directors",
+      "title": "Board of Directors",
+      "publisher": "房地美",
+      "published_at": null,
+      "excerpt": "William J. Pulte\n\nChair\nFreddie Mac\nDirector\nFederal Housing Finance Agency",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 bill-pulte（库里没有此人）"
+    ],
+    "notes": [
+      "原任“美国国家情报总监办公室 代理国家情报总监 Office of the Director of National Intelligence Acting Director of National Intelligence”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：核实结果：没有其他现职；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "bill-pulte",
+    "reason": "转入七局前核对未通过：核实结果：没有其他现职"
+  }
+}

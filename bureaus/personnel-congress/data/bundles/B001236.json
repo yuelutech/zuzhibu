@@ -1,0 +1,602 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-b001236",
+      "line": "cadre",
+      "subject_id": "b001236",
+      "title": "约翰·布兹曼简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "sen 2011-01-05~2023-01-03 ... AR Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: M",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "December 10, 1950 in Shreveport, Louisiana",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/John_Boozman",
+          "title": "维基百科：John_Boozman",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "December 10, 1950 in Shreveport, Louisiana",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/John_Boozman",
+          "title": "维基百科：John_Boozman",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Chair, Senate Agriculture Committee (assumed January 3, 2025)",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://www.agriculture.senate.gov",
+          "title": "www.agriculture.senate.gov",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Chair, Senate Agriculture Committee (assumed January 3, 2025)",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://en.wikipedia.org/wiki/John_Boozman",
+          "title": "维基百科：John_Boozman",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Attended 1969-1973 for pre-optometry requirements; He did not graduate from the University of Arkansas",
+          "tier": 3
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/John_Boozman",
+          "title": "维基百科：John_Boozman",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Southern College of Optometry: Graduated 1977 with Doctor of Optometry degree",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/John_Boozman",
+          "title": "维基百科：John_Boozman",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Co-founded BoozmanHof Regional Eye Clinic in 1977; served two terms on Rogers Public School Board",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "rep 2001-11-29~2011-01-03 AR Republican dist=3",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. Senate: January 3, 2011 start date",
+          "tier": 1
+        },
+        {
+          "id": "s12",
+          "url": "https://en.wikipedia.org/wiki/John_Boozman",
+          "title": "维基百科：John_Boozman",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. Senate: January 3, 2011 start date",
+          "tier": 3
+        },
+        {
+          "id": "s13",
+          "url": "https://en.wikipedia.org/wiki/John_Boozman",
+          "title": "维基百科：John_Boozman",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Co-founded BoozmanHof Regional Eye Clinic in 1977",
+          "tier": 3
+        },
+        {
+          "id": "s14",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. House: November 20, 2001 start date via special election for Arkansas 3rd district",
+          "tier": 1
+        },
+        {
+          "id": "s15",
+          "url": "https://en.wikipedia.org/wiki/John_Boozman",
+          "title": "维基百科：John_Boozman",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "U.S. House: November 20, 2001 start date via special election for Arkansas 3rd district",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "senate",
+        "state:AR"
+      ],
+      "person": {
+        "name": {
+          "value": "约翰·布兹曼",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1950-12-10",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "路易斯安那州什里夫波特",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1977",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：联合创办布兹曼-霍夫地区眼科诊所，验光医生",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1977",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "南方验光学院验光博士学位",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2001-11",
+          "source_ids": [
+            "s14",
+            "s15"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以共和党身份参选并当选联邦众议员（阿肯色州第3选区2001年特别选举，2001-11-29就任）；来源：https://github.com/unitedstates/congress-legislators、https://en.wikipedia.org/wiki/John_Boozman；底稿备注：此前任罗杰斯学区董事会成员属非党派职务；取最早以共和党参选节点（2001年众议院特别选举），月份按当选(11月)",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2001-11-29",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（阿肯色州）",
+          "role": "",
+          "start": {
+            "value": "2011-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院农业、营养与林业委员会",
+          "role": "主席",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院拨款委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院环境与公共工程委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院退伍军人事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1969",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1973",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "阿肯色大学",
+          "role": null,
+          "program": "验光预科",
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "1973",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": true,
+            "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：验光博士4年自1977毕业倒推、与验光预科衔接",
+            "inference": {
+              "rule": "degree_duration",
+              "from_date": "1977",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1977",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "南方验光学院",
+          "role": null,
+          "program": "验光",
+          "degree_awarded": {
+            "value": "验光博士",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1977",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2001",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "布兹曼-霍夫地区眼科诊所",
+          "role": "联合创始人、验光医生",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人",
+            "验光医生"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "1998",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": true,
+                "basis": "推算：底稿作“约”",
+                "inference": null
+              },
+              "end": {
+                "value": "2001",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "罗杰斯学区董事会成员（非党派，两届，年份存底稿）",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2001-11-29",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2011",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（阿肯色州第3选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（阿肯色州第3选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011-01-03",
+            "source_ids": [
+              "s11",
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（阿肯色州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11",
+            "s12"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（阿肯色州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [],
+      "unknowns": [
+        "底稿缺项：罗杰斯学区董事会两届任期精确年份（维基仅称two terms）",
+        "底稿缺项：南方验光学院入学年（按学制倒推1973）",
+        "底稿缺项：eFD 周期交易报告逐笔明细（多为纸质扫描件，自动化访问被拒）"
+      ],
+      "excluded": [
+        "参加工作月份「1977年6月」：底稿推定（按旧规则推定），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

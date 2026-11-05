@@ -1,0 +1,116 @@
+{
+  "id": "2026-08-05-sanjay-ghemawat-transfer",
+  "date": "2026-08-05",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "sanjay-ghemawat",
+  "person": {
+    "name_zh": "桑杰·盖马瓦特",
+    "name_en": "Sanjay Ghemawat",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-08-05",
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "谷歌公司",
+      "role": "高级研究员",
+      "organization_en": "Google",
+      "role_en": "Google Senior Fellow",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e5",
+        "e6"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "探索循环公司",
+      "role": "联合创始人",
+      "organization_en": "Discovery Loop",
+      "role_en": "cofounder",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e6",
+        "e8"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "桑杰·盖马瓦特离开谷歌并联合创办探索循环公司",
+  "summary": "8月5日公布的消息显示，盖马瓦特与迪恩等人离开谷歌，联合创办Discovery Loop。谷歌公告列其原职为高级研究员。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e5",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "title": "The next chapter of our AI momentum",
+      "publisher": "Google",
+      "published_at": null,
+      "excerpt": "Google Senior Fellow Sanjay Ghemawat",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e6",
+      "url": "https://www.investing.com/news/stock-market-news/google-shakes-up-ai-leadership-as-deepmind-chief-shifts-role-4838716?trk=public_post_comment-text",
+      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
+      "publisher": "Reuters（Investing.com转载）",
+      "published_at": "2026-08-05",
+      "excerpt": "Sanjay Ghemawat",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    },
+    {
+      "id": "e8",
+      "url": "https://www.discoveryloop.com/",
+      "title": "Discovery Loop — Continuous Exploration",
+      "publisher": "Discovery Loop",
+      "published_at": null,
+      "excerpt": "Sanjay Ghemawat",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 sanjay-ghemawat（库里没有此人）",
+      "现任职务新增：探索循环公司联合创始人",
+      "履历新增：2026-08 探索循环公司联合创始人",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [
+      "原任“谷歌公司 高级研究员 Google Google Senior Fellow”：记录里本来就没有现任职务"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "sanjay-ghemawat",
+    "reason": "主要职务“探索循环公司 联合创始人”：企业职务，原属二局"
+  }
+}

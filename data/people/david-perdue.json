@@ -1,0 +1,689 @@
+{
+  "id": "david-perdue",
+  "name_zh": "庞德伟",
+  "name_en": "David Perdue",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Embassy & Consulates in China Ambassador U.S. Embassy & Consulates in China Ambassador”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/david-perdue.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Embassy & Consulates in China",
+      "role_en": "Ambassador"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“U.S. Embassy & Consulates in China Ambassador U.S. Embassy & Consulates in China Ambassador”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/david-perdue.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-david-perdue",
+    "line": "cadre",
+    "subject_id": "david-perdue",
+    "title": "庞德伟简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.govinfo.gov/content/pkg/CDIR-2018-10-01/pdf/CDIR-2018-10-29-GA.pdf",
+        "title": "Congressional Directory: Georgia",
+        "published_at": "2018-10-29",
+        "checked_at": "2026-10-18",
+        "excerpt": "DAVID PERDUE, Republican; born in Macon, GA, December 10, 1949; industrial engineering, Georgia Institute of Technology, 1972; operations research, 1975; Sara Lee 1992–94; Haggar 1994–98; Reebok 2001–02; Pillowtex 2002–03; Dollar General 2003–07",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.mfa.gov.cn/wjbzhd/202608/t20260827_12011229.shtml",
+        "title": "王毅会见美国驻华大使庞德伟",
+        "published_at": "2026-08-27",
+        "checked_at": "2026-10-18",
+        "excerpt": "2026年8月26日，中共中央政治局委员、外交部长王毅在京会见美国驻华大使庞德伟。",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.mfa.gov.cn/eng/wjb/zygy/hd/202505/t20250518_11627754.html",
+        "title": "Hong Lei accepts the copy of credentials from David Perdue",
+        "published_at": "2025-05-16",
+        "checked_at": "2026-10-18",
+        "excerpt": "On May 16, 2025 ... accepted the copy of credentials ... David Perdue, who arrived in China on May 15.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.washingtonpost.com/politics/perdue-outsourcing-trump/2020/12/30/29242e28-4084-11eb-a402-fba110db3b42_story.html",
+        "title": "Sen. David Perdue became wealthy outsourcing work to Asia",
+        "published_at": "2020-12-30",
+        "checked_at": "2026-10-18",
+        "excerpt": "In 1972, he began a 12-year career at Kurt Salmon Associates",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://www.senate.gov/states/GA/senators.shtml",
+        "title": "Georgia Senators",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "David Perdue (R) Jan. 3, 2015 Jan. 3, 2021",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.fec.gov/data/committee/C00547570/?cycle=2022&tab=about-committee",
+        "title": "PERDUE FOR SENATE",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Registration date: July 24, 2013; Authorizing candidate: PERDUE, DAVID; Republican Party",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.foreign.senate.gov/download/09/03/2025/040325_perdue_testimonypdf",
+        "title": "Opening Remarks: David Perdue",
+        "published_at": "2025-04-03",
+        "checked_at": "2026-10-18",
+        "excerpt": "Ambassador Designate David Perdue; April 3, 2025",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://repository.gatech.edu/server/api/core/bitstreams/e42c0560-78f8-4952-a333-cb1518ab509d/content",
+        "title": "Winter 2002 ISyE Newsletter",
+        "published_at": "2002",
+        "checked_at": "2026-10-18",
+        "excerpt": "David Perdue, BIE 1972, MSOR 1975; President and Chief Executive Officer, Reebok",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "庞德伟",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1949-12",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "佐治亚州梅肯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1972-06",
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "inferred": true,
+        "basis": "1972年本科毕业后开始Kurt Salmon工作；按美国毕业5月、首职次月取6月",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "1972",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "理学硕士",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2013-07",
+        "source_ids": [
+          "s6"
+        ],
+        "inferred": true,
+        "basis": "第3级锚点：PERDUE FOR SENATE首次登记2013-07-24；来源：https://www.fec.gov/data/committee/C00547570/?cycle=2022&tab=about-committee；未查到第1、2级锚点",
+        "inference": {
+          "rule": "party_anchor_candidacy_filing",
+          "from_date": "2013-07-24",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国驻华大使馆",
+        "role": "大使",
+        "start": {
+          "value": "2025-05-16",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "roles": [
+          "大使"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1968",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "本科1972年毕业，标准四年倒推；未核实转学前院校经历",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1972",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1972",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "佐治亚理工学院",
+        "role": "工业工程专业学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "工学学士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工业工程专业学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1972",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1984",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Kurt Salmon Associates",
+        "role": "管理咨询顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "管理咨询顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1973",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "1975年硕士毕业，按两年学制倒推",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1975",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1975",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "佐治亚理工学院",
+        "role": "运筹学专业研究生学习",
+        "program": null,
+        "degree_awarded": {
+          "value": "理学硕士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "运筹学专业研究生学习"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1994",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "萨拉李公司",
+        "role": "运营高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "运营高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1994",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Haggar公司",
+        "role": "高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2001",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2002",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "锐步",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2003",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Pillowtex公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Dollar General公司",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦参议员（佐治亚州）",
+        "role": "参议员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "参议员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国驻华大使馆",
+        "role": "大使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "大使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "1984—1992年、1998—2001年企业岗位细分，2007—2015年企业及董事会职务起止，2021—2025年完整职业经历未核实。",
+      "本科实际入学及转学时间未取得可打开的原始资料；暂按标准学制推算，待核。",
+      "使馆简历页访问返回403；名册暂列国会官方履历页，现职以中国外交部会见记录核实。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "David Perdue；美国驻华大使馆",
+    "review_items": []
+  }
+}

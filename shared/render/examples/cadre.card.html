@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=540">
+<title>李明远简历</title>
+<style>
+/* 3:4 图文卡样式（shared/render/card_html.py 生成的 HTML 用）。
+ *
+ * 尺寸：1px 当 1 磅用，一张卡 540×720。Playwright 视口 540×720、deviceScaleFactor 3，
+ *       逐个 .card 元素截图，就是 1620×2160 的 PNG。
+ * 字体：只写名字，文件由本机安装。正文回退顺序 Times New Roman 在前（数字、英文），
+ *       仿宋在后（汉字）；标题小标宋，缺字体时退到思源宋体。
+ * 版式：rules/cadre.md 第 5 节。底色 #3771BB 白字；首页标题 44、首段 20、首行缩进 2 字、
+ *       1.5 倍行距、两端对齐；续页整页高、垂直居中、段落居中，一页约 23 行。
+ */
+
+:root {
+  --card-width: 540px;
+  --card-height: 720px;
+  --card-bg: #3771BB;
+  --card-fg: #FFFFFF;
+  --card-font-body: "Times New Roman", "仿宋_GB2312", "FangSong_GB2312", "仿宋", "FangSong", "STFangsong",
+    "Noto Serif CJK SC", "Source Han Serif SC", serif;
+  --card-font-title: "方正小标宋简体", "FZXiaoBiaoSong-B05S", "方正小标宋_GBK", "Noto Serif CJK SC",
+    "Source Han Serif SC", serif;
+  --card-title-size: 44px;
+  --card-body-size: 20px;
+  --card-line-height: 30px; /* 1.5 倍行距 */
+  --card-pad-x: 36px; /* 两侧留白后正文宽 468px，约 23 个 20px 的字 */
+  --card-pad-y: 15px; /* 续页上下留白：23 行 × 30px = 690px */
+  --card-photo-width: 165px; /* 照片框 3:4 */
+  --card-photo-height: 220px;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #e6e6e6; /* 预览时的页面底色；截图只截 .card，不含它 */
+  padding: 24px 0;
+}
+
+.card {
+  position: relative;
+  box-sizing: border-box;
+  width: var(--card-width);
+  height: var(--card-height);
+  margin: 0 auto 24px;
+  overflow: hidden;
+  background: var(--card-bg);
+  color: var(--card-fg);
+  font-family: var(--card-font-body);
+  font-size: var(--card-body-size);
+  line-height: var(--card-line-height);
+  -webkit-font-smoothing: antialiased;
+  break-after: page;
+}
+
+/* 首页：标题、照片、首段（和现任段） */
+.card-cover {
+  display: flex;
+  flex-direction: column;
+  padding: 40px var(--card-pad-x) 30px;
+}
+
+.card-title {
+  margin: 0 0 24px;
+  font-family: var(--card-font-title);
+  font-size: var(--card-title-size);
+  font-weight: normal;
+  line-height: 1.2;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.card-subtitle {
+  margin: -12px 0 20px;
+  text-align: center;
+}
+
+.card-photo {
+  position: relative;
+  flex: none;
+  width: var(--card-photo-width);
+  height: var(--card-photo-height);
+  margin: 0 auto 24px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.card-photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 等比填满照片框 */
+  object-position: top center; /* 偏高裁底部，偏宽两侧等裁 */
+}
+
+/* CC BY 照片的署名，压在照片框底边，不占版面行数 */
+.card-credit {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 1px 4px;
+  font-size: 7px;
+  line-height: 1.4;
+  color: #ffffff;
+  background: rgba(0, 0, 0, 0.35);
+  text-align: center;
+}
+
+.card-para {
+  margin: 0;
+  text-indent: 2em;
+  text-align: justify;
+  text-justify: inter-ideograph;
+}
+
+.card-salutation {
+  text-indent: 0; /* 讲话稿的称谓行顶格 */
+}
+
+/* 续页：一个整页高的文本框，垂直居中，段落居中 */
+.card-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--card-pad-y) var(--card-pad-x);
+}
+
+.card-entries {
+  width: 100%;
+}
+
+.card-block + .card-block {
+  margin-top: var(--card-line-height); /* 条目之间空一段 */
+}
+
+.card-date,
+.card-text,
+.card-closing {
+  margin: 0;
+  text-align: center;
+}
+
+@media print {
+  body {
+    background: none;
+    padding: 0;
+  }
+
+  .card {
+    margin: 0;
+  }
+
+  @page {
+    size: 540px 720px;
+    margin: 0;
+  }
+}
+</style>
+</head>
+<body>
+<section class="card card-cover" data-page="1">
+<h1 class="card-title">李明远简历</h1>
+<figure class="card-photo"><img src="portrait.svg" alt=""></figure>
+<div class="card-body">
+<p class="card-para">李明远，男，1972年5月出生，美国人，1994年参加工作，远望大学电气工程理学硕士学位。现任北辰半导体公司总裁、首席执行官、董事。</p>
+</div>
+</section>
+<section class="card card-cont" data-page="2">
+<div class="card-entries">
+<div class="card-block card-entry">
+<p class="card-date">1990年9月－1994年6月</p>
+<p class="card-text">远望大学电气工程专业学习</p>
+</div>
+<div class="card-block card-entry">
+<p class="card-date">1994年7月－1999年2月</p>
+<p class="card-text">青岚微电子公司设计工程师、设计部总监<br>（其间：1995年－1997年在远望大学电气工程专业在职研究生学习，<br>获理学硕士学位）</p>
+</div>
+<div class="card-block card-entry">
+<p class="card-date">1999年3月－2011年12月</p>
+<p class="card-text">星川科技有限公司（Starbrook）副总裁</p>
+</div>
+<div class="card-block card-entry">
+<p class="card-date">2012年1月－2018年6月</p>
+<p class="card-text">北辰半导体公司执行副总裁、首席运营官</p>
+</div>
+<div class="card-block card-entry">
+<p class="card-date">2018年7月至今</p>
+<p class="card-text">北辰半导体公司总裁、首席执行官、董事<br>（2024年3月起兼任远望大学工程学院顾问委员会委员）</p>
+</div>
+</div>
+</section>
+</body>
+</html>

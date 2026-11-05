@@ -1,0 +1,106 @@
+{
+  "id": "2026-07-11-lindsey-graham-death",
+  "date": "2026-07-11",
+  "kind": "death",
+  "kind_label": "逝世",
+  "person_id": "lindsey-graham",
+  "person": {
+    "name_zh": "林赛·格雷姆",
+    "name_en": "Lindsey Graham",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-07-12",
+  "effective_at": "2026-07-11",
+  "ended_roles": [
+    {
+      "organization": "美国联邦参议员（南卡罗来纳州）",
+      "role": "",
+      "organization_en": "United States Senate",
+      "role_en": "Senator from the State of South Carolina",
+      "start": null,
+      "end": "2026-07-11",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    },
+    {
+      "organization": "美国参议院预算委员会",
+      "role": "主席",
+      "organization_en": "Committee on the Budget",
+      "role_en": "Chairman",
+      "start": null,
+      "end": "2026-07-11",
+      "concurrent": true,
+      "sector": "committee",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": [],
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "美国联邦参议员林赛·格雷姆逝世",
+  "summary": "林赛·格雷姆于2026年7月11日逝世，其南卡罗来纳州联邦参议员席位及参议院预算委员会主席职务出现空缺。",
+  "bureaus": [
+    "congress",
+    "retired"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.scstatehouse.gov/state_register.php?file=Sr50-8.pdf&first=FILE&pdf=1",
+      "title": "South Carolina State Register, Volume 50, Issue 8 — Executive Order No. 2026-16",
+      "publisher": "South Carolina State Register",
+      "published_at": "2026-08-28",
+      "excerpt": "WHEREAS, the undersigned has been notified of the passing of Senator Lindsey O. Graham on July 11, 2026,",
+      "checked_at": "2026-10-17",
+      "excerpt_check": false
+    },
+    {
+      "id": "e2",
+      "url": "https://budget.house.gov/press-release/chairman-arrington-statement-on-the-passing-of-senate-budget-committee-chairman-lindsey-graham",
+      "title": "Chairman Arrington Statement on the Passing of Senate Budget Committee Chairman Lindsey Graham",
+      "publisher": "U.S. House Committee on the Budget",
+      "published_at": "2026-07-12",
+      "excerpt": "\"I am deeply saddened by the passing of my friend and Senate Budget Chairman, Lindsey Graham.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152417",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": "congress-left-g000359",
+  "default_bureau": "congress",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "现任职务移出：参议院环境与公共工程委员会 委员",
+      "现任职务移出：参议院司法委员会 委员",
+      "现任职务移出：参议院拨款委员会 委员",
+      "现任职务移出：参议院预算委员会 主席",
+      "现任职务移出：美国联邦参议员（南卡罗来纳州）",
+      "履历止时间：美国国会参议院联邦参议员（南卡罗来纳州） 至 2026-07",
+      "所属局：四局·国会干部局 → 七局·老干部局"
+    ],
+    "notes": [],
+    "bureau_before": "congress",
+    "bureau_after": "retired",
+    "person_id": "lindsey-graham",
+    "reason": "已无现任职务，核实没有其他现职和新任命"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "2026-08-05-oriol-vinyals-transfer",
+  "date": "2026-08-05",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "oriol-vinyals",
+  "person": {
+    "name_zh": "奥廖尔·维尼亚尔斯",
+    "name_en": "Oriol Vinyals",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-08-05",
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "谷歌旗下“深层思维”公司",
+      "role": "研究副总裁、Gemini技术负责人",
+      "organization_en": "Google DeepMind",
+      "role_en": "VP of research at DeepMind and a technical lead for Gemini",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e7"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "探索循环公司",
+      "role": "联合创始人",
+      "organization_en": "Discovery Loop",
+      "role_en": "cofounder",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e7",
+        "e8"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "奥里奥尔·比尼亚尔斯离开谷歌旗下“深层思维”公司并联合创办探索循环公司",
+  "summary": "8月5日公布的消息显示，比尼亚尔斯离开谷歌，与迪恩等人联合创办Discovery Loop。他此前任“深层思维”研究副总裁、Gemini技术负责人。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e7",
+      "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+      "title": "4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup",
+      "publisher": "WIRED",
+      "published_at": "2026-08-05",
+      "excerpt": "Oriol Vinyals",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e8",
+      "url": "https://www.discoveryloop.com/",
+      "title": "Discovery Loop — Continuous Exploration",
+      "publisher": "Discovery Loop",
+      "published_at": null,
+      "excerpt": "Oriol Vinyals",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 oriol-vinyals（库里没有此人）",
+      "现任职务新增：探索循环公司联合创始人",
+      "履历新增：2026-08 探索循环公司联合创始人",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [
+      "原任“谷歌旗下“深层思维”公司 研究副总裁、Gemini技术负责人 Google DeepMind VP of research at DeepMind and a technical lead for Gemini”：记录里本来就没有现任职务"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "oriol-vinyals",
+    "reason": "主要职务“探索循环公司 联合创始人”：企业职务，原属二局"
+  }
+}

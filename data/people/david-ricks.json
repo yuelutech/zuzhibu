@@ -1,0 +1,928 @@
+{
+  "id": "david-ricks",
+  "name_zh": "戴文睿",
+  "name_en": "David A. Ricks",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "david-ricks.jpg",
+    "source": "维护者提供（戴文睿_David-Ricks_礼来.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/David_A._Ricks_2025.jpg"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Eli Lilly and Company",
+      "role_en": "Chair of the Board"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-david-ricks",
+    "line": "cadre",
+    "subject_id": "david-ricks",
+    "title": "戴文睿简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm",
+        "title": "Eli Lilly and Company, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chair, President, and Chief Executive Officer (2017 - present)",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm",
+        "title": "Eli Lilly and Company, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Senior Vice President and President, Lilly Bio-Medicines (2012 - 2016)",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm",
+        "title": "Eli Lilly and Company, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Served in various marketing, sales and international leadership roles (1996 - 2009), including:",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm",
+        "title": "Eli Lilly and Company, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Director, Pharmaceutical Research and Manufacturers of America (PhRMA)",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm",
+        "title": "Eli Lilly and Company, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Director, International Federation of Pharmaceutical Manufacturers & Associations (IFPMA)",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm",
+        "title": "Eli Lilly and Company, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Member, U.S. Patent and Trademark Office Council for Inclusive Innovation",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm",
+        "title": "Eli Lilly and Company, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Director, The Business Roundtable",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947816000395/a8-kceoannouncement2016.htm",
+        "title": "Eli Lilly and Company, Form 8-K (CEO succession), July 27, 2016",
+        "published_at": "2016-07-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "On the same day, the company announced that the board of directors elected David A. Ricks as president and chief executive officer of the company, effective January 1, 2017.",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947816000395/a8-kceoannouncement2016.htm",
+        "title": "Eli Lilly and Company, Form 8-K (CEO succession), July 27, 2016",
+        "published_at": "2016-07-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Also on July 27, 2016, the company announced that the board of directors elected Mr. Ricks as a director, effective January 1, 2017, and as chairman of the board of directors, effective June 1, 2017.",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947816000395/a8-kceoannouncement2016.htm",
+        "title": "Eli Lilly and Company, Form 8-K (CEO succession), July 27, 2016",
+        "published_at": "2016-07-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Ricks, age 49, has served as senior vice president of Lilly, and president of Lilly Bio-Medicines, the company’s largest business area, since January 2012.",
+        "tier": 1
+      },
+      {
+        "id": "s11",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947816000395/a8-kceoannouncement2016.htm",
+        "title": "Eli Lilly and Company, Form 8-K (CEO succession), July 27, 2016",
+        "published_at": "2016-07-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Before assuming his current position, he served as general manager of Canada from 2005-2008, as the general manager of China from 2008-2009, and as the president of Lilly USA from 2009-2012.",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000043/adbe-20260227.htm",
+        "title": "Adobe Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-02-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Ricks, 58, has served as President and Chief Executive Officer of Eli Lilly and Company, a pharmaceutical company (“Eli Lilly”), since January 2017 and as Chair of the board of directors of Eli Lilly since June 2017.",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000043/adbe-20260227.htm",
+        "title": "Adobe Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-02-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Ricks served as general manager of Lilly Canada from 2005 to 2008, after roles as Director of Pharmaceutical Marketing and National Sales Director in Canada.",
+        "tier": 1
+      },
+      {
+        "id": "s14",
+        "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000043/adbe-20260227.htm",
+        "title": "Adobe Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-02-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Ricks joined Eli Lilly in 1996 as a Business Development Associate and held several management roles in U.S. marketing and sales before moving to Lilly Canada.",
+        "tier": 1
+      },
+      {
+        "id": "s15",
+        "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000043/adbe-20260227.htm",
+        "title": "Adobe Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-02-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Ricks earned a B.S. from Purdue University in 1990 and an M.B.A. from Indiana University in 1996.",
+        "tier": 1
+      },
+      {
+        "id": "s16",
+        "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000043/adbe-20260227.htm",
+        "title": "Adobe Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-02-27",
+        "checked_at": "2026-10-21",
+        "excerpt": "DIRECTOR SINCE 2018",
+        "tier": 1
+      },
+      {
+        "id": "s17",
+        "url": "https://purdue.edu/bot/about/trustees/trustee-bios/ricks.php",
+        "title": "David A. Ricks - Board of Trustees - Purdue University",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Ricks earned a Bachelor of Science degree in Industrial Management (BSIM) with a focus on Industrial Engineering from Purdue in 1990 and an MBA from Indiana University in 1996.",
+        "tier": 1
+      },
+      {
+        "id": "s18",
+        "url": "https://purdue.edu/bot/about/trustees/trustee-bios/ricks.php",
+        "title": "David A. Ricks - Board of Trustees - Purdue University",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Ricks is chair and CEO of Eli Lilly and Company.",
+        "tier": 1
+      },
+      {
+        "id": "s19",
+        "url": "https://purdue.edu/bot/about/trustees/trustee-bios/ricks.php",
+        "title": "David A. Ricks - Board of Trustees - Purdue University",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Ricks serves on the boards of Adobe, Business Roundtable, Pharmaceutical Research and Manufacturers of America, International Federation of Pharmaceutical Manufacturers and Associations, The Business Council, the U.S. Patent and Trademark Office’s Council for Inclusive Innovation, and Central Indiana Corporate Partnership.",
+        "tier": 1
+      },
+      {
+        "id": "s20",
+        "url": "https://www.purdue.edu/newsroom/2024/Q4/governor-appoints-dave-ricks-to-purdue-board-of-trustees/",
+        "title": "Governor appoints Dave Ricks to Purdue Board of Trustees (Purdue University News)",
+        "published_at": "2024-10-10",
+        "checked_at": "2026-10-21",
+        "excerpt": "WEST LAFAYETTE, Ind. — Indiana Gov. Eric Holcomb has appointed David A. Ricks to the Purdue University Board of Trustees, effective Jan. 1, 2025, to July 1, 2027.",
+        "tier": 1
+      },
+      {
+        "id": "s21",
+        "url": "https://chiefexecutive.net/ceo-of-the-week-eli-lillys-david-a-ricks/",
+        "title": "CEO of the Week: Eli Lilly's David A. Ricks (Chief Executive)",
+        "published_at": "2020-06-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "Prior to joining Eli Lilly: Account representative, IBM",
+        "tier": 2
+      },
+      {
+        "id": "s22",
+        "url": "https://chiefexecutive.net/ceo-of-the-week-eli-lillys-david-a-ricks/",
+        "title": "CEO of the Week: Eli Lilly's David A. Ricks (Chief Executive)",
+        "published_at": "2020-06-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "Age: 51 Education: Bachelor’s degree, Purdue University; MBA,",
+        "tier": 2
+      },
+      {
+        "id": "s23",
+        "url": "https://chiefexecutive.net/ceo-of-the-year-a-conversation-with-eli-lillys-dave-ricks/",
+        "title": "CEO Of The Year: A Conversation With Eli Lilly's Dave Ricks (Chief Executive)",
+        "published_at": "2025-10-21",
+        "checked_at": "2026-10-21",
+        "excerpt": "In joining Eli Lilly in 1996, fresh from an MBA at Indiana University and a stint at IBM, he was simply following his girlfriend—now wife—who was in medical school.",
+        "tier": 2
+      },
+      {
+        "id": "s24",
+        "url": "https://chiefexecutive.net/ceo-of-the-year-a-conversation-with-eli-lillys-dave-ricks/",
+        "title": "CEO Of The Year: A Conversation With Eli Lilly's Dave Ricks (Chief Executive)",
+        "published_at": "2025-10-21",
+        "checked_at": "2026-10-21",
+        "excerpt": "An Indiana native, he needed something to do in Indianapolis while she finished her degree.",
+        "tier": 2
+      },
+      {
+        "id": "s25",
+        "url": "http://www.news.cn/digital/20260323/6a792cbf001d4ef4a77a4a183fc278d6/c.html",
+        "title": "礼来CEO戴文睿到访清华 对话青年学子 共话创新未来（新华网）",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "3月22日，礼来公司董事长兼首席执行官戴文睿（David A. Ricks）到访清华大学",
+        "tier": 2
+      },
+      {
+        "id": "s26",
+        "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm",
+        "title": "Eli Lilly and Company, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Age: 58 Director Since: 2017 Board Committees: None Other Public",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s9",
+          "s12"
+        ],
+        "inferred": false,
+        "basis": "8-K、委托书称 Mr. Ricks",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s24"
+        ],
+        "inferred": false,
+        "basis": "Chief Executive 杂志称其“An Indiana native”（印第安纳州人），据此为美国出生；未检得官方介绍写明国籍",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1967-05",
+        "source_ids": [
+          "s10",
+          "s12",
+          "s26"
+        ],
+        "inferred": true,
+        "basis": "按年龄陈述推：2016-07-27 文件称 49 岁；2026-02-27 文件称 58 岁；2026-03-20 文件称 58 岁；出生在 1967-03-21 至 1967-07-27 之间，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2016-07-27",
+          "duration_years": null
+        }
+      },
+      "birth_place": {
+        "value": "印第安纳州",
+        "source_ids": [
+          "s24"
+        ],
+        "inferred": false,
+        "basis": "原文“An Indiana native”，只到州；城市未检得一、二级来源",
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "s15",
+          "s17"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "印第安纳大学工商管理硕士学位",
+        "source_ids": [
+          "s15",
+          "s17"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "戴文睿",
+        "source_ids": [
+          "s25"
+        ],
+        "basis": "本人中文名",
+        "inferred": false,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "礼来公司",
+        "role": "董事长、总裁、首席执行官、董事",
+        "start": {
+          "value": "2017-06",
+          "source_ids": [
+            "s9",
+            "s1",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s9",
+          "s1",
+          "s12",
+          "s8",
+          "s18"
+        ],
+        "roles": [
+          "董事长",
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1986",
+          "source_ids": [
+            "s15",
+            "s17"
+          ],
+          "inferred": true,
+          "basis": "毕业年 1990 减标准学制 4 年（写法第 6 节）",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1990",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1990",
+          "source_ids": [
+            "s15",
+            "s17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "普渡大学",
+        "role": null,
+        "program": "工业管理（侧重工业工程）",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s15",
+            "s17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s15",
+          "s17"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1994",
+          "source_ids": [
+            "s15",
+            "s17"
+          ],
+          "inferred": true,
+          "basis": "毕业年 1996 减标准学制 2 年（写法第 6 节）",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1996",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1996",
+          "source_ids": [
+            "s15",
+            "s17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "印第安纳大学",
+        "role": null,
+        "program": "工商管理",
+        "degree_awarded": {
+          "value": "工商管理硕士学位",
+          "source_ids": [
+            "s15",
+            "s17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s15",
+          "s17"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "master",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1996",
+          "source_ids": [
+            "s3",
+            "s13",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2005",
+          "source_ids": [
+            "s3",
+            "s13",
+            "s14"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "礼来公司",
+        "role": "业务发展专员、美国营销和销售部门管理职务、礼来加拿大公司药品营销总监、礼来加拿大公司全国销售总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s13",
+          "s14"
+        ],
+        "ongoing": false,
+        "roles": [
+          "业务发展专员",
+          "美国营销和销售部门管理职务",
+          "礼来加拿大公司药品营销总监",
+          "礼来加拿大公司全国销售总监"
+        ],
+        "role_category": null,
+        "role_basis": "同一单位先后多个职务，交接时间未检得，合成一条",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "s11",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s11",
+            "s13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "礼来加拿大公司",
+        "role": "总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11",
+          "s13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s3",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s3",
+            "s11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "礼来中国",
+        "role": "总裁、总经理",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3",
+          "s11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "总经理"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s11",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012-01",
+          "source_ids": [
+            "s11",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "礼来美国公司",
+        "role": "总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11",
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-01",
+          "source_ids": [
+            "s2",
+            "s10",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-01",
+          "source_ids": [
+            "s2",
+            "s10",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "礼来公司",
+        "role": "高级副总裁、礼来生物医药事业部总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s10",
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁",
+          "礼来生物医药事业部总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-01",
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-06",
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "礼来公司",
+        "role": "总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8",
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-06",
+          "source_ids": [
+            "s1",
+            "s9",
+            "s12",
+            "s18"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "礼来公司",
+        "role": "董事长、总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s9",
+          "s12",
+          "s18"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长",
+          "总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2018",
+              "source_ids": [
+                "s16",
+                "s19"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "Adobe 公司",
+            "role": "董事",
+            "roles": [
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s16",
+              "s19"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025-01",
+              "source_ids": [
+                "s20"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "普渡大学董事会",
+            "role": "董事",
+            "roles": [
+              "董事"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s20"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "礼来公司",
+    "conflicts": [
+      {
+        "field": "age_statements",
+        "alternatives": [
+          {
+            "value": "51岁（Chief Executive 杂志，2020-06-04）",
+            "source_ids": [
+              "s22"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "49岁（8-K，2016-07-27）、58岁（Adobe 委托书2026-02-27、礼来委托书2026-03-20）",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "51岁（Chief Executive 杂志，2020-06-04）",
+        "reason": "按公司文件，2020年6月应为52或53岁；Chief Executive 杂志所列年龄与公司文件不合，未列入 age_statements"
+      }
+    ],
+    "unknowns": [
+      "出生年月：未检得写明出生年月的一、二级来源（维基百科作1967年，仅作线索）；8-K（2016-07-27 时49岁）与礼来委托书（2026-03-20 时58岁）可推出生于1967年3月下旬至7月下旬之间",
+      "出生城市：只有“An Indiana native”（州一级）；Quartr 称生于印第安纳州布卢明顿、童年在加利福尼亚州，非一、二级来源，未采用",
+      "第一份全职工作（IBM 客户代表）的起止年月：未检得一、二级来源（本人领英自述1991—1994年，仅作线索）",
+      "普渡大学入学年、印第安纳大学工商管理硕士入学年：未检得",
+      "1996—2005年在礼来美国营销、销售部门及礼来加拿大公司的具体职务交接时间：未检得",
+      "美国药品研究与制造商协会、国际制药商协会联合会、商业圆桌会议董事及美国专利商标局包容性创新委员会委员的起始时间：未检得"
+    ],
+    "excluded": [
+      "国际商业机器公司（IBM）客户代表：起始时间无来源，履历不单列",
+      "美国药品研究与制造商协会（PhRMA）董事：起始时间无来源，不写进履历括注",
+      "国际制药商协会联合会（IFPMA）董事：起始时间无来源，不写进履历括注",
+      "商业圆桌会议董事：起始时间无来源，不写进履历括注",
+      "美国专利商标局包容性创新委员会委员：起始时间无来源，不写进履历括注",
+      "普渡大学董事会董事任期至 2027 年 7 月（届满日未到，按在任写）"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "David A. Ricks；礼来公司；董事长、总裁、首席执行官、董事",
+    "review_items": []
+  }
+}

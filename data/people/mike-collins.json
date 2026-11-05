@@ -1,0 +1,604 @@
+{
+  "id": "mike-collins",
+  "name_zh": "迈克·柯林斯",
+  "name_en": "Mike Collins",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "reverified",
+  "ids": {
+    "bioguide": "C001129"
+  },
+  "data_cutoff": "2026-10-19",
+  "roles_checked_at": "2026-10-19",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入，reverify.py 重核通过",
+  "portrait": {
+    "file": "mike-collins.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rep._Mike_Collins_official_photo,_118th_Congress.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Congress；https://collins.house.gov/sites/evo-subsites/collins.house.gov/files/evo-media-image/mike_collins_portrait.jpg），File:Rep. Mike Collins official photo, 118th Congress.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Rep._Mike_Collins_official_photo%2C_118th_Congress.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-c001129",
+    "line": "cadre",
+    "subject_id": "c001129",
+    "title": "迈克·柯林斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://history.house.gov/People/Detail/25769822943",
+        "title": "COLLINS, Mike | US House of Representatives: History, Art & Archives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "born in Jackson, Butts County, Ga., July 2, 1967; … B.B.A., Georgia State University, Atlanta, Ga., 1990; … (January 3, 2023-present).",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://clerk.house.gov/members/C001129",
+        "title": "Office of the Clerk, U.S. House of Representatives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Mike Collins … Georgia (GA) – 10th, Republican … Committee on Natural Resources … Committee on Science, Space, and Technology … Committee on Transportation and Infrastructure",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://collins.house.gov/about",
+        "title": "About | Representative Collins",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "He graduated with a business degree from Georgia State University.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+        "title": "The Constitution of the United States: A Transcription | National Archives",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "been seven Years a Citizen of the United States",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.fec.gov/data/committee/C00544684/?cycle=2014",
+        "title": "COLLINS FOR CONGRESS - committee overview | FEC",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "COLLINS FOR CONGRESS … Principal campaign committee ID: C00544684 Registration date: May 09, 2013 … COLLINS, MICHAEL A JR Authorizing candidate",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.fec.gov/data/candidate/H4GA10071/?cycle=2014&election_full=true",
+        "title": "COLLINS, MICHAEL A JR - Candidate overview | FEC",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Candidate for House Georgia - 10 ID: H4GA10071 REPUBLICAN PARTY … COLLINS FOR CONGRESS (C00544684)",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://sos.ga.gov/page/elections-faq",
+        "title": "Elections FAQ | Georgia Secretary of State",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "Voters do not register with a political party because Georgia is an open primary state.",
+        "tier": 1
+      },
+      {
+        "id": "s8",
+        "url": "https://collinstrucking.com/company-history/",
+        "title": "Collins Trucking | Company History | Collins Trucking Company",
+        "published_at": null,
+        "checked_at": "2026-10-19",
+        "excerpt": "In 1992, Michael A. “Mike” Collins founded Collins Industries, Inc.",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres38eh/xhtml/BILLS-119hres38eh.html",
+        "title": "H. RES. 38 (Engrossed-in-House)",
+        "published_at": "2025-01-14",
+        "checked_at": "2026-10-19",
+        "excerpt": "January 14, 2025. … are hereby, elected to the following standing committees … Committee on Transportation and Infrastructure: … Mr. Collins",
+        "tier": 1
+      },
+      {
+        "id": "s10",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres42eh/xhtml/BILLS-119hres42eh.html",
+        "title": "H. RES. 42 (Engrossed-in-House)",
+        "published_at": "2025-01-15",
+        "checked_at": "2026-10-19",
+        "excerpt": "January 15, 2025. … Committee on Natural Resources: … Mr. Collins … Committee on Science, Space, and Technology: … Mr. Collins",
+        "tier": 1
+      },
+      {
+        "id": "s13",
+        "url": "https://mikecollinsga.com/press/mike-collins-wins-u-s-senate-primary-advances-to-general-election-against-jon-ossoff/",
+        "title": "MIKE COLLINS WINS U.S. SENATE PRIMARY, ADVANCES TO GENERAL ELECTION AGAINST JON OSSOFF – Mike Collins for Senate",
+        "published_at": "2026-06-16",
+        "checked_at": "2026-10-19",
+        "excerpt": "Mike Collins claimed victory in the Republican primary runoff, securing the GOP nomination for the U.S. Senate seat currently held by Democrat Jon Ossoff.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "reverified",
+      "house",
+      "state:GA"
+    ],
+    "person": {
+      "name": {
+        "value": "迈克·柯林斯",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1967-07-02",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "佐治亚州杰克逊",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "大学学历",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "佐治亚州立大学工商管理学士学位",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国共和党",
+        "source_ids": [
+          "s2",
+          "s6"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2013-05",
+        "source_ids": [
+          "s5",
+          "s6",
+          "s7"
+        ],
+        "inferred": true,
+        "basis": "第3级锚点：共和党联邦众议员参选人 Michael A. Collins Jr. 的主要竞选委员会 COLLINS FOR CONGRESS（C00544684）在联邦选举委员会登记，2013-05-09；来源：https://www.fec.gov/data/committee/C00544684/?cycle=2014 ，共和党身份及委员会对应关系见 https://www.fec.gov/data/candidate/H4GA10071/?cycle=2014&election_full=true 。第1级：佐治亚州州务卿明确该州不登记选民党籍，未找到本人公开宣布加入或改投共和党的日期；来源：https://sos.ga.gov/page/elections-faq 。第2级：检索本人官方传记、公开竞选履历及党职线索，未找到更早的共和党党组织任职锚点。候选人页展示的2025-05-22参选声明为现行版本，不作为首次登记锚点。2014年初选和2023年公职任期均晚于已找到的第3级锚点，不采用。",
+        "inference": {
+          "rule": "party_anchor_candidacy_filing",
+          "from_date": "2013-05-09",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦众议员（佐治亚州第10选区）",
+        "role": "",
+        "start": {
+          "value": "2023-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院自然资源委员会",
+        "role": "委员",
+        "start": {
+          "value": "2025-01-15",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s10"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院科学、空间和技术委员会",
+        "role": "委员",
+        "start": {
+          "value": "2025-01-15",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s10"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "众议院交通和基础设施委员会",
+        "role": "委员",
+        "start": {
+          "value": "2025-01-14",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s2",
+          "s9"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1986",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "众议院官方人物页记载1990年取得佐治亚州立大学B.B.A.学位，按美国本科标准学制4年倒推：1990－4＝1986；未采用底稿无依据的1985年入学说法。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1990",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1990",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "佐治亚州立大学",
+        "role": null,
+        "program": "工商管理",
+        "degree_awarded": {
+          "value": "工商管理学士",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Collins Industries, Inc.",
+        "role": "创办人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "创办人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-01-03",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会众议院",
+        "role": "联邦众议员（佐治亚州第10选区）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦众议员（佐治亚州第10选区）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025-01-14",
+              "source_ids": [
+                "s9"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "众议院交通和基础设施委员会",
+            "role": "委员",
+            "roles": [
+              "委员"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s2",
+              "s9"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025-01-15",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "众议院自然资源委员会",
+            "role": "委员",
+            "roles": [
+              "委员"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s2",
+              "s10"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025-01-15",
+              "source_ids": [
+                "s10"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "众议院科学、空间和技术委员会",
+            "role": "委员",
+            "roles": [
+              "委员"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s2",
+              "s10"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2026-06-16",
+              "source_ids": [
+                "s13"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国共和党",
+            "role": "联邦参议员候选人（佐治亚州）",
+            "roles": [
+              "联邦参议员候选人（佐治亚州）"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s13"
+            ]
+          }
+        ],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国众议院",
+    "conflicts": [],
+    "unknowns": [
+      "参加工作时间：查过众议院官方人物页、议员官网、运输公司公司史、竞选官网及ProPublica报道。公司史确认1992年创办Collins Industries, Inc.；ProPublica记载大学毕业前已管理家族运输企业，但只给出1980年代末，未找到首份全职工作准确开始年份及月份，work_start留空。",
+      "早期运输企业履历：查过公司史、议员官网及ProPublica报道，未找到进入家族企业、出任企业负责人和职务交接的准确日期；不把1992年创业日期当作首次参加工作日期。",
+      "Collins Industries, Inc.任职终止时间：公司史只记创办和企业发展，未给出本人退出经营或职务终止日期，end留空，ongoing不主张持续至今。",
+      "其他企业及社会兼职：议员官网和竞选官网记载信用合作社董事、董事会主席、地方商会会长及运输行业协会经历，未找到相应就任或生效日期，未列入履历。",
+      "历次竞选：FEC及官方人物页确认2013年登记参选、2014年提名竞选失利；未取得该次竞选完整阶段起止日期。2022年众议员竞选和2025年参议员参选阶段的完整起止日期也未完成取证，未拼接为连续任职。",
+      "第118届国会委员会任期：本次取得了第119届委员会选任决议和现行名单，尚未取得第118届各委员会完整起止依据。",
+      "其他政治职务及小组委员会：竞选官网提到众议院党鞭团队及水资源和环境小组委员会主席经历，未取得准确就任日期；小组委员会不单列现任。",
+      "族裔：查过官方人物页、议员官网及竞选履历，未找到本人自述或官方统计依据，留空。",
+      "出生日期第二来源：已打开众议院官方人物页；Vote Smart人物页多次返回错误，未作为来源。",
+      "本科实际入学日期及学习形式：官方人物页只给毕业年份，入学年按1990减4推算；未找到全日制或非全日制依据。",
+      "完整简历卡门槛：参加工作年份缺证，保留seed级候选事实包，card_type留空。"
+    ],
+    "excluded": [
+      "底稿『2025年1月开始担任佐治亚州第10选区联邦众议员』：该日期是本届任期节点；官方人物页记载其国会任职始于2023年1月3日，现职起点改取首次任职日期。",
+      "底稿『1985年－1990年佐治亚州立大学学习』：未找到1985年入学依据；采用1990年毕业及标准学制倒推1986年。",
+      "底稿『1990年参加工作』『1990年6月参加工作』：未找到首份全职工作开始于1990年的依据，旧稿月份推定不采用。",
+      "底稿『1990年－2014年柯林斯卡车运输公司经营管理人员』：单位、职务及两个交接年份缺乏可打开的对应证据，不沿用。",
+      "底稿『2014年－2022年共和党联邦众议员候选人，运输企业经营者』：把不同届竞选和企业身份拼成连续经历，未找到持续候选身份依据。",
+      "底稿『2014年5月加入美国共和党』：改取FEC主要竞选委员会2013年5月9日登记的第3级锚点。",
+      "检索线索『Collins Trucking Company总裁，1989－2022』：仅在Vote Smart搜索摘要中出现，人物原文页打开失败，未进入sources或履历。",
+      "检索线索『1992年6月4日Mike Collins运输企业登记』：结果对应肯塔基州里士满企业，未用于本对象。",
+      "底稿委员会名单：漏列第119届众议院自然资源委员会委员，本次据书记官名单及H.Res.42补入。"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "美国联邦众议员（佐治亚州第10选区）＋美国国会众议院；Bioguide C001129",
+    "review_items": [
+      "独立核查会话需重新打开各来源，逐字段核验。",
+      "参加工作时间缺证，保持seed级，不生成完整简历卡。",
+      "FEC委员会登记锚点需复核首次登记性质；候选人页显示的2025年现行参选声明不得替代首次登记日期。",
+      "参议员候选人身份目前采用本人竞选官网公告；继续补州选务机构的提名结果。",
+      "委员会起点为第119届选任日期，不表示首次进入该委员会的历史日期。"
+    ]
+  }
+}

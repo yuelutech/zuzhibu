@@ -1,0 +1,546 @@
+{
+  "id": "jensen-huang",
+  "name_zh": "黄仁勋",
+  "name_en": "Jensen Huang",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {},
+  "data_cutoff": "2026-10-12",
+  "roles_checked_at": "2026-10-12",
+  "updated_at": "2026-10-22",
+  "origin": "二局首发：aipolis 发布件（金标）",
+  "portrait": {
+    "url": "https://iprsoftwaremedia.com/219/files/202604/f0e9efa72f909f3f08cdd0a48ff92880/69e6b9293d633260eec67804_jensen-1920x1920/jensen-1920x1920_6a7e6ad5-c215-4503-b70d-fe6e5e9de205-prv.jpg?v=6a7e6ad5-c215-4503-b70d-fe6e5e9de205",
+    "source": "维护者提供（黄仁勋_Jensen-Huang_英伟达_雷达版.jpg）",
+    "file": "jensen-huang.jpg",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "NVIDIA",
+      "role_en": "Founder, President and Chief Executive Officer"
+    }
+  ],
+  "notes": [
+    "SEC biography uses the name Jen-Hsun Huang."
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "二局首发：aipolis 发布件（金标）"
+    }
+  ],
+  "resume": {
+    "id": "jensen-huang-cadre-20261012",
+    "line": "cadre",
+    "subject_id": "jensen-huang",
+    "title": "黄仁勋简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/",
+        "title": "Jensen Huang",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "Jensen Huang founded NVIDIA in 1993 and has served since its inception as president, chief executive officer, and a member of the board of directors.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://engineering.oregonstate.edu/alumni-partners/oregon-stater-awards/searchable-awards-database/jen-hsun-huang-academy",
+        "title": "Jen-Hsun Huang: Academy of Distinguished Engineers - 2001",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "Prior to founding NVIDIA, Huang held senior engineering and marketing positions at LSI Logic Corporation and at Advanced Micro Devices.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://engineering.stanford.edu/news/jen-hsun-huang-nvidia-co-founder-invests-next-generation-stanford-engineers",
+        "title": "Jen-Hsun Huang, NVIDIA co-founder, invests in the next generation of Stanford engineers",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "Jen-Hsun Huang (MS ’92 Electrical Engineering) discusses his company and breakfast habits. ... It took me eight years to finish my master's at Stanford.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://stvp.stanford.edu/people/jensen-huang",
+        "title": "Jensen Huang | Stanford Technology Ventures Program",
+        "published_at": null,
+        "checked_at": "2026-10-22",
+        "excerpt": "Jen-Hsun Huang co-founded NVIDIA Corporation in April 1993 and has served as President, Chief Executive Officer, and a member of the Board of Directors since its inception. ... Prior to founding NVIDIA, Mr. Huang was Director of Coreware at LSI Logic and a microprocessor designer at Advanced Micro Devices.",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581011000015/fy2011form10k.htm",
+        "title": "NVIDIA Corporation — Fiscal 2011 Form 10-K",
+        "published_at": null,
+        "checked_at": "2026-10-12",
+        "excerpt": "From 1983 to 1985, Mr. Huang was a microprocessor designer for Advanced Micro Devices",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/",
+        "title": "President Trump Announces Appointments to President’s Council of Advisors on Science and Technology",
+        "published_at": "2026-03-25",
+        "checked_at": "2026-10-22",
+        "excerpt": "The following individuals have been appointed: Marc Andreessen Sergey Brin Safra Catz Michael Dell Jacob DeWitte Fred Ehrsam Larry Ellison David Friedberg Jensen Huang",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://www.munzinger.de/register/portrait/biographien/Jensen%2BHuang/00/33167",
+        "title": "Jensen Huang - Munzinger Biographie",
+        "published_at": null,
+        "checked_at": "2026-10-12",
+        "excerpt": "Jensen Huang wurde am 17. Febr. 1963 im taiwanesischen Tainan als Huang Jen-Hsun geboren.",
+        "tier": null
+      },
+      {
+        "id": "s8",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581009000011/sch13h.htm",
+        "title": "NVIDIA Corporation — Schedule 13G（申报人 Jen-Hsun Huang 等，2009-02-17 报送）",
+        "published_at": "2009-02-17",
+        "checked_at": "2026-10-21",
+        "excerpt": "Item 2(c). Citizenship: Jen-Hsun Huang USA",
+        "tier": 1
+      },
+      {
+        "id": "s9",
+        "url": "https://www.forbes.com/profile/jensen-huang/",
+        "title": "Jensen Huang | Forbes 人物页",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Residence Los Altos, California Citizenship United States",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "AI政见",
+      "黄仁勋",
+      "英伟达",
+      "干部简历"
+    ],
+    "person": {
+      "name": {
+        "value": "黄仁勋",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s8",
+          "s9"
+        ],
+        "basis": "本人报送证交会附表 13G 第 2(c) 项 Citizenship: USA；福布斯人物页同",
+        "inferred": false,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1963-02-17",
+        "source_ids": [
+          "s7"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1984-07",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "现行英伟达董事页记载AMD任职始于1984年；斯坦福采访确认在AMD及LSI Logic任职时为全职工作。按第一份全职工作的开始年确定参加工作时间。；参加工作月份无记载，取 7 月（cadre.md 第 3 节第 3 条）",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1984",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "斯坦福大学电气工程理学硕士学位",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "英伟达公司",
+        "role": "总裁、首席执行官、董事",
+        "start": {
+          "value": "1993-04",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "roles": [
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1980",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "俄勒冈州立大学记载电气工程学士毕业年为1984年；本科入学年按1984－4＝1980推算。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1984",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1984",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "俄勒冈州立大学",
+        "role": null,
+        "program": "电气工程",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1984",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1985",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "超威半导体公司（AMD）",
+        "role": "微处理器设计师",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "微处理器设计师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1985",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1993",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "LSI Logic公司",
+        "role": "工程师、CoreWare事业部总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2",
+          "s4"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程师",
+          "CoreWare事业部总监"
+        ],
+        "role_category": {
+          "value": "senior engineering and marketing positions",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "俄勒冈州立大学记载工程及营销职位类别，工程职位概括为工程师；STVP明确记载Coreware总监。各职务交接日期未载，合为一条。",
+        "study_level": null,
+        "full_time": true,
+        "annotations": [
+          {
+            "kind": "study",
+            "start": {
+              "value": "1984",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": true,
+              "basis": "斯坦福记载MS ’92，黄仁勋本人称硕士修读八年；1992－8＝1984。",
+              "inference": {
+                "rule": "degree_duration",
+                "from_date": "1992",
+                "duration_years": 8
+              }
+            },
+            "end": {
+              "value": "1992",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "斯坦福大学",
+            "role": null,
+            "roles": [],
+            "program": "电气工程",
+            "degree_awarded": {
+              "value": "理学硕士学位",
+              "source_ids": [
+                "s1",
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "concurrent": true,
+            "source_ids": [
+              "s2",
+              "s3"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993-04",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "英伟达公司",
+        "role": "联合创始人、总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s4"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联合创始人",
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2026-03-25",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": false,
+            "organization": "美国总统科技顾问委员会",
+            "role": "委员",
+            "roles": [
+              "委员"
+            ],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s6"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "英伟达",
+    "conflicts": [
+      {
+        "field": "careers.AMD.start",
+        "alternatives": [
+          {
+            "value": "1984",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "1983",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "1984",
+        "reason": "采用英伟达现行董事页的1984年；2011年SEC年报的1983年并列保留，交AI政见确认。"
+      }
+    ],
+    "unknowns": [
+      "国籍：未知",
+      "党派：未知",
+      "党派加入时间：未知",
+      "LSI Logic公司各职务交接日期：未知",
+      "美国总统科技顾问委员会委员结束日期及截至2026-10-12持续状态：未知",
+      "兰德公司历史董事兼职结束日期及现时持续状态：未知"
+    ],
+    "excluded": [
+      "大英百科人物页及money路径均未能实际打开，未采用其国籍与出生资料。",
+      "2011年报指定PDF未能打开，历史AMD日期冲突改用已打开的SEC原始HTML记录。",
+      "兰德公司历史董事兼职现时持续状态未确认，不列入本次履历括注。",
+      "Munzinger页面将其英伟达职务称为Chairman，未采用；企业现职采用英伟达现行董事页。"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

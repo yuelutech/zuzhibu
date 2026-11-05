@@ -1,0 +1,646 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "cadre-a000148",
+      "line": "cadre",
+      "subject_id": "a000148",
+      "title": "杰克·奥金克罗斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/A/AUCHINCLOSS,-Jake-(A000148)/",
+          "title": "AUCHINCLOSS, Jake | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "born in Boston, Suffolk County, Mass., on January 29, 1988",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/A000148",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Jake Auchincloss\nMassachusetts (MA) – 4th, Democrat\nCommittee on Energy and Commerce",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.boston.com/news/politics/2020/08/16/jake-auchincloss-4th-district-democratic-primary/",
+          "title": "Jake Auchincloss says he’s an ‘Obama-Baker’ voter. Does that fly in a Democratic primary?",
+          "published_at": "2020-08-16",
+          "checked_at": "2026-10-17",
+          "excerpt": "before enrolling again with the Democratic Party in November 2015",
+          "tier": null
+        },
+        {
+          "id": "s5",
+          "url": "https://www.ustravel.org/sites/default/files/media_root/document/2020_Election-Profiles.pdf",
+          "title": "PC Template",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "MBA, Finance, MIT Sloan School of Management, 2014-2016; BA, Government, Economics, Harvard College, 2007-2010",
+          "tier": null
+        },
+        {
+          "id": "s6",
+          "url": "https://www.mma.org/wp-content/uploads/2020/12/MMA-Beacon-Dec-2020_final.pdf",
+          "title": "The Beacon, December 2020 — Former Councillor Auchincloss to prioritize local issues",
+          "published_at": "2020-12",
+          "checked_at": "2026-10-17",
+          "excerpt": "He has a bachelor’s degree in government and economics from Harvard University, and an MBA in finance from the MIT Sloan School of Management.",
+          "tier": null
+        },
+        {
+          "id": "s7",
+          "url": "https://auchincloss.house.gov/media/in-the-news/auchincloss-advocates-veterans-congress",
+          "title": "Auchincloss Advocates for Veterans in Congress",
+          "published_at": "2021-11-12",
+          "checked_at": "2026-10-17",
+          "excerpt": "Jake Auchincloss enlisted in the Marines and served from 2010 to 2015",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://auchincloss.house.gov/media/press-releases/congressman-auchincloss-appointed-to-energy-and-commerce",
+          "title": "Congressman Auchincloss Appointed to Energy & Commerce",
+          "published_at": "2025-01-17",
+          "checked_at": "2026-10-17",
+          "excerpt": "Congressman Jake Auchincloss (D, MA-04) has been appointed to the House Committee on Energy and Commerce for the 119th Congress.",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres22eh/html/BILLS-119hres22eh.htm",
+          "title": "H. Res. 22 Engrossed in House — Electing Members to certain standing committees",
+          "published_at": "2025-01-09",
+          "checked_at": "2026-10-17",
+          "excerpt": "January 9, 2025.\nResolved, That the following named Members be, and are hereby, elected",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.ballotready.org/people/jake-auchincloss",
+          "title": "Jake Auchincloss | BallotReady",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Liberty Mutual Insurance, Manager (2018 - 2019)\nNewton City Council, Councilmember (2016 - 2020)\nBarkly, Product Manager (2016 - 2018)",
+          "tier": null
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:MA"
+      ],
+      "person": {
+        "name": {
+          "value": "杰克·奥金克罗斯",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1988-01-29",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "马萨诸塞州波士顿",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2010",
+          "source_ids": [
+            "s1",
+            "s7",
+            "s10"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：国会官方传记记载美国海军陆战队服役时间为2010—2015年；议员官网转载报道确认其哈佛毕业后入伍，并于2015年完成现役。取2010年为入伍年份，不补月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2010",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "麻省理工学院斯隆管理学院金融学工商管理硕士学位",
+          "source_ids": [
+            "s1",
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国民主党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2015-11",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "第1级锚点：重新登记为民主党选民，2015-11；来源：https://www.boston.com/news/politics/2020/08/16/jake-auchincloss-4th-district-democratic-primary/ 。该文转引《波士顿环球报》依据牛顿市书记官办公室记录的报道：原登记为民主党，2013年底改登记为共和党，2014年4月退出共和党，2015年11月重新登记为民主党。采用最近一次转入现党籍的日期。排除2014年共和党初选投票及为共和党竞选的经历；牛顿市非党派市政选举不作锚点；后来的民主党国会参选和就任属于较低级锚点。",
+          "inference": {
+            "rule": "party_anchor_registration",
+            "from_date": "2015-11",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": null
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（马萨诸塞州第4选区）",
+          "role": "",
+          "start": {
+            "value": "2021-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院能源和商务委员会",
+          "role": "委员",
+          "start": {
+            "value": "2025-01-09",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s8",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2010",
+            "source_ids": [
+              "s1",
+              "s5",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "哈佛大学",
+          "role": null,
+          "program": "政府学、经济学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5",
+            "s6",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2010",
+            "source_ids": [
+              "s1",
+              "s7",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s1",
+              "s7",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国海军陆战队",
+          "role": "步兵军官、侦察军官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "步兵军官",
+            "侦察军官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": true,
+          "annotations": [
+            {
+              "kind": "study",
+              "start": {
+                "value": "2014",
+                "source_ids": [
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2016",
+                "source_ids": [
+                  "s1",
+                  "s5",
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "麻省理工学院斯隆管理学院",
+              "role": null,
+              "roles": [],
+              "program": "金融学",
+              "degree_awarded": {
+                "value": "工商管理硕士",
+                "source_ids": [
+                  "s1",
+                  "s5",
+                  "s6",
+                  "s10"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "concurrent": true,
+              "source_ids": [
+                "s1",
+                "s5",
+                "s6",
+                "s10"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016",
+            "source_ids": [
+              "s1",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2020",
+            "source_ids": [
+              "s1",
+              "s6",
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "牛顿市议会",
+          "role": "议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2018",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "Barkly",
+          "role": "产品经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "产品经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "自由互助保险公司创新实验室",
+          "role": "高级经理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "高级经理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（马萨诸塞州第4选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s7"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（马萨诸塞州第4选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025-01-09",
+                "source_ids": [
+                  "s9"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "众议院能源和商务委员会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s8",
+                "s9"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "出生日期、出生地：已取得众议院官方传记依据；未取得第二个可打开且直接记载出生日期、出生地的权威来源。",
+        "本科入学年份：采用 National Journal 选举人物资料记载的2007年；国会官方传记只记载2010年毕业，哈佛政府系校友页面多次打开失败，未取得学校对入学年份的确认。",
+        "硕士学习方式：来源记载2014—2016年学习及2016年获学位，未写明全日制或非全日制；不据任职重叠推定具体培养方式。",
+        "海军陆战队预备役：2021年议员官网报道确认当时属于 Individual Ready Reserve，并于2020年晋升少校；未找到可确定预备役开始日期及截至2026-10-17仍在役的现行证据，未列持续至今的预备役职务。",
+        "市议会任职：官方传记记载2016—2020年，2020年12月《The Beacon》确认已辞职；未取得精确就任日和辞职生效日。",
+        "企业任职：Barkly及自由互助保险公司的年份采用 BallotReady，职务另以《The Beacon》交叉核对；未找到企业官方任职起止公告，未取得准确月份及全职、兼职性质。",
+        "其他经历：已查议员官网、国会官方传记、哈佛政府系检索结果及市政协会刊物；MIT创业竞赛管理职务、2013—2014年竞选相关工作缺少完整可用的任职起止依据，未列入履历。",
+        "入党锚点：2015年11月重新登记民主党的日期依据 Boston.com 转引的牛顿市选民登记记录报道；未取得公开的原始个人登记表和具体日期。"
+      ],
+      "excluded": [
+        "底稿『最高学位为哈佛大学文学学士、大学学历』：国会官方传记确认2016年取得麻省理工学院工商管理硕士，改为研究生学历及最高已取得硕士学位。",
+        "底稿『2010年6月参加工作』：来源只支持2010年，首份全职经历为现役军职，改为2010年入伍。",
+        "底稿『本科2006年入学』：没有来源；采用已打开的 National Journal 人物资料所记2007年。",
+        "底稿『2015—2021年任牛顿市议员』：国会官方传记记为2016—2020年，2020年12月市政协会刊物已称其辞职。",
+        "底稿『2015—2016年硕士学习』：已打开资料记载2014—2016年，采用该起止年份。",
+        "底稿『2016—2020年网络安全企业及自由互助保险公司任职』：两家单位分别取证并分列；已打开人物资料分别记载2016—2018年和2018—2019年。",
+        "底稿『现职开始于2025-01』：这是本届国会任期起点；连续担任同一选区众议员的起点为2021-01-03。",
+        "底稿『2015年起海军陆战队预备役军官，持续至今』：缺少明确开始日期和截止日现职证据，不沿用。",
+        "底稿『阿富汗、巴拿马指挥职务作为兼职括注』：属于海军陆战队服役期间的部署与任务，不另列兼职单位。",
+        "底稿『马萨诸塞州牛顿市出生』：国会官方传记明确记载出生于马萨诸塞州波士顿，采用官方原文。",
+        "2025年1月17日委员会任命新闻发布日期：不作就任日期；正式众议院决议记载2025年1月9日当选委员会委员。",
+        "维基百科、无法打开的哈佛校友页、Vote Smart页面、Boston Globe原文及其他失败网页：不列入sources，不以搜索摘要代替原文证据。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

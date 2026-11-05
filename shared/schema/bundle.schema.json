@@ -1,0 +1,1574 @@
+{
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "enum": [
+        "1.0"
+      ]
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "anyOf": [
+          {
+            "$ref": "#/$defs/cadreItem"
+          },
+          {
+            "$ref": "#/$defs/item"
+          }
+        ]
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "date",
+    "items"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$defs": {
+    "fact": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "string"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "value",
+        "source_ids"
+      ],
+      "additionalProperties": false
+    },
+    "dateFact": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "string",
+          "pattern": "^\\d{4}(?:-\\d{2})?(?:-\\d{2})?$"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "value",
+        "source_ids"
+      ],
+      "additionalProperties": false
+    },
+    "workStartFact": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "string",
+          "pattern": "^\\d{4}(?:-\\d{2})?(?:-\\d{2})?$"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "basis": {
+          "type": "string",
+          "enum": [
+            "explicit"
+          ]
+        }
+      },
+      "required": [
+        "value",
+        "source_ids",
+        "basis"
+      ],
+      "additionalProperties": false
+    },
+    "citedText": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "text",
+        "source_ids"
+      ],
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "published_at": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^\\d{4}(?:-\\d{2})?(?:-\\d{2})?$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "checked_at": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "excerpt": {
+          "type": "string"
+        },
+        "tier": {
+          "anyOf": [
+            {
+              "type": "integer",
+              "enum": [
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "来源等级：1 官网、年报、学校官网、本人官网；2 权威媒体、权威百科、本人署名的公开自述；3 维基等只作线索。null 为尚未标注。"
+        }
+      },
+      "required": [
+        "id",
+        "url",
+        "title",
+        "published_at",
+        "checked_at",
+        "excerpt",
+        "tier"
+      ],
+      "additionalProperties": false
+    },
+    "person": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/fact"
+        },
+        "gender": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/fact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "nationality": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/fact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "birth_date": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/dateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "birth_place": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/fact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "work_start": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/workStartFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "education": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/fact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "degree": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/fact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "honorary_degree": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/fact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "name",
+        "gender",
+        "nationality",
+        "birth_date",
+        "birth_place",
+        "work_start",
+        "education",
+        "degree",
+        "honorary_degree"
+      ],
+      "additionalProperties": false
+    },
+    "currentRole": {
+      "type": "object",
+      "properties": {
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        },
+        "start": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/dateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "concurrent": {
+          "type": "boolean"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "organization",
+        "role",
+        "start",
+        "concurrent",
+        "source_ids"
+      ],
+      "additionalProperties": false
+    },
+    "career": {
+      "type": "object",
+      "properties": {
+        "kind": {
+          "type": "string",
+          "enum": [
+            "work",
+            "study"
+          ]
+        },
+        "start": {
+          "$ref": "#/$defs/dateFact"
+        },
+        "end": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/dateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "program": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "degree_awarded": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/fact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "concurrent": {
+          "type": "boolean"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ongoing": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "kind",
+        "start",
+        "end",
+        "organization",
+        "role",
+        "program",
+        "degree_awarded",
+        "concurrent",
+        "source_ids",
+        "ongoing"
+      ],
+      "additionalProperties": false
+    },
+    "appointment": {
+      "type": "object",
+      "properties": {
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        },
+        "announced_at": {
+          "$ref": "#/$defs/dateFact"
+        },
+        "effective_at": {
+          "$ref": "#/$defs/dateFact"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "organization",
+        "role",
+        "announced_at",
+        "effective_at",
+        "source_ids"
+      ],
+      "additionalProperties": false
+    },
+    "item": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{0,95}$"
+        },
+        "line": {
+          "type": "string",
+          "enum": [
+            "jensen"
+          ]
+        },
+        "subject_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{0,95}$"
+        },
+        "title": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "$ref": "#/$defs/citedText"
+            }
+          ]
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/source"
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "person": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/person"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "current_roles": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/currentRole"
+          }
+        },
+        "careers": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/career"
+          }
+        },
+        "appointments": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/appointment"
+          }
+        },
+        "event_date": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/dateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "paragraphs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citedText"
+          }
+        }
+      },
+      "required": [
+        "id",
+        "line",
+        "subject_id",
+        "title",
+        "sources",
+        "tags",
+        "person",
+        "current_roles",
+        "careers",
+        "appointments",
+        "event_date",
+        "paragraphs"
+      ],
+      "additionalProperties": false
+    },
+    "inference": {
+      "type": "object",
+      "properties": {
+        "rule": {
+          "type": "string",
+          "enum": [
+            "graduation_minus_four",
+            "first_full_time_job",
+            "degree_duration",
+            "party_anchor_registration",
+            "party_anchor_party_office",
+            "party_anchor_candidacy_filing",
+            "party_anchor_partisan_ballot",
+            "party_anchor_partisan_office",
+            "standard_duration",
+            "age_statement",
+            "birth_from_graduation",
+            "birth_from_first_job",
+            "birthday_post",
+            "graduation_next_month",
+            "statutory_term_start",
+            "commission_month",
+            "adjacent_entry",
+            "academic_calendar",
+            "mid_year_default",
+            "party_anchor_public_declaration",
+            "party_anchor_official_member"
+          ]
+        },
+        "from_date": {
+          "type": "string"
+        },
+        "duration_years": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "rule",
+        "from_date",
+        "duration_years"
+      ],
+      "additionalProperties": false
+    },
+    "cadreFact": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "string"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "inferred": {
+          "type": "boolean"
+        },
+        "basis": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "inference": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/inference"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "value",
+        "source_ids",
+        "inferred",
+        "basis",
+        "inference"
+      ],
+      "additionalProperties": false
+    },
+    "cadreDateFact": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "string",
+          "pattern": "^\\d{4}(?:-\\d{2})?(?:-\\d{2})?$"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "inferred": {
+          "type": "boolean"
+        },
+        "basis": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "inference": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/inference"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "value",
+        "source_ids",
+        "inferred",
+        "basis",
+        "inference"
+      ],
+      "additionalProperties": false
+    },
+    "cadreWorkStartFact": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "string",
+          "pattern": "^\\d{4}(?:-\\d{2})?(?:-\\d{2})?$"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "inferred": {
+          "type": "boolean"
+        },
+        "basis": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "inference": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/inference"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "value",
+        "source_ids",
+        "inferred",
+        "basis",
+        "inference"
+      ],
+      "additionalProperties": false
+    },
+    "cadrePerson": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/cadreFact"
+        },
+        "gender": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "nationality": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "birth_date": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreDateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "birth_place": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "work_start": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreWorkStartFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "education": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "degree": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "honorary_degree": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "party": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "party_joined_at": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreDateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "work_start_action": {
+          "type": "string",
+          "enum": [
+            "参加工作",
+            "入伍"
+          ]
+        },
+        "ethnicity": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/ethnicityFact"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "族裔，只有美国人写，限白人、非洲裔、拉丁裔、亚裔、原住民，要有本人自述或官方统计作来源。"
+        },
+        "academician": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/cadreFact"
+          },
+          "description": "国家级院士，首段写在学位之后，不进现任。"
+        },
+        "military_rank": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "军衔，首段写在学位之后；退出现役进履历。"
+        },
+        "dropout": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "没有任何学位、来源明确退学时的学校名，首段写“××大学肄业”。"
+        },
+        "death_date": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreDateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "status": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "在任",
+                "提名人选",
+                "候任",
+                "当选人",
+                "拟任",
+                "离任",
+                "逝世"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "name",
+        "gender",
+        "nationality",
+        "birth_date",
+        "birth_place",
+        "work_start",
+        "education",
+        "degree",
+        "honorary_degree",
+        "party",
+        "party_joined_at",
+        "work_start_action",
+        "ethnicity",
+        "academician",
+        "military_rank",
+        "dropout",
+        "death_date",
+        "status"
+      ],
+      "additionalProperties": false
+    },
+    "cadreCurrentRole": {
+      "type": "object",
+      "properties": {
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        },
+        "start": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreDateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "concurrent": {
+          "type": "boolean"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "roles": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sector": {
+          "type": "string",
+          "enum": [
+            "enterprise",
+            "advisory",
+            "politics",
+            "committee",
+            "party",
+            "military"
+          ]
+        },
+        "appointment_state": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "正式",
+                "提名人选",
+                "候任",
+                "当选人",
+                "拟任",
+                "代理",
+                "临时"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "organization",
+        "role",
+        "start",
+        "concurrent",
+        "source_ids",
+        "roles",
+        "sector",
+        "appointment_state"
+      ],
+      "additionalProperties": false
+    },
+    "cadreCareer": {
+      "type": "object",
+      "properties": {
+        "kind": {
+          "type": "string",
+          "enum": [
+            "work",
+            "study",
+            "discharge"
+          ]
+        },
+        "start": {
+          "$ref": "#/$defs/cadreDateFact"
+        },
+        "end": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreDateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "program": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "只写专业名称，如电气工程，不含专业、学习、在职研究生等版式文字。"
+        },
+        "degree_awarded": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "concurrent": {
+          "type": "boolean"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ongoing": {
+          "type": "boolean",
+          "description": "true明确主张持续至今；false不主张持续状态，不表示已结束。只有end非null才给出明确结束日期。"
+        },
+        "roles": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "role_category": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "role_basis": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "study_level": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "bachelor",
+                "master",
+                "doctor"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "full_time": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "annotations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/annotation"
+          }
+        },
+        "appointment_state": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "正式",
+                "提名人选",
+                "候任",
+                "当选人",
+                "拟任",
+                "代理",
+                "临时"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "stable_identity": {
+          "type": "boolean",
+          "description": "律师、商人、作家、演说家、评论员、独立顾问、参选人、候选人这类稳定身份。"
+        }
+      },
+      "required": [
+        "kind",
+        "start",
+        "end",
+        "organization",
+        "role",
+        "program",
+        "degree_awarded",
+        "concurrent",
+        "source_ids",
+        "ongoing",
+        "roles",
+        "role_category",
+        "role_basis",
+        "study_level",
+        "full_time",
+        "annotations",
+        "appointment_state",
+        "stable_identity"
+      ],
+      "additionalProperties": false
+    },
+    "cadreAppointment": {
+      "type": "object",
+      "properties": {
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        },
+        "announced_at": {
+          "$ref": "#/$defs/cadreDateFact"
+        },
+        "effective_at": {
+          "$ref": "#/$defs/cadreDateFact"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "organization",
+        "role",
+        "announced_at",
+        "effective_at",
+        "source_ids"
+      ],
+      "additionalProperties": false
+    },
+    "annotation": {
+      "type": "object",
+      "properties": {
+        "kind": {
+          "type": "string",
+          "enum": [
+            "study",
+            "part_time",
+            "review",
+            "rank_promotion"
+          ]
+        },
+        "start": {
+          "$ref": "#/$defs/cadreDateFact"
+        },
+        "end": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreDateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "ongoing": {
+          "type": "boolean",
+          "description": "true明确主张持续至今；false不主张持续状态，不表示已结束。只有end非null才给出明确结束日期。"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "roles": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "program": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "只写专业名称，如电气工程，不含专业、学习、在职研究生等版式文字。"
+        },
+        "degree_awarded": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/cadreFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "concurrent": {
+          "type": "boolean"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "kind",
+        "start",
+        "end",
+        "ongoing",
+        "organization",
+        "role",
+        "roles",
+        "program",
+        "degree_awarded",
+        "concurrent",
+        "source_ids"
+      ],
+      "additionalProperties": false
+    },
+    "conflict": {
+      "type": "object",
+      "properties": {
+        "field": {
+          "type": "string"
+        },
+        "alternatives": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/cadreFact"
+          }
+        },
+        "selected_value": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "field",
+        "alternatives",
+        "selected_value",
+        "reason"
+      ],
+      "additionalProperties": false
+    },
+    "cadreItem": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{0,95}$"
+        },
+        "line": {
+          "type": "string",
+          "enum": [
+            "cadre"
+          ]
+        },
+        "subject_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{0,95}$"
+        },
+        "title": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "$ref": "#/$defs/citedText"
+            }
+          ]
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/source"
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "person": {
+          "$ref": "#/$defs/cadrePerson"
+        },
+        "current_roles": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/cadreCurrentRole"
+          }
+        },
+        "careers": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/cadreCareer"
+          }
+        },
+        "appointments": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/cadreAppointment"
+          }
+        },
+        "event_date": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/dateFact"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "paragraphs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/citedText"
+          }
+        },
+        "company_tag": {
+          "type": "string"
+        },
+        "conflicts": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/conflict"
+          }
+        },
+        "unknowns": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "excluded": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "country_profile": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "us",
+                "rw",
+                "other"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "选附则和 lint 国别开关：us 美国，rw 卢旺达，other 其他。"
+        },
+        "card_type": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "完整简历卡",
+                "一页介绍卡",
+                "标准像合集卡"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "date_granularity": {
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                "month",
+                "year"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "全篇日期粒度，程序按缺月份条目的阈值算出后存下来供审。"
+        },
+        "disambiguation": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "同名锁定：写“职务＋机构”。"
+        },
+        "review_items": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "复核清单，如表外译名补录。"
+        }
+      },
+      "required": [
+        "id",
+        "line",
+        "subject_id",
+        "title",
+        "sources",
+        "tags",
+        "person",
+        "current_roles",
+        "careers",
+        "appointments",
+        "event_date",
+        "paragraphs",
+        "company_tag",
+        "conflicts",
+        "unknowns",
+        "excluded",
+        "country_profile",
+        "card_type",
+        "date_granularity",
+        "disambiguation",
+        "review_items"
+      ],
+      "additionalProperties": false
+    },
+    "ethnicityFact": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "string",
+          "enum": [
+            "白人",
+            "非洲裔",
+            "拉丁裔",
+            "亚裔",
+            "原住民"
+          ]
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "inferred": {
+          "type": "boolean"
+        },
+        "basis": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "inference": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/inference"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "value",
+        "source_ids",
+        "inferred",
+        "basis",
+        "inference"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "description": "AI政见两条内容线事实包；空缺事实用null；日历、引用及干部纪律须另经contracts.validate_bundle和独立来源复核。"
+}

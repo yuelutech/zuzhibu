@@ -1,0 +1,78 @@
+{
+  "id": "2026-09-28-dev-ittycheria-acting",
+  "date": "2026-09-28",
+  "kind": "acting",
+  "kind_label": "代理",
+  "person_id": "dev-ittycheria",
+  "person": {
+    "name_zh": "德夫·伊蒂切里亚",
+    "name_en": "Dev Ittycheria",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-09-28",
+  "effective_at": "2026-09-28",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "MongoDB公司",
+      "role": "临时总裁兼首席执行官",
+      "organization_en": "MongoDB",
+      "role_en": "interim President and CEO",
+      "start": "2026-09-28",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e10"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "德夫·伊蒂切里亚任MongoDB公司临时总裁兼首席执行官",
+  "summary": "MongoDB9月28日宣布伊蒂切里亚即日出任临时总裁兼首席执行官，接替转赴Meta的德赛。董事会已启动正式首席执行官遴选。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e10",
+      "url": "https://www.mongodb.com/company/newsroom/press-releases/mongodb-announces-ceo-transition?locale_fallback=de-de",
+      "title": "MongoDB Announces CEO Transition",
+      "publisher": "MongoDB",
+      "published_at": "2026-09-28",
+      "excerpt": "Dev Ittycheria Appointed Interim President and Chief Executive Officer",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 dev-ittycheria（库里没有此人）",
+      "现任职务新增：MongoDB公司临时总裁兼首席执行官",
+      "履历新增：2026-09 MongoDB公司临时总裁兼首席执行官",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "dev-ittycheria",
+    "reason": "主要职务“MongoDB公司 临时总裁兼首席执行官”：企业职务，原属二局"
+  }
+}

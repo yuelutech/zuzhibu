@@ -1,0 +1,489 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-richard-walters",
+      "line": "cadre",
+      "subject_id": "richard-walters",
+      "title": "理查德·沃尔特斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf",
+          "title": "2026 Annual Report to Congress on White House Staff",
+          "published_at": "2026-07-01",
+          "checked_at": "2026-10-18",
+          "excerpt": "WALTERS, RICHARD W. ... DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://en.wikipedia.org/wiki/Richard_Walters_(political_advisor)",
+          "title": "Richard Walters",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born June 28, 1989; Teenage Republicans ... vice president; ... RNC ... 2013",
+          "tier": 3
+        },
+        {
+          "id": "s3",
+          "url": "https://politics.georgetown.edu/profiles/richard-walters/",
+          "title": "Richard Walters | Georgetown Institute of Politics",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "2026 Spring; Partner at FGS Global; ... attended ... Mississippi ... Public Policy and Leadership",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://fgsglobal.com/insights/recent-hires/richard-walters-joins-fgs-global-as-a-partner",
+          "title": "Richard Walters joins FGS Global as Partner",
+          "published_at": "2025-02-28",
+          "checked_at": "2026-10-18",
+          "excerpt": "February 28, 2025; ... Chief of Staff ... early 2023",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://democracyinaction.us/2022/rnc22.html",
+          "title": "Republican National Committee Organization 2021-22",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Senior Advisor Richard Walters (Feb. 2022); finance director ... Feb. 6, 2017",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://podscan.fm/podcasts/the-fly/episodes/richard-walters-former-rnc-chief-of-staff-and-senior-advisor-elections-come-down-to-pocketbook-issues",
+          "title": "Richard Walters interview on The Fly",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "before ... grad school in 2012 ... late 2011 ... move to Boston ... campaign team",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.nationalparks.org/about-foundation/national-council-and-board-of-directors/richard-walters",
+          "title": "Richard Walters | National Park Foundation",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Board of Directors & National Council; Richard Walters",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "理查德·沃尔特斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": null,
+        "birth_place": null,
+        "work_start": {
+          "value": "2012-07",
+          "source_ids": [
+            "s5",
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "2012年罗姆尼竞选筹款为可核实早期职业经历，开始月未知按7月；更早巴伯竞选参与性质不明",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2012",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "密西西比大学公共政策与领导力专业",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": null,
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2013",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "2013年起任共和党全国委员会筹款工作人员，按党组织正式工作锚点登记",
+          "inference": {
+            "rule": "party_anchor_party_office",
+            "from_date": "2013",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "白宫",
+          "role": "总统副助理、副幕僚长",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "总统副助理、副幕僚长"
+          ],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "国家公园基金会",
+          "role": "董事",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s7"
+          ],
+          "roles": [
+            "董事"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012-07",
+            "source_ids": [
+              "s3",
+              "s5",
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "来源仅载年份，缺月份按规则取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2012",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "罗姆尼总统竞选团队",
+          "role": "筹款工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5",
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [
+            "筹款工作人员"
+          ],
+          "role_category": {
+            "value": "工作人员",
+            "source_ids": [
+              "s3",
+              "s5",
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "大学介绍及2012竞选筹款团队记录",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-07",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "来源仅载年份，缺月份按规则取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2013",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2017-02",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国共和党全国委员会",
+          "role": "筹款工作人员、区域筹款主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "筹款工作人员、区域筹款主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-02",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017-08",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国共和党全国委员会",
+          "role": "全国筹款主任",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "全国筹款主任"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-08",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2022-02",
+            "source_ids": [
+              "s2",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国共和党全国委员会",
+          "role": "代理幕僚长、幕僚长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "代理幕僚长、幕僚长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2022-02",
+            "source_ids": [
+              "s3",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国共和党全国委员会",
+          "role": "主席高级顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "主席高级顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-02",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "FGS Global 公司",
+          "role": "合伙人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "合伙人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [
+        {
+          "field": "careers.RNC.chief_of_staff_end",
+          "alternatives": [
+            {
+              "value": "2022-02",
+              "source_ids": [
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2023",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "2022-02",
+          "reason": "采用同期记录，用户已确定；2025年企业回顾年份留档。"
+        }
+      ],
+      "unknowns": [
+        "大学毕业日期、哥伦比亚大学所攻读硕士是否授予未查清。",
+        "早期巴伯竞选工作人员经历起始年及全职性质未查清。",
+        "2025年就职委员会执行主任、2024年过渡委员会董事、2026年春乔治敦大学研究员有来源，准确起止月未查清。",
+        "白宫7月名单未列职责分工；媒体5月报道不设特定分工，三级来源列6月代理立法政治公共事务职务。本包采用官方通用职务名，到任日期保留2026年。",
+        "FGS与RNC高级顾问实际离职日期、国家公园基金会董事到任日期未查清。",
+        "出生年月、具体学位名称、大学入学年原始记录未找到；不采用维基具体值。",
+        "已查事实：密西西比大学；公共政策与领导力专业学习；起始时间未查明；结束时间未查明。来源：s3。缺少时间或机构，暂不编入有日期的履历。",
+        "白宫2026年7月1日名册证明其当时已任副幕僚长；具体到任日期未查明。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Richard Walters；美国白宫",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

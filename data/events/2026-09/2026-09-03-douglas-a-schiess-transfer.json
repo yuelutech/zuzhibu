@@ -1,0 +1,131 @@
+{
+  "id": "2026-09-03-douglas-a-schiess-transfer",
+  "date": "2026-09-03",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "douglas-a-schiess",
+  "person": {
+    "name_zh": "道格拉斯·A.希斯",
+    "name_en": "Douglas A. Schiess",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": null,
+  "effective_at": "2026-09-03",
+  "ended_roles": [
+    {
+      "organization": "美国太空军",
+      "role": "副太空作战部长",
+      "organization_en": "U.S. Space Force",
+      "role_en": "deputy Chief of Space Operations",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e2"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "美国太空军",
+      "role": "太空作战部长",
+      "organization_en": "U.S. Space Force",
+      "role_en": "Chief of Space Operations",
+      "start": "2026-09-03",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "道格拉斯·A.希斯任美国太空作战部长",
+  "summary": "希斯9月3日在安德鲁斯联合基地交接仪式上宣誓就任，接替钱斯·萨尔茨曼。他此前任副太空作战部长。",
+  "bureaus": [
+    "military"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.stripes.com/branches/space_force/2026-09-04/douglas-schiess-space-force-cso-22753119.html",
+      "title": "Schiess installed as Space Force’s highest-ranking officer",
+      "publisher": "星条旗报",
+      "published_at": "2026-09-04",
+      "excerpt": "Gen. Douglas A. Schiess was sworn in as the Space Force’s chief of space operations",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/08/07/senate-confirms-new-chief-of-space-operations/",
+      "title": "Senate confirms new Chief of Space Operations",
+      "publisher": "Military Times",
+      "published_at": "2026-08-07",
+      "excerpt": "Schiess currently serves as deputy Chief of Space Operations",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "m1",
+      "url": "https://www.dvidshub.net/video/1021753/us-space-force-chief-space-operations-change-responsibility-ceremony",
+      "title": "US Space Force Chief of Space Operations Change of Responsibility Ceremony",
+      "publisher": "Air Force Television Pentagon / DVIDS",
+      "published_at": "2026-09-03",
+      "excerpt": "Gen. Douglas A. Schiess was formally installed Sept. 3 as the Chief of Space Operations ... with his retiring predecessor, Gen. Chance Saltzman.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true,
+      "merged_from": "2026-09-03-douglas-a-schiess-appoint"
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": [],
+    "merged": [
+      {
+        "id": "2026-09-03-douglas-a-schiess-appoint",
+        "kind": "appoint",
+        "headline": "希斯就任太空作战部长",
+        "announced_at": "2026-09-03",
+        "effective_at": "2026-09-03",
+        "verification": {
+          "method": "codex",
+          "by": "本机 Codex 核查会话（补采动态，一次一条）",
+          "run": "20261021-104850"
+        },
+        "sources": [
+          "m1"
+        ],
+        "at": "2026-10-21",
+        "reason": "同一人、同一天、同一机构，类别不同的同一件事，合成一条"
+      }
+    ]
+  },
+  "origin": "backfill",
+  "lead": "roster-douglas-a-schiess",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "现任职务移出：美国太空军 太空作战部长",
+      "履历新增已结束条目：美国太空军 太空作战部长",
+      "现任职务新增：美国太空军太空作战部长",
+      "履历新增：2026-09 美国太空军太空作战部长"
+    ],
+    "notes": [],
+    "bureau_before": "military",
+    "bureau_after": "military",
+    "person_id": "douglas-a-schiess",
+    "reason": "主要职务“美国太空军 太空作战部长”：国防部与军队"
+  }
+}

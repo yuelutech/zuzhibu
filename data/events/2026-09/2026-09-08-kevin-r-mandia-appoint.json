@@ -1,0 +1,137 @@
+{
+  "id": "2026-09-08-kevin-r-mandia-appoint",
+  "date": "2026-09-08",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "kevin-r-mandia",
+  "person": {
+    "name_zh": "凯文·曼迪亚",
+    "name_en": "Kevin R. Mandia",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-09",
+  "effective_at": "2026-09-08",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "亚马逊公司",
+      "role": "董事",
+      "organization_en": "Amazon",
+      "role_en": "Director",
+      "start": "2026-09-08",
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "amazon-8k"
+      ]
+    },
+    {
+      "organization": "亚马逊公司",
+      "role": "审计委员会委员",
+      "organization_en": "Amazon",
+      "role_en": "Member of the Audit Committee",
+      "start": "2026-09-08",
+      "end": null,
+      "concurrent": true,
+      "sector": "committee",
+      "source_ids": [
+        "amazon-8k"
+      ]
+    },
+    {
+      "organization": "亚马逊公司",
+      "role": "安全委员会委员",
+      "organization_en": "Amazon",
+      "role_en": "Member of the Security Committee",
+      "start": "2026-09-08",
+      "end": null,
+      "concurrent": true,
+      "sector": "committee",
+      "source_ids": [
+        "amazon-8k"
+      ]
+    }
+  ],
+  "other_current_roles": [
+    {
+      "organization": "Armadin",
+      "role": "首席执行官",
+      "organization_en": "Armadin",
+      "role_en": "Chief Executive Officer",
+      "start": "2025-09",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "amazon-8k"
+      ]
+    },
+    {
+      "organization": "Ballistic Ventures",
+      "role": "普通合伙人",
+      "organization_en": "Ballistic Ventures",
+      "role_en": "General Partner",
+      "start": "2024-06",
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "amazon-8k"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "凯文·曼迪亚获任亚马逊公司董事",
+  "summary": "亚马逊9月9日提交的申报披露，董事会于9月8日选任曼迪亚为董事，并任命其为审计委员会及安全委员会委员。他同时担任Armadin首席执行官和Ballistic Ventures普通合伙人。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "amazon-8k",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000036/amzn-20260908.htm",
+      "title": "Amazon Form 8-K, filed September 9, 2026",
+      "publisher": "Amazon / SEC",
+      "published_at": "2026-09-09",
+      "excerpt": "elected Kevin R. Mandia as a director of the Company and also appointed him to the Audit Committee and Security Committee",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094711",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（amazon-8k：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-sep-kevin-mandia",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 kevin-r-mandia（库里没有此人）",
+      "现任职务新增：亚马逊公司董事",
+      "履历新增：2026-09 亚马逊公司董事",
+      "现任职务新增：亚马逊公司审计委员会委员",
+      "现任职务新增：亚马逊公司安全委员会委员",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "kevin-r-mandia",
+    "reason": "主要职务“亚马逊公司 董事”：AI 与科技机构名单"
+  }
+}

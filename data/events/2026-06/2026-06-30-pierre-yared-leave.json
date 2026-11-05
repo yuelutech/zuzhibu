@@ -1,0 +1,162 @@
+{
+  "id": "2026-06-30-pierre-yared-leave",
+  "date": "2026-06-30",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "pierre-yared",
+  "person": {
+    "name_zh": "皮埃尔·亚雷德",
+    "name_en": "Pierre Yared",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-06-30",
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "美国总统经济顾问委员会",
+      "role": "代理主席",
+      "organization_en": "Council of Economic Advisers",
+      "role_en": "Acting Chairman",
+      "start": "2025-09-16",
+      "end": null,
+      "source_ids": [
+        "s1",
+        "c1"
+      ],
+      "sector": "politics",
+      "concurrent": false
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": [
+    {
+      "organization": "哥伦比亚大学商学院",
+      "role": "国际商务教授、主管高管教育的副院长",
+      "organization_en": "Columbia Business School",
+      "role_en": "MUTB Professor of International Business; Vice Dean for Executive Education",
+      "start": null,
+      "end": null,
+      "source_ids": [
+        "s2"
+      ],
+      "sector": "advisory",
+      "concurrent": false
+    },
+    {
+      "organization": "美国外交关系协会",
+      "role": "高级研究员",
+      "organization_en": "Council on Foreign Relations",
+      "role_en": "Senior Fellow",
+      "start": null,
+      "end": null,
+      "source_ids": [
+        "s2"
+      ],
+      "sector": "advisory",
+      "concurrent": false
+    },
+    {
+      "organization": "美国全国经济研究局",
+      "role": "研究员",
+      "organization_en": "National Bureau of Economic Research",
+      "role_en": "Research Associate",
+      "start": null,
+      "end": null,
+      "source_ids": [
+        "s2"
+      ],
+      "sector": "advisory",
+      "concurrent": false
+    },
+    {
+      "organization": "哥伦比亚大学理查德·保罗·里奇曼商业、法律与公共政策中心",
+      "role": "联席主任",
+      "organization_en": "Richard Paul Richman Center for Business, Law, and Public Policy at Columbia University",
+      "role_en": "Co-Director",
+      "start": null,
+      "end": null,
+      "source_ids": [
+        "s2"
+      ],
+      "sector": "advisory",
+      "concurrent": true
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "总统6月30日宣布亚雷德返回哥伦比亚商学院",
+  "summary": "总统6月30日宣布亚雷德返回哥伦比亚商学院。学校现行简介列其为教授、副院长，具体离任日期未查明。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-june-30-2026",
+      "title": "Truth Social Posts of June 30, 2026",
+      "publisher": "美国总统声明；The American Presidency Project 存档",
+      "published_at": "2026-06-30",
+      "excerpt": "Unfortunately, Pierre is returning to Columbia Graduate School",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "s2",
+      "url": "https://business.columbia.edu/faculty/people/pierre-yared",
+      "title": "Pierre Yared",
+      "publisher": "Columbia Business School",
+      "published_at": null,
+      "excerpt": "MUTB Professor of International Business",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "c1",
+      "url": "https://www.govinfo.gov/content/pkg/ERP-2026/pdf/ERP-2026-appendixA.pdf",
+      "title": "Economic Report of the President 2026, Appendix A",
+      "publisher": "",
+      "published_at": null,
+      "excerpt": "Pierre Yared has served as the Acting Chair of the Council of Economic Advisers since September 16, 2025.",
+      "supports": [
+        "ended_roles[0].start"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-103425",
+    "corrections": [
+      "ended_roles[0].start → 2025-09-16（来源 c1）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "人物：核实来源的摘录和网页标题里没有“yared”",
+      "ended_roles[0]：“Acting Chairman”不在核实来源的摘录和网页标题里",
+      "类别：核实来源的摘录和网页标题里没有表示“离任”的字样"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 pierre-yared（库里没有此人）"
+    ],
+    "notes": [
+      "原任“美国总统经济顾问委员会 代理主席 Council of Economic Advisers Acting Chairman”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "pierre-yared",
+    "reason": "转入七局前核对未通过：未核实没有其他现职"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "2026-10-05-karoline-leavitt-announce",
+  "date": "2026-10-05",
+  "kind": "announce",
+  "kind_label": "宣布",
+  "person_id": "karoline-leavitt",
+  "person": {
+    "name_zh": "卡罗琳·莱维特",
+    "name_en": "Karoline Leavitt",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-10-05",
+  "effective_at": "2026-11-01",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "福克斯新闻传媒",
+      "role": "特约评论员",
+      "organization_en": "FOX News Media",
+      "role_en": "Contributor",
+      "start": "2026-11-01",
+      "end": null,
+      "source_ids": [
+        "s1",
+        "c1"
+      ],
+      "sector": "enterprise",
+      "concurrent": false
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "福克斯宣布莱维特将于11月1日起担任特约评论员",
+  "summary": "福克斯宣布莱维特将于11月1日起担任特约评论员。截至10月18日为已宣布、未到任。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://press.foxnews.com/press/2026/10/fox-news-media-signs-karoline-leavitt-as-contributor",
+      "title": "FOX NEWS MEDIA SIGNS KAROLINE LEAVITT AS CONTRIBUTOR",
+      "publisher": "FOX News Media",
+      "published_at": "2026-10-05",
+      "excerpt": "on November 1st",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "c1",
+      "url": "https://press.foxnews.com/press/2026/10/fox-news-media-signs-karoline-leavitt-as-contributor",
+      "title": "FOX News Media Signs Karoline Leavitt as Contributor",
+      "publisher": "",
+      "published_at": "2026-10-05",
+      "excerpt": "She will begin her new role providing commentary and analysis on November 1",
+      "supports": [
+        "effective_at"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-103425",
+    "corrections": [
+      "effective_at → 2026-11-01（来源 c1）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（s1：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "拟于 2026-11-01 任福克斯新闻传媒特约评论员（生效日之前不改现任）"
+    ],
+    "notes": [],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "karoline-leavitt"
+  }
+}

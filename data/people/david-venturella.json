@@ -1,0 +1,237 @@
+{
+  "id": "david-venturella",
+  "name_zh": "戴维·文图雷拉",
+  "name_en": "David Venturella",
+  "name_zh_pending": true,
+  "bureau": "justice",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“U.S. Immigration and Customs Enforcement Acting Director U.S. Immigration and Customs Enforcement Acting Director”：法院、司法部与执法机构）；补采简历 bureaus/personnel-others/data/verified/david-venturella.json（liuju，程序检查通过，待独立核查）",
+  "portrait": null,
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Immigration and Customs Enforcement",
+      "role_en": "Acting Director"
+    }
+  ],
+  "notes": [
+    "官方人员页访问受限；已打开的联邦法院文件确认现任代理局长，来源及任期缺口见本人事实包。；补采任务 liuju（2026-10-20）"
+  ],
+  "events": [
+    "2026-06-01-david-venturella-acting"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "justice",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-others/roster/roster.csv（主要职务“U.S. Immigration and Customs Enforcement Acting Director U.S. Immigration and Customs Enforcement Acting Director”：法院、司法部与执法机构）；补采简历 bureaus/personnel-others/data/verified/david-venturella.json（liuju，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-david-venturella",
+    "line": "cadre",
+    "subject_id": "david-venturella",
+    "title": "戴维·文图雷拉简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-vtd-2_26-cv-00312/pdf/USCOURTS-vtd-2_26-cv-00312-0.pdf",
+        "title": "Aguaiza-Pichazaca v. Wesling et al., Opinion and Order",
+        "published_at": "2026-09-24",
+        "checked_at": "2026-10-18",
+        "excerpt": "David Venturella, in his official capacity as Acting Director of ICE.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.gpb.org/news/2026/05/12/former-private-prison-official-serve-acting-ice-chief",
+        "title": "Former private prison official to serve as acting ICE chief",
+        "published_at": "2026-05-12",
+        "checked_at": "2026-10-18",
+        "excerpt": "Venturella will take the position effective June 1",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://investors.geogroup.com/node/16481/html",
+        "title": "The GEO Group, Inc. — Form 8-K",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "announced his intention to retire effective February 1, 2023. Mr. Venturella joined GEO in 2012",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.investing.com/news/stock-market-news/us-ice-official-who-worked-at-private-prison-firm-will-be-agencys-new-acting-head-4683127?ampMode=1",
+        "title": "US ICE official who worked at private prison firm will be agency's new acting head",
+        "published_at": "2026-05-12",
+        "checked_at": "2026-10-18",
+        "excerpt": "He rejoined ICE last year.",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "inbox",
+      "liuju"
+    ],
+    "person": {
+      "name": {
+        "value": "戴维·文图雷拉",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国移民和海关执法局",
+        "role": "局长",
+        "start": {
+          "value": "2026-06-01",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "代理"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-07",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "履历缺月份，取 7 月（cadre.md 第 3 节第 3 条）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2012",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "GEO Group 公司",
+        "role": "企业发展执行副总裁、业务发展高级副总裁、客户关系高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-06-01",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国移民和海关执法局",
+        "role": "局长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": "代理",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "国籍、出生年月、首份全职工作时间、学历学位未取得可用来源。",
+      "官方人员页 https://www.ice.gov/leadership 本次访问受限；现任身份由2026-09-24联邦法院文件及NPR任命报道核定。",
+      "GEO各职务交接时间未载；2023年后的顾问合同执行期未核定，8-K载拟签两年合同，不当作已执行经历。",
+      "2012年前ICE经历及2025年重返ICE后的职务起止未核全，未补写时间线。",
+      "代理到任日期来自NPR，一级来源只确认现任身份，未取得一级来源到任日期。",
+      "GEO的8-K记载2022-07-18宣布拟于2023-02-01退休；实际退休日未获事后来源确认，履历结束日期留空。"
+    ],
+    "excluded": [
+      "不从任命总统党籍、投票倾向或政治捐款推断本人党籍及入党时间。"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": "戴维·文图雷拉；美国移民和海关执法局局长",
+    "review_items": [
+      "表外人名建议译法见 names.csv，待人工复核；未标作新华社已核译名。",
+      "译名表内标为待核的机构、职务按现有写法保留；逐项清单见README检查提示。"
+    ]
+  }
+}

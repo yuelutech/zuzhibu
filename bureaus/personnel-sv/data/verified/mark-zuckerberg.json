@@ -1,0 +1,351 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "mark-zuckerberg-20261018",
+      "line": "cadre",
+      "subject_id": "mark-zuckerberg",
+      "title": "马克·扎克伯格简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm",
+          "title": "Meta 2026 Proxy Statement",
+          "published_at": "2026-04-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "Chairman of the board of directors (2012-present)",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.ebsco.com/research-starters/biography/mark-zuckerberg",
+          "title": "Mark Zuckerberg — EBSCO Research Starters",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Born on May 14, 1984, in White Plains, New York",
+          "tier": 2
+        },
+        {
+          "id": "s3",
+          "url": "https://www.forbes.com/profile/mark-zuckerberg/",
+          "title": "Mark Zuckerberg — Forbes",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Citizenship United States; Drop Out, Harvard University",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://about.fb.com/news/2009/05/facebook-and-think-computer-corporation-resolve-trademark-dispute/",
+          "title": "Facebook and Think Computer Corporation Resolve Trademark Dispute",
+          "published_at": "2009-05-22",
+          "checked_at": "2026-10-18",
+          "excerpt": "Zuckerberg launched Facebook in February 2004",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "马克·扎克伯格"
+      ],
+      "person": {
+        "name": {
+          "value": "马克·扎克伯格",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1984-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "纽约怀特普莱恩斯",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2004-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "EBSCO记2004年6月搬到加州发展公司并离开哈佛；取此为首次全职创业时间",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2004-06",
+            "duration_years": null
+          }
+        },
+        "education": null,
+        "degree": null,
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": {
+          "value": "哈佛大学肄业",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "元宇宙平台公司（Meta）",
+          "role": "联合创始人、董事长、首席执行官",
+          "roles": [
+            "联合创始人",
+            "董事长",
+            "首席执行官"
+          ],
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2002-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "2002年入学，月份按美国学年取9月",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2002-09",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2004-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "哈佛大学",
+          "role": null,
+          "program": "计算机科学",
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2004-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "2004年6月全职发展公司，创业始于2004年2月另见来源记录",
+            "inference": {
+              "rule": "first_full_time_job",
+              "from_date": "2004-06",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2012-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "董事长任职年2012，月份未载取7月",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2012",
+              "duration_years": null
+            }
+          },
+          "organization": "脸书公司",
+          "role": "联合创始人、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2012-07",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "董事长任职年2012，月份未载取7月",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2012",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2021-10",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "脸书公司",
+          "role": "联合创始人、董事长、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联合创始人",
+            "董事长",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-10",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "元宇宙平台公司（Meta）",
+          "role": "联合创始人、董事长、首席执行官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联合创始人",
+            "董事长",
+            "首席执行官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "元宇宙平台公司（Meta）",
+      "conflicts": [],
+      "unknowns": [
+        "董事长2012年的具体到任月份未载，按规则取7月。"
+      ],
+      "excluded": [
+        "哈佛荣誉博士不计入已取得的学术学位。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Mark Zuckerberg；元宇宙平台公司（Meta）；联合创始人、董事长、首席执行官",
+      "review_items": [
+        "在校创建网站时间为2004年2月；首份全职时间按2004年6月搬迁及离校创业记录。",
+        "需复核哈佛肄业在履历中的显示；无授予学位，不编学位。"
+      ]
+    }
+  ],
+  "source_task": "erju-jianli-2"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "2026-09-28-chirantan-desai-transfer",
+  "date": "2026-09-28",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "chirantan-desai",
+  "person": {
+    "name_zh": "奇兰坦·德赛",
+    "name_en": "Chirantan Desai",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-09-28",
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "MongoDB公司",
+      "role": "总裁兼首席执行官",
+      "organization_en": "MongoDB",
+      "role_en": "President and CEO",
+      "start": null,
+      "end": "2026-09-28",
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e10"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "元宇宙平台公司（Meta）",
+      "role": "首席企业平台官",
+      "organization_en": "Meta",
+      "role_en": "Chief Enterprise Platform Officer",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e11"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "奇兰坦·德赛卸任MongoDB公司总裁兼首席执行官并转任Meta首席企业平台官",
+  "summary": "MongoDB9月28日宣布德赛即日卸任总裁兼首席执行官。Meta同日宣布由其领导企业平台业务，直接向扎克伯格汇报；新职生效日未单列。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e10",
+      "url": "https://www.mongodb.com/company/newsroom/press-releases/mongodb-announces-ceo-transition?locale_fallback=de-de",
+      "title": "MongoDB Announces CEO Transition",
+      "publisher": "MongoDB",
+      "published_at": "2026-09-28",
+      "excerpt": "Chirantan “CJ” Desai has stepped down as President and CEO of MongoDB, effective immediately.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e11",
+      "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+      "title": "Launching Meta Enterprise Platform",
+      "publisher": "Meta",
+      "published_at": "2026-09-28",
+      "excerpt": "Chirantan “CJ” Desai will join Meta as Chief Enterprise Platform Officer",
+      "checked_at": "2026-10-17",
+      "excerpt_check": false
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [
+      "新建人物记录 chirantan-desai（库里没有此人）",
+      "现任职务新增：元宇宙平台公司（Meta）首席企业平台官",
+      "履历新增：2026-09 元宇宙平台公司（Meta）首席企业平台官",
+      "所属局：定为二局·AI干部局"
+    ],
+    "notes": [
+      "原任“MongoDB公司 总裁兼首席执行官 MongoDB President and CEO”：记录里本来就没有现任职务"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "chirantan-desai",
+    "reason": "主要职务“元宇宙平台公司（Meta） 首席企业平台官”：AI 与科技机构名单"
+  }
+}

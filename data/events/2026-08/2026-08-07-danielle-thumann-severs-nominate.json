@@ -1,0 +1,80 @@
+{
+  "id": "2026-08-07-danielle-thumann-severs-nominate",
+  "date": "2026-08-07",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "danielle-thumann-severs",
+  "person": {
+    "name_zh": "丹妮尔·图曼·塞弗斯",
+    "name_en": "Danielle Thumann Severs",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国联邦通信委员会",
+      "role": "委员",
+      "organization_en": "Federal Communications Commission",
+      "role_en": "Member",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "丹妮尔·图曼·塞弗斯获提名出任美国联邦通信委员会委员",
+  "summary": "白宫于2026-08-07向参议院提交Danielle Thumann Severs出任美国联邦通信委员会委员的提名。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "The White House",
+      "published_at": "2026-08-07",
+      "excerpt": "Danielle Thumann Severs, of North Carolina, to be a Member of the Federal Communications Commission for a term of five years from July 1, 2024.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 danielle-thumann-severs（库里没有此人）",
+      "现任职务新增：美国联邦通信委员会委员",
+      "履历新增：2026-08 美国联邦通信委员会委员",
+      "所属局：按提名职务定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "danielle-thumann-severs"
+  }
+}

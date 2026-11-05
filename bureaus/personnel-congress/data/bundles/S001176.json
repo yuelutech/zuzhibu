@@ -1,0 +1,634 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-s001176",
+      "line": "cadre",
+      "subject_id": "s001176",
+      "title": "史蒂夫·斯卡莱斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://en.wikipedia.org/wiki/Steve_Scalise",
+          "title": "维基百科：Steve_Scalise",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "House majority leader since 2023",
+          "tier": 3
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: M",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Stephen Joseph Scalise...born October 6, 1965...New Orleans, Louisiana",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Steve_Scalise",
+          "title": "维基百科：Steve_Scalise",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Stephen Joseph Scalise...born October 6, 1965...New Orleans, Louisiana",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Steve_Scalise",
+          "title": "维基百科：Steve_Scalise",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born October 6, 1965...New Orleans, Louisiana",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://en.wikipedia.org/wiki/Steve_Scalise",
+          "title": "维基百科：Steve_Scalise",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "earned a Bachelor of Science degree from Louisiana State University...with a major in computer science and a minor in political science",
+          "tier": 3
+        },
+        {
+          "id": "s7",
+          "url": "",
+          "title": "WebSearch(CNN/Fox)",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "worked as a software engineer and technology company marketing executive between his 1989 graduation and...1996",
+          "tier": null
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Steve_Scalise",
+          "title": "维基百科：Steve_Scalise",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "won the seat and was re-elected in 1999 and 2003. He served until 2007.",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Steve_Scalise",
+          "title": "维基百科：Steve_Scalise",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "On October 20, 2007, Scalise was elected...to the District 9 seat in the Louisiana Senate",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Scalise was sworn in on May 7, 2008; House majority leader since 2023",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://en.wikipedia.org/wiki/Steve_Scalise",
+          "title": "维基百科：Steve_Scalise",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Scalise was sworn in on May 7, 2008; House majority leader since 2023",
+          "tier": 3
+        },
+        {
+          "id": "s12",
+          "url": "",
+          "title": "WebSearch(CNN/Fox/Britannica)",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "graduated from LSU in 1989 with a computer science degree...worked as a software engineer and technology company marketing executive",
+          "tier": null
+        },
+        {
+          "id": "s13",
+          "url": "https://en.wikipedia.org/wiki/Steve_Scalise",
+          "title": "维基百科：Steve_Scalise",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "In 1995, Scalise was recruited by Louisiana Republicans to run for...District 82 seat in the Louisiana House of Representatives...Scalise won the seat",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "house",
+        "state:LA"
+      ],
+      "person": {
+        "name": {
+          "value": "史蒂夫·斯卡莱斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1965-10-06",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "路易斯安那州新奥尔良",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1989",
+          "source_ids": [
+            "s12"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：任软件工程师、技术营销人员；底稿备注：规则①：1989年本科毕业衔接技术行业职务",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1989",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "大学学历",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "路易斯安那州立大学计算机科学（辅修政治学）理学学士学位",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "1995",
+          "source_ids": [
+            "s13"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以共和党身份当选公职：1995年路易斯安那州众议员（第82选区）；来源：https://en.wikipedia.org/wiki/Steve_Scalise；底稿备注：路易斯安那州采丛林初选(10月)，取当选年10月；1996年就任；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "1995",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（路易斯安那州第1选区）",
+          "role": "",
+          "start": {
+            "value": "2023-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "美国众议院多数党领袖",
+          "role": "",
+          "start": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1989倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1989",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1989",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "路易斯安那州立大学",
+          "role": null,
+          "program": "计算机科学（辅修政治学）",
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s6"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1996",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "（技术行业）",
+          "role": "软件工程师、技术营销人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "软件工程师",
+            "技术营销人员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2008",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "路易斯安那州议会众议院",
+          "role": "路易斯安那州众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "路易斯安那州众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2008",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "路易斯安那州议会参议院",
+          "role": "路易斯安那州参议员（第9选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "路易斯安那州参议员（第9选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s10",
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（路易斯安那州第1选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10",
+            "s11"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（路易斯安那州第1选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2013",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2014",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国众议院共和党研究委员会主席",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s10",
+                "s11"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2014",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2019",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国众议院多数党党鞭",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s10",
+                "s11"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2019",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2023",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国众议院少数党党鞭",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s10",
+                "s11"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2023",
+                "source_ids": [
+                  "s10",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "美国众议院多数党领袖",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s10",
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "底稿缺项：路易斯安那州立大学入学年（按学制倒推，低置信）",
+        "底稿缺项：1989-1996技术行业具体雇主名",
+        "底稿缺项：众议院 PTR 明细（须人工到书记官入口核取）"
+      ],
+      "excluded": [
+        "参加工作月份「1989年6月」：底稿推定（规则①：1989年本科毕业衔接技术行业职务），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包",
+        "入党月份「1995年10月」：底稿推定（路易斯安那州采丛林初选(10月)，取当选年10月；1996年就任），不采用，只写到年"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

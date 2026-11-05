@@ -1,0 +1,698 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001298",
+      "line": "cadre",
+      "subject_id": "b001298",
+      "title": "唐·培根简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://clerk.house.gov/members/B001298",
+          "title": "Office of the Clerk — Don Bacon",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Don Bacon\nNebraska (NE) – 2nd, Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://bacon.house.gov/about/",
+          "title": "Biography | U.S. Representative Don Bacon",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "In 1985, Don began his military career when he joined the U. S. Air Force",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2022-10-26/html/CDIR-2022-10-26-NE.htm",
+          "title": "Congressional Directory for the 117th Congress (2021-2022), October 2022 — Nebraska",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "M.A. management, University of Phoenix, 1995; M.A., national security strategy, National War College, 2004",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-NE-H-2.htm",
+          "title": "Congressional Directory for the 116th Congress (2019-2020), July 2020 — Don Bacon",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "DON BACON, Republican, of Papillion, NE; born in Momence, IL, August 16, 1963",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://bacon.house.gov/news/documentsingle.aspx?DocumentID=103",
+          "title": "Rep. Don Bacon Sworn into 115th Congress",
+          "published_at": "2017-01-03",
+          "checked_at": "2026-10-18",
+          "excerpt": "January 3, 2017 Today, Representative Don Bacon (NE-02) was sworn into the 115th Congress",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.fec.gov/data/committee/C00575167/",
+          "title": "DON BACON FOR CONGRESS — committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Principal campaign committee ID: C00575167 Registration date: April 04, 2015",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.fec.gov/data/candidate/H6NE02125/",
+          "title": "BACON, DONALD J — Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Candidate for House Nebraska - 02 ID: H6NE02125 REPUBLICAN PARTY",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://clerk.house.gov/Committees/AG00",
+          "title": "Office of the Clerk — Committee on Agriculture",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "119th Congress, 2nd Session\nCommittee on Agriculture\nDon Bacon, NE",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://clerk.house.gov/Committees/AS00",
+          "title": "Office of the Clerk — Committee on Armed Services",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "119th Congress, 2nd Session\nCommittee on Armed Services\nDon Bacon, NE",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.linkedin.com/in/donbacon",
+          "title": "Don Bacon — United States Congress | LinkedIn",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "NATIONAL WAR COLLEGE\n2003 - 2004",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:NE"
+      ],
+      "person": {
+        "name": {
+          "value": "唐·培根",
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1963-08-16",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "伊利诺伊州莫门斯",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1985",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "按第一份有来源的全职经历推定：议员官网记载1985年加入美国空军并服现役，国会名录记载服役期为1985—2014年；因此以1985年为入伍时间，保留原文年份精度。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1985",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "凤凰城大学管理学文学硕士、美国国家战争学院国家安全战略文学硕士学位",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2015-04",
+          "source_ids": [
+            "s7",
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：共和党联邦众议员参选人Donald J. Bacon的主要竞选委员会DON BACON FOR CONGRESS（C00575167）在FEC登记，2015-04-04；来源：https://www.fec.gov/data/committee/C00575167/ ，候选人与党籍对应来源：https://www.fec.gov/data/candidate/H6NE02125/ 。已检索公开选民登记、本人宣布加入共和党及早期党组织职务线索，未取得可打开并证明更高级锚点的原始记录。FEC候选人页显示的2024年参选声明为后续版本，不作首次登记锚点；底稿2016年5月及2017年就任均晚于本次委员会登记锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2015-04-04",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": {
+          "value": "美国空军准将",
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（内布拉斯加州第2选区）",
+          "role": "",
+          "start": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院农业委员会",
+          "role": "委员",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院军事委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1980",
+            "source_ids": [
+              "s2",
+              "s4",
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "议员官网及国会名录记载1984年获得北伊利诺伊大学学士学位；按美国本科标准四年学制，1984－4＝1980。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1984",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1984",
+            "source_ids": [
+              "s2",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "北伊利诺伊大学",
+          "role": null,
+          "program": "政治学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1985",
+            "source_ids": [
+              "s2",
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2014",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国空军",
+          "role": "中队指挥官、大队指挥官、联队指挥官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "中队指挥官",
+            "大队指挥官",
+            "联队指挥官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "study",
+              "start": {
+                "value": "2003",
+                "source_ids": [
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2004",
+                "source_ids": [
+                  "s4",
+                  "s5",
+                  "s11"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国国家战争学院",
+              "role": null,
+              "roles": [],
+              "program": "国家安全战略",
+              "degree_awarded": {
+                "value": "文学硕士",
+                "source_ids": [
+                  "s4",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s4",
+                "s5",
+                "s11"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "discharge",
+          "start": {
+            "value": "2014",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国空军",
+          "role": "退出现役",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "退出现役"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2014",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦众议员杰夫·福滕伯里办公室",
+          "role": "军事顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "军事顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2016",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "贝尔维尤大学",
+          "role": "教授",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "教授"
+          ],
+          "role_category": {
+            "value": "professor",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "国会名录原文为professor，按原文记为教授，不扩充具体职级。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2015",
+                "source_ids": [
+                  "s4",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2016",
+                "source_ids": [
+                  "s4",
+                  "s5"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "美国联邦众议院",
+              "role": "内布拉斯加州第2选区议员参选人",
+              "roles": [
+                "内布拉斯加州第2选区议员参选人"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s4",
+                "s5",
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-01-03",
+            "source_ids": [
+              "s6"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（内布拉斯加州第2选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s6"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（内布拉斯加州第2选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "入伍月份：议员官网及已打开的国会名录只明确1985年；空军详细传记页面多次返回403或Internal Error，未将搜索摘要中的月份写入事实。",
+        "凤凰城大学硕士学习起始时间：国会名录明确1995年取得管理学文学硕士，未找到可采用的入学时间或学习年限，因此未建立该项学习履历括注。",
+        "军旅职务交接日期及完整单位名称：议员官网记载中队、大队和联队指挥经历，但没有逐项起止时间；未采用空军页面搜索摘要中的详细时间线。",
+        "军事委员会任职起始日期：议员官网记载2017年被列入该委员会，未明确就任或生效日期；现任委员身份由第119届国会书记官名单确认，start留空。",
+        "军事顾问、贝尔维尤大学教职的起止月份：已打开的2020年和2022年国会名录只记到年。",
+        "首次参选声明受理日：FEC候选人页当前显示2024年版本，历史文书入口未能打开；本次采用可打开的竞选委员会2015年4月4日登记记录。",
+        "族裔：未取得本人自述或官方统计分类来源。",
+        "其他兼职：议员官网提及多个议员团体和咨询机构职务，但未取得明确的就任或生效日期，未写入履历。"
+      ],
+      "excluded": [
+        "底稿『大学学历、北伊利诺伊大学政治学文学学士学位』：国会名录明确记载1995年和2004年取得两个文学硕士，首段改列最高学位。",
+        "底稿『2025年1月开始担任内布拉斯加州第2选区联邦众议员』：这是本届宣誓时间；首次就任同一选区的日期为2017年1月3日。",
+        "底稿『2015年1月参加工作』：议员官网及国会名录记载1985年加入美国空军，改用1985年入伍。",
+        "底稿『2016年5月加入美国共和党』：无原始锚点；本次采用2015年4月竞选委员会登记的第3级锚点。",
+        "底稿『伊拉克战区空军远征部队指挥官，2007—2008年』：议员官网只明确该时期赴伊拉克部署，未支持这一具体职务名称。",
+        "底稿『2012—2014年美国空军准将』：军衔不是同期兼职，保留为个人军衔字段，不沿用无来源的晋衔起始年份。",
+        "底稿『2025年起任网络、信息技术和创新小组委员会主席』：议员官网确认担任该职，但本次未取得明确生效日期；小组委员会不单列现任。",
+        "底稿以唐·培根竞选委员会为候选人任职单位：竞选委员会是竞选组织，参选身份改记为美国联邦众议院内布拉斯加州第2选区议员参选人。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（内布拉斯加州第2选区）＋美国国会众议院；Bioguide B001298；FEC H6NE02125",
+      "review_items": [
+        "唐·培根译名按用户指定保留；杰夫·福滕伯里、凤凰城大学、贝尔维尤大学及莫门斯的中文名称交译名表复核。",
+        "空军详细传记页面访问不稳定；军旅起止年月、晋衔日期及逐项任职时间留待重新取得可打开原文后补录。",
+        "本次为研究候选事实包，独立核查由下一会话执行。"
+      ]
+    }
+  ]
+}

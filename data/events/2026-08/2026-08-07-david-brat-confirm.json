@@ -1,0 +1,80 @@
+{
+  "id": "2026-08-07-david-brat-confirm",
+  "date": "2026-08-07",
+  "kind": "confirm",
+  "kind_label": "确认",
+  "person_id": "david-brat",
+  "person": {
+    "name_zh": "戴维·布拉特",
+    "name_en": "David Brat",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国驻澳大利亚大使馆",
+      "role": "特命全权大使",
+      "organization_en": "United States Embassy — Commonwealth of Australia",
+      "role_en": "Ambassador Extraordinary and Plenipotentiary to the Commonwealth of Australia",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "参议院确认戴维·布拉特出任美国驻澳大利亚大使",
+  "summary": "参议院于2026-08-07确认David Brat出任美国驻澳大利亚大使（PN937-1）。到任日期未由确认记录给出。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.senate.gov/legislative/nom_confc.htm",
+      "title": "Nominations Confirmed (Civilian)",
+      "publisher": "United States Senate",
+      "published_at": null,
+      "excerpt": "David Brat, of Virginia, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Commonwealth of Australia.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 david-brat（库里没有此人）",
+      "现任职务新增：美国驻澳大利亚大使馆特命全权大使",
+      "履历新增：2026-08 美国驻澳大利亚大使馆特命全权大使",
+      "所属局：按确认职务定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "david-brat"
+  }
+}

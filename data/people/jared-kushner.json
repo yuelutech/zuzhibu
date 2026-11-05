@@ -1,0 +1,715 @@
+{
+  "id": "jared-kushner",
+  "name_zh": "贾里德·库什纳",
+  "name_en": "Jared Kushner",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 U.S. Special Envoy for Peace The White House U.S. Special Envoy for Peace”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/jared-kushner.json（sanju-baigong，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://boardofpeace.org/images/members/jared-kushner.webp",
+    "source": "https://boardofpeace.org/members/jared-kushner"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "The White House",
+      "role_en": "U.S. Special Envoy for Peace"
+    }
+  ],
+  "notes": [
+    "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
+  ],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-20",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 U.S. Special Envoy for Peace The White House U.S. Special Envoy for Peace”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/jared-kushner.json（sanju-baigong，程序检查通过，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-jared-kushner",
+    "line": "cadre",
+    "subject_id": "jared-kushner",
+    "title": "贾里德·库什纳简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://boardofpeace.org/members/jared-kushner",
+        "title": "Jared Kushner | Board of Peace",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "CEO of Affinity Partners; Senior Advisor 2017–2021; Harvard 2003; J.D. and MBA, NYU 2007.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://jaredkushner.com/posts/new-yorker-response/",
+        "title": "The Facts: My Response to The New Yorker",
+        "published_at": "2026-10-08",
+        "checked_at": "2026-10-18",
+        "excerpt": "I later earned both a JD and an MBA from NYU while working full time.",
+        "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://www.ebsco.com/research-starters/biography/jared-kushner",
+        "title": "Jared Kushner | EBSCO Research Starters",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Born January 10, 1981; Harvard 1999; New York 2003; publisher 2006; CEO 2008; Affinity 2021.",
+        "tier": 2
+      },
+      {
+        "id": "s4",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202600195/html/DCPD-202600195.htm",
+        "title": "Remarks in an Exchange With Reporters Prior to Departure From West Palm Beach, Florida",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-18",
+        "excerpt": "U.S. Special Envoy for Peace Jared C. Kushner",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/",
+        "title": "Statement on President Trump’s Comprehensive Plan to End the Gaza Conflict",
+        "published_at": "2026-01-16",
+        "checked_at": "2026-10-18",
+        "excerpt": "Jared Kushner: founding Executive Board; Gaza Executive Board.",
+        "tier": 1
+      },
+      {
+        "id": "s6",
+        "url": "https://jaredkushner.com/",
+        "title": "Jared Kushner",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "founder and CEO of Affinity Partners; returned to diplomacy as a volunteer.",
+        "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://apnews.com/article/jared-kushner-crew-lawsuit-trump-envoy-diplomat-aa28eeb278937ec29c0f35e72d13ba45",
+        "title": "White House sued over Kushner diplomatic role",
+        "published_at": "2026-10-14",
+        "checked_at": "2026-10-18",
+        "excerpt": "The White House says Kushner is a private citizen volunteering at the president’s request.",
+        "tier": 2
+      }
+    ],
+    "tags": [
+      "draft",
+      "sanju-baigong"
+    ],
+    "person": {
+      "name": {
+        "value": "贾里德·库什纳",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1981-01",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "2003-06",
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "inferred": true,
+        "basis": "2003年本科毕业后到纽约开展家族房地产业务；本人确认就读纽约大学时已全职工作。按美国本科5月毕业、次月参加工作的规则推定月份。",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "2003-05",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法律博士",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "白宫",
+        "role": "和平特使",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s4",
+          "s6",
+          "s7"
+        ],
+        "roles": [
+          "和平特使"
+        ],
+        "sector": "advisory",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "Affinity Partners",
+        "role": "创始人、首席执行官",
+        "start": {
+          "value": "2021",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3",
+          "s6"
+        ],
+        "roles": [
+          "创始人、首席执行官"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "和平委员会执行委员会",
+        "role": "委员",
+        "start": {
+          "value": "2026-01",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "加沙执行委员会",
+        "role": "委员",
+        "start": {
+          "value": "2026-01",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1999",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2003",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哈佛大学",
+        "role": null,
+        "program": null,
+        "degree_awarded": {
+          "value": "学士",
+          "source_ids": [
+            "s1",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": true,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003-06",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "2003年本科毕业后到纽约开展家族房地产业务；本人确认就读纽约大学时已全职工作。按美国本科5月毕业、次月参加工作的规则推定月份。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2003-05",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Kushner Companies",
+        "role": "房地产经营者",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "房地产经营者"
+        ],
+        "role_category": {
+          "value": "real estate developer",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "来源明确其本科毕业后经营家族房地产业务，具体早期职称未披露。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": true
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2006",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "《纽约观察家报》",
+        "role": "出版人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "出版人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "Kushner Companies",
+        "role": "首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "特朗普总统竞选团队",
+        "role": "数字战略和社交媒体负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "数字战略和社交媒体负责人"
+        ],
+        "role_category": {
+          "value": "oversee digital strategy and social media",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "role_basis": "按来源描述的职责概括职务。",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "白宫",
+        "role": "总统高级顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总统高级顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "Affinity Partners",
+        "role": "创始人、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s3",
+          "s6"
+        ],
+        "ongoing": true,
+        "roles": [
+          "创始人、首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025",
+          "source_ids": [
+            "s3",
+            "s4",
+            "s6",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "白宫",
+        "role": "和平特使",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s3",
+          "s4",
+          "s6",
+          "s7"
+        ],
+        "ongoing": true,
+        "roles": [
+          "和平特使"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-01",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "和平委员会执行委员会",
+        "role": "委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": true,
+        "roles": [
+          "委员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-01",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "加沙执行委员会",
+        "role": "委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s5"
+        ],
+        "ongoing": true,
+        "roles": [
+          "委员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "本人和白宫均称现阶段外交工作为志愿服务，未找到正式联邦雇员任命日期。",
+      "2003年后家族公司早期职称、纽约大学实际入学年月、最高学位授予月份未知。",
+      "EBSCO仅明确在新泽西利文斯顿长大，出生地留空。",
+      "本科专业、党籍及入党锚点未查到可采用原文。",
+      "2007年取得纽约大学法律博士和工商管理硕士；本人称读书时全职工作，入学年及在职学习年限未查明，不按三年制倒推。来源s1、s2。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Jared Kushner；白宫",
+    "review_items": [
+      "和平特使按志愿咨询身份登记，未登记为白宫正式雇员。"
+    ]
+  }
+}

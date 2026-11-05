@@ -1,0 +1,464 @@
+{
+  "id": "brad-smith",
+  "name_zh": "布拉德·史密斯",
+  "name_en": "Brad Smith",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-18",
+  "updated_at": "2026-10-20",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“微软公司 Vice Chair and President Microsoft Vice Chair and President”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/brad-smith.json（erju-jianli-1，程序检查通过，待独立核查）",
+  "portrait": {
+    "url": "https://news.microsoft.com/source/wp-content/uploads/2024/07/brad-smith.jpg",
+    "source": "https://news.microsoft.com/source/exec/brad-smith/"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Microsoft",
+      "role_en": "Vice Chair and President"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“微软公司 Vice Chair and President Microsoft Vice Chair and President”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "brad-smith-20261018",
+    "line": "cadre",
+    "subject_id": "brad-smith",
+    "title": "布拉德·史密斯简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://news.microsoft.com/source/exec/brad-smith/",
+        "title": "Brad Smith — Microsoft",
+        "excerpt": "Vice Chair and President",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://citp.princeton.edu/people/bradford-smith-81",
+        "title": "Bradford Smith ’81 — Princeton",
+        "excerpt": "Bradford Smith '81",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://www.law.columbia.edu/news/archive/origins-and-innovations-celebration-clinics",
+        "title": "Origins and Innovations: A Celebration of Clinics",
+        "excerpt": "Bradford L. Smith '84, President and Chief Legal Officer, Microsoft Corporation",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "布拉德·史密斯"
+    ],
+    "person": {
+      "name": {
+        "value": "布拉德·史密斯",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1959-07",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "1981年本科毕业减22年得1959年，出生月未取到来源，取7月。",
+        "inference": {
+          "rule": "birth_from_graduation",
+          "from_date": "1981",
+          "duration_years": 22
+        }
+      },
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "哥伦比亚大学法学院",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "法律博士",
+        "source_ids": [
+          "s1",
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "微软公司",
+        "role": "副董事长、总裁",
+        "start": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "奈飞公司",
+        "role": "董事",
+        "start": {
+          "value": "2015-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2015",
+            "duration_years": null
+          }
+        },
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1977-09",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1981减标准学制4年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1981",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1981-05",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1981",
+            "duration_years": null
+          }
+        },
+        "organization": "普林斯顿大学",
+        "role": null,
+        "program": null,
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1981-09",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：毕业年1984减标准学制3年，入学月取9月。",
+          "inference": {
+            "rule": "standard_duration",
+            "from_date": "1984",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1984-05",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+          "inference": {
+            "rule": "academic_calendar",
+            "from_date": "1984",
+            "duration_years": null
+          }
+        },
+        "organization": "哥伦比亚大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法律博士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1986-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1986",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1993-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "organization": "科文顿·柏灵律师事务所",
+        "role": "律师、合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1996-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1996",
+            "duration_years": null
+          }
+        },
+        "organization": "微软公司",
+        "role": "欧洲法律与公司事务团队负责人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2002-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2002",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "微软公司",
+        "role": "总法律顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-07",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "2015",
+            "duration_years": null
+          }
+        },
+        "end": null,
+        "organization": "奈飞公司",
+        "role": "董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "微软公司",
+    "conflicts": [],
+    "unknowns": [
+      "国籍未取得直接来源；早期法官助理任职日期未取到原文，参加工作年月留空；微软副董事长、总裁的具体起始月份尚未核实。",
+      "已核实经历，开始时间未知：日内瓦国际关系高等学院；国际法与经济学。来源：s1。",
+      "已核实经历，开始时间未知：微软公司；副董事长、总裁。来源：s1。"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

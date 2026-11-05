@@ -1,0 +1,737 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001075",
+      "line": "cadre",
+      "subject_id": "c001075",
+      "title": "比尔·卡西迪简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/11811",
+          "title": "CASSIDY, Bill | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Highland Park, Lake County, Ill., September 28, 1957",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.cassidy.senate.gov/about/about-bill/",
+          "title": "About Bill | U.S. Senator Bill Cassidy",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "In 2023, he became Ranking Member of the Senate HELP Committee and was elevated to Chairman in 2025.",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been nine Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.dailypress.senate.gov/on-the-floor/senate-facts/",
+          "title": "Senate Facts - U.S. Senate Daily Press",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Bill Cassidy, R-Louisiana, January 3, 2015",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.help.senate.gov/about/members",
+          "title": "Members | Senate Committee on Health, Education, Labor and Pensions",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "ChairMAN\nBill Cassidy, M.D.\n(Republican - LA)",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.finance.senate.gov/about/membership",
+          "title": "Membership | The United States Senate Committee on Finance",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Bill Cassidy (R - LA)",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.energy.senate.gov/about/membership/",
+          "title": "Membership – U.S. Senate Committee on Energy and Natural Resources",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Bill\nCassidy\nLouisiana",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://amednews.com/article/20090223/government/302239988/4",
+          "title": "The newest doctors in the House: Physicians become legislators - amednews.com",
+          "published_at": "2009-02-23",
+          "checked_at": "2026-10-19",
+          "excerpt": "Internist, University of Southern California Medical Center (1984-1987); fellow in hepatology-gastroenterology, University of Southern California (1987-1989)",
+          "tier": 2
+        },
+        {
+          "id": "s9",
+          "url": "https://www.lsualumni.org/blog/lsu-alumni-hall-of-distinction-cassidy",
+          "title": "U.S. Senator Bill Cassidy, M.D., 2025 Hall of Distinction Honoree",
+          "published_at": "2025-04-09",
+          "checked_at": "2026-10-19",
+          "excerpt": "Cassidy graduated from LSU in 1979 with a Bachelor of Science",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-LA.htm",
+          "title": "Congressional Directory for the 111th Congress (2009-2010), December 2009 - Louisiana",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "M.D., Louisiana State University Medical School, New Orleans, LA, 1983",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.doximity.com/pub/william-cassidy-md-68e2aeb5",
+          "title": "Dr. William Cassidy, MD – Baton Rouge, LA | Gastroenterology",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Residency, Internal Medicine, 1983 - 1987",
+          "tier": null
+        }
+      ],
+      "tags": [
+        "held",
+        "senate",
+        "state:LA"
+      ],
+      "person": {
+        "name": {
+          "value": "比尔·卡西迪",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s1",
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1957-09-28",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "伊利诺伊州海兰帕克",
+          "source_ids": [
+            "s1",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1984",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "按本次采用的最早全职任职记录推算：美国医学会 American Medical News 列明其1984—1987年任南加州大学医疗中心内科医生。Doximity另列1983—1987年内科住院医师培训，差异列入conflicts；本稿采用署名媒体机构的任职记录，不补月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1984",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s9",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "路易斯安那州立大学医学院医学博士学位",
+          "source_ids": [
+            "s1",
+            "s9",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（路易斯安那州）",
+          "role": "",
+          "start": {
+            "value": "2015-01-03",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工和养老金委员会",
+          "role": "主席",
+          "start": {
+            "value": "2025",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院财政委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s6"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院能源和自然资源委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院退伍军人事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s9"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1975",
+            "source_ids": [
+              "s1",
+              "s9"
+            ],
+            "inferred": true,
+            "basis": "官方国会履历和大学校友会均记载1979年取得理学学士学位；按美国本科四年学制，1979－4＝1975。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1979",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1979",
+            "source_ids": [
+              "s1",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "路易斯安那州立大学",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "理学学士",
+            "source_ids": [
+              "s1",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1984",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1989",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "南加州大学医疗中心",
+          "role": "内科医生、肝病与胃肠病学专科培训医师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "内科医生",
+            "肝病与胃肠病学专科培训医师"
+          ],
+          "role_category": null,
+          "role_basis": "American Medical News 分别列明1984—1987年Internist、1987—1989年fellow in hepatology-gastroenterology；按同一机构合并记录，保留原文机构名称层级。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1989",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "1990",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "信诺医疗中心",
+          "role": "内科与肝病医生",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [
+            "内科与肝病医生"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1990",
+            "source_ids": [
+              "s2",
+              "s8",
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "路易斯安那州立大学医学院",
+          "role": "医学助理教授、临床医学副教授、医学副教授",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "医学助理教授",
+            "临床医学副教授",
+            "医学副教授"
+          ],
+          "role_category": null,
+          "role_basis": "American Medical News 列明1990—1996年assistant professor of medicine、1996—1997年associate professor of clinical medicine、1997年起associate professor of medicine；官网确认1990年加入医学院并在厄尔·K·朗医院教学。任教终止时间未查明。",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2008",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "路易斯安那州参议院",
+          "role": "州参议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（路易斯安那州第6选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "联邦众议员（路易斯安那州第6选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2015-01-03",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（路易斯安那州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（路易斯安那州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2023",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": false,
+              "organization": "参议院卫生、教育、劳工和养老金委员会",
+              "role": "资深成员",
+              "roles": [
+                "资深成员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2"
+              ]
+            },
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2025",
+                "source_ids": [
+                  "s2"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "参议院卫生、教育、劳工和养老金委员会",
+              "role": "主席",
+              "roles": [
+                "主席"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s5"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [
+        {
+          "field": "person.work_start",
+          "alternatives": [
+            {
+              "value": "1983",
+              "source_ids": [
+                "s11"
+              ],
+              "inferred": true,
+              "basis": "Doximity医师档案列内科住院医师培训为1983—1987年；该页面未明确标注履历编写者。",
+              "inference": {
+                "rule": "first_full_time_job",
+                "from_date": "1983",
+                "duration_years": null
+              }
+            },
+            {
+              "value": "1984",
+              "source_ids": [
+                "s8"
+              ],
+              "inferred": true,
+              "basis": "美国医学会 American Medical News 列最早任职为1984—1987年南加州大学医疗中心内科医生。",
+              "inference": {
+                "rule": "first_full_time_job",
+                "from_date": "1984",
+                "duration_years": null
+              }
+            }
+          ],
+          "selected_value": "1984",
+          "reason": "两页分别采用住院医师培训和内科医生任职口径。本次采用来源等级已明确的美国医学会报道所列任职起点；1983年培训是否构成首份全职任职列入复核事项。"
+        }
+      ],
+      "unknowns": [
+        "party_joined_at：已检索选民登记或改登记记录、本人改党声明、党组织职务、2006年州参议员参选及选举记录、FEC候选人和委员会页面。未找到可打开并明确给出早期锚点事件日期的合格原文。s12确认2006年10月已以共和党身份参选，但未写本人登记受理日或宣布参选日；州参议院2006年选举结果档案和州选务结果页面均未能打开。s13的2008年登记晚于已知2006年共和党参选经历，未采用。",
+        "本科专业：已查国会官方履历、国会名录、参议员传记和大学校友会文章，均未注明专业；底稿的生物化学未采用。",
+        "医学博士学习起始时间：已查国会官方履历、国会名录、大学校友会文章和医师档案，只确认1983年取得学位；Vote Smart页面后续打开返回403，未取得可用原文。未单列起始年份无据的医学院学习条目。",
+        "医疗经历的月份：已查美国医学会报道、大学校友会文章及医师档案，未找到起止月份。",
+        "任教终止时间：已查参议员官网、大学校友会文章、美国医学会报道和国会名录，未找到明确终止日期；1990年起任教条目的end为null，ongoing为false。",
+        "州参议员任职的具体起止日期：国会官方履历仅写2006—2008年；州参议院选举档案和相关议事录打开失败，未补月份或日期。",
+        "大巴吞鲁日社区诊所共同创始经历：官网和大学校友会确认共同创办，但未注明发生年份；未采用底稿1998年及单年起止写法。",
+        "参议院财政、能源和自然资源、退伍军人事务委员会委员起始时间：已查现行成员页及议员官网，未找到可采用的生效日期，current_roles.start留null。",
+        "参议院卫生、教育、劳工和养老金委员会资深成员终止时间：官网确认2023年开始担任、2025年转任主席，未写前职终止日期，annotation.end留null。",
+        "ethnicity：未找到本人自述或官方统计来源支持规定的族裔分类，留null。"
+      ],
+      "excluded": [
+        "底稿『2021-01开始担任美国联邦参议员』：这是连任后的任期开端；参议院官方记录确认首次任职为2015-01-03。",
+        "底稿『1979—1983年路易斯安那州立大学医学院学习』：1983年医学博士毕业有官方依据，1979年入学未取得可用原文依据。",
+        "底稿『1983年6月参加工作』：未找到月份依据；工作起点的1983与1984两种记录列入conflicts。",
+        "底稿『1983—1987年南加州大学洛杉矶总医院内科住院医师』：Doximity记载该培训区间，美国医学会报道列1984—1987年南加州大学医疗中心内科医生；本稿采用后者任职口径。",
+        "底稿『1987—1989年肝病胃肠病学专科医师』：美国医学会原文为fellow，改为专科培训医师，并与同一机构前段经历合并。",
+        "底稿『1990—2006年任教，2006—2008年兼任』：未找到2006年改变任职性质或2008年结束任教的依据，未据公职任期截断医疗任职。",
+        "底稿『州参议员任至2009年』：采用国会现行官方人物页的2006—2008年记录。",
+        "底稿『2006年12月加入美国共和党』：未取得合格锚点原文；2006年参选报道未提供本人登记或公开宣布日期。",
+        "底稿『1998年共同创办诊所』：本次打开的官方及校友会原文未给年份。",
+        "底稿『2008年众议员候选人』『2014年参议员候选人』及相应竞选委员会任职：未查明所列身份的正式起止日期，未保留。",
+        "FEC竞选委员会2008-06-18登记记录：晚于已知的2006年共和党参选经历，未作为加入现党籍的时间锚点。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦参议员（路易斯安那州），美国国会参议院；Bioguide C001075",
+      "review_items": [
+        "首份全职工作起点：补查院方或本人履历，确认1983年住院医师培训与1984年内科医生任职之间的关系。",
+        "共和党入党锚点：补开2006年州选务登记、选举结果或本人改党声明原文。",
+        "补查医学博士入学日期后，再加入医学院学习履历。",
+        "机构译名复核：信诺医疗中心、南加州大学医疗中心、参议院财政委员会。",
+        "当前事实包为研究候选稿，未进行另一次会话的独立核查。"
+      ]
+    }
+  ]
+}

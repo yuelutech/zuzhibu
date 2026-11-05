@@ -1,0 +1,129 @@
+{
+  "id": "2026-08-05-demis-hassabis-transfer",
+  "date": "2026-08-05",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "demis-hassabis",
+  "person": {
+    "name_zh": "德米斯·哈萨比斯",
+    "name_en": "Demis Hassabis",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-08-05",
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "谷歌旗下“深层思维”公司",
+      "role": "首席执行官",
+      "organization_en": "Google DeepMind",
+      "role_en": "CEO",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e5",
+        "e6"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "谷歌旗下“深层思维”公司",
+      "role": "董事长",
+      "organization_en": "Google DeepMind",
+      "role_en": "Chair",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e5"
+      ]
+    },
+    {
+      "organization": "Alphabet公司",
+      "role": "首席科学家",
+      "organization_en": "Alphabet",
+      "role_en": "Chief Scientist",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "e5"
+      ]
+    }
+  ],
+  "other_current_roles": [
+    {
+      "organization": "Isomorphic Labs公司",
+      "role": "创始人、首席执行官",
+      "organization_en": "Isomorphic Labs",
+      "role_en": "founder and CEO",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "enterprise",
+      "source_ids": [
+        "e6"
+      ]
+    }
+  ],
+  "new_appointment": null,
+  "new_appointment_checked": true,
+  "headline": "德米斯·哈萨比斯转任谷歌旗下“深层思维”公司董事长兼Alphabet公司首席科学家",
+  "summary": "谷歌8月5日公布领导层调整，哈萨比斯交出“深层思维”日常运营职责，转任董事长兼Alphabet首席科学家，并继续领导Isomorphic Labs。日常管理职责由科拉伊·卡武克丘奥卢接手。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e5",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "title": "The next chapter of our AI momentum",
+      "publisher": "Google",
+      "published_at": null,
+      "excerpt": "Chair of GDM and Chief Scientist of Alphabet",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e6",
+      "url": "https://www.investing.com/news/stock-market-news/google-shakes-up-ai-leadership-as-deepmind-chief-shifts-role-4838716?trk=public_post_comment-text",
+      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
+      "publisher": "Reuters（Investing.com转载）",
+      "published_at": "2026-08-05",
+      "excerpt": "SAN FRANCISCO, Aug 5 (Reuters)",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [],
+    "notes": [
+      "原任“谷歌旗下“深层思维”公司 首席执行官 Google DeepMind CEO”在记录的现任职务里找不到对应项，未移出",
+      "新任“谷歌旗下“深层思维”公司董事长”已在现任职务里，补了来源和译名",
+      "新任“Alphabet公司首席科学家”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "ai",
+    "bureau_after": "ai",
+    "person_id": "demis-hassabis",
+    "reason": "主要职务“谷歌旗下“深层思维”公司 董事长”：AI 与科技机构名单"
+  }
+}

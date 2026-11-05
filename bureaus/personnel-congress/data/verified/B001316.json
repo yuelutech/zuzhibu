@@ -1,0 +1,517 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-b001316",
+      "line": "cadre",
+      "subject_id": "b001316",
+      "title": "埃里克·伯利森简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/25769822939",
+          "title": "BURLISON, Eric | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "born in Springfield, Greene County, Mo., October 2, 1976; … (January 3, 2023-present).",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/B001316",
+          "title": "Office of the Clerk, U.S. House of Representatives — Eric Burlison",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Eric Burlison … Missouri (MO) – 7th, Republican … Committee on Oversight and Government Reform … Committee on Transportation and Infrastructure",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.senate.mo.gov/Senators/PastSenators?id=7",
+          "title": "Senator Details - Senators — Senator Eric Burlison",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Years of Service: 2019-2023 … he received a Bachelor of Arts in Philosophy and a Master of Business Administration from Missouri State University.",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://s1.sos.mo.gov/cmsimages/bluebook/2011-2012/4_Leg.pdf",
+          "title": "Official Manual, State of Missouri 2011–2012 — Legislative Branch",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Born October 2,1976, in Springfield … he received a B.A. in philosophy in 2000 and his M3.B.A. in 2002.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://ivoterguide.com/candidate/970/race/320/election/197",
+          "title": "Voter Guide Profile for MO State Representative, Dist. 133 candidate - Eric Burlison",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "Business Systems Analyst - CoxHealth 2002 - Present … Served as President of the Springfield Metropolitan Republican Club",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.freshproduce.com/siteassets/files/advocacy/government-profiles/rep.-eric-burlison-r-mo-7.pdf",
+          "title": "Eric Burlison (MO-7) — National Journal Vignette",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "began his career as a web designer … software engineer and programmer for CoxHealth from 2002 to 2012",
+          "tier": 2
+        },
+        {
+          "id": "s8",
+          "url": "https://www.sos.mo.gov/cmsimages/bluebook/2009-2010/7_elec.pdf",
+          "title": "Official Manual, State of Missouri 2009–2010 — Elections",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "State Representative District 136 - August 2008 Primary Election: August 5, 2008 Republican Democratic Eric Burlison Nick Beatty",
+          "tier": 1
+        },
+        {
+          "id": "s9",
+          "url": "https://bearworks.missouristate.edu/articles-cob/354/",
+          "title": "Changing the Name of a Major University: A Case Study and How-To Guide",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "excerpt": "On August 28, 2005, Southwest Missouri State University officially became Missouri State University.",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "held",
+        "house",
+        "state:MO"
+      ],
+      "person": {
+        "name": {
+          "value": "埃里克·伯利森",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1976-10-02",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "密苏里州斯普林菲尔德",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": null,
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "密苏里州立大学工商管理硕士学位",
+          "source_ids": [
+            "s1",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2008-08",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：以共和党候选人身份参加密苏里州众议院第136选区初选，2008-08-05；来源：https://www.sos.mo.gov/cmsimages/bluebook/2009-2010/7_elec.pdf 。检索未找到本人党籍登记或公开宣布加入共和党的日期。本人问卷确认曾任 Springfield Metropolitan Republican Club 主席，但未给出就任日期，不能形成第2级日期锚点；来源：https://ivoterguide.com/candidate/970/race/320/election/197 。未找到2008年首次州级参选登记受理日或有日期的首次宣布参选原文。2021年联邦竞选委员会登记和2026年州候选人登记均晚于已证实的2008年共和党初选，不采用；2009年共和党州众议员任职为更低级且更晚的锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2008-08-05",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（密苏里州第7选区）",
+          "role": "",
+          "start": {
+            "value": "2023-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院监督和政府改革委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院交通和基础设施委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s2"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1996",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": true,
+            "basis": "密苏里州官方名录记载2000年取得哲学文学学士学位；按本科毕业年减4推算：2000－4＝1996。未取得实际入学年份的原始记录。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2000",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2000",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "西南密苏里州立大学",
+          "role": null,
+          "program": "哲学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s4",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s4",
+            "s5",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2002",
+            "source_ids": [
+              "s6",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2012",
+            "source_ids": [
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "CoxHealth",
+          "role": "软件工程师、程序员、业务系统分析师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "软件工程师",
+            "程序员",
+            "业务系统分析师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2009",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "密苏里州众议院",
+          "role": "州众议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州众议员"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2023",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "密苏里州参议院",
+          "role": "州参议员（第20选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "州参议员（第20选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（密苏里州第7选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（密苏里州第7选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [],
+      "unknowns": [
+        "参加工作时间：查过众议院历史人物页、密苏里州参议院存档传记、州官方名录、本人候选人问卷及 National Journal 人物资料。资料记载其最早从事斯普林菲尔德市网页设计，未提供可采用的起始日期和全职性质。CoxHealth 的2002年起始年份不能确定为首份全职工作年份，work_start 留空。",
+        "早期市政府履历：National Journal 记载其曾任斯普林菲尔德市网页设计师，但未给出起止时间；未纳入需要起始日期的 careers 条目。",
+        "本科实际入学时间：官方名录只确认2000年取得学士学位；1996年为按毕业年减4的推算值。未查到实际入学年月及全日制性质。",
+        "硕士学习经历：众议院历史人物页和州官方名录确认2002年取得工商管理硕士学位；未查到可靠的硕士入学日期、学习年限及在职或脱产性质，未单列缺少起始日期的学习条目。",
+        "Cerner 任职：州参议院存档传记确认流程架构师职务，但未载起止日期；未采用底稿2002—2008年的区间，未纳入 careers。",
+        "Wealthcare、American Tax Strategies 任职：州参议院存档传记分别记载投资顾问代表、税务规划师和退休规划师职务，但未载起始日期，也不能确认持续至2026-10-18，未列现职或履历。",
+        "委员会起始日期：众议院书记官第119届国会页面确认两个现任委员会席位，未给出席位正式生效日期，current_roles.start 留空。",
+        "州议会任职月份：已打开的国会官方传记及州参议院存档页面确认州众议院2009—2017年、州参议院2019—2023年，未取得支持具体交接月份和日期的原文。",
+        "更高等级入党锚点：检索了党籍登记与公开宣布加入、共和党俱乐部主席经历、州候选人登记及 FEC 候选人和委员会页面，未取得早于2008年初选且有日期的有效第1至第3级锚点。",
+        "族裔：已查官方人物页、州官方名录和州参议院存档传记，未找到本人自述或官方统计分类依据。",
+        "完整简历卡：参加工作时间缺证，五项必填字段未齐，保留候选事实包，card_type 留空。"
+      ],
+      "excluded": [
+        "底稿『2000年参加工作』：没有原始来源；已有资料显示 CoxHealth 之前另有市政府网页设计经历，无法确认为首份全职工作的起始年份。",
+        "底稿『2002年6月参加工作』：未取得首份全职工作及月份依据。",
+        "底稿『大学学历、密苏里州立大学哲学文学学士学位』：已确认2002年取得工商管理硕士学位，最高学历和学位改为研究生学历、工商管理硕士。",
+        "底稿『1995—2000年密苏里州立大学哲学学习』：1995年实际入学时间缺证；按规则从2000年毕业推算1996年入学，履历学校使用当时名称西南密苏里州立大学。",
+        "底稿『2000—2002年 CoxHealth 软件工程师、业务分析师』：本人问卷及 National Journal 资料支持2002年开始在 CoxHealth 任职，National Journal 记载止于2012年。",
+        "底稿『2000—2002年在职攻读工商管理硕士』：仅毕业年份有官方依据，入学年份及在职性质缺证。",
+        "底稿『2002—2008年 Cerner 公司业务分析师、软件项目人员』：起止时间和这些具体职务均未取得对应证据；州参议院存档传记记载的职务为流程架构师。",
+        "底稿『2025年1月开始担任现职』：该日期对应第119届国会任期；首次担任同一选区联邦众议员为2023年1月3日。",
+        "底稿『2025年起兼任两个委员会委员』：现任席位已获确认，2025年具体起任时间未取得生效日期依据。",
+        "底稿『2008年8月加入美国共和党』：底稿本身不作证据；本次以2008年8月5日州官方共和党初选记录重新建立第四级锚点。",
+        "检索线索『1999年9月开始市政府工作』：仅在联系方式聚合网站检索结果中出现，未取得合格原始来源，不采用。",
+        "National Journal 资料『MBA, Computer Information Systems, 1995-2002』：该区间不能明确作为硕士学习区间；官方来源确认的是工商管理硕士，未采用细分方向和硕士入学年份。",
+        "维基百科及镜像、congress-legislators 仓库首页、搜索摘要、打开失败的网页：未作为事实来源。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（密苏里州第7选区）＋美国国会众议院；Bioguide B001316",
+      "review_items": [
+        "补取首份全职工作的起始日期和性质；此前不生成完整简历卡。",
+        "核对1996年本科入学推算与实际学籍记录。",
+        "补取硕士入学日期及学习性质后，再加入学习履历或同期任职括注。",
+        "继续查找有日期的共和党俱乐部主席就任记录或2008年首次州级参选登记，以检验是否存在更高等级的入党锚点。",
+        "下一会话重新联网逐字段核查；本包为研究候选稿。"
+      ]
+    }
+  ]
+}

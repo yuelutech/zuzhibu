@@ -1,0 +1,80 @@
+{
+  "id": "2026-09-14-asa-pitt-nominate",
+  "date": "2026-09-14",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "asa-pitt",
+  "person": {
+    "name_zh": "阿萨·皮特",
+    "name_en": "Asa Pitt",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-14",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国常驻禁止化学武器组织代表团",
+      "role": "常驻代表（大使衔）",
+      "organization_en": "United States Mission to the Organization for the Prohibition of Chemical Weapons",
+      "role_en": "United States Representative to the Organization for the Prohibition of Chemical Weapons, with the rank of Ambassador",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "阿萨·皮特获提名出任美国常驻禁止化学武器组织代表团常驻代表（大使衔）",
+  "summary": "白宫于2026-09-14向参议院提交Asa Pitt出任美国常驻禁止化学武器组织代表团常驻代表（大使衔）的提名。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "The White House",
+      "published_at": "2026-09-14",
+      "excerpt": "Asa Pitt, of the District of Columbia, to be United States Representative to the Organization for the Prohibition of Chemical Weapons, with the rank of Ambassador.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 asa-pitt（库里没有此人）",
+      "现任职务新增：美国常驻禁止化学武器组织代表团常驻代表（大使衔）",
+      "履历新增：2026-09 美国常驻禁止化学武器组织代表团常驻代表（大使衔）",
+      "所属局：按提名职务定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "asa-pitt"
+  }
+}

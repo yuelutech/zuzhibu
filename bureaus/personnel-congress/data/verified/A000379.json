@@ -1,0 +1,426 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-17",
+  "items": [
+    {
+      "id": "cadre-a000379",
+      "line": "cadre",
+      "subject_id": "a000379",
+      "title": "马克·阿尔福德简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Listing/A/ALFORD,-Mark-(A000379)/",
+          "title": "ALFORD, Mark | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "born in Baytown, Harris County, Tex., October 4, 1963; ... (January 3, 2023-present).",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/A000379/",
+          "title": "Mark Alford | Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Mark Alford\nMissouri (MO) – 4th, Republican\nCommittee on Appropriations\nCommittee on Small Business",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://alford.house.gov/about/",
+          "title": "Biography | Congressman Mark Alford",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Congressman Mark Alford ... Alford spent 25 years anchoring Kansas City’s #1 morning news show prior to his time in Congress.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.fec.gov/data/candidate/H2MO04207/",
+          "title": "ALFORD, MARK - Candidate overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Seat: Missouri House District 4 ... Political party: Republican Party ... MARK ALFORD FOR CONGRESS, INC.",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.fec.gov/data/committee/C00792598/?cycle=2026",
+          "title": "MARK ALFORD FOR CONGRESS, INC. - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "MARK ALFORD FOR CONGRESS, INC. ... Principal campaign committee ID: C00792598 Registration date: October 27, 2021",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2026-02-20/text/CDIR-2026-02-20.txt",
+          "title": "Congressional Directory for the 119th Congress (2025–2026), February 20, 2026",
+          "published_at": "2026-02-20",
+          "checked_at": "2026-10-17",
+          "excerpt": "October 4, 1963; ... professional history: television reporter / anchor, 1986-2021 (anchor, WDAF-TV, Kansas City, MO, 1998-2021)",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://portal.clubrunner.ca/4659/stories/thank-you-mark-alfred-for-be-our-rotary-guest-bio-below",
+          "title": "Thank You Mark Alfred for be our Rotary guest, bio below: | Rotary Club of Independence",
+          "published_at": null,
+          "checked_at": "2026-10-17",
+          "excerpt": "Mark joined FOX 4 in March 1998 ... Mark attended the University of Texas at Austin where he studied government and Latin American Affairs.",
+          "tier": null
+        },
+        {
+          "id": "s9",
+          "url": "https://themissouritimes.com/mark-alford-longtime-tv-anchor-launches-bid-for-cd-4/",
+          "title": "Mark Alford, longtime TV anchor, launches bid for CD 4",
+          "published_at": "2021-10-27",
+          "checked_at": "2026-10-17",
+          "excerpt": "Alford, a Republican, made the announcement on KCMO Talk Radio Wednesday morning ... Alford left Fox 4 earlier this month",
+          "tier": null
+        },
+        {
+          "id": "s10",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres21eh/html/BILLS-119hres21eh.htm",
+          "title": "H. Res. 21 — Electing Members to Certain Standing Committees of the House of Representatives",
+          "published_at": "2025-01-09",
+          "checked_at": "2026-10-17",
+          "excerpt": "January 9, 2025. ... elected to the following standing committees ... Committee on Appropriations: ... Mr. Alford",
+          "tier": 1
+        },
+        {
+          "id": "s11",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres38eh/xhtml/BILLS-119hres38eh.html",
+          "title": "H. Res. 38 — Electing Members to Certain Standing Committees of the House of Representatives",
+          "published_at": "2025-01-14",
+          "checked_at": "2026-10-17",
+          "excerpt": "January 14, 2025. ... elected to the following standing committees ... Committee on Small Business: ... Mr. Alford",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:MO"
+      ],
+      "person": {
+        "name": {
+          "value": "马克·阿尔福德",
+          "source_ids": [
+            "s1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1963-10-04",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "得克萨斯州贝敦",
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1986",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "按首项职业经历的开始年份推算：第119届国会官方名录记载其电视记者、主播职业经历为1986—2021年，以1986年作为参加工作年份；来源：https://www.govinfo.gov/content/pkg/CDIR-2026-02-20/text/CDIR-2026-02-20.txt 。名录未列首家任职电视台及具体月份。",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1986",
+            "duration_years": null
+          }
+        },
+        "education": null,
+        "degree": null,
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2021-10",
+          "source_ids": [
+            "s5",
+            "s6",
+            "s9"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：共和党联邦众议员参选人马克·阿尔福德的主要竞选委员会 MARK ALFORD FOR CONGRESS, INC.（C00792598）在联邦选举委员会登记，2021-10-27；来源：https://www.fec.gov/data/committee/C00792598/?cycle=2026 。FEC候选人页确认其共和党身份及该委员会的授权关系：https://www.fec.gov/data/candidate/H2MO04207/ 。同日公开宣布参选有报道交叉支持：https://themissouritimes.com/mark-alford-longtime-tv-anchor-launches-bid-for-cd-4/ 。检索选民登记党籍及州共和党组织职务，未找到第1、2级锚点；候选人页展示的2024年参选声明为后续版本，不取代2021年首次委员会登记；底稿2022年8月晚于该有效锚点，不采用。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2021-10-27",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": null
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（密苏里州第4选区）",
+          "role": "",
+          "start": {
+            "value": "2023-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": {
+            "value": "2025-01-09",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s10"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        },
+        {
+          "organization": "众议院小企业委员会",
+          "role": "委员",
+          "start": {
+            "value": "2025-01-14",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s3",
+            "s11"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": null
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "1998-03",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2021-10",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "WDAF-TV 电视台",
+          "role": "新闻主播",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [
+            "新闻主播"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（密苏里州第4选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（密苏里州第4选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.WDAF-TV任职年限",
+          "alternatives": [
+            {
+              "value": "25年",
+              "source_ids": [
+                "s3"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1998—2021年",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "1998—2021年",
+          "reason": "采用现行官方国会名录列明的起止年份；扶轮社人物介绍与2021年离职报道分别补充开始月和结束月。议员官网的25年概述与这些起止日期不一致，保留并列记录，交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "学习履历：众议院历史人物页确认就读Lee College、Southwest Texas State College及得克萨斯大学奥斯汀分校；扶轮社人物介绍确认其在得克萨斯大学奥斯汀分校学习政府与拉丁美洲事务。未找到三校各自入学、离校年份，不建立带日期的学习条目。",
+        "学历、学位、荣誉学位：查阅众议院历史人物页、议员官方传记、2026年官方国会名录及扶轮社人物介绍，未找到已取得大学学位或荣誉学位的依据；未检得学校官网授位记录。",
+        "早期工作履历：官方国会名录记载电视记者、主播经历始于1986年，但未列首家单位。扶轮社介绍列出KXAN-TV、KWTX-TV、WPTV-TV、KDFW-TV及KPRC-TV，未给出各台完整任职起止日期；不据任职先后或持续年数倒推交接年份。",
+        "KPRC-TV任职日期：扶轮社介绍仅称加入FOX 4前在该台任周末主播、一般新闻记者两年；未取得支持底稿1995—1998年的可打开原始来源。",
+        "房地产及企业经历：众议院历史人物页和官方国会名录列有房地产经纪人、企业经营者经历；扶轮社介绍提及与妻子经营Lonestar Ranch马厩。未找到可据以建立履历条目的起止日期。",
+        "履历缺口：大学就读阶段及1986年至1998年3月各单位日期未明；2021年10月至2023年1月之间未取得带起止日期的任职证据。",
+        "历史委员会职务：议员官网确认第118届国会担任农业、军事、小企业委员会委员；本次未取得这些历史任职完整生效和终止日期，不建立带日期的兼职条目。",
+        "小企业委员会首次任职日期：2025-01-14为第119届国会重新当选该委员会委员的日期；其第118届国会首次任职的具体日期未取得证据。"
+      ],
+      "excluded": [
+        "底稿『1981—1984年，李学院、得克萨斯州立大学、得克萨斯大学奥斯汀分校』：三校就读经历得到确认，起止年份没有依据；官方人物页还记载其1982年高中毕业。",
+        "底稿『1984年参加工作』及发布稿『1984年6月参加工作』：没有支持1984年或6月的来源，改按官方国会名录1986年开始的职业经历推算。",
+        "底稿『1984—1995年，得克萨斯州、佛罗里达州电视台记者、主播』：单位和起止日期未经证实，不保留合并条目。",
+        "底稿『1995—1998年，KPRC-TV记者、周末主播』：本次可打开来源未支持该起止年份，不按两年任职描述倒推。",
+        "底稿『2022—2022年，共和党联邦众议员候选人』：参选身份不列为工作职务；共和党参选登记证据用于入党锚点。",
+        "底稿『2025年1月起任密苏里州第4选区联邦众议员』：该日期属于新一届任期，首次代表该选区的任期始于2023年1月3日。",
+        "底稿『2025年起兼任农业委员会、军事委员会委员』：议员官网将两项列为第118届经历；第119届现任委员会为拨款委员会、小企业委员会。",
+        "底稿发布稿『2022年8月加入美国共和党』：已有更早的2021年10月27日FEC竞选委员会登记锚点。",
+        "『2023年1月7日宣誓』：议员官方公告确认该宣誓日；正式公职任期起点采用众议院历史人物页的2023年1月3日，两类日期分别保留。",
+        "小组委员会主席、副主席及一般党团成员身份：按本批规则不单列为现任委员会职务。"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

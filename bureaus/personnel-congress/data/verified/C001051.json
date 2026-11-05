@@ -1,0 +1,515 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-19",
+  "items": [
+    {
+      "id": "cadre-c001051",
+      "line": "cadre",
+      "subject_id": "c001051",
+      "title": "约翰·卡特简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://history.house.gov/People/Detail/11770",
+          "title": "CARTER, John R. | US House of Representatives: History, Art & Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "born in Houston, Harris County, Tex., November 6, 1941; ... J.D., University of Texas Law School, Austin, Tex., 1969;",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://clerk.house.gov/members/C001051",
+          "title": "Office of the Clerk, U.S. House of Representatives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "John R. Carter ... Texas (TX) – 31st, Republican ... Committee on Appropriations",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://carter.house.gov/about/",
+          "title": "About | U.S. Representative John Carter",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "John was a young lawyer who recently completed his bachelor’s degree from Texas Tech and his law degree from University of Texas.",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "title": "The Constitution of the United States: A Transcription | National Archives",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "and been seven Years a Citizen of the United States",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.americanbar.org/content/dam/aba/administrative/government_affairs_office/nj-lawyers-of-119-congress.pdf",
+          "title": "Lawyers of the 119th Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Carter started his career as counsel to the Texas House of Representatives Agriculture and Livestock Committee in 1969",
+          "tier": 2
+        },
+        {
+          "id": "s6",
+          "url": "https://www.fec.gov/data/committee/C00371203/?cycle=2024&tab=about-committee",
+          "title": "JOHN CARTER FOR CONGRESS - committee overview | FEC",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Registration date: January 08, 2002 ... House candidate Texas - 31 Republican Party",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "https://www.dot.state.tx.us/ttf2010/People/JohnCarter.htm",
+          "title": "John Carter",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "In 1981, Congressman Carter was appointed the judge of the 277th District Court of Williamson County and was elected District Judge in 1982.",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://carter.house.gov/news/documentsingle.aspx?DocumentID=955",
+          "title": "Carter Sworn into 6th Term, Chairmanship of Homeland Security Subcommittee",
+          "published_at": "2013-01-03",
+          "checked_at": "2026-10-19",
+          "excerpt": "Carter has served on the Appropriations Committee and Homeland Security Subcommittee since 2005.",
+          "tier": 1
+        },
+        {
+          "id": "s10",
+          "url": "https://www.congress.gov/member/john-carter/C001051",
+          "title": "John R. Carter | Congress.gov | Library of Congress",
+          "published_at": null,
+          "checked_at": "2026-10-19",
+          "excerpt": "Representative John R. Carter (1941 - ) In Congress 2003 - Present ... Party Republican ... House Texas, District 31",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "reverified",
+        "house",
+        "state:TX"
+      ],
+      "person": {
+        "name": {
+          "value": "约翰·卡特",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1941-11-06",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "得克萨斯州休斯敦",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1969",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": true,
+          "basis": "美国律师协会网站所载 National Journal 人物资料写明，1969年以得克萨斯州众议院农业与畜牧委员会法律顾问开始职业生涯，按首份职业任职起年确定参加工作时间；原文未给月份。来源：https://www.americanbar.org/content/dam/aba/administrative/government_affairs_office/nj-lawyers-of-119-congress.pdf",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "1969",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "得克萨斯大学奥斯汀分校法学院法学博士学位",
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2002-01",
+          "source_ids": [
+            "s6"
+          ],
+          "inferred": true,
+          "basis": "第3级锚点：竞选委员会 JOHN CARTER FOR CONGRESS（C00371203）在联邦选举委员会登记，2002-01-08；来源：https://www.fec.gov/data/committee/C00371203/?cycle=2024&tab=about-committee 。检索本人官网、州共和党组织资料及FEC记录，未找到第1级登记党籍或本人宣布加入的日期。已找到的共和党指导委员会、共和党会议书记经历均晚于该登记记录，且所开原文没有明确首次就任日期，未作第2级日期锚点；2006-11-17书记选举公告未给生效日期，来源：https://carter.house.gov/news/documentsingle.aspx?DocumentID=279 。1981年法官任命没有以共和党身份获任命的原文依据，1982年法官选举不按本规则作为锚点。2002年国会选举和2003年就职晚于本次登记，未采用。",
+          "inference": {
+            "rule": "party_anchor_candidacy_filing",
+            "from_date": "2002-01-08",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦众议员（得克萨斯州第31选区）",
+          "role": "",
+          "start": {
+            "value": "2003-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "众议院拨款委员会",
+          "role": "委员",
+          "start": {
+            "value": "2005",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": true,
+          "source_ids": [
+            "s2",
+            "s8"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1960",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "国会官方传记记载1964年取得得克萨斯理工大学文学学士学位；按本科毕业年减4，1964－4＝1960。",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "1964",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1964",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "得克萨斯理工大学",
+          "role": null,
+          "program": "历史学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s1",
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1969",
+            "source_ids": [
+              "s5"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "得克萨斯州众议院农业与畜牧委员会",
+          "role": "法律顾问",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s5"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律顾问"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1982",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2001",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "得克萨斯州威廉森县第277地区法院",
+          "role": "法官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法官"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2003-01-03",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会众议院",
+          "role": "联邦众议员（得克萨斯州第31选区）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s10"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦众议员（得克萨斯州第31选区）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2005",
+                "source_ids": [
+                  "s8"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": null,
+              "ongoing": true,
+              "organization": "众议院拨款委员会",
+              "role": "委员",
+              "roles": [
+                "委员"
+              ],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s2",
+                "s8"
+              ]
+            }
+          ],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国众议院",
+      "conflicts": [
+        {
+          "field": "careers.法官任职.start",
+          "alternatives": [
+            {
+              "value": "1982",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "1981",
+              "source_ids": [
+                "s7"
+              ],
+              "inferred": false,
+              "basis": "得克萨斯州政府人物介绍写1981年获任命，1982年当选。",
+              "inference": null
+            }
+          ],
+          "selected_value": "1982",
+          "reason": "按默认规则采用现行国会官方传记所列1982－2001年；州政府资料另列1981年任命、1982年当选，两者对任职起年的口径存在差异，交AI政见确认。"
+        }
+      ],
+      "unknowns": [
+        "参加工作月份：查阅国会官方传记、议员官网及美国律师协会所载人物资料，只找到1969年职业起点，没有找到月份。",
+        "法学院入学日期：查阅国会官方传记、议员官网及得克萨斯大学法学院校友刊物检索结果，确认1969年取得法学博士，未找到入学日期；本批不按法学院标准学制倒推，学习条目暂未列入careers。",
+        "私人执业起止日期与事务所名称：查阅国会官方传记、议员官网、州政府人物介绍及美国律师协会资料，确认有私人执业经历；后者只写20世纪70年代初进入私人执业，没有精确起年、结束日期和事务所全称，未单列履历。",
+        "朗德罗克市法官任职日期：州政府人物介绍确认其在私人执业期间兼任市法官，未给起止日期，未列括注。",
+        "众议院共和党会议书记起止日期：2006年11月17日当选公告未给就任日期；2013年1月3日报道确认此前连续三届担任书记，未给精确交接日期，未沿用底稿2007－2013年括注。",
+        "众议院共和党指导委员会任职日期：州政府介绍及议员官网公告提到该经历，未找到明确首次就任日期及截至截止日的持续任职证据，未列现职或履历括注。",
+        "族裔：查阅国会官方页面和议员官网，没有找到本人自述或官方统计依据。",
+        "FEC首份参选声明：候选人2002周期页面打开失败，未核实首份F2受理日期；入党推断采用已打开的竞选委员会首次登记日期。"
+      ],
+      "excluded": [
+        "底稿『现职起始2025年1月』：这是本届任期宣誓月份；国会官方传记确认自2003年1月3日起担任该选区联邦众议员。",
+        "底稿『1969年－1981年得克萨斯州朗德罗克市律师』：未找到该完整起止区间的依据；1969年职业起点资料指向州众议院委员会法律顾问。",
+        "底稿『1966年入读法学院』：未找到入学年份依据，本批不采用标准法学院学制倒推。",
+        "底稿『1969年6月参加工作』：未找到6月依据，保留有来源的1969年。",
+        "底稿『1981年1月加入美国共和党』：未找到党籍锚点；法官任命本身没有共和党身份依据。",
+        "底稿『1981年－2001年法官』：与现行国会传记起年不同，已在conflicts并列，当前结构化条目按默认规则选1982年。",
+        "底稿『2007年－2013年众议院共和党会议书记』：已确认担任过该职，未核实起止生效日期，未直接沿用。",
+        "检得『27th district court』：美国律师协会所载人物资料如此书写；州政府原文明确为277th District Court，法院序号采用一级来源。",
+        "检得『2001年首次当选国会』：2006年议员官网书记当选公告如此书写；与国会官方传记及州政府资料冲突，不采用该公告的首次当选年份。",
+        "小组委员会主席及委员职务：按本批规则不单列current_roles。"
+      ],
+      "country_profile": "us",
+      "card_type": "完整简历卡",
+      "date_granularity": "year",
+      "disambiguation": "美国联邦众议员（得克萨斯州第31选区）＋美国国会众议院；Bioguide C001051",
+      "review_items": [
+        "法官任职起年存在一级来源之间的差异，按默认规则选用1982年，交AI政见确认。",
+        "首份全职工作及1969年职业起点目前由美国律师协会所载National Journal资料支持，继续寻找州议会原始任职记录。",
+        "法学院学习及私人执业经历因缺起始日期未列入履历，待补原始记录。",
+        "入党日期采用第3级竞选委员会登记锚点；继续核查更早的有效登记或党组织就任记录。"
+      ]
+    }
+  ]
+}

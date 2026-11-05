@@ -1,0 +1,533 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-katie-zacharia",
+      "line": "cadre",
+      "subject_id": "katie-zacharia",
+      "title": "凯蒂·扎卡里亚简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://law.pepperdine.edu/surf-report/posts/katie-zacharia-named-white-house-press-secretary.htm",
+          "title": "Katie Zacharia ('07, JD '11) Named White House Press Secretary",
+          "published_at": "2026-10-12",
+          "checked_at": "2026-10-18",
+          "excerpt": "a member of the Dean’s Council",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.kpbs.org/news/politics/2026/10/16/katie-zacharia-is-transitioning-out-as-press-secretary-white-house-says",
+          "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
+          "published_at": "2026-10-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "started Monday and is out by Friday",
+          "tier": 2
+        },
+        {
+          "id": "s3",
+          "url": "https://video.goodmorningamerica.com/news/story/trump-asked-press-secretary-katie-zacharia-reconsider-position-137326631",
+          "title": "Trump asked press secretary Katie Zacharia to reconsider position",
+          "published_at": "2026-10-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "transitioning into a new role ... announced at a later date",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/",
+          "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM",
+          "published_at": "2026-10-15",
+          "checked_at": "2026-10-18",
+          "excerpt": "associate ... Zhong Lun ... between 2011 and 2013; fundraiser",
+          "tier": 2
+        },
+        {
+          "id": "s5",
+          "url": "https://www.nasdaq.com/press-release/novared-appoints-katie-zacharia-advisory-board-2026-06-24",
+          "title": "NovaRed Appoints Katie Zacharia to Advisory Board",
+          "published_at": "2026-06-24",
+          "checked_at": "2026-10-18",
+          "excerpt": "appointed Katie Zacharia to its Advisory Board",
+          "tier": 1
+        },
+        {
+          "id": "s6",
+          "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+          "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup",
+          "published_at": "2026-10-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "That was fake; never materialized",
+          "tier": 2
+        },
+        {
+          "id": "s7",
+          "url": "https://www.whitehouse.gov/releases/2026/10/katie-zacharia-delivers-powerful-inaugural-briefing-as-37th-white-house-press-secretary/",
+          "title": "Katie Zacharia Delivers Powerful Inaugural Briefing as 37th White House Press Secretary",
+          "published_at": "2026-10-13",
+          "checked_at": "2026-10-18",
+          "excerpt": "37th White House Press Secretary",
+          "tier": 1
+        },
+        {
+          "id": "s8",
+          "url": "https://www.axios.com/2026/10/16/trump-katie-zacharia-press-secretary",
+          "title": "Katie Zacharia ousted as White House press secretary",
+          "published_at": "2026-10-16",
+          "checked_at": "2026-10-18",
+          "excerpt": "no rush",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "sanju-baigong",
+        "draft"
+      ],
+      "person": {
+        "name": {
+          "value": "凯蒂·扎卡里亚",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1985-04",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "2026年10月16日报道41岁，生日区间1984-10-17至1985-10-16，按区间中点取1985年4月",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2026-10-16",
+            "duration_years": 41
+          }
+        },
+        "birth_place": null,
+        "work_start": {
+          "value": "2011-06",
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "inferred": true,
+          "basis": "2011年取得JD，同年开始中伦工作；毕业月按5月，首职按次月6月",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "2011",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "佩珀代因大学法学院研究生",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "法律博士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "佩珀代因大学法学院院长委员会",
+          "role": "成员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [
+            "成员"
+          ],
+          "sector": "advisory",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "本科2007年毕业，入学年按毕业年减4",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "2007",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佩珀代因大学西弗学院",
+          "role": "政治学与政府专业学习",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "政治学与政府专业学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": true,
+            "basis": "2011年取得JD，按美国JD三年制倒推",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "2011",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "2011",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佩珀代因大学法学院",
+          "role": "法律专业学习",
+          "program": null,
+          "degree_awarded": {
+            "value": "法律博士",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律专业学习"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": true,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2013",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "中伦律师事务所",
+          "role": "法律事务工作人员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律事务工作人员"
+          ],
+          "role_category": {
+            "value": "associate",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "媒体引述本人履历的职位类别；执业资格未作为事实列入",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "Beachbody",
+          "role": "独立经销商",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [
+            "独立经销商"
+          ],
+          "role_category": {
+            "value": "independent Team Beachbody distributor",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "role_basis": "公司确认2013年曾列为独立经销商，非雇员",
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2023",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "佩珀代因大学",
+          "role": "专项发展主管",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": false,
+          "roles": [
+            "专项发展主管"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2026-10-12",
+            "source_ids": [
+              "s2",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2026-10-16",
+            "source_ids": [
+              "s2",
+              "s7"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "白宫",
+          "role": "新闻秘书",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2",
+            "s7"
+          ],
+          "ongoing": false,
+          "roles": [
+            "新闻秘书"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "",
+      "conflicts": [
+        {
+          "field": "current_roles.NovaRed_advisory_board",
+          "alternatives": [
+            {
+              "value": "2026年6月24日公告加入顾问委员会",
+              "source_ids": [
+                "s5"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "2026年10月本人及公司技术负责人称任职未实际发生",
+              "source_ids": [
+                "s6"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": null,
+          "reason": "按用户2026年10月18日决定，仅记录冲突，不列现职。"
+        },
+        {
+          "field": "careers.Fix_California.role",
+          "alternatives": [
+            {
+              "value": "总法律顾问",
+              "source_ids": [
+                "s1"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            {
+              "value": "筹款人员",
+              "source_ids": [
+                "s4"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            }
+          ],
+          "selected_value": "总法律顾问",
+          "reason": "用户2026年10月18日选择采用大学所列总法律顾问；起止日期待查。"
+        }
+      ],
+      "unknowns": [
+        "截至2026年10月18日已查白宫公告及10月16日至18日报道，未查到新闻秘书继任者或代理人正式公告。",
+        "ABC称将转任政府新职但名称待公布；未查到新任命，不能填已无其他政府职务。",
+        "国土安全部发言人、副助理部长和特朗普媒体科技集团高级通讯顾问经历有大学来源，准确起止日期未查清，未填为现职。",
+        "院长委员会任职起始时间未查清。党籍、入党时间未查到；出生和首职月份为规则推算。",
+        "2013年独立经销经历的结束日期及其后至2023年的工作缺口未查清。",
+        "Fix California旧职采用佩珀代因大学所列总法律顾问；起止日期未查清。",
+        "截至2026-10-18，检索白宫发布及10月16日至18日报道，未查到继任新闻秘书或代理新闻秘书的任命；10月16日Axios报道总统不急于任命继任者。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": "Katie Zacharia；佩珀代因大学法学院院长委员会",
+      "review_items": []
+    }
+  ],
+  "source_task": "sanju-baigong"
+}

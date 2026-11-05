@@ -1,0 +1,129 @@
+{
+  "id": "2026-09-30-peter-lee-leave",
+  "date": "2026-09-30",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "peter-lee",
+  "person": {
+    "name_zh": "彼得·李",
+    "name_en": "Peter Lee",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-30",
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "微软科学部门",
+      "role": "总裁",
+      "organization_en": "Microsoft Science",
+      "role_en": "President",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "lee-post"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": [
+    {
+      "organization": "Kaiser Permanente Bernard J. Tyson School of Medicine",
+      "role": "董事",
+      "organization_en": "Kaiser Permanente Bernard J. Tyson School of Medicine",
+      "role_en": "Board member",
+      "start": null,
+      "end": null,
+      "concurrent": true,
+      "sector": "advisory",
+      "source_ids": [
+        "lee-board",
+        "lee-post"
+      ]
+    }
+  ],
+  "new_appointment": {
+    "organization": "Mercedes Formula 1 team",
+    "role": "人工智能顾问（拟任）",
+    "organization_en": "Mercedes Formula 1 team",
+    "role_en": "AI advisor (planned)",
+    "start": null,
+    "end": null,
+    "concurrent": false,
+    "sector": "advisory",
+    "source_ids": [
+      "lee-new"
+    ]
+  },
+  "new_appointment_checked": true,
+  "headline": "彼得·李宣布离开微软科学部门总裁岗位",
+  "summary": "9月30日，彼得·李宣布决定从微软退休，离任生效日未公布。他保留凯撒永久医疗集团伯纳德·J.泰森医学院董事职务；10月报道披露其拟赴梅赛德斯F1车队任人工智能顾问，任职日和正式职衔尚未确定。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "lee-post",
+      "url": "https://www.linkedin.com/posts/peterlee4_for-the-past-16-years-im-pretty-sure-ive-share-7511167167451783168-ZaJZ/",
+      "title": "For the past 16 years, I'm pretty sure I've had the best job in all of tech.",
+      "publisher": "Peter Lee",
+      "published_at": "2026-09-30",
+      "excerpt": "I've taken a big leap and decided to retire from Microsoft.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "lee-board",
+      "url": "https://medschool.kp.org/about/board-of-directors/peter-lee",
+      "title": "Board of Directors | Peter Lee, PhD",
+      "publisher": "Kaiser Permanente Bernard J. Tyson School of Medicine",
+      "published_at": null,
+      "excerpt": "serves on the Boards of Directors",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "lee-new",
+      "url": "https://www.geekwire.com/2026/microsofts-top-science-exec-is-leaving-to-fulfill-a-childhood-dream-joining-a-formula-1-team/",
+      "title": "Microsoft’s top science exec is leaving to fulfill a childhood dream: Joining a Formula 1 team",
+      "publisher": "GeekWire",
+      "published_at": "2026-10-13",
+      "excerpt": "plans to join the Mercedes Formula 1 team in a newly created AI advisor role",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-094711",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（lee-post：不是一级来源；lee-board：不是一级来源；lee-new：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": "dongtai-ai-sep-peter-lee",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 peter-lee（库里没有此人）"
+    ],
+    "notes": [
+      "原任“微软科学部门 总裁 Microsoft Science President”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "peter-lee",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

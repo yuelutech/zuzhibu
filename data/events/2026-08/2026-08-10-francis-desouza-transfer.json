@@ -1,0 +1,101 @@
+{
+  "id": "2026-08-10-francis-desouza-transfer",
+  "date": "2026-08-10",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "francis-desouza",
+  "person": {
+    "name_zh": "弗朗西斯·德索萨",
+    "name_en": "Francis deSouza",
+    "ids": {},
+    "name_zh_source": "research"
+  },
+  "announced_at": "2026-07-30",
+  "effective_at": "2026-08-10",
+  "ended_roles": [
+    {
+      "organization": "谷歌云",
+      "role": "首席运营官、安全产品总裁",
+      "organization_en": "Google Cloud",
+      "role_en": "Chief Operating Officer and President of Security Products",
+      "start": null,
+      "end": "2026-08-07",
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "Scale AI公司",
+      "role": "首席执行官",
+      "organization_en": "Scale AI",
+      "role_en": "Chief Executive Officer",
+      "start": "2026-08-10",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "弗朗西斯·德索萨任Scale AI公司首席执行官",
+  "summary": "Scale AI公司7月30日宣布任命，8月10日生效，接替临时首席执行官杰森·德罗格。德索萨此前任谷歌云首席运营官、安全产品总裁，在谷歌云的最后工作日为8月7日。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://scale.com/blog/scale-appoints-new-ceo",
+      "title": "Scale AI Appoints Francis deSouza as CEO to Lead Next Phase of Company’s Growth",
+      "publisher": "Scale AI",
+      "published_at": "2026-07-30",
+      "excerpt": "appointed Francis deSouza as Chief Executive Officer, effective August 10, 2026.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://www.axios.com/2026/07/30/scale-ai-google-cloud-coo-francis-desouza",
+      "title": "Scale AI hires Francis deSouza, former Google Cloud executive as new CEO",
+      "publisher": "Axios",
+      "published_at": "2026-07-30",
+      "excerpt": "deSouza's last day is August 7, 2026.",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": []
+  },
+  "origin": "backfill",
+  "lead": "roster-francis-desouza",
+  "default_bureau": "ai",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [],
+    "notes": [
+      "原任“谷歌云 首席运营官、安全产品总裁 Google Cloud Chief Operating Officer and President of Security Products”在记录的现任职务里找不到对应项，未移出",
+      "新任“Scale AI公司首席执行官”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "ai",
+    "bureau_after": "ai",
+    "person_id": "francis-desouza",
+    "reason": "主要职务“Scale AI公司 首席执行官”：AI 与科技机构名单"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "2026-08-03-jay-clayton-transfer",
+  "date": "2026-08-03",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "jay-clayton",
+  "person": {
+    "name_zh": "杰伊·克莱顿",
+    "name_en": "Jay Clayton",
+    "ids": {},
+    "name_zh_source": "glossary"
+  },
+  "announced_at": "2026-08-03",
+  "effective_at": "2026-08-03",
+  "ended_roles": [
+    {
+      "organization": "美国司法部纽约南区联邦检察官办公室",
+      "role": "联邦检察官",
+      "organization_en": "United States Attorney's Office for the Southern District of New York",
+      "role_en": "United States Attorney for the Southern District of New York",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "美国国家情报总监办公室",
+      "role": "国家情报总监",
+      "organization_en": "Office of the Director of National Intelligence",
+      "role_en": "Director of National Intelligence",
+      "start": "2026-08-03",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "杰伊·克莱顿任美国国家情报总监",
+  "summary": "克莱顿8月3日宣誓就任第九任国家情报总监，原任纽约南区联邦检察官。其直接接替的是代理总监比尔·普尔特。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.odni.gov/14064/pr-12-26/",
+      "title": "Jay Clayton Sworn In As Director Of National Intelligence",
+      "publisher": "美国国家情报总监办公室",
+      "published_at": "2026-08-03",
+      "excerpt": "Today, Jay Clayton was sworn in as the nation’s ninth Director of National Intelligence",
+      "checked_at": "2026-10-17",
+      "excerpt_check": null
+    },
+    {
+      "id": "e2",
+      "url": "https://finwire.io/news/politics-news/jay-clayton-sworn-in-as-trumps-dni-bill-pulte-steps-down-before-another-round-of-agency-layoffs",
+      "title": "Jay Clayton sworn in as Trump’s DNI — Bill Pulte steps down before another round of agency layoffs",
+      "publisher": "纽约邮报（finwire.io转载）",
+      "published_at": "2026-08-03",
+      "excerpt": "replacing Bill Pulte on the job",
+      "checked_at": "2026-10-17",
+      "excerpt_check": true
+    },
+    {
+      "id": "m1",
+      "url": "https://www.warner.senate.gov/newsroom/press-releases/senate-intel-vice-chair-warner-on-confirmation-of-jay-clayton-to-be-dni/",
+      "title": "Senate Intel Vice Chair Warner on Confirmation of Jay Clayton to be DNI",
+      "publisher": "U.S. Senator Mark Warner",
+      "published_at": "2026-07-28",
+      "excerpt": "Now that he has been confirmed, I sincerely hope he proves those concerns unfounded",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null,
+      "merged_from": "2026-08-03-jay-clayton-confirm"
+    },
+    {
+      "id": "m2",
+      "url": "https://www.odni.gov/14064/pr-12-26/",
+      "title": "Jay Clayton Sworn In As Director Of National Intelligence",
+      "publisher": "",
+      "published_at": "2026-08-03",
+      "excerpt": "August 3, 2026 Jay Clayton Sworn In As Director Of National Intelligence WASHINGTON, D.C. – Today, Jay Clayton was sworn in as the nation’s ninth Director of National Intelligence",
+      "supports": [
+        "effective_at",
+        "new_roles[0].start"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": null,
+      "merged_from": "2026-08-03-jay-clayton-confirm"
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-17",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261017-152810",
+    "corrections": [],
+    "reasons": [],
+    "merged": [
+      {
+        "id": "2026-08-03-jay-clayton-appoint",
+        "kind": "appoint",
+        "headline": "克莱顿宣誓就任国家情报总监",
+        "announced_at": "2026-08-03",
+        "effective_at": "2026-08-03",
+        "verification": {
+          "method": "codex",
+          "by": "本机 Codex 核查会话（补采动态，一次一条）",
+          "run": "20261021-095635"
+        },
+        "sources": [
+          "e1"
+        ],
+        "at": "2026-10-21",
+        "reason": "同一人、同一天、同一机构，类别不同的同一件事，合成一条"
+      },
+      {
+        "id": "2026-08-03-jay-clayton-confirm",
+        "kind": "confirm",
+        "headline": "参议院确认克莱顿出任国家情报总监",
+        "announced_at": "2026-07-28",
+        "effective_at": "2026-08-03",
+        "verification": {
+          "method": "codex",
+          "by": "本机 Codex 核查会话（补采动态，一次一条）",
+          "run": "20261021-095635"
+        },
+        "sources": [
+          "m1",
+          "m2"
+        ],
+        "at": "2026-10-21",
+        "reason": "同一人、同一天、同一机构，类别不同的同一件事，合成一条"
+      }
+    ]
+  },
+  "origin": "backfill",
+  "lead": "roster-jay-clayton",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-17",
+    "changes": [],
+    "notes": [
+      "原任“美国司法部纽约南区联邦检察官办公室 联邦检察官 United States Attorney's Office for the Southern District of New York United States Attorney for the Southern District of New York”在记录的现任职务里找不到对应项，未移出",
+      "新任“美国国家情报总监办公室国家情报总监”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "jay-clayton",
+    "reason": "主要职务“美国国家情报总监办公室 国家情报总监”：总统、白宫、内阁与独立机构"
+  }
+}

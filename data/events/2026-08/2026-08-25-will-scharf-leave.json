@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-25-will-scharf-leave",
+  "date": "2026-08-25",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "will-scharf",
+  "person": {
+    "name_zh": "威尔·沙夫",
+    "name_en": "Will Scharf",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-08-31",
+  "effective_at": "2026-08-25",
+  "ended_roles": [
+    {
+      "organization": "美国国家首都规划委员会",
+      "organization_en": "National Capital Planning Commission",
+      "role": "主席",
+      "role_en": "Chairman",
+      "start": null,
+      "end": "2026-08-25",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": {
+    "organization": "白宫",
+    "organization_en": "White House",
+    "role": "总统助理兼白宫法律顾问",
+    "role_en": "Assistant to the President and White House Counsel",
+    "start": "2026-09-01",
+    "end": null,
+    "concurrent": false,
+    "sector": "politics",
+    "source_ids": [
+      "e2",
+      "e3"
+    ]
+  },
+  "new_appointment_checked": false,
+  "headline": "威尔·沙夫卸任美国国家首都规划委员会主席",
+  "summary": "NCPC公告记载，沙夫于8月25日卸任主席，以转任白宫法律顾问；新职于9月1日开始。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.ncpc.gov/news/item/266/1/",
+      "title": "President Trump Appoints Mark Paoletta National Capital Planning Commission Chairman",
+      "publisher": "National Capital Planning Commission",
+      "published_at": "2026-08-31",
+      "excerpt": "Previous Chairman Will Scharf stepped down on August 25 due to his new job as White House Counsel.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1",
+      "e2：不是一级来源",
+      "e3：不是一级来源",
+      "离任后有无其他现职、新任命，程序核不了，按未查清写回（不转七局）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "原任“美国国家首都规划委员会 主席 National Capital Planning Commission Chairman”在记录的现任职务里找不到对应项，未移出"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "will-scharf",
+    "reason": "主要职务“白宫 总统助理、法律顾问”：总统、白宫、内阁与独立机构"
+  }
+}

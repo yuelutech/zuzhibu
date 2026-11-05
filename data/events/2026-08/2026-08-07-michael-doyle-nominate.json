@@ -1,0 +1,81 @@
+{
+  "id": "2026-08-07-michael-doyle-nominate",
+  "date": "2026-08-07",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "michael-doyle",
+  "person": {
+    "name_zh": "迈克尔·多伊尔",
+    "name_en": "Michael Doyle",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-08-07",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国职业安全与健康审查委员会",
+      "role": "委员",
+      "organization_en": "Occupational Safety and Health Review Commission",
+      "role_en": "Member",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "迈克尔·多伊尔获提名出任美国职业安全与健康审查委员会委员",
+  "summary": "白宫于2026-08-07向参议院提交Michael Doyle出任美国职业安全与健康审查委员会委员的提名。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "The White House",
+      "published_at": "2026-08-07",
+      "excerpt": "Michael Doyle, of Pennsylvania, to be a Member of the Occupational Safety and Health Review Commission for a term expiring April 27, 2031.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 michael-doyle（库里没有此人）",
+      "现任职务新增：美国职业安全与健康审查委员会委员",
+      "履历新增：2026-08 美国职业安全与健康审查委员会委员"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "michael-doyle"
+  }
+}

@@ -1,0 +1,693 @@
+{
+  "id": "henry-samueli",
+  "name_zh": "亨利·萨穆埃利",
+  "name_en": "Henry Samueli",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-18",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-21",
+  "origin": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“博通公司 Chairman of the Board Broadcom Chairman of the Board”：AI 与科技机构名单）；补采简历 bureaus/personnel-sv/data/verified/henry-samueli.json（erju-jianli-2，程序检查通过，待独立核查）",
+  "portrait": {
+    "source": "https://newsroom.ucla.edu/file?fid=67b665e72cfac2368bbf7b16",
+    "url": "https://s3.amazonaws.com/cms.ipressroom.com/173/files/20251/67b665e72cfac2368bbf7b16_Samueli-Photo+2/Samueli-Photo+2_8702c7cd-4376-4d8d-9496-c6c06a0e2ff7-prv.jpg"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Broadcom",
+      "role_en": "Chairman of the Board"
+    }
+  ],
+  "notes": [],
+  "events": [
+    "2026-06-01-henry-samueli-leave"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "名册首发：bureaus/personnel-sv/roster/roster.csv（主要职务“博通公司 Chairman of the Board Broadcom Chairman of the Board”：AI 与科技机构名单）"
+    }
+  ],
+  "resume": {
+    "id": "henry-samueli-20261018",
+    "line": "cadre",
+    "subject_id": "henry-samueli",
+    "title": "亨利·萨穆埃利简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://investors.broadcom.com/board-member/henry-samueli-phd",
+        "title": "Henry Samueli, Ph.D. — Broadcom",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "served as Chairman of the Board from December 2018 until June 2026.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://www.invent.org/inductees/henry-samueli",
+        "title": "Henry Samueli — National Inventors Hall of Fame",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Samueli was born Sept. 20, 1954, in Buffalo, New York.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://samueli.ucla.edu/deb_samueli/",
+        "title": "Dean’s Executive Board Member — Henry Samueli",
+        "published_at": null,
+        "checked_at": "2026-10-18",
+        "excerpt": "Samueli received a B.S., M.S. and Ph.D. in electrical engineering from UCLA in 1975, 1976 and 1980, respectively.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://www.sec.gov/Archives/edgar/data/1201633/000119312513060073/d479952dsc13ga.htm",
+        "title": "Henry Samueli — Schedule 13G/A",
+        "published_at": "2013",
+        "checked_at": "2026-10-18",
+        "excerpt": "HENRY SAMUELI, PH.D. Citizenship or Place of Organization: United States",
+        "tier": 1
+      },
+      {
+        "id": "s5",
+        "url": "https://samueli.ucla.edu/henry-samueli-wins-2012-marconi-prize/",
+        "title": "Henry Samueli Wins 2012 Marconi Prize",
+        "published_at": "2012-07-11",
+        "checked_at": "2026-10-18",
+        "excerpt": "In 1985, Samueli joined the UCLA faculty full-time as an assistant professor",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "AI政见",
+      "亨利·萨穆埃利"
+    ],
+    "person": {
+      "name": {
+        "value": "亨利·萨穆埃利",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1954-09-20",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "纽约州布法罗",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1980-06",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": true,
+        "basis": "cadre.md 3.3及9.6：1980年博士毕业后加入TRW；毕业月按5月，工作月取6月。",
+        "inference": {
+          "rule": "graduation_next_month",
+          "from_date": "1980-05",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "加州大学洛杉矶分校电气工程",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哲学博士",
+        "source_ids": [
+          "s3"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [
+        {
+          "value": "美国国家工程院院士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        }
+      ],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "博通公司",
+        "role": "董事",
+        "roles": [
+          "董事"
+        ],
+        "start": {
+          "value": "2016-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1971",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3：1975年本科毕业减4年。",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1975",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1975",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "加州大学洛杉矶分校",
+        "role": null,
+        "program": "电气工程",
+        "degree_awarded": {
+          "value": "理学学士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1980-06",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": true,
+          "basis": "博士毕业后首职；cadre.md 9.6取6月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1980-05",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "1985",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "TRW",
+        "role": "工程师、管理人员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [
+          "工程师",
+          "管理人员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1985",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1995",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "加州大学洛杉矶分校",
+        "role": "电气与计算机工程系助理教授、教授",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1",
+          "s5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "电气与计算机工程系助理教授",
+          "教授"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1988",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1994",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "PairGain Technologies",
+        "role": "联合创始人、首席科学家",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": true,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "联合创始人",
+          "首席科学家"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1991",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2003",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "博通公司",
+        "role": "首席技术官、研发副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席技术官",
+          "研发副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2003",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "博通公司",
+        "role": "首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "博通公司",
+        "role": "技术顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "技术顾问"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "博通公司",
+        "role": "首席技术官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席技术官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-02",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "博通公司",
+        "role": "首席技术官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席技术官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-12",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2026-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "博通公司",
+        "role": "董事长、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": false,
+        "roles": [
+          "董事长",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-06",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "博通公司",
+        "role": "董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "博通公司",
+    "conflicts": [],
+    "unknowns": [
+      "硕士、博士入学时间未核到；保留最高学位事实，不编学习起点。",
+      "董事长离任仅核到2026年6月，具体日及首次公告日未知。",
+      "UCLA 1995年起为休假状态，后续教授身份保留但本包不按连续全职任教表述；UCI客座教授和球队产权未作为企业主职。"
+    ],
+    "excluded": [],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": "Henry Samueli；博通公司；董事",
+    "review_items": [
+      "表外译名建议亨利·萨穆埃利。",
+      "将2026年6月董事长离任另报events.json；仍任董事。",
+      "1985年以助理教授身份加入UCLA；升任教授年份未核到，按同一单位合并不同阶段职务。"
+    ]
+  }
+}

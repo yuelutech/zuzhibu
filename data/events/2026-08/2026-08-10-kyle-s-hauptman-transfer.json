@@ -1,0 +1,137 @@
+{
+  "id": "2026-08-10-kyle-s-hauptman-transfer",
+  "date": "2026-08-10",
+  "kind": "transfer",
+  "kind_label": "调任",
+  "person_id": "kyle-s-hauptman",
+  "person": {
+    "name_zh": "凯尔·S.豪普特曼",
+    "name_en": "Kyle S. Hauptman",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-01-30",
+  "effective_at": "2026-08-10",
+  "ended_roles": [
+    {
+      "organization": "美国全国信用合作社管理局",
+      "organization_en": "National Credit Union Administration",
+      "role": "主席",
+      "role_en": "Chairman",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e2"
+      ]
+    }
+  ],
+  "new_roles": [
+    {
+      "organization": "美国公众公司会计监督委员会",
+      "organization_en": "Public Company Accounting Oversight Board",
+      "role": "委员",
+      "role_en": "Board Member",
+      "start": "2026-08-10",
+      "end": "2029-10-24",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "c1"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": {
+    "organization": "美国公众公司会计监督委员会",
+    "organization_en": "Public Company Accounting Oversight Board",
+    "role": "委员",
+    "role_en": "Board Member",
+    "start": "2026-08-10",
+    "end": null,
+    "concurrent": false,
+    "sector": "politics",
+    "source_ids": [
+      "e1"
+    ]
+  },
+  "new_appointment_checked": true,
+  "headline": "凯尔·豪普特曼离开NCUA后就任美国公众公司会计监督委员会委员",
+  "summary": "PCAOB官方简历记载，Hauptman于8月10日宣誓就任委员，此前任NCUA主席；NCUA职务具体结束日未列明。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://pcaobus.org/about/the-board/board-bios/kyle-s.-hauptman",
+      "title": "Kyle S. Hauptman",
+      "publisher": "Public Company Accounting Oversight Board",
+      "published_at": null,
+      "excerpt": "Kyle S. Hauptman was appointed as a Board Member of the Public Company Accounting Oversight Board by the Securities and Exchange Commission (SEC) in January 2026 and sworn in on August 10, 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "e2",
+      "url": "https://pcaobus.org/about/the-board/board-bios/kyle-s.-hauptman",
+      "title": "Kyle S. Hauptman",
+      "publisher": "Public Company Accounting Oversight Board",
+      "published_at": null,
+      "excerpt": "Prior to his swearing in as a PCAOB Board Member, Board Member Hauptman was the Chairman of the National Credit Union Administration (NCUA).",
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    },
+    {
+      "id": "c1",
+      "url": "https://pcaobus.org/news-events/news-releases/news-release-detail/kyle-s.-hauptman-sworn-in-as-pcaob-board-member",
+      "title": "Kyle S. Hauptman Sworn In as PCAOB Board Member",
+      "publisher": "",
+      "published_at": "2026-08-10",
+      "excerpt": "Board Member Hauptman was appointed by the SEC on January 30, 2026. His current term will expire on October 24, 2029.",
+      "supports": [
+        "announced_at",
+        "new_roles[0].end"
+      ],
+      "checked_at": "2026-10-21",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "codex",
+    "by": "本机 Codex 核查会话（补采动态，一次一条）",
+    "checked_at": "2026-10-21",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261021-090516",
+    "corrections": [
+      "announced_at → 2026-01-30（来源 c1）",
+      "new_roles[0].end → 2029-10-24（来源 c1）"
+    ],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：不是一级来源；e2：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 kyle-s-hauptman（库里没有此人）",
+      "现任职务新增：美国公众公司会计监督委员会委员",
+      "履历新增：2026-08 美国公众公司会计监督委员会委员"
+    ],
+    "notes": [
+      "原任“美国全国信用合作社管理局 主席 National Credit Union Administration Chairman”：记录里本来就没有现任职务",
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "kyle-s-hauptman",
+    "reason": "新任职务不在各局范围（主要职务“美国公众公司会计监督委员会 委员”：不在各局范围），暂留原局"
+  }
+}

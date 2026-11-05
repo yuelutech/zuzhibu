@@ -1,0 +1,97 @@
+{
+  "id": "2026-10-20-stanley-l-brown-appoint",
+  "date": "2026-10-01",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "stanley-l-brown",
+  "person": {
+    "name_zh": "斯坦利·L.布朗",
+    "name_en": "Stanley L. Brown",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": null,
+  "effective_at": "2026-10",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国驻赤道几内亚大使馆",
+      "role": "特命全权大使",
+      "organization_en": "U.S. Embassy in Equatorial Guinea",
+      "role_en": "Ambassador",
+      "start": "2026-10",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "斯坦利·L.布朗任美国驻赤道几内亚大使",
+  "summary": "联邦新闻网10月19日的人事动态报道将布朗出任美国驻赤道几内亚大使列为近期人事变动。报道未列宣布日、宣誓日或到任日。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-16/",
+      "title": "Federal Movers & Shakers | October 19, 2026",
+      "publisher": "Federal News Network",
+      "published_at": "2026-10-19",
+      "excerpt": "Office of the U.S. Ambassador to Equatorial Guinea",
+      "checked_at": "2026-10-20",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://gq.usembassy.gov/ambassador-stanley-l-brown/",
+      "title": "Ambassador Stanley L. Brown",
+      "publisher": "U.S. Embassy in Equatorial Guinea",
+      "published_at": "2026-10-08",
+      "excerpt": "In October 2026, Stanley L. Brown arrived in the Republic of Equatorial Guinea as the U.S. Ambassador.",
+      "checked_at": "2026-10-22",
+      "excerpt_check": true,
+      "supports": [
+        "effective_at",
+        "new_roles[0].start"
+      ]
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "by": "本机 Codex 研究与核查两次会话",
+    "checked_at": "2026-10-20",
+    "model": "gpt-6.1-sol/medium",
+    "run": "20261020-080004",
+    "corrections": [
+      "effective_at → 2026-10（来源 e2：使馆官网 2026-10-08 发布的大使简介写 10 月到任，只写到月；摘录在网页上逐字核对）",
+      "new_roles[0].start → 2026-10（来源 e2）",
+      "date → 2026-10-01（原为采集日 2026-10-20；生效日只知道到月，按惯例记当月 1 日）",
+      "new_roles[0].role → 特命全权大使（原写“驻赤道几内亚大使”；同一职务写法与参议院确认一致，2026-10-22 维护者定）"
+    ],
+    "reasons": []
+  },
+  "origin": "daily",
+  "lead": "active-stanley-brown",
+  "applied": {
+    "status": "applied",
+    "at": "2026-10-20",
+    "changes": [
+      "新建人物记录 stanley-l-brown（库里没有此人）",
+      "现任职务新增：美国驻赤道几内亚大使馆驻赤道几内亚大使",
+      "履历新增：2026-10 美国驻赤道几内亚大使馆驻赤道几内亚大使",
+      "所属局：定为三局·白宫干部局"
+    ],
+    "notes": [],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "stanley-l-brown",
+    "reason": "主要职务“美国驻赤道几内亚大使馆 驻赤道几内亚大使”：总统、白宫、内阁与独立机构"
+  }
+}

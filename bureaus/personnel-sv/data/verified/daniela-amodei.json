@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "daniela-amodei-20261018",
+      "line": "cadre",
+      "subject_id": "daniela-amodei",
+      "title": "丹妮拉·阿莫代伊简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.anthropic.com/company/leadership",
+          "title": "Leadership at Anthropic",
+          "excerpt": "Daniela Amodei",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://news.ucsc.edu/2026/04/alumna-and-anthropic-co-founder-daniela-amodei-and-civil-rights-activist-dolores-huerta-named-in-times-100-most-influential-people-of-2026/",
+          "title": "UC Santa Cruz alumna Daniela Amodei",
+          "excerpt": "graduated from UC Santa Cruz in 2009",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://madame.lefigaro.fr/business/actu-business/elle-vaut-15-milliards-de-dollars-et-craint-l-ia-qu-elle-construit-qui-est-daniela-amodei-a-la-tete-d-anthropic-et-claude-20260907",
+          "title": "Daniela Amodei portrait",
+          "excerpt": "Daniela Amodei, 39 ans",
+          "published_at": "2026-09-07",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        },
+        {
+          "id": "s4",
+          "url": "https://sfstandard.com/2026/08/10/who-anthropic-8-new-billionaires-dictating-future-ai-sf/",
+          "title": "Anthropic founders",
+          "excerpt": "joined Stripe as its first recruiter",
+          "published_at": "2026-08-10",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "AI政见",
+        "丹妮拉·阿莫代伊"
+      ],
+      "person": {
+        "name": {
+          "value": "丹妮拉·阿莫代伊",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "女",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1987-03",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "2026年9月7日报道39岁，区间1986-09-08至1987-09-07，取中间月份1987年3月。",
+          "inference": {
+            "rule": "age_statement",
+            "from_date": "2026-09-07",
+            "duration_years": null
+          }
+        },
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "加州大学圣克鲁斯分校",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "文学学士",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "Anthropic公司",
+          "role": "联合创始人、总裁",
+          "start": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2021",
+              "duration_years": null
+            }
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "Anthropic公司",
+          "role": "董事长",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "enterprise",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "2005-09",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：毕业年2009减标准学制4年，入学月取9月。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "2009",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2009-05",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条及第9节第6条：来源仅给年份，按学年默认月份。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "2009",
+              "duration_years": null
+            }
+          },
+          "organization": "加州大学圣克鲁斯分校",
+          "role": null,
+          "program": "文学",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2013-07",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2013",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "Stripe公司",
+          "role": "招聘专员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2021-07",
+            "source_ids": [
+              "s1",
+              "s4"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 第3节第3条：来源仅给年份，无衔接月份依据，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2021",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "Anthropic公司",
+          "role": "联合创始人、总裁",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "Anthropic公司",
+      "conflicts": [],
+      "unknowns": [
+        "国籍未取得明确来源。大学毕业后在马里兰和乌干达从事国际发展工作，机构、职务、起始时间未知；2012年参与马特·卡特赖特国会竞选，具体职务未知。来源s4。",
+        "OpenAI具体任职年月尚待原文核实。董事长起任时间未知。"
+      ],
+      "excluded": [],
+      "country_profile": null,
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ],
+  "source_task": "erju-jianli-1"
+}

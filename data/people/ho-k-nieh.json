@@ -1,0 +1,713 @@
+{
+  "id": "ho-k-nieh",
+  "name_zh": "聂何",
+  "name_en": "Ho K. Nieh",
+  "name_zh_pending": true,
+  "bureau": "whitehouse",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/justice.json 监管机构组（2026-10-21 维护者定）；简历按机构官网、参议院提名记录等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "ho-k-nieh.jpg",
+    "source": "https://www.nrc.gov/about-nrc/organization-functions/the-commission/ho-k-nieh",
+    "source_kind": "官方照片（机构官网）",
+    "license": "公有领域：核管会网站免责声明页：“NRC's website constitutes a U.S. Government Work under federal copyright law and as such, it is not subject to copyright.” 同段提示：“Permission to repro；已换蓝白渐变底",
+    "url": "https://www.nrc.gov/sites/default/files/images/Ho_Nieh_high_res.jpg"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "U.S. Nuclear Regulatory Commission (NRC)",
+      "role_en": "Chairman (20th Chairman)"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "whitehouse",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/justice.json 监管机构组（2026-10-21 维护者定）；简历按机构官网、参议院提名记录等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-ho-k-nieh",
+    "line": "cadre",
+    "subject_id": "ho-k-nieh",
+    "title": "聂何简历",
+    "sources": [
+      {
+        "id": "n1",
+        "url": "https://www.nrc.gov/about-nrc/organization-functions/the-commission/ho-k-nieh",
+        "title": "Nieh | Nuclear Regulatory Commission",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "The Honorable Ho Nieh was designated as the Chairman of the U.S. Nuclear Regulatory Commission by U.S. President Donald Trump on January 8, 2026. Chairman Nieh had previously been sworn in as an NRC Commissioner on December 4, 2025 for a term ending June 30, 2029.",
+        "tier": 1
+      },
+      {
+        "id": "n2",
+        "url": "https://www.nrc.gov/about-nrc/organization-functions/the-commission/ho-k-nieh",
+        "title": "Nieh | Nuclear Regulatory Commission",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "He is the first former NRC resident inspector to serve as a Commissioner.",
+        "tier": 1
+      },
+      {
+        "id": "n3",
+        "url": "https://www.nrc.gov/about-nrc/organization-functions/the-commission/ho-k-nieh",
+        "title": "Nieh | Nuclear Regulatory Commission",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Immediately prior to this appointment, Chairman Nieh served as an officer of Southern Nuclear on loan to the Institute of Nuclear Power Operations (INPO). He joined Southern Nuclear in March 2021 to assume the role of Vice President of Regulatory Affairs after more than 20 years as an NRC staff member.",
+        "tier": 1
+      },
+      {
+        "id": "n4",
+        "url": "https://www.nrc.gov/about-nrc/organization-functions/the-commission/ho-k-nieh",
+        "title": "Nieh | Nuclear Regulatory Commission",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "His other roles at the NRC included: Senior Resident Inspector; Director of the Division Reactor Projects in Region 1, in King of Prussia, Pennsylvania; Director of Division Inspection and Regional Support at NRC headquarters; and Chief of Staff for Commissioner William Ostendorff.",
+        "tier": 1
+      },
+      {
+        "id": "n5",
+        "url": "https://www.nrc.gov/about-nrc/organization-functions/the-commission/ho-k-nieh",
+        "title": "Nieh | Nuclear Regulatory Commission",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "He also served as Communications Advisor to the International Atomic Energy Agency and worked at Knolls Atomic Power Laboratory as a civilian instructor for the Navy’s Nuclear Power Program.",
+        "tier": 1
+      },
+      {
+        "id": "n6",
+        "url": "https://www.nrc.gov/about-nrc/organization-functions/the-commission/ho-k-nieh",
+        "title": "Nieh | Nuclear Regulatory Commission",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Chairman Nieh earned his Bachelor of Engineering in marine engineering from New York Maritime College and is a graduate of the United States Naval Nuclear Power School. He attended Rensselaer Polytechnic Institute for graduate studies in nuclear engineering and earned a Master of Business Administration from Johns Hopkins University.",
+        "tier": 1
+      },
+      {
+        "id": "n7",
+        "url": "https://www.nrc.gov/about-nrc/organization-functions/the-commission/ho-k-nieh",
+        "title": "Nieh | Nuclear Regulatory Commission",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Chairman Nieh completed the Executive Education in Strategic Management program from the Harvard Kennedy School of Government.",
+        "tier": 1
+      },
+      {
+        "id": "n8",
+        "url": "https://www.nrc.gov/about-nrc/organization-functions/the-commission/ho-k-nieh",
+        "title": "Nieh | Nuclear Regulatory Commission",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "While at the NRC, Chairman Nieh served as Director of the Office of Nuclear Reactor Regulation, where he was responsible for reactor safety licensing and oversight programs for operating and new reactors.",
+        "tier": 1
+      },
+      {
+        "id": "n9",
+        "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-005.pdf",
+        "title": "NRC News Release No. 26-005: Ho Nieh Named 20th NRC Chairman",
+        "published_at": "2026-01-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Ho K. Nieh has been designated by U.S. President Donald J. Trump as the 20th Chairman of the Nuclear Regulatory Commission, effective immediately. Nieh replaces David A. Wright, who the President named Chairman on Jan. 21, 2025, and who will continue to serve as a Commissioner.",
+        "tier": 1
+      },
+      {
+        "id": "n10",
+        "url": "https://www.nrc.gov/about-nrc/organization-functions/the-commission",
+        "title": "The Commission | Nuclear Regulatory Commission",
+        "published_at": "2026-09-15",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chairman Ho K. Nieh",
+        "tier": 1
+      },
+      {
+        "id": "n11",
+        "url": "https://www.nrc.gov/about-nrc/news-releases/2026/26-080",
+        "title": "NRC Updates AP1000 Design Certification, Streamlines Future Reactor Licensing | Nuclear Regulatory Commission",
+        "published_at": "2026-10-14",
+        "checked_at": "2026-10-21",
+        "excerpt": "“The NRC’s approval of the updated AP1000 design provides the regulatory foundation for America to move from building individual reactors to deploying them at scale,” Chairman Ho K. Nieh said.",
+        "tier": 1
+      },
+      {
+        "id": "n12",
+        "url": "https://www.nrc.gov/docs/ML1812/ML18124A080.pdf",
+        "title": "NRC News Release No. 18-016: NRC Announces Senior Management Selections",
+        "published_at": "2018-05-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "Ho K. Nieh will become Director of NRR in August. Nieh, a member of the SES, will return to the NRC this summer from the Organisation for Economic Cooperation and Development, where he serves as the Director, Division of Nuclear Safety Technology and Regulation at the Nuclear Energy Agency.",
+        "tier": 1
+      },
+      {
+        "id": "n13",
+        "url": "https://www.nrc.gov/docs/ML1812/ML18124A080.pdf",
+        "title": "NRC News Release No. 18-016: NRC Announces Senior Management Selections",
+        "published_at": "2018-05-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "He began his NRC career in 1997 as an engineer in Region I, joining the agency after serving in various engineering positions at the Knolls Atomic Power Laboratory.",
+        "tier": 1
+      },
+      {
+        "id": "n14",
+        "url": "https://www.nrc.gov/docs/ML1812/ML18124A080.pdf",
+        "title": "NRC News Release No. 18-016: NRC Announces Senior Management Selections",
+        "published_at": "2018-05-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "At the NRC, Nieh worked as a resident and senior resident inspector before joining the newly created Office of Nuclear Security and Incident Response in 2003.",
+        "tier": 1
+      },
+      {
+        "id": "n15",
+        "url": "https://www.nrc.gov/docs/ML1812/ML18124A080.pdf",
+        "title": "NRC News Release No. 18-016: NRC Announces Senior Management Selections",
+        "published_at": "2018-05-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "He has also served in various management positions in NRR, including Director, Division of Inspection and Regional Support, and Director, Division of Reactor Projects. Additionally, Nieh was assigned to the International Atomic Energy Agency, Department of Nuclear Safety and Security, and also served as Chief of Staff to Commissioner Bill Ostendorff.",
+        "tier": 1
+      },
+      {
+        "id": "n16",
+        "url": "https://www.nrc.gov/docs/ML1812/ML18124A080.pdf",
+        "title": "NRC News Release No. 18-016: NRC Announces Senior Management Selections",
+        "published_at": "2018-05-03",
+        "checked_at": "2026-10-21",
+        "excerpt": "He graduated from the U.S. Naval Nuclear Power School and holds a Bachelor of Engineering in Marine Engineering from the State University of New York Maritime College and a Master of Business Administration from Johns Hopkins University.",
+        "tier": 1
+      },
+      {
+        "id": "n17",
+        "url": "https://www.oecd-nea.org/general/contacts/CVs/hnieh.html",
+        "title": "Nuclear Energy Agency - Contacts - New senior appointment",
+        "published_at": "2015-09-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr Ho Nieh has been appointed NEA Head of the Division of Nuclear Safety Regulation and Technology. He took up his duties on 31 August 2015.",
+        "tier": 1
+      },
+      {
+        "id": "n18",
+        "url": "https://www.oecd-nea.org/general/contacts/CVs/hnieh.html",
+        "title": "Nuclear Energy Agency - Contacts - New senior appointment",
+        "published_at": "2015-09-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "He began his career in operation, maintenance and training at a United States Navy nuclear power plant. Mr Nieh joined the United States Nuclear Regulatory Commission (NRC) in 1997 as a resident inspector and conducted safety inspections at pressurised water and boiling water reactors.",
+        "tier": 1
+      },
+      {
+        "id": "n19",
+        "url": "https://www.oecd-nea.org/general/contacts/CVs/hnieh.html",
+        "title": "Nuclear Energy Agency - Contacts - New senior appointment",
+        "published_at": "2015-09-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "Prior to joining the NEA, Mr Nieh was the Director of the Division of Reactor Projects in the NRC Region 1 office where he was responsible for the resident inspectors assigned to 25 nuclear power plants.",
+        "tier": 1
+      },
+      {
+        "id": "n20",
+        "url": "https://www.oecd-nea.org/general/contacts/CVs/hnieh.html",
+        "title": "Nuclear Energy Agency - Contacts - New senior appointment",
+        "published_at": "2015-09-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr Nieh, a United States national, holds a Bachelor's degree in Marine Engineering from the New York Maritime College.",
+        "tier": 1
+      },
+      {
+        "id": "n21",
+        "url": "https://www.oecd-nea.org/general/contacts/CVs/hnieh.html",
+        "title": "Nuclear Energy Agency - Contacts - New senior appointment",
+        "published_at": "2015-09-04",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr Nieh has 22 years of experience in nuclear power plant safety regulation and policy.",
+        "tier": 1
+      },
+      {
+        "id": "n22",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title42/html/USCODE-2023-title42-chap73-subchapII-sec5841.htm",
+        "title": "42 U.S.C. 5841 — Nuclear Regulatory Commission (United States Code, 2023 Edition)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "(1) There is established an independent regulatory commission to be known as the Nuclear Regulatory Commission which shall be composed of five members, each of whom shall be a citizen of the United States. The President shall designate one member of the Commission as Chairman thereof to serve as such during the pleasure of the President.",
+        "tier": 1
+      },
+      {
+        "id": "n23",
+        "url": "https://www.congress.gov/nomination/119th-congress/445/6",
+        "title": "PN445-6 — Ho Nieh — Nuclear Regulatory Commission, 119th Congress (2025-2026)",
+        "published_at": "2025-07-30",
+        "checked_at": "2026-10-21",
+        "excerpt": "Ho Nieh, of Alabama, to be a Member of the Nuclear Regulatory Commission for the remainder of the term expiring June 30, 2029, vice Christopher T. Hanson.",
+        "tier": 1
+      },
+      {
+        "id": "n24",
+        "url": "https://www.congress.gov/nomination/119th-congress/445/6",
+        "title": "PN445-6 — Ho Nieh — Nuclear Regulatory Commission, 119th Congress (2025-2026)",
+        "published_at": "2025-11-19",
+        "checked_at": "2026-10-21",
+        "excerpt": "Confirmed by the Senate by Yea-Nay Vote. 66 - 32. Record Vote Number: 620.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "n2",
+          "n17"
+        ],
+        "inferred": false,
+        "basis": "核管会官网人物页用 He 指称；经合组织核能机构公告称 Mr Nieh",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "n20",
+          "n22"
+        ],
+        "inferred": false,
+        "basis": "经合组织核能机构2015年公告称其为 a United States national；核管会委员须为美国公民（《美国法典》第42编第5841条）",
+        "inference": null
+      },
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "n6",
+          "n16"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "约翰斯·霍普金斯大学工商管理硕士学位",
+        "source_ids": [
+          "n6",
+          "n16"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "聂何",
+        "source_ids": [
+          "n1"
+        ],
+        "basis": "维护者定，按中文姓名习惯",
+        "inferred": false,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国核管理委员会",
+        "role": "主席、委员",
+        "start": {
+          "value": "2026-01-08",
+          "source_ids": [
+            "n1",
+            "n9",
+            "n10",
+            "n11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "n1",
+          "n9",
+          "n10",
+          "n11",
+          "n23",
+          "n24"
+        ],
+        "roles": [
+          "主席",
+          "委员"
+        ],
+        "sector": "politics",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1997",
+          "source_ids": [
+            "n13",
+            "n14",
+            "n15",
+            "n4",
+            "n18",
+            "n19"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2015",
+          "source_ids": [
+            "n13",
+            "n14",
+            "n15",
+            "n4",
+            "n18",
+            "n19"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国核管理委员会",
+        "role": "第一区工程师、驻厂视察员、高级驻厂视察员、核反应堆监管办公室视察和地区支援处处长、第一区办公室反应堆项目处处长、委员办公室主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "n13",
+          "n14",
+          "n15",
+          "n4",
+          "n18",
+          "n19"
+        ],
+        "ongoing": false,
+        "roles": [
+          "第一区工程师",
+          "驻厂视察员",
+          "高级驻厂视察员",
+          "核反应堆监管办公室视察和地区支援处处长",
+          "第一区办公室反应堆项目处处长",
+          "委员办公室主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2015-08-31",
+          "source_ids": [
+            "n17",
+            "n12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018",
+          "source_ids": [
+            "n17",
+            "n12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "经济合作与发展组织核能机构",
+        "role": "核安全技术与监管处处长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "n17",
+          "n12"
+        ],
+        "ongoing": false,
+        "roles": [
+          "核安全技术与监管处处长"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018-08",
+          "source_ids": [
+            "n12",
+            "n8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国核管理委员会",
+        "role": "核反应堆监管办公室主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "n12",
+          "n8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "核反应堆监管办公室主任"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-03",
+          "source_ids": [
+            "n3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025",
+          "source_ids": [
+            "n3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "南方核电公司",
+        "role": "监管事务副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "n3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "监管事务副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-12-04",
+          "source_ids": [
+            "n1",
+            "n24"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国核管理委员会",
+        "role": "委员",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "n1",
+          "n24"
+        ],
+        "ongoing": true,
+        "roles": [
+          "委员"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-01-08",
+          "source_ids": [
+            "n1",
+            "n9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国核管理委员会",
+        "role": "主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "n1",
+          "n9"
+        ],
+        "ongoing": true,
+        "roles": [
+          "主席"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [
+      {
+        "field": "careers[美国核管理委员会 1997].roles 首职",
+        "alternatives": [
+          {
+            "value": "第一区工程师",
+            "source_ids": [
+              "n13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "驻厂视察员",
+            "source_ids": [
+              "n18"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "第一区工程师",
+        "reason": "核管会2018年新闻稿称1997年以第一区工程师身份入职，核能机构2015年公告称1997年以驻厂视察员身份入职，草稿两职并列"
+      },
+      {
+        "field": "careers[经济合作与发展组织核能机构].roles",
+        "alternatives": [
+          {
+            "value": "Head of the Division of Nuclear Safety Regulation and Technology",
+            "source_ids": [
+              "n17"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "Director, Division of Nuclear Safety Technology and Regulation",
+            "source_ids": [
+              "n12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "Head of the Division of Nuclear Safety Regulation and Technology",
+        "reason": "处名词序与职称写法不同，草稿按核管会写法译“核安全技术与监管处处长”"
+      },
+      {
+        "field": "careers[美国核管理委员会 1997—2015].roles 反应堆项目处",
+        "alternatives": [
+          {
+            "value": "核反应堆监管办公室下设",
+            "source_ids": [
+              "n15"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "第一区办公室下设",
+            "source_ids": [
+              "n4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "核反应堆监管办公室下设",
+        "reason": "2018年新闻稿把视察和地区支持处、反应堆项目处都写在核反应堆监管办公室名下；官网人物页和核能机构公告写反应堆项目处属第一区办公室（宾夕法尼亚州普鲁士王），草稿从后者"
+      }
+    ],
+    "unknowns": [
+      "出生日期、出生地：未检得一级或二级来源（参议院环境和公共工程委员会网站上的2025-10-08提名听证材料对自动抓取返回403，未能读取，其中或有提名问卷）",
+      "汉字姓名：未检得",
+      "参加工作时间：未检得（见 work_start.basis）",
+      "各学历入学、毕业年份：未检得",
+      "诺尔斯原子能实验室任职起止；核管会1997—2015年间各职务交接时间；借调国际原子能机构时间；任奥斯滕多夫委员办公室主任时间；核反应堆监管办公室主任离任时间；借调核电运行研究所起始时间：均未检得"
+    ],
+    "excluded": [
+      "纽约州立大学海事学院船舶工程学习：起止时间无来源，履历不单列，学位见首段",
+      "美国海军核动力学校学习：起止时间无来源，履历不单列，学位见首段",
+      "伦斯勒理工学院核工程学习：起止时间无来源，履历不单列，学位见首段",
+      "约翰斯·霍普金斯大学工商管理学习：起止时间无来源，履历不单列，学位见首段",
+      "哈佛大学肯尼迪政府学院战略管理（高管教育课程）学习：起止时间无来源，履历不单列，学位见首段",
+      "诺尔斯原子能实验室工程师、美国海军核动力项目文职教员：起始时间无来源，履历不单列",
+      "国际原子能机构核安全和安保司交流顾问：起始时间无来源，不写进履历括注",
+      "核电运行研究所（INPO）借调高级职员：起始时间无来源，不写进履历括注"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Ho K. Nieh；美国核管理委员会；主席、委员",
+    "review_items": []
+  }
+}

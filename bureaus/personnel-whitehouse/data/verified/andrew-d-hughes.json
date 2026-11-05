@@ -1,0 +1,210 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-andrew-d-hughes",
+      "line": "cadre",
+      "subject_id": "andrew-d-hughes",
+      "title": "安德鲁·D.休斯简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.hud.gov/aboutus/leadership/andrew-hughes",
+          "title": "Andrew D. Hughes, Deputy Secretary",
+          "excerpt": "Deputy Secretary; BA Public Relations, Texas Tech; formerly Chief of Staff and American Cornerstone Institute co-founder and CEO.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://www.ttu.edu/now/posts/2025/11/texas-tech-alumnus-steps-into-role-as-hud-deputy-secretary.php",
+          "title": "Texas Tech Alumnus Steps Into Role As HUD Deputy Secretary",
+          "excerpt": "Fall 2007 commencement; first workforce role: management training at Morrison Supply Co.",
+          "published_at": "2025-11-24",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        }
+      ],
+      "tags": [
+        "sanju-neige",
+        "research"
+      ],
+      "person": {
+        "name": {
+          "value": "安德鲁·D.休斯",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": null,
+        "birth_place": null,
+        "work_start": null,
+        "education": {
+          "value": "本科",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "文学学士",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": null,
+        "party_joined_at": null,
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国住房和城市发展部",
+          "role": "常务副部长",
+          "start": {
+            "value": "2025-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-20",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2025-06",
+            "source_ids": [
+              "s2"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国住房和城市发展部",
+          "role": "幕僚长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s2"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-06",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国住房和城市发展部",
+          "role": "常务副部长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [
+        {
+          "text": "得克萨斯理工大学；文学学士；已知结束或毕业时间：2007。起始日期未知。",
+          "source_ids": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "company_tag": "美国政要",
+      "conflicts": [],
+      "unknowns": [
+        "国籍直接陈述、真实生日、入党锚点未知。",
+        "本科实际于2007年秋季毕业，入学月和毕业月未精确公布；首份工作在其后，具体年月未明，work_start留空。",
+        "HUD领导页写确认日6月10日，新闻页检索显示6月11日；宣誓原件未取得，since暂记2025-06。",
+        "Morrison、制造商代表、得克萨斯大学系统、前届HUD、American Cornerstone Institute完整任期未补证。",
+        "本科实际修业三年半，入学年月与生日均未知；出生年月不再按标准四年制倒推。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "year",
+      "disambiguation": "Deputy Secretary | Department of Housing and Urban Development",
+      "review_items": [
+        "表外译名待审：安德鲁·D.休斯",
+        "完整简历卡缺项：nationality、birth_date、work_start。保留seed级事实包。"
+      ]
+    }
+  ],
+  "source_task": "sanju-neige"
+}

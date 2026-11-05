@@ -1,0 +1,733 @@
+{
+  "id": "robert-michael",
+  "name_zh": "罗伯特·迈克尔",
+  "name_en": "Robert A. Michael",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "robert-michael.jpg",
+    "source": "维护者提供（罗伯特·迈克尔_Robert-A-Michael_艾伯维_官网照.jpg）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "AbbVie Inc.",
+      "role_en": "Chairman of the Board"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-robert-michael",
+    "line": "cadre",
+    "subject_id": "robert-michael",
+    "title": "罗伯特·迈克尔简历",
+    "sources": [
+      {
+        "id": "m1",
+        "url": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html",
+        "title": "Robert A. Michael, Chairman of the Board and Chief Executive Officer (AbbVie leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Rob Michael is the Chairman of the Board and Chief Executive Officer of AbbVie, a global biopharmaceutical company that employs approximately 57,000 people worldwide and has provided innovative medicines and products to more than 74 million people in over 180 countries.",
+        "tier": 1
+      },
+      {
+        "id": "m2",
+        "url": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html",
+        "title": "Robert A. Michael, Chairman of the Board and Chief Executive Officer (AbbVie leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Michael earned a bachelor’s degree in accounting from Indiana University Kelley School of Business and a Master of Business Administration from University of California Los Angeles Anderson School of Management.",
+        "tier": 1
+      },
+      {
+        "id": "m3",
+        "url": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html",
+        "title": "Robert A. Michael, Chairman of the Board and Chief Executive Officer (AbbVie leadership)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "He began his career with Abbott as a member of the financial development program.",
+        "tier": 1
+      },
+      {
+        "id": "m4",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm",
+        "title": "AbbVie Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Michael is AbbVie’s Chairman and Chief Executive Officer, a position he has held since July 2025.",
+        "tier": 1
+      },
+      {
+        "id": "m5",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm",
+        "title": "AbbVie Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Michael previously served as Chief Executive Officer starting in 2024 and President and Chief Operating Officer from July 2023 to June 2024, where he was responsible for global commercial operations, finance, corporate human resources, global operations, business development and corporate strategy for the company.",
+        "tier": 1
+      },
+      {
+        "id": "m6",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm",
+        "title": "AbbVie Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "He previously served as Vice Chairman and President from June 2022 to July 2023, as Vice Chairman, Finance and Commercial Operations and Chief Financial Officer from June 2021 to June 2022, as Executive Vice President, Chief Financial Officer from 2019 to 2021, and as Senior Vice President, Chief Financial Officer from 2018 to 2019.",
+        "tier": 1
+      },
+      {
+        "id": "m7",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm",
+        "title": "AbbVie Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Michael first joined Abbott in 1993 and held numerous leadership positions across several different business units before joining AbbVie in 2013.",
+        "tier": 1
+      },
+      {
+        "id": "m8",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm",
+        "title": "AbbVie Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "Age: 55 Primary Occupation: Chairman of the Board and Chief",
+        "tier": 1
+      },
+      {
+        "id": "m9",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm",
+        "title": "AbbVie Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "(2) Mr. Michael turning age 55 in 2025, which resulted in a one-time increase in the present value of his subsidized early retirement benefits payable for service after 2003",
+        "tier": 1
+      },
+      {
+        "id": "m10",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm",
+        "title": "AbbVie Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "appointed Robert Michael as AbbVie’s CEO in July 2024 and as the Board’s Chairman in July 2025, succeeding Richard Gonzalez",
+        "tier": 1
+      },
+      {
+        "id": "m11",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm",
+        "title": "AbbVie Inc., 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-03-23",
+        "checked_at": "2026-10-21",
+        "excerpt": "As announced on February 14, 2025, Mr. Michael, AbbVie’s Chief Executive Officer, became Chairman of the Board effective July 1, 2025.",
+        "tier": 1
+      },
+      {
+        "id": "m12",
+        "url": "https://news.abbvie.com/2024-02-20-AbbVie-Announces-Appointment-of-Robert-A-Michael-as-Chief-Executive-Officer",
+        "title": "AbbVie Announces Appointment of Robert A. Michael as Chief Executive Officer",
+        "published_at": "2024-02-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Additionally, the board has appointed Mr. Michael as a member of the board of directors effective July 1, 2024.",
+        "tier": 1
+      },
+      {
+        "id": "m13",
+        "url": "https://news.abbvie.com/2024-02-20-AbbVie-Announces-Appointment-of-Robert-A-Michael-as-Chief-Executive-Officer",
+        "title": "AbbVie Announces Appointment of Robert A. Michael as Chief Executive Officer",
+        "published_at": "2024-02-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "He began his career with Abbott as a member of the financial development program and ultimately served as division controller, nutrition supply chain and division controller, molecular diagnostics, among other roles.",
+        "tier": 1
+      },
+      {
+        "id": "m14",
+        "url": "https://news.abbvie.com/2024-02-20-AbbVie-Announces-Appointment-of-Robert-A-Michael-as-Chief-Executive-Officer",
+        "title": "AbbVie Announces Appointment of Robert A. Michael as Chief Executive Officer",
+        "published_at": "2024-02-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Upon AbbVie's separation from Abbott in 2013, Mr. Michael established and led the company's first financial planning organization as vice president, AbbVie financial planning and analysis.",
+        "tier": 1
+      },
+      {
+        "id": "m15",
+        "url": "https://news.abbvie.com/2024-02-20-AbbVie-Announces-Appointment-of-Robert-A-Michael-as-Chief-Executive-Officer",
+        "title": "AbbVie Announces Appointment of Robert A. Michael as Chief Executive Officer",
+        "published_at": "2024-02-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "He then held a series of leadership roles of increasing responsibility including vice president, controller for commercial operations; vice president, treasurer; and vice president, corporate controller.",
+        "tier": 1
+      },
+      {
+        "id": "m16",
+        "url": "https://news.abbvie.com/2024-02-20-AbbVie-Announces-Appointment-of-Robert-A-Michael-as-Chief-Executive-Officer",
+        "title": "AbbVie Announces Appointment of Robert A. Michael as Chief Executive Officer",
+        "published_at": "2024-02-20",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Gonzalez, who has served as CEO since the company's formation in 2013, will retire from the role of CEO and become executive chairman of the board of directors, effective July 1, 2024.",
+        "tier": 1
+      },
+      {
+        "id": "m17",
+        "url": "https://news.abbvie.com/2025-02-14-AbbVie-Appoints-CEO-Robert-A-Michael-as-Chairman-of-the-Board-of-Directors",
+        "title": "AbbVie Appoints CEO Robert A. Michael as Chairman of the Board of Directors",
+        "published_at": "2025-02-14",
+        "checked_at": "2026-10-21",
+        "excerpt": "AbbVie (NYSE: ABBV) today announced that its board of directors has unanimously elected chief executive officer (CEO) Robert A. Michael to assume the additional position of chairman, effective July 1, 2025.",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "m4",
+          "m7"
+        ],
+        "inferred": false,
+        "basis": "委托书称 Mr. Michael",
+        "inference": null
+      },
+      "nationality": null,
+      "birth_date": {
+        "value": "1970-09",
+        "source_ids": [
+          "m8"
+        ],
+        "inferred": true,
+        "basis": "按年龄陈述推：2026-03-23 文件称 55 岁；出生在 1970-03-24 至 1971-03-23 之间，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2026-03-23",
+          "duration_years": null
+        }
+      },
+      "birth_place": null,
+      "work_start": {
+        "value": "1993-07",
+        "source_ids": [
+          "m3",
+          "m7",
+          "m13"
+        ],
+        "inferred": true,
+        "basis": "第一份全职工作：雅培公司财务发展项目成员（“began his career with Abbott”），1993年加入雅培；参加工作月份无记载，取 7 月（cadre.md 第 3 节第 3 条）",
+        "inference": {
+          "rule": "mid_year_default",
+          "from_date": "1993",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "m2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "加州大学洛杉矶分校安德森管理学院工商管理硕士学位",
+        "source_ids": [
+          "m2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "罗伯特·迈克尔",
+        "source_ids": [
+          "m1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "艾伯维公司",
+        "role": "董事长、首席执行官、董事",
+        "start": {
+          "value": "2025-07",
+          "source_ids": [
+            "m4",
+            "m11",
+            "m17",
+            "m1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "m4",
+          "m11",
+          "m17",
+          "m1",
+          "m10",
+          "m16",
+          "m5",
+          "m12"
+        ],
+        "roles": [
+          "董事长",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "1993-07",
+          "source_ids": [
+            "m7",
+            "m13"
+          ],
+          "inferred": true,
+          "basis": "与首段参加工作一致（参加工作月份无记载，取 7 月）",
+          "inference": {
+            "rule": "mid_year_default",
+            "from_date": "1993",
+            "duration_years": null
+          }
+        },
+        "end": {
+          "value": "2013",
+          "source_ids": [
+            "m7",
+            "m13"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "雅培公司",
+        "role": "财务发展项目成员、营养品供应链事业部主计长、分子诊断事业部主计长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "m7",
+          "m13"
+        ],
+        "ongoing": false,
+        "roles": [
+          "财务发展项目成员",
+          "营养品供应链事业部主计长",
+          "分子诊断事业部主计长"
+        ],
+        "role_category": null,
+        "role_basis": "同一单位先后多个职务（among other roles），交接时间未检得，合成一条",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2013",
+          "source_ids": [
+            "m7",
+            "m14",
+            "m15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2018",
+          "source_ids": [
+            "m7",
+            "m14",
+            "m15"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "艾伯维公司",
+        "role": "财务计划与分析副总裁、副总裁、商业运营主计长、司库、公司主计长",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "m7",
+          "m14",
+          "m15"
+        ],
+        "ongoing": false,
+        "roles": [
+          "财务计划与分析副总裁",
+          "副总裁",
+          "商业运营主计长",
+          "司库",
+          "公司主计长"
+        ],
+        "role_category": null,
+        "role_basis": "同一单位先后多个职务，交接时间未检得，合成一条",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2018",
+          "source_ids": [
+            "m6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2019",
+          "source_ids": [
+            "m6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "艾伯维公司",
+        "role": "高级副总裁、首席财务官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "m6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁",
+          "首席财务官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2019",
+          "source_ids": [
+            "m6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2021-06",
+          "source_ids": [
+            "m6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "艾伯维公司",
+        "role": "执行副总裁、首席财务官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "m6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "执行副总裁",
+          "首席财务官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2021-06",
+          "source_ids": [
+            "m6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2022-06",
+          "source_ids": [
+            "m6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "艾伯维公司",
+        "role": "财务与商业运营副董事长、首席财务官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "m6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "财务与商业运营副董事长",
+          "首席财务官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2022-06",
+          "source_ids": [
+            "m6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2023-07",
+          "source_ids": [
+            "m6"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "艾伯维公司",
+        "role": "副董事长、总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "m6"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副董事长",
+          "总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023-07",
+          "source_ids": [
+            "m5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2024-06",
+          "source_ids": [
+            "m5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "艾伯维公司",
+        "role": "总裁、首席运营官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "m5"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "首席运营官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2024-07",
+          "source_ids": [
+            "m5",
+            "m10",
+            "m12",
+            "m16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2025-07",
+          "source_ids": [
+            "m5",
+            "m10",
+            "m12",
+            "m16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "艾伯维公司",
+        "role": "首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "m5",
+          "m10",
+          "m12",
+          "m16"
+        ],
+        "ongoing": false,
+        "roles": [
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2025-07",
+          "source_ids": [
+            "m1",
+            "m4",
+            "m11",
+            "m17"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "艾伯维公司",
+        "role": "董事长、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "m1",
+          "m4",
+          "m11",
+          "m17"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "艾伯维公司",
+    "conflicts": [],
+    "unknowns": [
+      "出生年月：未检得写明的来源；委托书“turning age 55 in 2025”可推出生于1970年",
+      "出生地、国籍：未检得一、二级来源",
+      "印第安纳大学本科、加州大学洛杉矶分校工商管理硕士的就读年份：未检得一、二级来源（本人领英自述本科1988—1992年、工商管理硕士1997—2000年，仅作线索）",
+      "雅培公司期间（1993—2013年）各职务及2013—2018年艾伯维各副总裁职务的起止时间：未检得",
+      "外部董事等兼职：未检得"
+    ],
+    "excluded": [
+      "印第安纳大学凯利商学院会计学习：起止时间无来源，履历不单列，学位见首段",
+      "加州大学洛杉矶分校安德森管理学院工商管理学习：起止时间无来源，履历不单列，学位见首段"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Robert A. Michael；艾伯维公司；董事长、首席执行官、董事",
+    "review_items": []
+  }
+}

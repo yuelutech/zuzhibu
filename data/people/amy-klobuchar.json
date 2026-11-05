@@ -1,0 +1,728 @@
+{
+  "id": "amy-klobuchar",
+  "name_zh": "艾米·克罗布彻",
+  "name_en": "Amy Klobuchar",
+  "bureau": "congress",
+  "also_in": [],
+  "tier": "gold",
+  "ids": {
+    "bioguide": "K000367"
+  },
+  "data_cutoff": "2026-06-13",
+  "roles_checked_at": "2026-06-13",
+  "updated_at": "2026-10-22",
+  "origin": "四局首发：Care ceo-profiles 导入",
+  "portrait": {
+    "file": "amy-klobuchar.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Amy_Klobuchar,_official_portrait,_113th_Congress.jpg",
+    "source_kind": "维基共享资源（人物图，按国会编号经维基数据对应）",
+    "license": "公有领域：维基共享资源标为公有领域（United States Senate；http://klobuchar.senate.gov/），File:Amy Klobuchar, official portrait, 113th Congress.jpg；已换蓝白渐变底",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Amy_Klobuchar%2C_official_portrait%2C_113th_Congress.jpg"
+  },
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "congress",
+      "date": "2026-10-17",
+      "event": null,
+      "reason": "四局首发：Care ceo-profiles 导入"
+    }
+  ],
+  "resume": {
+    "id": "cadre-k000367",
+    "line": "cadre",
+    "subject_id": "k000367",
+    "title": "艾米·克罗布彻简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "sen 2007-01-04~ MN Democrat",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.gender: F",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.birthday 1960-05-25; Born in Plymouth, Minnesota",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+        "title": "维基百科：Amy_Klobuchar",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "bio.birthday 1960-05-25; Born in Plymouth, Minnesota",
+        "tier": 3
+      },
+      {
+        "id": "s5",
+        "url": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+        "title": "维基百科：Amy_Klobuchar",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Born in Plymouth, Minnesota",
+        "tier": 3
+      },
+      {
+        "id": "s6",
+        "url": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+        "title": "维基百科：Amy_Klobuchar",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Ranking Member of the Senate Agriculture Committee; Chair of the Senate Democratic Steering and Policy Committee; serves on Commerce, Rules, and Judiciary committees",
+        "tier": 3
+      },
+      {
+        "id": "s7",
+        "url": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+        "title": "维基百科：Amy_Klobuchar",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Bachelor of Arts magna cum laude in political science in 1982 from Yale University",
+        "tier": 3
+      },
+      {
+        "id": "s8",
+        "url": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+        "title": "维基百科：Amy_Klobuchar",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "earned her J.D. with high honors in 1985 from University of Chicago Law School",
+        "tier": 3
+      },
+      {
+        "id": "s9",
+        "url": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+        "title": "维基百科：Amy_Klobuchar",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "a partner at the Minnesota law firms Dorsey & Whitney and Gray Plant Mooty",
+        "tier": 3
+      },
+      {
+        "id": "s10",
+        "url": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+        "title": "维基百科：Amy_Klobuchar",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Elected Hennepin County attorney in 1998, serving January 5, 1999 - January 3, 2007",
+        "tier": 3
+      },
+      {
+        "id": "s11",
+        "url": "https://github.com/unitedstates/congress-legislators",
+        "title": "unitedstates/congress-legislators（legislators-current.json）",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "senior United States senator from Minnesota, a seat she has held since 2007; On February 10, 2019, Klobuchar announced her candidacy (suspended March 2, 2020)",
+        "tier": 1
+      },
+      {
+        "id": "s12",
+        "url": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+        "title": "维基百科：Amy_Klobuchar",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "senior United States senator from Minnesota, a seat she has held since 2007; On February 10, 2019, Klobuchar announced her candidacy (suspended March 2, 2020)",
+        "tier": 3
+      },
+      {
+        "id": "s13",
+        "url": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+        "title": "维基百科：Amy_Klobuchar",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Hennepin County Attorney election is a nonpartisan race...county offices are nonpartisan; senior United States senator from Minnesota, a seat she has held since 2007",
+        "tier": 3
+      },
+      {
+        "id": "s14",
+        "url": "",
+        "title": "WebSearch(MN county attorney nonpartisan)",
+        "published_at": null,
+        "checked_at": "2026-06-13",
+        "excerpt": "Hennepin County Attorney election is a nonpartisan race...county offices are nonpartisan; senior United States senator from Minnesota, a seat she has held since 2007",
+        "tier": null
+      }
+    ],
+    "tags": [
+      "gold",
+      "senate",
+      "state:MN"
+    ],
+    "person": {
+      "name": {
+        "value": "艾米·克罗布彻",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "gender": {
+        "value": "女",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1960-05-25",
+        "source_ids": [
+          "s3",
+          "s4"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "birth_place": {
+        "value": "明尼苏达州普利茅斯",
+        "source_ids": [
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": {
+        "value": "1985",
+        "source_ids": [
+          "s9"
+        ],
+        "inferred": true,
+        "basis": "按第一份全职工作的开始时间推算：任律师事务所律师；底稿备注：规则①：1985年法学院毕业衔接律所执业",
+        "inference": {
+          "rule": "first_full_time_job",
+          "from_date": "1985",
+          "duration_years": null
+        }
+      },
+      "education": {
+        "value": "研究生学历",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "芝加哥大学法学院法学博士学位",
+        "source_ids": [
+          "s8"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": {
+        "value": "美国民主党",
+        "source_ids": [
+          "s1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "party_joined_at": {
+        "value": "2006-11",
+        "source_ids": [
+          "s13",
+          "s14"
+        ],
+        "inferred": true,
+        "basis": "第4级锚点：首次党派制选举：2006年11月当选联邦参议员（亨内平县检察官为无党派选举，不作党籍锚点）；来源：https://en.wikipedia.org/wiki/Amy_Klobuchar、WebSearch(MN county attorney nonpartisan)；底稿备注：比照B01帕迪利亚案：无党派县检察官选举(1998)不作锚点，改采首个党派制选举2006参议员普选；其DFL(民主党)渊源更早但无登记/党职/党派制选举锚点",
+        "inference": {
+          "rule": "party_anchor_partisan_ballot",
+          "from_date": "2006-11",
+          "duration_years": null
+        }
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "美国联邦参议员（明尼苏达州）",
+        "role": "",
+        "start": {
+          "value": "2007-01",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s1"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院农业、营养和林业委员会",
+        "role": "资深成员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "资深成员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院民主党指导和政策委员会",
+        "role": "主席",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "主席"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院商业、科学和交通委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院规则和行政委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "参议院司法委员会",
+        "role": "委员",
+        "start": null,
+        "concurrent": true,
+        "source_ids": [
+          "s6"
+        ],
+        "roles": [
+          "委员"
+        ],
+        "sector": "committee",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1978",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": true,
+          "basis": "推算：毕业年份减4；底稿依据：学士学制4年自1982倒推",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1982",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1982",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "耶鲁大学",
+        "role": null,
+        "program": "政治学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s7"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1982",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": true,
+          "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自1985倒推",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1985",
+            "duration_years": 3
+          }
+        },
+        "end": {
+          "value": "1985",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "芝加哥大学法学院",
+        "role": null,
+        "program": "法律",
+        "degree_awarded": {
+          "value": "法学博士",
+          "source_ids": [
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s8"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "doctor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1985",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "1998",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "多尔西惠特尼律师事务所、格雷普兰特穆蒂律师事务所",
+        "role": "律师、合伙人",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s9"
+        ],
+        "ongoing": false,
+        "roles": [
+          "律师",
+          "合伙人"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1999",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2007",
+          "source_ids": [
+            "s10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "明尼苏达州亨内平县",
+        "role": "县检察官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "县检察官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2007",
+          "source_ids": [
+            "s11",
+            "s12"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国国会参议院",
+        "role": "联邦参议员（明尼苏达州）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s11",
+          "s12"
+        ],
+        "ongoing": true,
+        "roles": [
+          "联邦参议员（明尼苏达州）"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2019",
+              "source_ids": [
+                "s11",
+                "s12"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2020",
+              "source_ids": [
+                "s11",
+                "s12"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "艾米·克罗布彻总统竞选委员会总统参选人（民主党党内初选）",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s11",
+              "s12"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2021",
+              "source_ids": [
+                "s11",
+                "s12"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2025",
+              "source_ids": [
+                "s11",
+                "s12"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "美国参议院规则和行政委员会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s11",
+              "s12"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [
+                "s11",
+                "s12"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国参议院农业、营养和林业委员会资深成员",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s11",
+              "s12"
+            ]
+          },
+          {
+            "kind": "part_time",
+            "start": {
+              "value": "2025",
+              "source_ids": [
+                "s11",
+                "s12"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": null,
+            "ongoing": true,
+            "organization": "美国参议院民主党指导和政策委员会主席",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "s11",
+              "s12"
+            ]
+          }
+        ],
+        "appointment_state": null,
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "美国参议院",
+    "conflicts": [],
+    "unknowns": [
+      "底稿缺项：耶鲁/芝加哥法学院入学年（按学制倒推）",
+      "底稿缺项：1998-1999律所至县检察官过渡（年份模式可容）",
+      "底稿缺项：最新 eFD 申报（自动化访问被拒）"
+    ],
+    "excluded": [
+      "参加工作月份「1985年6月」：底稿推定（规则①：1985年法学院毕业衔接律所执业），不采用，只写到年",
+      "股票交易公开披露（disclosure.filings）不进事实包"
+    ],
+    "country_profile": "us",
+    "card_type": "完整简历卡",
+    "date_granularity": "year",
+    "disambiguation": null,
+    "review_items": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "2026-09-28-jeffrey-zisk-nominate",
+  "date": "2026-09-28",
+  "kind": "nominate",
+  "kind_label": "提名",
+  "person_id": "jeffrey-zisk",
+  "person": {
+    "name_zh": "杰弗里·齐斯克",
+    "name_en": "Jeffrey Zisk",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-09-28",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国邮政监管委员会",
+      "role": "委员",
+      "organization_en": "Postal Regulatory Commission",
+      "role_en": "Commissioner",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "杰弗里·齐斯克获提名出任美国邮政监管委员会委员",
+  "summary": "白宫于2026-09-28向参议院提交Jeffrey Zisk出任美国邮政监管委员会委员的提名。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "The White House",
+      "published_at": "2026-09-28",
+      "excerpt": "Jeffrey Zisk, of Texas, to be a Commissioner of the Postal Regulatory Commission for the remainder of the term expiring November 22, 2026.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+      "title": "Nominations Sent to the Senate",
+      "publisher": "The White House",
+      "published_at": "2026-09-28",
+      "excerpt": "Jeffrey Zisk, of Texas, to be a Commissioner of the Postal Regulatory Commission for a term expiring November 22, 2032.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-090516",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1、e2"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [
+      "新建人物记录 jeffrey-zisk（库里没有此人）",
+      "现任职务新增：美国邮政监管委员会委员",
+      "履历新增：2026-09 美国邮政监管委员会委员"
+    ],
+    "notes": [
+      "2026-10-21 三局规则补进独立机构（第五节“独立机构归三局”），所属局定为三局·白宫干部局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "whitehouse",
+    "person_id": "jeffrey-zisk"
+  }
+}

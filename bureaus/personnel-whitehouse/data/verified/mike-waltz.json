@@ -1,0 +1,451 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-18",
+  "items": [
+    {
+      "id": "cadre-mike-waltz",
+      "line": "cadre",
+      "subject_id": "mike-waltz",
+      "title": "迈克·沃尔茨简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://www.un.org/pga/81/event/reception-prosperity-through-peace/",
+          "title": "Reception: Prosperity through Peace — UN General Assembly",
+          "excerpt": "Michael G. Waltz, Permanent Representative of the United States to the United Nations",
+          "published_at": "2026-09-10",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://documents.un.org/doc/undoc/gen/n25/365/78/pdf/n2536578.pdf",
+          "title": "S/2025/845: Credentials of the representative of the United States of America on the Security Council",
+          "excerpt": "on 20 September 2025, he received credentials ... Mr. Michael G. Waltz has been appointed representative",
+          "published_at": "2025-09-20",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-FL-H-6.htm",
+          "title": "Congressional Directory — Michael Waltz, Florida 6",
+          "excerpt": "January 31, 1974; B.A., Virginia Military Institute, 1996; United States Army, 1996–2017; elected ... November 6, 2018.",
+          "published_at": "2020-07-22",
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://richardnixonfoundation.regfox.com/grand-strategy-summit-2025",
+          "title": "Grand Strategy Summit 2025: Ambassador Mike Waltz",
+          "excerpt": "sworn in ... September 20, 2025 ... National Security Advisor on January 20th, 2025 ... retiring at the rank of Colonel.",
+          "published_at": null,
+          "checked_at": "2026-10-18",
+          "tier": 1
+        },
+        {
+          "id": "s5",
+          "url": "https://www.news.cn/milpro/20241126/f82b44812da24b499966cc8418b01acd/c.html",
+          "title": "新华网：迈克·沃尔茨人物报道",
+          "excerpt": "迈克·沃尔茨",
+          "published_at": "2024-11-26",
+          "checked_at": "2026-10-18",
+          "tier": 2
+        }
+      ],
+      "tags": [
+        "sanju-neige",
+        "research"
+      ],
+      "person": {
+        "name": {
+          "value": "迈克·沃尔茨",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": null,
+        "birth_date": {
+          "value": "1974-01-31",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "佛罗里达博因顿比奇",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "1996-06",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": true,
+          "basis": "cadre.md 3.3、9.6：本科毕业及陆军军职始于1996年，起始月取毕业次月6月。",
+          "inference": {
+            "rule": "graduation_next_month",
+            "from_date": "1996",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "弗吉尼亚军事学院",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "文学学士",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": null,
+        "work_start_action": "入伍",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": {
+          "value": "陆军上校",
+          "source_ids": [
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国常驻联合国代表团",
+          "role": "常驻代表",
+          "start": {
+            "value": "2025-09-20",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1992-09",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：毕业年减标准学制，入学月取9月；实际入学年月未公开。",
+            "inference": {
+              "rule": "standard_duration",
+              "from_date": "1996",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "1996-05",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 9.6：美国毕业月按5月登记。",
+            "inference": {
+              "rule": "academic_calendar",
+              "from_date": "1996",
+              "duration_years": null
+            }
+          },
+          "organization": "弗吉尼亚军事学院",
+          "role": null,
+          "program": null,
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "1996-06",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3、9.6：本科毕业及陆军军职始于1996年，起始月取毕业次月6月。",
+            "inference": {
+              "rule": "graduation_next_month",
+              "from_date": "1996",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2017-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2017",
+              "duration_years": null
+            }
+          },
+          "organization": "美国陆军",
+          "role": "特种部队军官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017-07",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 3.3：已知年份，衔接、学年和任期月份未查到，取7月。",
+            "inference": {
+              "rule": "mid_year_default",
+              "from_date": "2017",
+              "duration_years": null
+            }
+          },
+          "end": null,
+          "organization": "美国陆军预备役",
+          "role": "军官",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": true,
+          "source_ids": [
+            "s3"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019-01",
+            "source_ids": [
+              "s3"
+            ],
+            "inferred": true,
+            "basis": "cadre.md 9.6：2018年当选第116届国会议员，法定新届国会就职月为2019年1月。",
+            "inference": {
+              "rule": "statutory_term_start",
+              "from_date": "2018-11-06",
+              "duration_years": null
+            }
+          },
+          "end": {
+            "value": "2025-01",
+            "source_ids": [
+              "s3",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦众议院",
+          "role": "佛罗里达第六选区议员",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-01-20",
+            "source_ids": [
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "白宫",
+          "role": "总统国家安全事务助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s4"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2025-09-20",
+            "source_ids": [
+              "s1",
+              "s2",
+              "s4"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国常驻联合国代表团",
+          "role": "常驻代表",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s1",
+            "s2",
+            "s4"
+          ],
+          "ongoing": true,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": "正式",
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国政要",
+      "conflicts": [],
+      "unknowns": [
+        "国籍直接陈述、最早入党锚点未核实。",
+        "2020年国会名录中的预备役现职仅为历史记录；2025年讲者介绍明确已以上校军衔退役，退役年月未核实。",
+        "早期国防政策主任、白宫政策顾问、企业创办及任职起止日期未知。",
+        "国家安全事务助理的离任日期尚未取得合格原文，本项历史履历不列为现任。",
+        "2025年9月20日宣誓及安理会国书记录已读；联大代表的其他确认程序日期未补证。"
+      ],
+      "excluded": [],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": "month",
+      "disambiguation": "United States Representative to the United Nations | United States Mission to the United Nations",
+      "review_items": [
+        "表外译名待审：迈克·沃尔茨",
+        "完整简历卡缺项：nationality。保留seed级事实包。"
+      ]
+    }
+  ],
+  "source_task": "sanju-neige"
+}

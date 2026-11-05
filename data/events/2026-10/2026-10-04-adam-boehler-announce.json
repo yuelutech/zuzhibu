@@ -1,0 +1,77 @@
+{
+  "id": "2026-10-04-adam-boehler-announce",
+  "date": "2026-10-04",
+  "kind": "announce",
+  "kind_label": "宣布",
+  "person_id": "adam-boehler",
+  "person": {
+    "name_zh": "亚当·博勒",
+    "name_en": "Adam Boehler",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-10-04",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国总统",
+      "role": "高级顾问",
+      "organization_en": "President of the United States",
+      "role_en": "Senior Advisor",
+      "start": null,
+      "end": null,
+      "source_ids": [
+        "s1"
+      ],
+      "sector": "politics",
+      "concurrent": false
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "总统宣布博勒将以高级顾问身份处理其他事务，科尔获提名为人质事务特使",
+  "summary": "总统宣布博勒将以高级顾问身份处理其他事务，科尔获提名为人质事务特使。人质事务职务交接和高级顾问到任日期未查明。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-october-4-2026",
+      "title": "Truth Social Posts of October 4, 2026",
+      "publisher": "美国总统声明；The American Presidency Project 存档",
+      "published_at": "2026-10-04",
+      "excerpt": "Adam Boehler, who has done an incredible job, bringing back 196 hostages, will continue to assist in other matters, as Senior Advisor.",
+      "checked_at": "2026-10-21",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-10-21",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261021-103425",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：s1"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "applied": {
+    "status": "recorded",
+    "at": "2026-10-21",
+    "changes": [],
+    "notes": [
+      "新任“美国总统高级顾问”已在现任职务里，补了来源和译名"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "adam-boehler"
+  }
+}

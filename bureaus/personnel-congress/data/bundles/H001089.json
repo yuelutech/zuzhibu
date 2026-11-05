@@ -1,0 +1,887 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "cadre-h001089",
+      "line": "cadre",
+      "subject_id": "h001089",
+      "title": "乔希·霍利简历",
+      "sources": [
+        {
+          "id": "s1",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "sen 2019-01-03~ MO Republican",
+          "tier": 1
+        },
+        {
+          "id": "s2",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "bio.gender: M",
+          "tier": 1
+        },
+        {
+          "id": "s3",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Joshua David Hawley was born on December 31, 1979, in Springdale, Arkansas",
+          "tier": 1
+        },
+        {
+          "id": "s4",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Joshua David Hawley was born on December 31, 1979, in Springdale, Arkansas",
+          "tier": 3
+        },
+        {
+          "id": "s5",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "born...in Springdale, Arkansas",
+          "tier": 3
+        },
+        {
+          "id": "s6",
+          "url": "https://www.congress.gov/member/josh-hawley/H001089/committees",
+          "title": "www.congress.gov",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Judiciary (chairs Subcommittee on Crime and Counterterrorism); Homeland Security and Governmental Affairs (chairs Subcommittee on Disaster Management, District of Columbia, and Census); HELP; Small Business and Entrepreneurship",
+          "tier": 1
+        },
+        {
+          "id": "s7",
+          "url": "",
+          "title": "WebSearch(senate.gov 119th)",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Judiciary (chairs Subcommittee on Crime and Counterterrorism); Homeland Security and Governmental Affairs (chairs Subcommittee on Disaster Management, District of Columbia, and Census); HELP; Small Business and Entrepreneurship",
+          "tier": null
+        },
+        {
+          "id": "s8",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "graduated in 2002 with a Bachelor of Arts degree (Stanford)",
+          "tier": 3
+        },
+        {
+          "id": "s9",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "graduating in 2006 with a Juris Doctor degree (Yale Law School)",
+          "tier": 3
+        },
+        {
+          "id": "s10",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "clerking first for Judge Michael W. McConnell...Tenth Circuit from 2006 to 2007",
+          "tier": 3
+        },
+        {
+          "id": "s11",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "then for Chief Justice John Roberts...from 2007 to 2008",
+          "tier": 3
+        },
+        {
+          "id": "s12",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "private practice as an appellate litigator at the law firm Hogan & Hartson...from 2008 to 2011",
+          "tier": 3
+        },
+        {
+          "id": "s13",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "From 2011 to 2015 Hawley was with Becket Fund for Religious Liberty; became an associate professor at the University of Missouri Law School",
+          "tier": 3
+        },
+        {
+          "id": "s14",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "won the general election (2016); sworn in as attorney general on January 9, 2017",
+          "tier": 3
+        },
+        {
+          "id": "s15",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "sworn in as attorney general on January 9, 2017",
+          "tier": 3
+        },
+        {
+          "id": "s16",
+          "url": "https://www.fec.gov/data/candidate/S8MO00160/",
+          "title": "www.fec.gov",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "FEC Senate candidate S8MO00160 (MO)",
+          "tier": 1
+        },
+        {
+          "id": "s17",
+          "url": "https://github.com/unitedstates/congress-legislators",
+          "title": "unitedstates/congress-legislators（legislators-current.json）",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Assumed office (U.S. Senator) January 3, 2019",
+          "tier": 1
+        },
+        {
+          "id": "s18",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "Assumed office (U.S. Senator) January 3, 2019",
+          "tier": 3
+        },
+        {
+          "id": "s19",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "clerking first for Judge Michael W. McConnell of the U.S. Court of Appeals for the Tenth Circuit from 2006 to 2007",
+          "tier": 3
+        },
+        {
+          "id": "s20",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hawley",
+          "title": "维基百科：Josh_Hawley",
+          "published_at": null,
+          "checked_at": "2026-06-13",
+          "excerpt": "On August 2, 2016, Hawley defeated Kurt Schaefer in the Republican primary and won the general election; sworn in as attorney general on January 9, 2017",
+          "tier": 3
+        }
+      ],
+      "tags": [
+        "gold",
+        "senate",
+        "state:MO"
+      ],
+      "person": {
+        "name": {
+          "value": "乔希·霍利",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "gender": {
+          "value": "男",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "nationality": {
+          "value": "美国",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_date": {
+          "value": "1979-12-31",
+          "source_ids": [
+            "s3",
+            "s4"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "birth_place": {
+          "value": "阿肯色州斯普林代尔",
+          "source_ids": [
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "work_start": {
+          "value": "2006",
+          "source_ids": [
+            "s19"
+          ],
+          "inferred": true,
+          "basis": "按第一份全职工作的开始时间推算：任美国联邦第十巡回上诉法院法官法律助理；底稿备注：规则①：2006年法学院毕业衔接司法助理",
+          "inference": {
+            "rule": "first_full_time_job",
+            "from_date": "2006",
+            "duration_years": null
+          }
+        },
+        "education": {
+          "value": "研究生学历",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "degree": {
+          "value": "耶鲁大学法学院法学博士学位",
+          "source_ids": [
+            "s9"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "honorary_degree": null,
+        "party": {
+          "value": "美国共和党",
+          "source_ids": [
+            "s1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "party_joined_at": {
+          "value": "2016-11",
+          "source_ids": [
+            "s20"
+          ],
+          "inferred": true,
+          "basis": "第4级锚点：首次以共和党身份当选公职：2016年11月当选密苏里州总检察长；来源：https://en.wikipedia.org/wiki/Josh_Hawley；底稿备注：取首次当选党派制公职普选月(规则②,11月)；Codex取8月初选；来源仅维基百科，待补原始来源（party_join.md 四.8）",
+          "inference": {
+            "rule": "party_anchor_partisan_ballot",
+            "from_date": "2016-11",
+            "duration_years": null
+          }
+        },
+        "work_start_action": "参加工作",
+        "ethnicity": null,
+        "academician": [],
+        "military_rank": null,
+        "dropout": null,
+        "death_date": null,
+        "status": "在任"
+      },
+      "current_roles": [
+        {
+          "organization": "美国联邦参议员（密苏里州）",
+          "role": "",
+          "start": {
+            "value": "2019-01",
+            "source_ids": [
+              "s1"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s1"
+          ],
+          "roles": [],
+          "sector": "politics",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院司法委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院司法委员会犯罪与反恐怖主义小组委员会",
+          "role": "主席",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院国土安全和政府事务委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院国土安全和政府事务委员会灾害管理、哥伦比亚特区和人口普查小组委员会",
+          "role": "主席",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "主席"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院卫生、教育、劳工和养老金委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        },
+        {
+          "organization": "参议院小企业和创业委员会",
+          "role": "委员",
+          "start": null,
+          "concurrent": true,
+          "source_ids": [
+            "s6",
+            "s7"
+          ],
+          "roles": [
+            "委员"
+          ],
+          "sector": "committee",
+          "appointment_state": "正式"
+        }
+      ],
+      "careers": [
+        {
+          "kind": "study",
+          "start": {
+            "value": "1998",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": true,
+            "basis": "推算：毕业年份减4；底稿依据：学士学制4年自2002倒推",
+            "inference": {
+              "rule": "graduation_minus_four",
+              "from_date": "2002",
+              "duration_years": 4
+            }
+          },
+          "end": {
+            "value": "2002",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "斯坦福大学",
+          "role": null,
+          "program": "历史",
+          "degree_awarded": {
+            "value": "文学学士",
+            "source_ids": [
+              "s8"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s8"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "bachelor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "study",
+          "start": {
+            "value": "2003",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": true,
+            "basis": "推算：按学制从毕业年倒推（现行规则未列明此推算，待复核）；底稿依据：法学院学制3年自2006倒推",
+            "inference": {
+              "rule": "degree_duration",
+              "from_date": "2006",
+              "duration_years": 3
+            }
+          },
+          "end": {
+            "value": "2006",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "耶鲁大学法学院",
+          "role": null,
+          "program": "法律",
+          "degree_awarded": {
+            "value": "法学博士",
+            "source_ids": [
+              "s9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "concurrent": false,
+          "source_ids": [
+            "s9"
+          ],
+          "ongoing": false,
+          "roles": [],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": "doctor",
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2006",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2007",
+            "source_ids": [
+              "s10"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国联邦第十巡回上诉法院迈克尔·麦康奈尔法官办公室",
+          "role": "法律助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s10"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2007",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2008",
+            "source_ids": [
+              "s11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "美国最高法院首席大法官约翰·罗伯茨办公室",
+          "role": "法律助理",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s11"
+          ],
+          "ongoing": false,
+          "roles": [
+            "法律助理"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2008",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2011",
+            "source_ids": [
+              "s12"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "霍金·哈特森律师事务所",
+          "role": "上诉律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s12"
+          ],
+          "ongoing": false,
+          "roles": [
+            "上诉律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2011",
+            "source_ids": [
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2015",
+            "source_ids": [
+              "s13"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "贝克特宗教自由基金会",
+          "role": "律师",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s13"
+          ],
+          "ongoing": false,
+          "roles": [
+            "律师"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [
+            {
+              "kind": "part_time",
+              "start": {
+                "value": "2011",
+                "source_ids": [
+                  "s13"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "end": {
+                "value": "2015",
+                "source_ids": [
+                  "s13"
+                ],
+                "inferred": false,
+                "basis": null,
+                "inference": null
+              },
+              "ongoing": false,
+              "organization": "密苏里大学法学院副教授",
+              "role": null,
+              "roles": [],
+              "program": null,
+              "degree_awarded": null,
+              "concurrent": true,
+              "source_ids": [
+                "s13"
+              ]
+            }
+          ],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2016",
+            "source_ids": [
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2017",
+            "source_ids": [
+              "s14"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "乔希·霍利总检察长竞选委员会",
+          "role": "共和党密苏里州总检察长候选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s14"
+          ],
+          "ongoing": false,
+          "roles": [
+            "共和党密苏里州总检察长候选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2017",
+            "source_ids": [
+              "s15"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s15"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "密苏里州总检察长办公室",
+          "role": "密苏里州总检察长",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s15"
+          ],
+          "ongoing": false,
+          "roles": [
+            "密苏里州总检察长"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2018",
+            "source_ids": [
+              "s16"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": {
+            "value": "2019",
+            "source_ids": [
+              "s16"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "organization": "乔希·霍利参议员竞选委员会",
+          "role": "共和党联邦参议员候选人",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s16"
+          ],
+          "ongoing": false,
+          "roles": [
+            "共和党联邦参议员候选人"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        },
+        {
+          "kind": "work",
+          "start": {
+            "value": "2019",
+            "source_ids": [
+              "s17",
+              "s18"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          "end": null,
+          "organization": "美国国会参议院",
+          "role": "联邦参议员（密苏里州）",
+          "program": null,
+          "degree_awarded": null,
+          "concurrent": false,
+          "source_ids": [
+            "s17",
+            "s18"
+          ],
+          "ongoing": true,
+          "roles": [
+            "联邦参议员（密苏里州）"
+          ],
+          "role_category": null,
+          "role_basis": null,
+          "study_level": null,
+          "full_time": null,
+          "annotations": [],
+          "appointment_state": null,
+          "stable_identity": false
+        }
+      ],
+      "appointments": [],
+      "event_date": null,
+      "paragraphs": [],
+      "company_tag": "美国参议院",
+      "conflicts": [],
+      "unknowns": [
+        "底稿缺项：斯坦福/耶鲁入学年（按学制倒推）",
+        "底稿缺项：2002-2003本科毕业至法学院间伦敦任教经历（年份模式可容）",
+        "底稿缺项：最新 eFD 申报（自动化访问被拒）"
+      ],
+      "excluded": [
+        "参加工作月份「2006年6月」：底稿推定（规则①：2006年法学院毕业衔接司法助理），不采用，只写到年",
+        "股票交易公开披露（disclosure.filings）不进事实包"
+      ],
+      "country_profile": "us",
+      "card_type": null,
+      "date_granularity": null,
+      "disambiguation": null,
+      "review_items": []
+    }
+  ]
+}

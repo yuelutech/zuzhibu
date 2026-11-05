@@ -1,0 +1,960 @@
+{
+  "id": "darren-woods",
+  "name_zh": "达伦·伍兹",
+  "name_en": "Darren W. Woods",
+  "name_zh_pending": true,
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "draft",
+  "ids": {},
+  "data_cutoff": "2026-10-21",
+  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-10-22",
+  "origin": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）",
+  "portrait": {
+    "file": "darren-woods.jpg",
+    "source": "维护者提供（达伦·伍兹_Darren-W-Woods_埃克森美孚_原图_2.png）",
+    "source_kind": "维护者提供",
+    "license": "无许可限制：维护者提供，来自开源平台（维护者 2026-10-22 确认）；已换蓝白渐变底"
+  },
+  "roster_roles": [
+    {
+      "organization_en": "Exxon Mobil Corporation",
+      "role_en": "Chairman of the Board"
+    }
+  ],
+  "notes": [],
+  "events": [],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-10-21",
+      "event": null,
+      "reason": "名单补采：data/rosters/business.json（2026-10-21 维护者定的商界名单）；简历按公司官网、年度委托书等来源逐项取证（2026-10-21，待独立核查）"
+    }
+  ],
+  "resume": {
+    "id": "cadre-darren-woods",
+    "line": "cadre",
+    "subject_id": "darren-woods",
+    "title": "达伦·伍兹简历",
+    "sources": [
+      {
+        "id": "w1",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm",
+        "title": "Exxon Mobil Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Chairman & CEO (2017 to present)",
+        "tier": 1
+      },
+      {
+        "id": "w2",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm",
+        "title": "Exxon Mobil Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "President (2016 to present)",
+        "tier": 1
+      },
+      {
+        "id": "w3",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm",
+        "title": "Exxon Mobil Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Senior Vice President (2014 to 2015)",
+        "tier": 1
+      },
+      {
+        "id": "w4",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm",
+        "title": "Exxon Mobil Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Vice President, and President, ExxonMobil Refining & Supply Company (2012 to 2014)",
+        "tier": 1
+      },
+      {
+        "id": "w5",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm",
+        "title": "Exxon Mobil Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "ExxonMobil (1992 to present)",
+        "tier": 1
+      },
+      {
+        "id": "w6",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm",
+        "title": "Exxon Mobil Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Age 61 Committees: Audit; Executive; Finance (Chair) Expertise",
+        "tier": 1
+      },
+      {
+        "id": "w7",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm",
+        "title": "Exxon Mobil Corporation, 2026 Proxy Statement (Schedule 14A)",
+        "published_at": "2026-04-08",
+        "checked_at": "2026-10-21",
+        "excerpt": "Business Roundtable (member); American Petroleum Institute (former Chair); Business Council (member); Center for Strategic and International Studies (Trustee); Oil and Gas Climate Initiative; and National Petroleum Council (former Chair)",
+        "tier": 1
+      },
+      {
+        "id": "w8",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408816000103/r8k121616.htm",
+        "title": "Exxon Mobil Corporation, Form 8-K, December 16, 2016 (Item 5.02)",
+        "published_at": "2016-12-16",
+        "checked_at": "2026-10-21",
+        "excerpt": "Also on December 14, 2016, the Board of Directors elected D.W. Woods, currently President and a Director of the Corporation, to the additional positions of Chairman and Chief Executive Officer effective January 1, 2017.",
+        "tier": 1
+      },
+      {
+        "id": "w9",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408816000103/r8k121616.htm",
+        "title": "Exxon Mobil Corporation, Form 8-K, December 16, 2016 (Item 5.02)",
+        "published_at": "2016-12-16",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Woods, 51, was Vice President, Supply & Transportation of ExxonMobil Refining & Supply Company from 2010 to 2012.",
+        "tier": 1
+      },
+      {
+        "id": "w10",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408815000048/r8k120915.htm",
+        "title": "Exxon Mobil Corporation, Form 8-K, December 15, 2015 (Item 5.02)",
+        "published_at": "2015-12-15",
+        "checked_at": "2026-10-21",
+        "excerpt": "At a meeting on December 9, 2015, the Board of Directors elected Darren W. Woods President of Exxon Mobil Corporation effective January 1, 2016.",
+        "tier": 1
+      },
+      {
+        "id": "w11",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408815000048/r8k120915.htm",
+        "title": "Exxon Mobil Corporation, Form 8-K, December 15, 2015 (Item 5.02)",
+        "published_at": "2015-12-15",
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Woods, 50, has served as a Senior Vice President of the Corporation since June 1, 2014 and previously held a number of domestic and international assignments including serving as Vice President, Supply & Transportation of ExxonMobil Refining & Supply Company from July 1, 2010 to July 31, 2012 and as President of ExxonMobil Refining & Supply Company and a Vice President of the Corporation from August 1, 2012 to May 31, 2014.",
+        "tier": 1
+      },
+      {
+        "id": "w12",
+        "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408815000048/r8k120915.htm",
+        "title": "Exxon Mobil Corporation, Form 8-K, December 15, 2015 (Item 5.02)",
+        "published_at": "2015-12-15",
+        "checked_at": "2026-10-21",
+        "excerpt": "On December 9, 2015, the Board of Directors elected Darren W. Woods a Director of Exxon Mobil Corporation effective January 1, 2016.",
+        "tier": 1
+      },
+      {
+        "id": "w13",
+        "url": "https://web.archive.org/web/20180718014601/http://corporate.exxonmobil.com/en/company/about-us/management/darren-w-woods",
+        "title": "Darren W. Woods | ExxonMobil (official management biography, archived copy of 2018-07-18)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Born in Wichita, Kansas, Darren Woods is a graduate of Texas A&M University, where he earned a Bachelor of Science degree in electrical engineering.",
+        "tier": 1
+      },
+      {
+        "id": "w14",
+        "url": "https://web.archive.org/web/20180718014601/http://corporate.exxonmobil.com/en/company/about-us/management/darren-w-woods",
+        "title": "Darren W. Woods | ExxonMobil (official management biography, archived copy of 2018-07-18)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "He also holds a Master of Business Administration degree from Northwestern's Kellogg School of Management in Evanston, Illinois.",
+        "tier": 1
+      },
+      {
+        "id": "w15",
+        "url": "https://web.archive.org/web/20180718014601/http://corporate.exxonmobil.com/en/company/about-us/management/darren-w-woods",
+        "title": "Darren W. Woods | ExxonMobil (official management biography, archived copy of 2018-07-18)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Woods joined Exxon Company International in 1992 as a planning analyst in Florham Park, New Jersey. He progressed through a number of domestic and international assignments for Exxon Company International, ExxonMobil Chemical Company and ExxonMobil Refining and Supply Company.",
+        "tier": 1
+      },
+      {
+        "id": "w16",
+        "url": "https://web.archive.org/web/20180718014601/http://corporate.exxonmobil.com/en/company/about-us/management/darren-w-woods",
+        "title": "Darren W. Woods | ExxonMobil (official management biography, archived copy of 2018-07-18)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "In 2005, Mr. Woods was appointed vice president of ExxonMobil Chemical Company in Houston, Texas, where he managed global specialty-chemical businesses.",
+        "tier": 1
+      },
+      {
+        "id": "w17",
+        "url": "https://web.archive.org/web/20180718014601/http://corporate.exxonmobil.com/en/company/about-us/management/darren-w-woods",
+        "title": "Darren W. Woods | ExxonMobil (official management biography, archived copy of 2018-07-18)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "In 2008, he was named ExxonMobil Refining and Supply Company’s director of refining for Europe, Africa and the Middle East, and was based in Brussels.",
+        "tier": 1
+      },
+      {
+        "id": "w18",
+        "url": "https://web.archive.org/web/20180718014601/http://corporate.exxonmobil.com/en/company/about-us/management/darren-w-woods",
+        "title": "Darren W. Woods | ExxonMobil (official management biography, archived copy of 2018-07-18)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Mr. Woods is currently the Chairman of the American Petroleum Institute and a member of its executive committee.",
+        "tier": 1
+      },
+      {
+        "id": "w19",
+        "url": "https://stories.tamu.edu/news/2017/07/05/texas-am-heads-fortune-magazine-ceo-list/",
+        "title": "Texas A&M Heads Fortune Magazine CEO List (Texas A&M Today)",
+        "published_at": "2017-07-05",
+        "checked_at": "2026-10-21",
+        "excerpt": "Darren Woods, CEO and chairman of Exxon Mobil, studied electrical engineering at Texas A&M and is a 1987 graduate.",
+        "tier": 1
+      },
+      {
+        "id": "w20",
+        "url": "https://www.cbsnews.com/news/exxon-ceo-darren-woods-steps-out-of-tillersons-shadow/",
+        "title": "Exxon CEO Darren Woods steps out of Tillerson's shadow (CBS News)",
+        "published_at": "2017-03-06",
+        "checked_at": "2026-10-21",
+        "excerpt": "Woods, 52, joined Exxon in 1992 and has spent most of his career in chemicals and refining, the so-called downstream part of the business.",
+        "tier": 2
+      },
+      {
+        "id": "w21",
+        "url": "https://www.sec.gov/Archives/edgar/data/2115436/000119312526291990/d71068d8k12b.htm",
+        "title": "ExxonMobil Holdings Corporation, Form 8-K12B (redomiciliation), July 1, 2026",
+        "published_at": "2026-07-01",
+        "checked_at": "2026-10-21",
+        "excerpt": "Effective upon approval of the Redomiciliation Merger by the ExxonMobil shareholders on May 27, 2026, the directors and executive officers of ExxonMobil were appointed to the same respective positions with respect to ExxonMobil Holdings Corporation.",
+        "tier": 1
+      },
+      {
+        "id": "w22",
+        "url": "https://www.sec.gov/Archives/edgar/data/2115436/000119312526291990/d71068d8k12b.htm",
+        "title": "ExxonMobil Holdings Corporation, Form 8-K12B (redomiciliation), July 1, 2026",
+        "published_at": "2026-07-01",
+        "checked_at": "2026-10-21",
+        "excerpt": "Pursuant to Section 5.4 of the Merger Agreement, each person who was an officer of ExxonMobil was appointed to hold the same position with ExxonMobil Holdings Corporation that such officer held at ExxonMobil.",
+        "tier": 1
+      },
+      {
+        "id": "w23",
+        "url": "https://www.sec.gov/Archives/edgar/data/2115436/000119312526291990/d71068d8k12b.htm",
+        "title": "ExxonMobil Holdings Corporation, Form 8-K12B (redomiciliation), July 1, 2026",
+        "published_at": "2026-07-01",
+        "checked_at": "2026-10-21",
+        "excerpt": "The Redomiciliation Merger became effective on July 1, 2026 in accordance with the terms of the Merger Agreement",
+        "tier": 1
+      },
+      {
+        "id": "w24",
+        "url": "https://www.sec.gov/Archives/edgar/data/2115436/000211543626000006/livef8k2q26991.htm",
+        "title": "ExxonMobil Holdings Corporation second-quarter 2026 results (Form 8-K Exhibit 99.1)",
+        "published_at": "2026-07-31",
+        "checked_at": "2026-10-21",
+        "excerpt": "said Darren Woods, ExxonMobil chairman",
+        "tier": 1
+      },
+      {
+        "id": "w25",
+        "url": "https://corporate.exxonmobil.com/corporate-governance/board-of-directors/darren-woods",
+        "title": "Darren W. Woods (ExxonMobil board of directors)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "Chair & CEO (2017 to present)",
+        "tier": 1
+      },
+      {
+        "id": "w26",
+        "url": "http://www.news.cn/world/20260113/55f8c53cc39f45ee9676372ead90d728/c.html",
+        "title": "美油企对“投资委内瑞拉”犹疑 特朗普威胁施以“禁入令”（新华网）",
+        "published_at": "2026-01-13",
+        "checked_at": "2026-10-21",
+        "excerpt": "埃克森美孚首席执行官达伦·伍兹在会上直言",
+        "tier": 2
+      },
+      {
+        "id": "w27",
+        "url": "http://www.xinhuanet.com/politics/leaders/2020-04/22/c_1125891605.htm",
+        "title": "韩正出席埃克森美孚广东惠州乙烯项目“云开工”仪式（新华网）",
+        "published_at": "2020-04-22",
+        "checked_at": "2026-10-21",
+        "excerpt": "埃克森美孚公司董事长兼首席执行官伍德伦在美国达拉斯市会场",
+        "tier": 2
+      },
+      {
+        "id": "w29",
+        "url": "https://corporate.exxonmobil.com/corporate-governance/board-of-directors/darren-woods",
+        "title": "Darren W. Woods (ExxonMobil board of directors)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "President (2016 to present)",
+        "tier": 1
+      },
+      {
+        "id": "w28",
+        "url": "https://corporate.exxonmobil.com/corporate-governance/board-of-directors/darren-woods",
+        "title": "Darren W. Woods (ExxonMobil board of directors)",
+        "published_at": null,
+        "checked_at": "2026-10-21",
+        "excerpt": "National Petroleum Council (member); Business Roundtable (member); American Petroleum Institute (former Chair); Business Council (member); Center for Strategic and International Studies (Trustee); and Oil and Gas Climate Initiative",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "draft",
+      "mingdan-bucai"
+    ],
+    "person": {
+      "gender": {
+        "value": "男",
+        "source_ids": [
+          "w9",
+          "w11"
+        ],
+        "inferred": false,
+        "basis": "8-K 称 Mr. Woods",
+        "inference": null
+      },
+      "nationality": {
+        "value": "美国",
+        "source_ids": [
+          "w13"
+        ],
+        "inferred": false,
+        "basis": "出生于美国堪萨斯州威奇托（公司官方简历）",
+        "inference": null
+      },
+      "birth_date": {
+        "value": "1965-01",
+        "source_ids": [
+          "w11",
+          "w9",
+          "w20",
+          "w6"
+        ],
+        "inferred": true,
+        "basis": "按年龄陈述推：2015-12-15 文件称 50 岁；2016-12-16 文件称 51 岁；2017-03-06 文件称 52 岁；2026-04-08 文件称 61 岁；出生在 1964-12-17 至 1965-03-06 之间，取中间月份",
+        "inference": {
+          "rule": "age_statement",
+          "from_date": "2015-12-15",
+          "duration_years": null
+        }
+      },
+      "birth_place": {
+        "value": "堪萨斯州威奇托",
+        "source_ids": [
+          "w13"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start": null,
+      "education": {
+        "value": "硕士研究生",
+        "source_ids": [
+          "w14"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "西北大学凯洛格管理学院工商管理硕士学位",
+        "source_ids": [
+          "w14"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "达伦·伍兹",
+        "source_ids": [
+          "w1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "在任"
+    },
+    "current_roles": [
+      {
+        "organization": "埃克森美孚公司",
+        "role": "董事长、首席执行官、总裁、董事",
+        "start": {
+          "value": "2017-01",
+          "source_ids": [
+            "w8",
+            "w1",
+            "w25"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "w8",
+          "w1",
+          "w25",
+          "w10",
+          "w2",
+          "w29",
+          "w12"
+        ],
+        "roles": [
+          "董事长",
+          "首席执行官",
+          "总裁",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      },
+      {
+        "organization": "ExxonMobil Holdings Corporation",
+        "role": "董事长、总裁、首席执行官、董事",
+        "start": {
+          "value": "2026-05",
+          "source_ids": [
+            "w21",
+            "w22",
+            "w23",
+            "w24"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": true,
+        "source_ids": [
+          "w21",
+          "w22",
+          "w23",
+          "w24"
+        ],
+        "roles": [
+          "董事长",
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "study",
+        "start": {
+          "value": "1983",
+          "source_ids": [
+            "w13",
+            "w19"
+          ],
+          "inferred": true,
+          "basis": "毕业年 1987 减标准学制 4 年（写法第 6 节）",
+          "inference": {
+            "rule": "graduation_minus_four",
+            "from_date": "1987",
+            "duration_years": 4
+          }
+        },
+        "end": {
+          "value": "1987",
+          "source_ids": [
+            "w13",
+            "w19"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "得克萨斯农工大学",
+        "role": null,
+        "program": "电气工程",
+        "degree_awarded": {
+          "value": "理学学士学位",
+          "source_ids": [
+            "w13",
+            "w19"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "w13",
+          "w19"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": "bachelor",
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "1992",
+          "source_ids": [
+            "w5",
+            "w15",
+            "w20"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2005",
+          "source_ids": [
+            "w5",
+            "w15",
+            "w20"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "埃克森国际公司",
+        "role": "规划分析师、埃克森美孚化工公司和埃克森美孚炼油与供应公司国内外多个职务",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "w5",
+          "w15",
+          "w20"
+        ],
+        "ongoing": false,
+        "roles": [
+          "规划分析师",
+          "埃克森美孚化工公司和埃克森美孚炼油与供应公司国内外多个职务"
+        ],
+        "role_category": null,
+        "role_basis": "入职单位为埃克森国际公司（1999年合并前属埃克森公司），其后各岗位名称和交接时间未检得，合成一条",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2005",
+          "source_ids": [
+            "w16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2008",
+          "source_ids": [
+            "w16"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "埃克森美孚化工公司",
+        "role": "副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "w16"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2008",
+          "source_ids": [
+            "w17",
+            "w11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2010-07",
+          "source_ids": [
+            "w17",
+            "w11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "埃克森美孚炼油与供应公司",
+        "role": "欧洲、非洲和中东地区炼油总监",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "w17",
+          "w11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "欧洲、非洲和中东地区炼油总监"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2010-07",
+          "source_ids": [
+            "w9",
+            "w11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2012-07",
+          "source_ids": [
+            "w9",
+            "w11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "埃克森美孚炼油与供应公司",
+        "role": "供应与运输副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "w9",
+          "w11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "供应与运输副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2012-08",
+          "source_ids": [
+            "w4",
+            "w11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2014-05",
+          "source_ids": [
+            "w4",
+            "w11"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "埃克森美孚公司",
+        "role": "副总裁、埃克森美孚炼油与供应公司总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "w4",
+          "w11"
+        ],
+        "ongoing": false,
+        "roles": [
+          "副总裁",
+          "埃克森美孚炼油与供应公司总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2014-06",
+          "source_ids": [
+            "w3",
+            "w11",
+            "w10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016-01",
+          "source_ids": [
+            "w3",
+            "w11",
+            "w10"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "埃克森美孚公司",
+        "role": "高级副总裁",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "w3",
+          "w11",
+          "w10"
+        ],
+        "ongoing": false,
+        "roles": [
+          "高级副总裁"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2016-01",
+          "source_ids": [
+            "w2",
+            "w10",
+            "w12",
+            "w8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2017-01",
+          "source_ids": [
+            "w2",
+            "w10",
+            "w12",
+            "w8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "埃克森美孚公司",
+        "role": "总裁、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "w2",
+          "w10",
+          "w12",
+          "w8"
+        ],
+        "ongoing": false,
+        "roles": [
+          "总裁",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2017-01",
+          "source_ids": [
+            "w1",
+            "w2",
+            "w8",
+            "w25"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "埃克森美孚公司",
+        "role": "董事长、总裁、首席执行官",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "w1",
+          "w2",
+          "w8",
+          "w25"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长",
+          "总裁",
+          "首席执行官"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-05",
+          "source_ids": [
+            "w21",
+            "w22",
+            "w23",
+            "w24"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "ExxonMobil Holdings Corporation",
+        "role": "董事长、总裁、首席执行官、董事",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "w21",
+          "w22",
+          "w23",
+          "w24"
+        ],
+        "ongoing": true,
+        "roles": [
+          "董事长",
+          "总裁",
+          "首席执行官",
+          "董事"
+        ],
+        "role_category": null,
+        "role_basis": "2026-05-27 股东批准迁册合并时生效任命，2026-07-01 迁册合并生效，新控股公司成为上市母公司，埃克森美孚公司成为其子公司",
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "埃克森美孚公司",
+    "conflicts": [
+      {
+        "field": "birth_date",
+        "alternatives": [
+          {
+            "value": "1965-12-16（维基百科，引 Market Realist）",
+            "source_ids": [
+              "w9"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          },
+          {
+            "value": "约1964年12月中旬至1965年3月上旬（按公司文件年龄推）",
+            "source_ids": [
+              "w11"
+            ],
+            "inferred": false,
+            "basis": null,
+            "inference": null
+          }
+        ],
+        "selected_value": "1965-12-16（维基百科，引 Market Realist）",
+        "reason": "维基百科的出生日期与公司8-K、委托书所载年龄均不合（若生于1965-12-16，2015-12-15 时应为49岁），维基百科只作线索，不采用"
+      }
+    ],
+    "unknowns": [
+      "出生年月：未检得写明的一、二级来源。四份年龄陈述（2015-12-15 时50岁、2016-12-16 时51岁、2017-03-06 时52岁、2026-04-08 时61岁）可推出生于1964年12月中旬至1965年3月上旬之间，年份不能单独确定",
+      "西北大学凯洛格管理学院工商管理硕士的就读和毕业年份：未检得",
+      "1987年本科毕业至1992年加入埃克森之间的经历：未检得",
+      "1992—2005年各岗位名称和交接时间：未检得",
+      "美国石油学会董事会主席、美国国家石油委员会主席的任期：委托书只写 former Chair，2018年官网简历称时任美国石油学会主席，起止年份未检得",
+      "2026年7月迁册后是否仍兼任子公司埃克森美孚公司（Exxon Mobil Corporation）同一职务：8-K12B 未明说，推定未变"
+    ],
+    "excluded": [
+      "西北大学凯洛格管理学院工商管理学习：起止时间无来源，履历不单列，学位见首段",
+      "美国石油学会董事会主席：起始时间无来源，不写进履历括注",
+      "美国国家石油委员会主席（已卸任，现为委员）：起始时间无来源，不写进履历括注",
+      "战略与国际研究中心董事：起始时间无来源，不写进履历括注"
+    ],
+    "country_profile": "us",
+    "card_type": null,
+    "date_granularity": "year",
+    "disambiguation": "Darren W. Woods；埃克森美孚公司；董事长、首席执行官、总裁、董事",
+    "review_items": []
+  }
+}
