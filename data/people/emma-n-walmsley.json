@@ -1,0 +1,88 @@
+{
+  "id": "emma-n-walmsley",
+  "name_zh": "埃玛·沃姆斯利",
+  "name_en": "Emma N. Walmsley",
+  "bureau": "ai",
+  "also_in": [],
+  "tier": "seed",
+  "ids": {},
+  "resume": {
+    "id": "cadre-emma-n-walmsley",
+    "line": "cadre",
+    "subject_id": "emma-n-walmsley",
+    "title": "埃玛·沃姆斯利简历",
+    "sources": [
+      {
+        "id": "s1",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526448357/d177209d8k.htm",
+        "title": "Microsoft Corporation Form 8-K (November 5, 2026)",
+        "published_at": "2026-11-05",
+        "checked_at": "2026-11-06",
+        "excerpt": "On November 4, 2026, Emma N. Walmsley, a member of the Board of Directors of Microsoft Corporation (the “Company”) since 2019, informed the Company of her decision not to stand for re-election at the Company’s 2026 annual shareholder meeting (the “Annual Meeting”).",
+        "tier": 1
+      }
+    ],
+    "tags": [
+      "seed"
+    ],
+    "person": {
+      "gender": null,
+      "nationality": null,
+      "birth_date": null,
+      "birth_place": null,
+      "work_start": null,
+      "education": null,
+      "degree": null,
+      "honorary_degree": null,
+      "party": null,
+      "party_joined_at": null,
+      "name": {
+        "value": "埃玛·沃姆斯利",
+        "source_ids": [],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "work_start_action": "参加工作",
+      "ethnicity": null,
+      "academician": [],
+      "military_rank": null,
+      "dropout": null,
+      "death_date": null,
+      "status": "离任"
+    },
+    "current_roles": [],
+    "careers": [],
+    "appointments": [],
+    "event_date": null,
+    "paragraphs": [],
+    "company_tag": "",
+    "conflicts": [],
+    "unknowns": [
+      "一局动态新建的记录：只有动态里核实的职务，其余简历事实待取证"
+    ],
+    "excluded": [],
+    "country_profile": "other",
+    "card_type": null,
+    "date_granularity": "month",
+    "disambiguation": null,
+    "review_items": []
+  },
+  "data_cutoff": "2026-11-06",
+  "updated_at": "2026-11-06",
+  "roles_checked_at": "2026-11-06",
+  "events": [
+    "2026-11-05-emma-n-walmsley-leave"
+  ],
+  "bureau_history": [
+    {
+      "from": null,
+      "to": "ai",
+      "date": "2026-11-05",
+      "event": "2026-11-05-emma-n-walmsley-leave",
+      "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+    }
+  ],
+  "origin": "一局动态新建",
+  "name_zh_pending": true
+}

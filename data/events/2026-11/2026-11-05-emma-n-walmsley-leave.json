@@ -1,0 +1,82 @@
+{
+  "id": "2026-11-05-emma-n-walmsley-leave",
+  "date": "2026-11-05",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "emma-n-walmsley",
+  "person": {
+    "name_zh": "埃玛·沃姆斯利",
+    "name_en": "Emma N. Walmsley",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-11-05",
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "微软公司",
+      "role": "董事",
+      "organization_en": "Microsoft Corporation",
+      "role_en": "Director",
+      "start": "2019",
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "埃玛·沃姆斯利不再竞选连任微软公司董事",
+  "summary": "微软公司11月5日向证券交易委员会提交8-K（第5.02项）：董事沃姆斯利11月4日通知公司，不在2026年年度股东大会上竞选连任，任职至该次股东大会。股东大会日期申报未写，effective_at 留空。其他现职、新任命未查清。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526448357/d177209d8k.htm",
+      "title": "Microsoft Corporation Form 8-K (November 5, 2026)",
+      "publisher": "美国证券交易委员会",
+      "published_at": "2026-11-05",
+      "excerpt": "On November 4, 2026, Emma N. Walmsley, a member of the Board of Directors of Microsoft Corporation (the “Company”) since 2019, informed the Company of her decision not to stand for re-election at the Company’s 2026 annual shareholder meeting (the “Annual Meeting”).",
+      "checked_at": "2026-11-06",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "manual",
+    "checked_at": "2026-11-06",
+    "model": null,
+    "by": "人工核查：Claude（内置浏览器）打开来源逐字段核对（补采动态，一次一条）",
+    "run": "20261106-122557",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-11-06",
+    "changes": [
+      "新建人物记录 emma-n-walmsley（库里没有此人）"
+    ],
+    "notes": [
+      "原任“微软公司 董事 Microsoft Corporation Director”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "emma-n-walmsley",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

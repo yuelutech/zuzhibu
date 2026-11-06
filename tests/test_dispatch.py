@@ -436,6 +436,36 @@ class InboxRunTest(unittest.TestCase):
         self.assertEqual(meta["daily"]["last_run"], "2026-10-20T08:03:23", "补采入库不顶替每日更新状态")
         self.assertEqual(meta["inbox"]["last_applied"], 2)
 
+    def test_inbox_manual_review(self):
+        """--review：程序核查没过的按人工核查单放行，不开核查会话；核查单没列的、来源没打开过的搁置。"""
+        sheet = self.inbox.parent / "review.json"
+        verdict = {"decision": "approve", "failed_claims": [], "corrections": [], "verified_source_ids": ["e1"],
+                   "other_current_roles_confirmed": False, "new_appointment_confirmed": False, "notes": ""}
+        write_json(sheet, {"reviewer": "测试核查人", "reviews": [
+            {**verdict, "name_en": "Qing Feng", "kind": "appoint", "opened": ["https://lakeview.gov/blocked"]},
+            {**verdict, "name_en": "Hai Lan", "kind": "appoint", "opened": []}]})
+
+        def no_session(*a, **k):
+            raise AssertionError("给了人工核查单就不开核查会话")
+        with mock.patch.object(research, "call", no_session),                 mock.patch.object(research, "fetch_page", lambda url, timeout=20.0: {NOMINATIONS_URL: NOMINATIONS_PAGE}.get(url)):
+            code = run.main(["--inbox", str(self.inbox), "--review", str(sheet), "--data", str(self.data),
+                             "--runs", str(self.runs), "--codex", sys.executable, "--date", "2026-10-20", "--jobs", "1"])
+        self.assertEqual(code, 0)
+        store = Store(self.data).load()
+        written = {e["person"]["name_en"]: e for e in store.events() if e.get("origin") == "codex-inbox"}
+        self.assertEqual(sorted(written), ["Qing Feng", "Yuan Bai"])
+        v = written["Qing Feng"]["verification"]
+        self.assertEqual(v["method"], "manual")
+        self.assertIn("测试核查人", v["by"])
+        self.assertTrue(v["precheck"])
+        (run_dir,) = [p for p in self.runs.iterdir() if p.is_dir()]
+        held = {(h["event"]["name_en"], h["event"]["kind"]): h for h in read_json(run_dir / "held.json")}
+        self.assertIn(("Hai Lan", "appoint"), held, "核查单里没打开过的来源不算核实")
+
+    def test_review_needs_inbox(self):
+        with self.assertRaises(SystemExit):
+            run.main(["--daily", "--review", "x.json"])
+
 
 class MonthlyRunTest(unittest.TestCase):
     """每月更新：研究会话的动态也先剔除、再程序核查，过不了的一次一条开核查会话；--recheck 重核已入库的动态。"""

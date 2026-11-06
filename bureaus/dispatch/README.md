@@ -45,6 +45,7 @@ python -m bureaus.dispatch.run --backend api --since 2026-10-18 --until 2026-10-
 | `--model`、`--effort` | 只对 Codex，默认 gpt-6.1-sol、medium；AI 接口的模型在设置里填 |
 | `--timeout` | 每次会话限时，分钟，默认 30 |
 | `--origin` | daily、backfill、user-api（`--backend api` 的默认）、user-codex（软件里用本机 Codex 立即更新），写进动态记录 |
+| `--review` | 人工核查单，只配 `--inbox`：程序核查没过的不开核查会话，按核查单里打开来源逐字段核对的结论放行（放行规则同核查会话：核查单没列的、单里没打开过的来源、没附来源的更正都不算），`verification.method` 记 `manual`。Codex 没额度时用（2026-11-06 起） |
 | `--no-excerpt-check` | 不另取网页核对摘录；补采动态也不做程序核查，全部开核查会话 |
 
 ## 流程
@@ -60,7 +61,7 @@ python -m bureaus.dispatch.run --backend api --since 2026-10-18 --until 2026-10-
 
 1. 先剔除：库里已有的算重复（同一人、同一类别、日期相差 7 天内或宣布日相同；同一人、同一天、同一机构的，类别不同也算）；没有原职务也没有新职务的（撤回提名、委员会表决，或职务错写在 `new_appointment`）、人物编号和英文名对不上的搁置；二局范围外的搁置。
 2. 程序核查（`research.precheck`，不调模型，`method` 记 `excerpt`）：逐条取来源网页，一级来源（`zuzhibu/sources.py`）、网页取得到、摘录逐字找到的算核实来源；人物的姓、各职务的英文实词、类别字样在核实来源的摘录或网页标题里，每个日期都在核实来源的网页上，才放行。离任类“没有其他现职”“没有新任命”程序核不了，按未查清写回，不转七局。
-3. 过不了的开核查会话，一次一条（`method` 记 `codex`，`precheck` 记程序核查没过的原因）：会话没联网的整条搁置；说核实了、会话里却没打开过的来源不算核实。
+3. 过不了的开核查会话（给了 `--review` 时改按人工核查单，`method` 记 `manual`），一次一条（`method` 记 `codex`，`precheck` 记程序核查没过的原因）：会话没联网的整条搁置；说核实了、会话里却没打开过的来源不算核实。
 
 使用者自己的 AI 接口（`--backend api`）：提示词、输出 schema、放行和写回与上面完全相同，只是两次会话改由 `shared/backends/ai_api.py` 直连使用者的接口（OpenAI Responses 接口的 web_search 工具，或 Anthropic Messages 接口的 web_search、web_fetch 工具），按次计入使用者自己的账户。
 

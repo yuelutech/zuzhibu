@@ -2,7 +2,7 @@
   "id": "dan-driscoll",
   "name_zh": "丹尼尔·德里斯科尔",
   "name_en": "Dan Driscoll",
-  "bureau": "military",
+  "bureau": "ai",
   "also_in": [],
   "tier": "seed",
   "ids": {},
@@ -29,6 +29,15 @@
         "checked_at": "2026-10-21",
         "excerpt": "白宫8月31日证实，陆军部长丹尼尔·德里斯科尔在任职约18个月后辞职",
         "tier": 2
+      },
+      {
+        "id": "s3",
+        "url": "https://openai.com/index/dan-driscoll-joins-openai/",
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "published_at": "2026-11-02",
+        "checked_at": "2026-11-06",
+        "excerpt": "Dan Driscoll will join OpenAI as Senior Counselor for National Security Modernization, working with senior leadership and external partners to advise on how advanced AI can strengthen national and cyber security",
+        "tier": 1
       }
     ],
     "tags": [
@@ -58,10 +67,62 @@
       "military_rank": null,
       "dropout": null,
       "death_date": null,
-      "status": "离任"
+      "status": "在任"
     },
-    "current_roles": [],
-    "careers": [],
+    "current_roles": [
+      {
+        "organization": "美国开放人工智能研究中心（OpenAI）",
+        "role": "国家安全现代化高级顾问",
+        "start": {
+          "value": "2026-11-02",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "roles": [],
+        "sector": "enterprise",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-11-02",
+          "source_ids": [
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "美国开放人工智能研究中心（OpenAI）",
+        "role": "国家安全现代化高级顾问",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
     "appointments": [],
     "event_date": null,
     "paragraphs": [],
@@ -78,10 +139,11 @@
     "review_items": []
   },
   "data_cutoff": "2026-10-21",
-  "updated_at": "2026-10-21",
-  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-11-06",
+  "roles_checked_at": "2026-11-06",
   "events": [
-    "2026-09-02-dan-driscoll-leave"
+    "2026-09-02-dan-driscoll-leave",
+    "2026-11-02-dan-driscoll-appoint"
   ],
   "bureau_history": [
     {
@@ -90,6 +152,13 @@
       "date": "2026-09-02",
       "event": "2026-09-02-dan-driscoll-leave",
       "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+    },
+    {
+      "from": "military",
+      "to": "ai",
+      "date": "2026-11-02",
+      "event": "2026-11-02-dan-driscoll-appoint",
+      "reason": "主要职务“美国开放人工智能研究中心（OpenAI） 国家安全现代化高级顾问”：AI 与科技机构名单"
     }
   ],
   "origin": "一局动态新建",

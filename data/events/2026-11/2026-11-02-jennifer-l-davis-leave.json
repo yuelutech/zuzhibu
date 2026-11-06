@@ -1,0 +1,94 @@
+{
+  "id": "2026-11-02-jennifer-l-davis-leave",
+  "date": "2026-11-02",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "jennifer-l-davis",
+  "person": {
+    "name_zh": "珍妮弗·戴维斯",
+    "name_en": "Jennifer L. Davis",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-11-02",
+  "effective_at": "2026-11-02",
+  "ended_roles": [
+    {
+      "organization": "艾伯维公司",
+      "role": "董事",
+      "organization_en": "AbbVie Inc.",
+      "role_en": "Class II Director",
+      "start": null,
+      "end": "2026-11-02",
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": {
+    "organization": "爱齐科技公司",
+    "role": "首席执行官",
+    "organization_en": "Align Technology, Inc.",
+    "role_en": "Chief Executive Officer",
+    "start": null,
+    "end": null,
+    "concurrent": false,
+    "sector": "enterprise",
+    "source_ids": [
+      "e1"
+    ]
+  },
+  "new_appointment_checked": false,
+  "headline": "珍妮弗·戴维斯辞去艾伯维公司董事",
+  "summary": "艾伯维公司11月2日8-K（第5.02项）：二类董事戴维斯10月28日通知董事会辞职，11月2日生效，原因是新近出任爱齐科技公司首席执行官。爱齐科技任职起始日申报未写。其他现职未查。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926121322/tm2628215d1_8k.htm",
+      "title": "AbbVie Inc. Form 8-K (November 2, 2026)",
+      "publisher": "美国证券交易委员会",
+      "published_at": "2026-11-02",
+      "excerpt": "notified the Company’s Board of Directors (the “Board”), of her intent to resign from the Board, effective November 2, 2026, in light of her recent appointment as Chief Executive Officer at Align Technology, Inc.",
+      "checked_at": "2026-11-06",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "manual",
+    "checked_at": "2026-11-06",
+    "model": null,
+    "by": "人工核查：Claude（内置浏览器）打开来源逐字段核对（补采动态，一次一条）",
+    "run": "20261106-122557",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-11-06",
+    "changes": [
+      "新建人物记录 jennifer-l-davis（库里没有此人）"
+    ],
+    "notes": [
+      "原任“艾伯维公司 董事 AbbVie Inc. Class II Director”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "jennifer-l-davis",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}

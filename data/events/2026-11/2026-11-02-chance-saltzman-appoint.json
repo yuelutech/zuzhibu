@@ -1,0 +1,93 @@
+{
+  "id": "2026-11-02-chance-saltzman-appoint",
+  "date": "2026-11-02",
+  "kind": "appoint",
+  "kind_label": "任命",
+  "person_id": "chance-saltzman",
+  "person": {
+    "name_zh": "钱斯·萨尔茨曼",
+    "name_en": "Chance Saltzman",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-11-02",
+  "effective_at": null,
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "旅行者技术公司（Voyager Technologies）",
+      "role": "顾问委员会主席",
+      "organization_en": "Voyager Technologies",
+      "role_en": "Chairman, Board of Advisors",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "advisory",
+      "source_ids": [
+        "e1",
+        "e2"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "前太空作战部长钱斯·萨尔茨曼出任旅行者技术公司顾问委员会主席",
+  "summary": "旅行者技术公司（纽约证券交易所代码 VOYG）官网 2026-11-02 新闻稿宣布任命（e1 已打开、摘句照录；职务名“Chairman, Board of Advisors”见同稿商业资讯通稿）；《空军与太空军》杂志 11月3日报道（e2）。到任日未写，effective_at、start 留空。他此前于 2026-09-03 交卸太空作战部长（库内事件 2026-09-03-chance-saltzman-leave）。其他现职未查到。",
+  "bureaus": [
+    "ai",
+    "military"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://voyagertechnologies.com/press-releases/voyager-appoints-gen-b-chance-saltzman-as-board-of-advisors-chairman/",
+      "title": "Voyager Appoints Gen. B. Chance Saltzman as Board of Advisors Chairman",
+      "publisher": "Voyager Technologies",
+      "published_at": "2026-11-02",
+      "excerpt": "Voyager Technologies (NYSE: VOYG) today announced the appointment of Gen. B. Chance Saltzman (U.S. Space Force, Ret.)",
+      "checked_at": "2026-11-06",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://www.airandspaceforces.com/former-cso-saltzman-advisor-board-voyager/",
+      "title": "Ex-CSO Saltzman to Lead Advisory Board at Voyager Technologies",
+      "publisher": "Air & Space Forces Magazine",
+      "published_at": "2026-11-03",
+      "excerpt": "will lead the board of advisors for Voyager Technologies, the firm announced Nov. 2.",
+      "checked_at": "2026-11-06",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "manual",
+    "checked_at": "2026-11-06",
+    "model": null,
+    "by": "人工核查：Claude（内置浏览器）打开来源逐字段核对（补采动态，一次一条）",
+    "run": "20261106-122557",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：不是一级来源；e2：不是一级来源）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "default_bureau": "military",
+  "applied": {
+    "status": "applied",
+    "at": "2026-11-06",
+    "changes": [
+      "现任职务新增：旅行者技术公司（Voyager Technologies）顾问委员会主席",
+      "履历新增：2026-11 旅行者技术公司（Voyager Technologies）顾问委员会主席",
+      "所属局（调整归属）：五局·美军干部局 → 二局·AI干部局"
+    ],
+    "notes": [],
+    "bureau_before": "military",
+    "bureau_after": "ai",
+    "person_id": "chance-saltzman",
+    "reason": "主要职务“旅行者技术公司（Voyager Technologies） 顾问委员会主席”：AI 与科技关键词"
+  }
+}

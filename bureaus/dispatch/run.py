@@ -323,7 +323,10 @@ def verify_one_by_one(name: str, events: list[dict[str, Any]], ctx: dict[str, An
         tick()
     out["gated"] += passed
     out["stats"]["precheck"] = {"passed": len(passed), "to_session": len(rest), "screened": 0}
-    log(f"[{name}] 程序核查放行 {len(passed)} 条，其余 {len(rest)} 条开核查会话，每次 {INBOX_CHUNK} 条")
+    log(f"[{name}] 程序核查放行 {len(passed)} 条，其余 {len(rest)} 条" + ("按人工核查单" if ctx.get("review") is not None else f"开核查会话，每次 {INBOX_CHUNK} 条"))
+    if ctx.get("review") is not None:
+        manual_review(rest, ctx, out)
+        return
     size = INBOX_CHUNK
     for k in range(0, len(rest), size):
         chunk = rest[k:k + size]
@@ -357,6 +360,30 @@ def verify_one_by_one(name: str, events: list[dict[str, Any]], ctx: dict[str, An
         total = out["stats"].setdefault("verify", {"searches": 0, "seconds": 0})
         for key in ("searches", "seconds"):
             total[key] += (part["stats"].get("verify") or {}).get(key, 0)
+
+
+def review_key(event: dict[str, Any]) -> tuple[str, str]:
+    return (personnel._norm(event.get("name_en") or ""), event.get("kind") or "")
+
+
+def manual_review(rest: list[tuple[dict[str, Any], dict[str, Any] | None]], ctx: dict[str, Any], out: dict[str, Any]) -> None:
+    """人工核查单（--review，只配 --inbox）：程序核查没过的，不开核查会话，按核查单里打开来源逐字段核对的结论放行。
+    放行规则与核查会话相同（research.gate）：核查单没列这条的搁置；核查单里没打开过的来源不算核实；更正要附来源。"""
+    sheet = {review_key(r): r for r in ctx["review"].get("reviews") or []}
+    tick = ctx.get("tick") or (lambda: None)
+    for ev, p in rest:
+        tick()
+        r = sheet.get(review_key(ev))
+        if r is None:
+            g = {"event": copy.deepcopy(ev), "status": "held", "corrections": [], "reasons": ["人工核查单里没有这条"]}
+        else:
+            opened = list(r.get("opened") or [])
+            g = research.gate([ev], {"reviews": [{**r, "index": 0}]}, len(opened), opened=opened)[0]
+        g["method"] = "manual"
+        g["precheck"] = p["reasons"] if p else ["没做程序核查（--no-excerpt-check）"]
+        out["gated"].append(g)
+    ok = sum(1 for g in out["gated"] if g.get("method") == "manual" and g["status"] == "verified")
+    ctx["log"](f"人工核查单：放行 {ok} 条，共 {len(rest)} 条")
 
 
 def unchecked(event: dict[str, Any]) -> dict[str, Any]:
@@ -407,7 +434,10 @@ def to_record(store: Store, ev: dict[str, Any], gated: dict[str, Any], ctx: dict
                for s in ev.get("sources") or []]
     api = ctx.get("backend") == "api"
     method = gated.get("method") or ("api" if api else "codex")
-    if method == "excerpt":
+    if method == "manual":
+        verification = {"status": gated["status"], "method": method, "checked_at": ctx["today"], "model": None,
+                        "by": f"人工核查：{(ctx.get('review') or {}).get('reviewer') or '维护者'}打开来源逐字段核对（补采动态，一次一条）"}
+    elif method == "excerpt":
         verification = {"status": gated["status"], "method": method, "checked_at": ctx["today"], "model": None,
                         "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里"}
     else:
@@ -889,7 +919,7 @@ def write_report(path: Path, ctx: dict[str, Any], groups: list[dict[str, Any]], 
                  if pre else "")
         lines.append(f"- {g['name']}：线索 {g['leads']}；研究检索 {st.get('research', {}).get('searches', 0)} 次；{extra}"
                      f"核查检索 {st.get('verify', {}).get('searches', 0)} 次；{g.get('error') or '完成'}")
-    how = {"excerpt": "程序核查", "codex": "核查会话", "api": "核查会话"}
+    how = {"excerpt": "程序核查", "codex": "核查会话", "api": "核查会话", "manual": "人工核查"}
     lines += ["", "## 写回", ""]
     for a in applied:
         r = a["applied"]
@@ -981,6 +1011,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--no-excerpt-check", action="store_true", help="不另取网页核对摘录")
     ap.add_argument("--inbox", help="补采的动态文件（格式同研究会话输出 RESEARCH_SCHEMA）：不开研究会话，只核查和写回")
+    ap.add_argument("--review", help="人工核查单（只配 --inbox）：程序核查没过的，按核查单里打开来源逐字段核对的结论放行，不开核查会话")
     ap.add_argument("--recheck", help="已入库的动态编号（逗号分隔）：按现行规则重核，不重新写回")
     args = ap.parse_args(argv)
     try:
@@ -991,6 +1022,8 @@ def main(argv: list[str] | None = None) -> int:
     today = args.date or dt.date.today().isoformat()
     if args.recheck:
         return main_recheck(args, today)
+    if args.review and not args.inbox:
+        ap.error("--review 只配 --inbox")
     if not (args.inbox or args.daily or args.since_last or (args.since and args.until)):
         ap.error("给 --daily 或 --since-last，或同时给 --since 和 --until")
     report = progress.Progress(args.progress, args.stop_file)
@@ -1110,7 +1143,8 @@ def update(args: argparse.Namespace, today: str, report: progress.Progress) -> t
                "run_id": run_id, "inbox": inbox, "names": glossary_names(), "pages": pages, "fetch": fetch,
                "excerpt_check": not args.no_excerpt_check, "research_config": research_config, "verify_config": verify_config,
                "halt": halt, "report": report, "started": started, "tick": tick, "roster_text": roster_text(store, rosters),
-               "origin_of": {}}
+               "origin_of": {},
+               "review": json.loads(Path(args.review).read_text(encoding="utf-8")) if getattr(args, "review", None) else None}
         # 第 3 步：研究
         with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, args.jobs)) as pool:
             results = list(pool.map(lambda g: research_group(g, ctx), groups))

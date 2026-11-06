@@ -2,7 +2,7 @@
   "id": "chance-saltzman",
   "name_zh": "钱斯·萨尔茨曼",
   "name_en": "Chance Saltzman",
-  "bureau": "military",
+  "bureau": "ai",
   "also_in": [],
   "tier": "seed",
   "ids": {},
@@ -19,6 +19,24 @@
         "published_at": "2026-09-04",
         "checked_at": "2026-10-21",
         "excerpt": "Schiess succeeded Gen. Chance Saltzman as the third chief of space operations of the Space Force.",
+        "tier": null
+      },
+      {
+        "id": "s2",
+        "url": "https://voyagertechnologies.com/press-releases/voyager-appoints-gen-b-chance-saltzman-as-board-of-advisors-chairman/",
+        "title": "Voyager Appoints Gen. B. Chance Saltzman as Board of Advisors Chairman",
+        "published_at": "2026-11-02",
+        "checked_at": "2026-11-06",
+        "excerpt": "Voyager Technologies (NYSE: VOYG) today announced the appointment of Gen. B. Chance Saltzman (U.S. Space Force, Ret.)",
+        "tier": null
+      },
+      {
+        "id": "s3",
+        "url": "https://www.airandspaceforces.com/former-cso-saltzman-advisor-board-voyager/",
+        "title": "Ex-CSO Saltzman to Lead Advisory Board at Voyager Technologies",
+        "published_at": "2026-11-03",
+        "checked_at": "2026-11-06",
+        "excerpt": "will lead the board of advisors for Voyager Technologies, the firm announced Nov. 2.",
         "tier": null
       }
     ],
@@ -49,10 +67,66 @@
       "military_rank": null,
       "dropout": null,
       "death_date": null,
-      "status": "离任"
+      "status": "在任"
     },
-    "current_roles": [],
-    "careers": [],
+    "current_roles": [
+      {
+        "organization": "旅行者技术公司（Voyager Technologies）",
+        "role": "顾问委员会主席",
+        "start": {
+          "value": "2026-11-02",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "roles": [],
+        "sector": "advisory",
+        "appointment_state": "正式"
+      }
+    ],
+    "careers": [
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-11-02",
+          "source_ids": [
+            "s2",
+            "s3"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "旅行者技术公司（Voyager Technologies）",
+        "role": "顾问委员会主席",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s2",
+          "s3"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      }
+    ],
     "appointments": [],
     "event_date": null,
     "paragraphs": [],
@@ -69,10 +143,11 @@
     "review_items": []
   },
   "data_cutoff": "2026-10-21",
-  "updated_at": "2026-10-21",
-  "roles_checked_at": "2026-10-21",
+  "updated_at": "2026-11-06",
+  "roles_checked_at": "2026-11-06",
   "events": [
-    "2026-09-03-chance-saltzman-leave"
+    "2026-09-03-chance-saltzman-leave",
+    "2026-11-02-chance-saltzman-appoint"
   ],
   "bureau_history": [
     {
@@ -81,6 +156,13 @@
       "date": "2026-09-03",
       "event": "2026-09-03-chance-saltzman-leave",
       "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+    },
+    {
+      "from": "military",
+      "to": "ai",
+      "date": "2026-11-02",
+      "event": "2026-11-02-chance-saltzman-appoint",
+      "reason": "主要职务“旅行者技术公司（Voyager Technologies） 顾问委员会主席”：AI 与科技关键词"
     }
   ],
   "origin": "一局动态新建",

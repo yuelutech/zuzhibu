@@ -1,0 +1,82 @@
+{
+  "id": "2026-11-05-linnie-m-haynesworth-leave",
+  "date": "2026-11-05",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "linnie-m-haynesworth",
+  "person": {
+    "name_zh": "琳妮·海恩斯沃思",
+    "name_en": "Linnie M. Haynesworth",
+    "name_zh_source": "research",
+    "ids": {}
+  },
+  "announced_at": "2026-11-05",
+  "effective_at": null,
+  "ended_roles": [
+    {
+      "organization": "美光科技公司",
+      "role": "董事",
+      "organization_en": "Micron Technology, Inc.",
+      "role_en": "Director",
+      "start": null,
+      "end": null,
+      "concurrent": false,
+      "sector": "enterprise",
+      "source_ids": [
+        "e1"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "琳妮·海恩斯沃思将从美光科技公司董事会退休",
+  "summary": "美光科技公司11月5日8-K（第5.02项）：董事海恩斯沃思11月2日通知董事会治理与可持续发展委员会将退休，不再获提名连任，任职至2026财年年度股东大会任期结束。股东大会日期未写，effective_at 留空。其他现职、新任命未查清。",
+  "bureaus": [
+    "ai"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.sec.gov/Archives/edgar/data/723125/000110465926123389/tm2629062d1_8k.htm",
+      "title": "Micron Technology, Inc. Form 8-K (November 5, 2026)",
+      "publisher": "美国证券交易委员会",
+      "published_at": "2026-11-05",
+      "excerpt": "On November 2, 2026, Linnie M. Haynesworth notified the Governance and Sustainability Committee of the Board of Directors (the “Board”) of Micron Technology, Inc. (the “Company”) that she would retire from the Board",
+      "checked_at": "2026-11-06",
+      "excerpt_check": null
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "manual",
+    "checked_at": "2026-11-06",
+    "model": null,
+    "by": "人工核查：Claude（内置浏览器）打开来源逐字段核对（补采动态，一次一条）",
+    "run": "20261106-122557",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "没有核实的一级来源（e1：网页取不到（403、超时、PDF 等））"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "default_bureau": "ai",
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-11-06",
+    "changes": [
+      "新建人物记录 linnie-m-haynesworth（库里没有此人）"
+    ],
+    "notes": [
+      "原任“美光科技公司 董事 Micron Technology, Inc. Director”：记录里本来就没有现任职务",
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": null,
+    "bureau_after": "ai",
+    "person_id": "linnie-m-haynesworth",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}
