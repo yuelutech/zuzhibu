@@ -57,9 +57,9 @@ FONT_DIR = "fonts"  # 随软件分发的字体放 pyapp\fonts\
 # 微软应用商店的商店包（--store）。在合作伙伴中心预留了名称以后，到“产品管理 → 产品标识”页一字不差地抄（区分大小写）
 # Package/Identity/Name、Package/Identity/Publisher、Package/Properties/PublisherDisplayName 三项。
 # 它们是公开信息（装好的商店包里本来就看得到），不是密钥；没填时 --store 停下，也可以用 --store-identity、--store-publisher 临时给。
-STORE_IDENTITY_NAME = ""
-STORE_PUBLISHER = ""
-STORE_PUBLISHER_DISPLAY_NAME = "AI政见"
+STORE_IDENTITY_NAME = "YueluTech.AI"
+STORE_PUBLISHER = "CN=3A0F8D6F-FD64-4A62-B60A-D9B571E4A4F2"
+STORE_PUBLISHER_DISPLAY_NAME = "Yuelu Tech"
 
 # 装进 pyapp\ 的内容：整棵目录，加单个文件。仓库里的测试、样张、各局原料、暂缓的秘书局和宣传教育局不装；
 # 写法规范 shared/skills/ 运行时用不到，也不装。
