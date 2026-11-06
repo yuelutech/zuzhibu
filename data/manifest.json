@@ -1,7 +1,7 @@
 {
   "schema": "zuzhibu-manifest/1",
-  "generated_at": "2026-10-23T12:14:19Z",
-  "data_date": "2026-10-21",
+  "generated_at": "2026-11-06T08:14:56Z",
+  "data_date": "2026-11-06",
   "baseline": "2026年10月版",
   "counts": {"people": 878, "events": 166, "portraits": 652},
   "files": {
@@ -171,7 +171,7 @@
     "events/2026-10/2026-10-19-susie-wiles-appoint.json": {"sha256": "ae3a6a369352304187474b925dd578280e552a371673360e7b49fcb92b1a214a", "size": 3945},
     "events/2026-10/2026-10-20-christopher-w-lynch-transfer.json": {"sha256": "60be294bb00676f9e9f785335dc330c9e0eecc55ff51e023907bf04cff54e725", "size": 3461},
     "events/2026-10/2026-10-20-stanley-l-brown-appoint.json": {"sha256": "92eadf60d5b5418242a6efdb6058b2787d337a393392c66034087663ab08aa3e", "size": 3503},
-    "meta.json": {"sha256": "eb21babaa3534cad472e3dc98cc47610240b3420d9300fce855dea6104bcf3ea", "size": 1862},
+    "meta.json": {"sha256": "8b1fe208d7b5e53a62adaf00099ce2262b3bf680becdbf5f38a65472443e80f3", "size": 1862},
     "people/aaron-bean.json": {"sha256": "c0c07c378d169dfe9d07e370bdf3d6739889c849cae12d9051a11294722b0177", "size": 13607},
     "people/abraham-j-hamadeh.json": {"sha256": "7f7ce99aa16e49feffb467e798c5686afaa44bfef48177b72e716ad01294f622", "size": 13350},
     "people/adam-b-schiff.json": {"sha256": "e77483aa3090b76084e33ab3859a81edf70edd9cb352ff19813114d6c11821e3", "size": 21625},
