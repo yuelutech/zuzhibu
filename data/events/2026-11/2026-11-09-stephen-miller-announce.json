@@ -1,0 +1,102 @@
+{
+  "id": "2026-11-09-stephen-miller-announce",
+  "date": "2026-11-09",
+  "kind": "announce",
+  "kind_label": "宣布",
+  "person_id": "stephen-miller",
+  "person": {
+    "name_zh": "斯蒂芬·米勒",
+    "name_en": "Stephen Miller",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-11-06",
+  "effective_at": "2026-11-09",
+  "ended_roles": [],
+  "new_roles": [
+    {
+      "organization": "美国白宫",
+      "role": "办公厅主任",
+      "organization_en": "The White House",
+      "role_en": "Chief of Staff",
+      "start": "2026-11-09",
+      "end": null,
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e2",
+        "e3"
+      ]
+    }
+  ],
+  "other_current_roles": null,
+  "new_appointment": null,
+  "new_appointment_checked": false,
+  "headline": "特朗普宣布斯蒂芬·米勒将任白宫办公厅主任",
+  "summary": "美国白宫11月6日发布：特朗普当天宣布任命斯蒂芬·米勒为第33任白宫办公厅主任，接替苏茜·怀尔斯。特朗普当天在社交媒体上写明米勒自2026年11月9日（周一）起任办公厅主任。截至2026年11月9日8时30分（世界时，华盛顿时间凌晨3时30分）未见到任报道，按宣布记，到任待复核。是否仍兼总统国土安全事务助理、谁接任办公厅副主任（主管政策）未查到。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+      "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+      "publisher": "The White House",
+      "published_at": "2026-11-06",
+      "excerpt": "Today, President Donald J. Trump announced the appointment of Stephen Miller as the 33rd White House Chief of Staff, succeeding Susie Wiles after her highly successful tenure.",
+      "checked_at": "2026-11-09",
+      "excerpt_check": true
+    },
+    {
+      "id": "e2",
+      "url": "https://thehill.com/homenews/administration/6206974-white-house-deputy-chief-of-staff-departs-stephen-miller/",
+      "title": "Stephen Miller is set to become the new White House chief of staff",
+      "publisher": "The Hill",
+      "published_at": "2026-11-08",
+      "excerpt": "“I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Administration, and one of my most trusted advisors, will become the Chief of Staff starting Monday, November 9, 2026,” Trump wrote Friday on Truth Social.",
+      "checked_at": "2026-11-09",
+      "excerpt_check": null
+    },
+    {
+      "id": "e3",
+      "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+      "title": "Trump installs Stephen Miller as White House chief of staff, replacing Susie Wiles",
+      "publisher": "CBS News",
+      "published_at": "2026-11-06",
+      "excerpt": "In his Truth Social post, the president called Miller \"one of my most trusted advisors\" and said he would begin his new role on Monday.",
+      "checked_at": "2026-11-09",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "manual",
+    "checked_at": "2026-11-09",
+    "model": null,
+    "by": "人工核查：Claude（内置浏览器）打开来源逐字段核对（补采动态，一次一条）",
+    "run": "20261109-115833",
+    "corrections": [],
+    "reasons": [],
+    "precheck": [
+      "effective_at：2026-11-09 不在核实来源的网页上",
+      "new_roles[0].start：2026-11-09 不在核实来源的网页上"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "default_bureau": "whitehouse",
+  "applied": {
+    "status": "recorded",
+    "at": "2026-11-09",
+    "changes": [
+      "现任职务新增：美国白宫办公厅主任",
+      "履历新增：2026-11 美国白宫办公厅主任"
+    ],
+    "notes": [],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "stephen-miller"
+  }
+}

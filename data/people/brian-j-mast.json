@@ -8,9 +8,9 @@
   "ids": {
     "bioguide": "M001199"
   },
-  "data_cutoff": "2026-06-13",
-  "roles_checked_at": "2026-06-13",
-  "updated_at": "2026-10-22",
+  "data_cutoff": "2026-11-09",
+  "roles_checked_at": "2026-11-09",
+  "updated_at": "2026-11-09",
   "origin": "四局首发：Care ceo-profiles 导入",
   "portrait": {
     "file": "brian-j-mast.jpg",
@@ -58,8 +58,26 @@
         "url": "https://www.govinfo.gov/app/details/CDIR-2026-02-20",
         "title": "Official Congressional Directory, 119th Congress（2026年2月20日版，美国政府出版局）",
         "published_at": "2026-02-20",
-        "checked_at": "2026-10-22",
-        "excerpt": "BRIAN J. MAST, Republican, of Fort Pierce, FL; born in Grand Rapids, MI, July 10, 1980; education: B.L.A., economics (concentration), government and environmental studies (minor), Harvard Extension School, Cambridge, MA, 2016",
+        "checked_at": "2026-11-09",
+        "excerpt": "BRIAN J. MAST, Republican, of Fort Pierce, FL; born in Grand Rapids, MI, July 10, 1980; education: B.L.A., economics (concentration), government and environmental studies (minor), Harvard Extension School, Cambridge, MA, 2016; military service: enlisted, U.S. Army, 2000-11 (retired with the rank of Staff Sergeant); professional history: analyst, NA-42 Office of Emergency Response, National Nuclear Security Administration, Department of Energy, 2011-12; instructor, Bureau of Alcohol, Tobacco, and Firearms; explosive specialist, Department of Homeland Security; election history: elected to the 18th District for the 115th Congress on November 8, 2016; reelected to each succeeding Congress; elected to the 21st District for the 118th Congress on November 8, 2022; reelected to the 119th Congress on November 5, 2024.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://en.wikipedia.org/wiki/Brian_Mast",
+        "title": "维基百科：Brian Mast",
+        "published_at": null,
+        "checked_at": "2026-11-09",
+        "excerpt": "In 2016, he obtained a Bachelor of Liberal Arts from the Harvard Extension School with a concentration in economics ... After graduating from high school, Mast enlisted in the United States Army Reserve in May 2000 and became a combat engineer assigned to the 841st Combat Engineer Battalion. In 2006, he transitioned to the active U.S. Army and became an explosive ordnance disposal technician. ... Mast provided explosive and counter-terrorism expertise to the Office of Emergency Operations at the National Nuclear Security Administration from July 2011 to February 2012 ... Constituency: 18th district (2017–2023), 21st district (2023–present); Chair of the House Foreign Affairs Committee, assumed office January 3, 2025",
+        "tier": 3
+      },
+      {
+        "id": "s3",
+        "url": "https://mast.house.gov/about-brian/",
+        "title": "布莱恩·马斯特众议员官网：About Brian",
+        "published_at": null,
+        "checked_at": "2026-11-09",
+        "excerpt": "Congressman Brian Mast is in his fifth term representing the 21st Congressional District of Florida. Prior to his election to Congress, Brian followed in his father’s footsteps by serving in the U.S. Army for more than 12 years ... After his retirement from the Army, he continued working in counter-terrorism and national defense as an Explosive Specialist with the Department of Homeland Security. ... The Transportation and Infrastructure Committee ... The Foreign Affairs Committee, where he serves as Chairman",
         "tier": 1
       }
     ],
@@ -116,18 +134,35 @@
         "inference": null
       },
       "work_start": {
-        "value": "2000",
-        "source_ids": [],
-        "inferred": true,
-        "basis": "按履历首个非学习条目的开始年份推算：美国陆军爆炸物处理军士（T2 Codex 初稿时间线，无来源）；发布稿作「2012年6月参加工作」，月份为旧规则推定，不采用",
-        "inference": {
-          "rule": "first_full_time_job",
-          "from_date": "2000",
-          "duration_years": null
-        }
+        "value": "2000-05",
+        "source_ids": [
+          "s2",
+          "cdir1"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
       },
-      "education": null,
-      "degree": null,
+      "education": {
+        "value": "大学学历",
+        "source_ids": [
+          "cdir1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
+      "degree": {
+        "value": "哈佛大学延伸学院经济学文学学士学位",
+        "source_ids": [
+          "cdir1",
+          "s2"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
       "honorary_degree": null,
       "party": {
         "value": "美国共和党",
@@ -139,7 +174,7 @@
         "inference": null
       },
       "party_joined_at": null,
-      "work_start_action": "参加工作",
+      "work_start_action": "入伍",
       "ethnicity": null,
       "academician": [],
       "military_rank": null,
@@ -173,7 +208,10 @@
         "role": "主席",
         "start": null,
         "concurrent": true,
-        "source_ids": [],
+        "source_ids": [
+          "s3",
+          "s2"
+        ],
         "roles": [
           "主席"
         ],
@@ -187,7 +225,49 @@
         "start": {
           "value": "2000",
           "source_ids": [
-            "care1"
+            "cdir1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2011",
+          "source_ids": [
+            "cdir1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国陆军",
+        "role": "战斗工兵、爆炸物处理技术兵（上士）",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "cdir1",
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2011",
+          "source_ids": [
+            "cdir1",
+            "s2"
           ],
           "inferred": false,
           "basis": null,
@@ -196,59 +276,30 @@
         "end": {
           "value": "2012",
           "source_ids": [
-            "care1"
+            "cdir1",
+            "s2"
           ],
           "inferred": false,
           "basis": null,
           "inference": null
         },
-        "organization": "美国陆军爆炸物处理军士",
-        "role": null,
+        "organization": "美国能源部国家核安全管理局应急响应办公室",
+        "role": "分析员",
         "program": null,
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
-          "care1"
+          "cdir1"
         ],
         "ongoing": false,
-        "roles": [],
+        "roles": [
+          "分析员"
+        ],
         "role_category": null,
         "role_basis": null,
         "study_level": null,
         "full_time": null,
-        "annotations": [
-          {
-            "kind": "study",
-            "start": {
-              "value": "2000",
-              "source_ids": [],
-              "inferred": false,
-              "basis": null,
-              "inference": null
-            },
-            "end": {
-              "value": "2016",
-              "source_ids": [],
-              "inferred": false,
-              "basis": null,
-              "inference": null
-            },
-            "ongoing": false,
-            "organization": "哈佛大学延伸学院",
-            "role": null,
-            "roles": [],
-            "program": "经济学",
-            "degree_awarded": {
-              "value": "文学学士",
-              "source_ids": [],
-              "inferred": false,
-              "basis": null,
-              "inference": null
-            },
-            "concurrent": true,
-            "source_ids": []
-          }
-        ],
+        "annotations": [],
         "appointment_state": null,
         "stable_identity": false
       },
@@ -272,21 +323,60 @@
           "basis": null,
           "inference": null
         },
-        "organization": "美国国土安全部爆炸物专家，退伍军人事务机构工作人员",
-        "role": null,
+        "organization": "美国国土安全部",
+        "role": "爆炸物专家",
         "program": null,
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
+          "cdir1",
+          "s3",
           "care1"
         ],
         "ongoing": false,
-        "roles": [],
+        "roles": [
+          "爆炸物专家"
+        ],
         "role_category": null,
         "role_basis": null,
         "study_level": null,
         "full_time": null,
-        "annotations": [],
+        "annotations": [
+          {
+            "kind": "review",
+            "start": {
+              "value": "2016",
+              "source_ids": [
+                "cdir1",
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "end": {
+              "value": "2016",
+              "source_ids": [
+                "cdir1",
+                "s2"
+              ],
+              "inferred": false,
+              "basis": null,
+              "inference": null
+            },
+            "ongoing": false,
+            "organization": "获哈佛大学延伸学院经济学文学学士学位",
+            "role": null,
+            "roles": [],
+            "program": null,
+            "degree_awarded": null,
+            "concurrent": true,
+            "source_ids": [
+              "cdir1",
+              "s2"
+            ]
+          }
+        ],
         "appointment_state": null,
         "stable_identity": false
       },
@@ -333,7 +423,49 @@
         "start": {
           "value": "2017",
           "source_ids": [
-            "care1"
+            "cdir1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2023",
+          "source_ids": [
+            "cdir1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "佛罗里达州第18选区联邦众议员",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "cdir1",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2023",
+          "source_ids": [
+            "cdir1",
+            "s2"
           ],
           "inferred": false,
           "basis": null,
@@ -346,7 +478,9 @@
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
-          "care1"
+          "cdir1",
+          "s1",
+          "s2"
         ],
         "ongoing": true,
         "roles": [],
@@ -359,7 +493,9 @@
             "kind": "part_time",
             "start": {
               "value": "2025",
-              "source_ids": [],
+              "source_ids": [
+                "s2"
+              ],
               "inferred": false,
               "basis": null,
               "inference": null
@@ -372,7 +508,10 @@
             "program": null,
             "degree_awarded": null,
             "concurrent": true,
-            "source_ids": []
+            "source_ids": [
+              "s3",
+              "s2"
+            ]
           },
           {
             "kind": "part_time",
@@ -385,13 +524,15 @@
             },
             "end": null,
             "ongoing": true,
-            "organization": "美国众议院交通和基础设施委员会委员",
+            "organization": "美国众议院运输和基础设施委员会委员",
             "role": null,
             "roles": [],
             "program": null,
             "degree_awarded": null,
             "concurrent": true,
-            "source_ids": []
+            "source_ids": [
+              "s3"
+            ]
           }
         ],
         "appointment_state": null,
@@ -404,18 +545,22 @@
     "company_tag": "美国众议院",
     "conflicts": [],
     "unknowns": [
-      "学历学位：履历无带学位的学习条目",
-      "参加工作/入伍写法待定：首个履历条目为军职（美国陆军爆炸物处理军士）",
-      "履历：来源只有旧项目国会议员简历底稿（三级），待重新取证",
       "入党时间：底稿无锚点，按 party_join.md 重新取锚点",
-      "参加工作：记录作 2000 年，旧底稿首段作“2012年6月参加工作”，底稿履历第一条是军职，参加工作还是入伍待定，没配来源"
+      "履历：国土安全部爆炸物专家的起止（2012年－2016年）和竞选委员会一条只有旧项目简历底稿（三级）",
+      "国会名录列有美国烟酒枪炮及爆炸物管理局教官一职，起止未查到，未编入履历",
+      "哈佛大学延伸学院入学年未查到；运输和基础设施委员会委员起始年（2025）沿用旧底稿，未核"
     ],
     "excluded": [
-      "发布稿「2012年6月参加工作」：月份为旧规则推定，只写到年",
-      "发布稿入党句「2016年8月加入美国共和党」：底稿无锚点、无来源，不采用"
+      "发布稿「2012年6月参加工作」：月份为旧规则推定，只写到年；2026-11-09 按维基百科改为2000年5月入伍（国会名录：2000年入伍）",
+      "发布稿入党句「2016年8月加入美国共和党」：底稿无锚点、无来源，不采用",
+      "底稿「美国陆军爆炸物处理军士」：职务写成了单位，按国会名录、维基百科改为美国陆军战斗工兵、爆炸物处理技术兵（上士）",
+      "底稿「2000年－2016年在哈佛大学延伸学院在职研究生学习」：国会名录、维基百科作2016年获文学学士学位（本科），不是研究生",
+      "底稿「退伍军人事务机构工作人员」：国会名录、众议员官网、维基百科都没有，不采用",
+      "维基百科「国家核安全管理局应急行动办公室（Office of Emergency Operations）」：国会名录作 NA-42 Office of Emergency Response，按一级来源写应急响应办公室",
+      "底稿「2017年起佛罗里达州第21选区」：国会名录、维基百科作2017年－2023年第18选区，2023年起第21选区"
     ],
     "country_profile": "us",
-    "card_type": null,
+    "card_type": "完整简历卡",
     "date_granularity": "year",
     "disambiguation": null,
     "review_items": []

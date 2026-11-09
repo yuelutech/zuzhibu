@@ -6,11 +6,16 @@
   "also_in": [],
   "tier": "draft",
   "ids": {},
-  "data_cutoff": "2026-10-18",
-  "roles_checked_at": "2026-10-18",
-  "updated_at": "2026-10-20",
+  "data_cutoff": "2026-11-09",
+  "roles_checked_at": "2026-11-09",
+  "updated_at": "2026-11-09",
   "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Assistant to the President and Deputy Chief of Staff for Policy and Homeland Security Advisor The White House Assistant to the President and Deputy Chief of Staff for Policy and Homeland Security Advisor”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/stephen-miller.json（sanju-baigong，程序检查通过，待独立核查）",
-  "portrait": null,
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_Miller_July_2025.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stephen_Miller_July_2025.jpg",
+    "source_kind": "维基共享资源（白宫官方照）",
+    "license": "公有领域：美国总统行政办公室雇员的职务作品（维基共享资源 PD-USGov-POTUS），白宫官方 Flickr，2025年7月18日白宫国宴厅，摄影 Daniel Torok；原图附白宫使用说明，不得用于暗示总统、第一家庭或白宫认可的商业、政治宣传"
+  },
   "roster_roles": [
     {
       "organization_en": "The White House",
@@ -20,7 +25,9 @@
   "notes": [
     "截至2026-10-18；具体事实和缺项见同名简历包；补采任务 sanju-baigong（2026-10-20）"
   ],
-  "events": [],
+  "events": [
+    "2026-11-09-stephen-miller-announce"
+  ],
   "bureau_history": [
     {
       "from": null,
@@ -48,10 +55,10 @@
       {
         "id": "s2",
         "url": "https://en.wikipedia.org/wiki/Stephen_Miller",
-        "title": "Stephen Miller",
+        "title": "维基百科：Stephen Miller",
         "published_at": null,
-        "checked_at": "2026-10-18",
-        "excerpt": "born August 23, 1985; Duke ... 2003; press secretary ... December 2007; June 2009 ... Sessions",
+        "checked_at": "2026-11-09",
+        "excerpt": "born August 23, 1985 ... Education: Duke University (BA) ... Miller began attending Duke University in 2003 to study political science. ... After graduating in 2007 ... Miller began working for Minnesota representative Michele Bachmann by December 2007 as her press secretary. ... Horowitz referred Miller to Arizona representative John Shadegg. ... in June 2009, Miller began working for Alabama senator Jeff Sessions as his press secretary. ... Miller became Sessions's communications manager by August 2014. ... In January 2016, Miller joined Trump's presidential campaign as a senior policy advisor. ... By August, he had become Trump's national policy director. ... After Trump won the 2016 election, Miller retained his role as national policy director for the transition.",
         "tier": 3
       },
       {
@@ -68,8 +75,44 @@
         "url": "https://www.ebsco.com/research-starters/biography/stephen-miller",
         "title": "Stephen Miller — EBSCO Research Starters",
         "published_at": null,
-        "checked_at": "2026-10-18",
-        "excerpt": "Stephen Miller was born on August 23, 1985; Following his 2007 graduation from Duke, Miller worked as a press secretary",
+        "checked_at": "2026-11-09",
+        "excerpt": "Stephen Miller was born on August 23, 1985 ... After his 2003 high school graduation, Miller studied political science at Duke University ... Following his 2007 graduation from Duke, Miller worked as a press secretary for Michele Bachmann ... He then worked as the communications director for John Shadegg ... before working as a policy adviser for Alabama senator Jeff Sessions ... Miller soon was promoted to Sessions’s communications director. ... Miller joined Donald Trump’s presidential campaign in January 2016 as a senior policy adviser. ... Miller led a conservative nonprofit group, America First Legal Foundation. ... In 2025, Miller returned to the White House as deputy chief of staff for policy and homeland security adviser",
+        "tier": 2
+      },
+      {
+        "id": "s5",
+        "url": "https://www.britannica.com/biography/Stephen-Miller",
+        "title": "Stephen Miller | Britannica",
+        "published_at": null,
+        "checked_at": "2026-11-09",
+        "excerpt": "Miller later attended Duke University, where he studied political science ... He graduated from Duke in 2007. ... He was hired as a press secretary for U.S. Rep. Michele Bachmann (Minnesota) and later served as communications director for Rep. John Shadegg (Arizona). In 2009 Miller began working for Sen. Jeff Sessions (Alabama) ... Miller, who eventually became chief of communications ... He subsequently founded (2021) the America First Legal Foundation. ... Miller assumed the posts on January 20, 2025.",
+        "tier": 2
+      },
+      {
+        "id": "s6",
+        "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+        "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+        "published_at": "2026-11-06",
+        "checked_at": "2026-11-09",
+        "excerpt": "Today, President Donald J. Trump announced the appointment of Stephen Miller as the 33rd White House Chief of Staff, succeeding Susie Wiles after her highly successful tenure.",
+        "tier": 1
+      },
+      {
+        "id": "s7",
+        "url": "https://thehill.com/homenews/administration/6206974-white-house-deputy-chief-of-staff-departs-stephen-miller/",
+        "title": "Stephen Miller is set to become the new White House chief of staff",
+        "published_at": "2026-11-08",
+        "checked_at": "2026-11-09",
+        "excerpt": "“I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Administration, and one of my most trusted advisors, will become the Chief of Staff starting Monday, November 9, 2026,” Trump wrote Friday on Truth Social.",
+        "tier": null
+      },
+      {
+        "id": "s8",
+        "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+        "title": "Trump installs Stephen Miller as White House chief of staff, replacing Susie Wiles",
+        "published_at": "2026-11-06",
+        "checked_at": "2026-11-09",
+        "excerpt": "In his Truth Social post, the president called Miller \"one of my most trusted advisors\" and said he would begin his new role on Monday.",
         "tier": 2
       }
     ],
@@ -126,7 +169,8 @@
       "work_start": {
         "value": "2007-06",
         "source_ids": [
-          "s4"
+          "s4",
+          "s5"
         ],
         "inferred": true,
         "basis": "2007年大学毕业后首份工作为巴赫曼新闻秘书；毕业月按美国学年取5月，工作月取次月",
@@ -137,15 +181,26 @@
         }
       },
       "education": {
-        "value": "杜克大学政治学专业",
+        "value": "大学学历",
         "source_ids": [
-          "s4"
+          "s4",
+          "s5"
         ],
         "inferred": false,
         "basis": null,
         "inference": null
       },
-      "degree": null,
+      "degree": {
+        "value": "杜克大学政治学文学学士学位",
+        "source_ids": [
+          "s2",
+          "s4",
+          "s5"
+        ],
+        "inferred": false,
+        "basis": null,
+        "inference": null
+      },
       "honorary_degree": null,
       "party": null,
       "party_joined_at": null,
@@ -160,7 +215,7 @@
     "current_roles": [
       {
         "organization": "白宫",
-        "role": "总统助理、政策事务副幕僚长、国土安全顾问",
+        "role": "办公厅副主任（主管政策）兼总统国土安全事务助理",
         "start": {
           "value": "2025-01-20",
           "source_ids": [
@@ -176,11 +231,33 @@
           "s1",
           "s3"
         ],
-        "roles": [
-          "总统助理、政策事务副幕僚长、国土安全顾问"
-        ],
+        "roles": [],
         "sector": "politics",
         "appointment_state": "正式"
+      },
+      {
+        "organization": "白宫",
+        "role": "办公厅主任",
+        "start": {
+          "value": "2026-11-09",
+          "source_ids": [
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s7",
+          "s8"
+        ],
+        "roles": [],
+        "sector": "politics",
+        "appointment_state": "候任"
       }
     ],
     "careers": [
@@ -189,6 +266,7 @@
         "start": {
           "value": "2003",
           "source_ids": [
+            "s2",
             "s4"
           ],
           "inferred": false,
@@ -198,24 +276,34 @@
         "end": {
           "value": "2007",
           "source_ids": [
-            "s4"
+            "s4",
+            "s5"
           ],
           "inferred": false,
           "basis": null,
           "inference": null
         },
         "organization": "杜克大学",
-        "role": "政治学专业学习",
-        "program": null,
-        "degree_awarded": null,
+        "role": null,
+        "program": "政治学",
+        "degree_awarded": {
+          "value": "文学学士",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
         "concurrent": false,
         "source_ids": [
-          "s4"
+          "s2",
+          "s4",
+          "s5"
         ],
         "ongoing": false,
-        "roles": [
-          "政治学专业学习"
-        ],
+        "roles": [],
         "role_category": null,
         "role_basis": null,
         "study_level": "bachelor",
@@ -229,24 +317,79 @@
         "start": {
           "value": "2007",
           "source_ids": [
+            "s2",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2009",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "美国联邦众议员米歇尔·巴赫曼办公室新闻秘书、约翰·沙德格办公室通讯主任",
+        "role": null,
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s4",
+          "s5",
+          "s2"
+        ],
+        "ongoing": false,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2009",
+          "source_ids": [
+            "s2",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": {
+          "value": "2016",
+          "source_ids": [
+            "s2",
             "s4"
           ],
           "inferred": false,
           "basis": null,
           "inference": null
         },
-        "end": null,
-        "organization": "美国联邦众议员米歇尔·巴赫曼办公室",
-        "role": "新闻秘书",
+        "organization": "美国联邦参议员杰夫·塞申斯办公室",
+        "role": "新闻秘书、通讯主任",
         "program": null,
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
-          "s4"
+          "s2",
+          "s4",
+          "s5"
         ],
         "ongoing": false,
         "roles": [
-          "新闻秘书"
+          "新闻秘书",
+          "通讯主任"
         ],
         "role_category": null,
         "role_basis": null,
@@ -261,24 +404,35 @@
         "start": {
           "value": "2016-01",
           "source_ids": [
+            "s2",
             "s4"
           ],
           "inferred": false,
           "basis": null,
           "inference": null
         },
-        "end": null,
-        "organization": "特朗普总统竞选团队",
-        "role": "高级政策顾问",
+        "end": {
+          "value": "2017-01",
+          "source_ids": [
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "特朗普总统竞选团队、过渡团队",
+        "role": "高级政策顾问、全国政策主任",
         "program": null,
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
+          "s2",
           "s4"
         ],
         "ongoing": false,
         "roles": [
-          "高级政策顾问"
+          "高级政策顾问",
+          "全国政策主任"
         ],
         "role_category": null,
         "role_basis": null,
@@ -335,25 +489,36 @@
           "value": "2021",
           "source_ids": [
             "s2",
-            "s3"
+            "s5"
           ],
           "inferred": false,
           "basis": null,
           "inference": null
         },
-        "end": null,
+        "end": {
+          "value": "2025",
+          "source_ids": [
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
         "organization": "America First Legal 基金会",
-        "role": "联合创办人",
+        "role": "联合创始人",
         "program": null,
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
           "s2",
-          "s3"
+          "s3",
+          "s5"
         ],
         "ongoing": false,
         "roles": [
-          "联合创办人"
+          "联合创始人"
         ],
         "role_category": null,
         "role_basis": null,
@@ -377,7 +542,7 @@
         },
         "end": null,
         "organization": "白宫",
-        "role": "总统助理、政策事务副幕僚长、国土安全顾问",
+        "role": "办公厅副主任（主管政策）兼总统国土安全事务助理",
         "program": null,
         "degree_awarded": null,
         "concurrent": false,
@@ -386,15 +551,47 @@
           "s3"
         ],
         "ongoing": true,
-        "roles": [
-          "总统助理、政策事务副幕僚长、国土安全顾问"
-        ],
+        "roles": [],
         "role_category": null,
         "role_basis": null,
         "study_level": null,
         "full_time": null,
         "annotations": [],
         "appointment_state": "正式",
+        "stable_identity": false
+      },
+      {
+        "kind": "work",
+        "start": {
+          "value": "2026-11-09",
+          "source_ids": [
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "end": null,
+        "organization": "白宫",
+        "role": "办公厅主任",
+        "program": null,
+        "degree_awarded": null,
+        "concurrent": false,
+        "source_ids": [
+          "s6",
+          "s7",
+          "s8"
+        ],
+        "ongoing": true,
+        "roles": [],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": "候任",
         "stable_identity": false
       }
     ],
@@ -404,14 +601,18 @@
     "company_tag": "",
     "conflicts": [],
     "unknowns": [
-      "约翰·沙德格办公室新闻秘书经历有来源，起止日期未查清，未编入时间线。",
-      "塞申斯办公室由新闻秘书转通讯负责人、竞选团队职务变动日期未查清；同单位合并列职。",
-      "创办人是历史身份；AFL当前网页未列他担任运营管理职务，未作现任。",
+      "巴赫曼、沙德格两处办公室的分界年份未查到，合为一条（2007年－2009年）；沙德格处职务大英百科、EBSCO 作通讯主任（communications director），维基百科作新闻秘书，取二级来源",
+      "塞申斯办公室：维基百科作2009年6月任新闻秘书、2014年8月前已任通讯负责人，EBSCO 作先任政策顾问、后升任通讯主任；升任年份未查到，同单位合并列职",
+      "创始人是历史身份；America First Legal 官网 about 页 2026-11-09 已打不开（404），任职止于2025年据该页旧摘录（2025年1月20日入白宫）和 EBSCO、大英百科",
       "入党时间未查到本人宣布、登记、选举或党职锚点；竞选雇员经历不用于推断入党。",
-      "约翰·谢德格众议员办公室通讯联络主任和塞申斯办公室任职的具体起止日期未由原始材料确认；塞申斯条目起始日期留空。文学学士的具体学位名称未获学校原始材料，degree留空。",
-      "已查事实：美国联邦参议员杰夫·塞申斯办公室；政策顾问、通讯联络负责人；起始时间未查明；结束时间未查明。来源：s4。缺少时间或机构，暂不编入有日期的履历。"
+      "任白宫办公厅主任后是否仍兼总统国土安全事务助理、谁接任办公厅副主任（主管政策），未查到",
+      "照片：维基共享资源 Stephen_Miller_July_2025.jpg（公有领域）是从合影裁出的 840×1037 小图，按标准像对齐规格要放大到脸宽 59%（上限 56%），做不成 600×800 标准像，只登记来源和许可；标准像待换取景更宽的公有领域原图"
     ],
-    "excluded": [],
+    "excluded": [
+      "维基百科「沙德格办公室新闻秘书」：大英百科、EBSCO 作通讯主任，取二级来源",
+      "现任职务旧写法「总统助理、政策事务副幕僚长、国土安全顾问」：照译名表 v1.4 写办公厅副主任（主管政策）兼总统国土安全事务助理",
+      "「America First Legal 基金会联合创办人」：照译名表 v1.4（Co-founder）写联合创始人"
+    ],
     "country_profile": "us",
     "card_type": "完整简历卡",
     "date_granularity": "year",

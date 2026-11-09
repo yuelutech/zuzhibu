@@ -8,9 +8,9 @@
   "ids": {
     "bioguide": "C001087"
   },
-  "data_cutoff": "2026-06-13",
-  "roles_checked_at": "2026-06-13",
-  "updated_at": "2026-10-22",
+  "data_cutoff": "2026-11-09",
+  "roles_checked_at": "2026-11-09",
+  "updated_at": "2026-11-09",
   "origin": "四局首发：Care ceo-profiles 导入",
   "portrait": {
     "file": "eric-a-rick-crawford.jpg",
@@ -58,8 +58,17 @@
         "url": "https://www.govinfo.gov/app/details/CDIR-2026-02-20",
         "title": "Official Congressional Directory, 119th Congress（2026年2月20日版，美国政府出版局）",
         "published_at": "2026-02-20",
-        "checked_at": "2026-10-22",
-        "excerpt": "ERIC A. \"RICK\" CRAWFORD, Republican, of Jonesboro, AR; born on Homestead AFB, FL, January 22, 1966; education: B.A., agricultural business and economics, Arkansas State University, Jonesboro, AR, 1996",
+        "checked_at": "2026-11-09",
+        "excerpt": "ERIC A. \"RICK\" CRAWFORD, Republican, of Jonesboro, AR; born on Homestead AFB, FL, January 22, 1966; education: B.A., agricultural business and economics, Arkansas State University, Jonesboro, AR, 1996; military service: explosive ordinance disposal technician, U.S. Army, 1985-89 (retiring with the rank of Sergeant); professional history: professional rodeo announcer; news anchor, KAIT-TV Jonesboro; farm director, KFIN-FM; producer and anchor, Delta Farm Roundup TV Show; marketing manager, John Deere; owner and operator, Agwatch; election history: elected to the 112th Congress on November 2, 2010; reelected to each succeeding Congress.",
+        "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://crawford.house.gov/about-rick",
+        "title": "里克·克劳福德众议员官网：About Rick",
+        "published_at": null,
+        "checked_at": "2026-11-09",
+        "excerpt": "Rick enlisted in the United States Army straight out of high school. He served as an Explosive Ordnance Disposal Technician, completing four years of service and advancing to the rank of Sergeant. ... he graduated in 1996 with a degree in Agriculture Business and Economics. ... Rick has served on the House Permanent Select Committee on Intelligence since 2017 and was appointed Chairman in January 2025.",
         "tier": 1
       }
     ],
@@ -117,8 +126,8 @@
       "work_start": {
         "value": "1985",
         "source_ids": [
-          "care1",
-          "cdir1"
+          "cdir1",
+          "s2"
         ],
         "inferred": false,
         "basis": null,
@@ -153,7 +162,7 @@
         "inference": null
       },
       "party_joined_at": null,
-      "work_start_action": "参加工作",
+      "work_start_action": "入伍",
       "ethnicity": null,
       "academician": [],
       "military_rank": null,
@@ -187,7 +196,9 @@
         "role": "主席",
         "start": null,
         "concurrent": true,
-        "source_ids": [],
+        "source_ids": [
+          "s2"
+        ],
         "roles": [
           "主席"
         ],
@@ -201,7 +212,8 @@
         "start": {
           "value": "1985",
           "source_ids": [
-            "care1"
+            "cdir1",
+            "s2"
           ],
           "inferred": false,
           "basis": null,
@@ -210,18 +222,20 @@
         "end": {
           "value": "1989",
           "source_ids": [
-            "care1"
+            "cdir1"
           ],
           "inferred": false,
           "basis": null,
           "inference": null
         },
-        "organization": "美国陆军爆炸物处理部队士兵，陆军中士",
-        "role": null,
+        "organization": "美国陆军",
+        "role": "爆炸物处理技术兵（中士）",
         "program": null,
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
+          "cdir1",
+          "s2",
           "care1"
         ],
         "ongoing": false,
@@ -413,13 +427,15 @@
     "company_tag": "美国众议院",
     "conflicts": [],
     "unknowns": [
-      "参加工作/入伍写法待定：首个履历条目为军职（美国陆军爆炸物处理部队士兵，陆军中士）",
       "履历：来源只有旧项目国会议员简历底稿（三级），待重新取证",
-      "入党时间：底稿无锚点，按 party_join.md 重新取锚点"
+      "入党时间：底稿无锚点，按 party_join.md 重新取锚点",
+      "学位类别：国会名录作 B.A.（文学学士），维基百科作 B.S.（理学学士），记录沿用旧底稿的理学学士，待核"
     ],
     "excluded": [
       "发布稿「1985年1月参加工作」：月份为旧规则推定，只写到年",
-      "发布稿入党句「2010年5月加入美国共和党」：底稿无锚点、无来源，不采用"
+      "发布稿入党句「2010年5月加入美国共和党」：底稿无锚点、无来源，不采用",
+      "底稿「美国陆军爆炸物处理部队士兵，陆军中士」：按国会名录、众议员官网改为单位＋职务，军衔写在括号里",
+      "底稿首段「1985年参加工作」：高中毕业即入伍（众议员官网），改为入伍"
     ],
     "country_profile": "us",
     "card_type": "完整简历卡",

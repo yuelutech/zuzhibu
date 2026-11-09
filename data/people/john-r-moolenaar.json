@@ -8,9 +8,9 @@
   "ids": {
     "bioguide": "M001194"
   },
-  "data_cutoff": "2026-06-13",
-  "roles_checked_at": "2026-06-13",
-  "updated_at": "2026-10-22",
+  "data_cutoff": "2026-11-09",
+  "roles_checked_at": "2026-11-09",
+  "updated_at": "2026-11-09",
   "origin": "四局首发：Care ceo-profiles 导入",
   "portrait": {
     "file": "john-r-moolenaar.jpg",
@@ -58,9 +58,36 @@
         "url": "https://www.govinfo.gov/app/details/CDIR-2026-02-20",
         "title": "Official Congressional Directory, 119th Congress（2026年2月20日版，美国政府出版局）",
         "published_at": "2026-02-20",
-        "checked_at": "2026-10-22",
-        "excerpt": "JOHN R. MOOLENAAR, Republican, of Caledonia, MI; born in Midland, MI, May 8, 1961; education: B.S., Hope College, Holland, MI, 1983; M.P.A., Harvard University, Cambridge, MA, 1989; professional history: chemist, Dow Chemical Company; businessman; school administrator",
+        "checked_at": "2026-11-09",
+        "excerpt": "JOHN R. MOOLENAAR, Republican, of Caledonia, MI; born in Midland, MI, May 8, 1961; education: B.S., Hope College, Holland, MI, 1983; M.P.A., Harvard University, Cambridge, MA, 1989; professional history: chemist, Dow Chemical Company; businessman; school administrator; member, Midland City Council, 1997-2000; member, Michigan House of Representatives, 2003-08; member, Michigan State Senate, 2011-14; election history: elected to the 4th District for the 114th Congress on November 4, 2014; reelected to each succeeding Congress; elected to the 2nd District for the 118th Congress on November 8, 2022; reelected to the 119th Congress on November 5, 2024.",
         "tier": 1
+      },
+      {
+        "id": "s2",
+        "url": "https://moolenaar.house.gov/about/full-biography",
+        "title": "约翰·穆勒纳尔众议员官网：Biography",
+        "published_at": null,
+        "checked_at": "2026-11-09",
+        "excerpt": "He began his career as a chemist, after graduating from Hope College with a bachelor’s degree in chemistry. Moolenaar then worked in business development, and as a school administrator. Moolenaar has a master’s degree in public administration from Harvard University. From 2003-2008, he served in the Michigan House of Representatives, and in the Michigan State Senate from 2011-2014. ... Moolenaar also serves as Chairman of the House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party.",
+        "tier": 1
+      },
+      {
+        "id": "s3",
+        "url": "https://webharvest.gov/congress114th/20170111234646/https://moolenaar.house.gov/about/full-biography",
+        "title": "约翰·穆勒纳尔众议员官网简历（2017年1月，美国国家档案馆第114届国会网页存档）",
+        "published_at": "2017-01-11",
+        "checked_at": "2026-11-09",
+        "excerpt": "He has worked as a chemist and business development director, and as an administrator at Midland Academy of Advanced and Creative Studies.",
+        "tier": 1
+      },
+      {
+        "id": "s4",
+        "url": "https://en.wikipedia.org/wiki/John_Moolenaar",
+        "title": "维基百科：John Moolenaar",
+        "published_at": null,
+        "checked_at": "2026-11-09",
+        "excerpt": "Member of the Michigan House of Representatives from the 98th district, in office January 1, 2003 – December 31, 2008; Member of the Michigan Senate from the 36th district, in office January 1, 2011 – December 31, 2014; Chair of the House Committee on the Chinese Communist Party, assumed office April 24, 2024. ... Moolenaar worked at Dow Chemical Company as a chemist for eight months before entering politics.",
+        "tier": 3
       }
     ],
     "tags": [
@@ -118,10 +145,11 @@
       "work_start": {
         "value": "1983",
         "source_ids": [
-          "care1"
+          "s2",
+          "cdir1"
         ],
         "inferred": true,
-        "basis": "按第一份全职工作的开始时间推算：陶氏化学公司化学师、米德兰地区教育和企业机构工作人员（旧项目简历底稿履历第一条）",
+        "basis": "按第一份全职工作的开始时间推算：1983年霍普学院化学学士毕业（国会名录）后以化学师开始职业生涯（众议员官网），供职于陶氏化学公司（国会名录）",
         "inference": {
           "rule": "first_full_time_job",
           "from_date": "1983",
@@ -129,20 +157,20 @@
         }
       },
       "education": {
-        "value": "大学学历",
+        "value": "研究生学历",
         "source_ids": [
-          "care1",
-          "cdir1"
+          "cdir1",
+          "s2"
         ],
         "inferred": false,
         "basis": null,
         "inference": null
       },
       "degree": {
-        "value": "霍普学院化学理学学士学位",
+        "value": "哈佛大学公共管理硕士学位",
         "source_ids": [
-          "care1",
-          "cdir1"
+          "cdir1",
+          "s2"
         ],
         "inferred": false,
         "basis": null,
@@ -193,7 +221,9 @@
         "role": "主席",
         "start": null,
         "concurrent": true,
-        "source_ids": [],
+        "source_ids": [
+          "s2"
+        ],
         "roles": [
           "主席"
         ],
@@ -216,7 +246,8 @@
         "end": {
           "value": "1983",
           "source_ids": [
-            "care1"
+            "care1",
+            "cdir1"
           ],
           "inferred": false,
           "basis": null,
@@ -228,7 +259,8 @@
         "degree_awarded": {
           "value": "理学学士",
           "source_ids": [
-            "care1"
+            "care1",
+            "cdir1"
           ],
           "inferred": false,
           "basis": null,
@@ -236,7 +268,9 @@
         },
         "concurrent": false,
         "source_ids": [
-          "care1"
+          "care1",
+          "cdir1",
+          "s2"
         ],
         "ongoing": false,
         "roles": [],
@@ -253,68 +287,87 @@
         "start": {
           "value": "1983",
           "source_ids": [
-            "care1"
+            "s2",
+            "cdir1"
           ],
-          "inferred": false,
-          "basis": null,
-          "inference": null
+          "inferred": true,
+          "basis": "1983年霍普学院毕业（国会名录）后以化学师开始职业生涯（众议员官网）",
+          "inference": {
+            "rule": "adjacent_entry",
+            "from_date": "1983",
+            "duration_years": null
+          }
         },
-        "end": {
-          "value": "1997",
-          "source_ids": [
-            "care1"
-          ],
-          "inferred": false,
-          "basis": null,
-          "inference": null
-        },
-        "organization": "陶氏化学公司化学师、米德兰地区教育和企业机构工作人员",
-        "role": null,
+        "end": null,
+        "organization": "陶氏化学公司",
+        "role": "化学师",
         "program": null,
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
-          "care1"
+          "cdir1",
+          "s2",
+          "s3"
+        ],
+        "ongoing": false,
+        "roles": [
+          "化学师"
+        ],
+        "role_category": null,
+        "role_basis": null,
+        "study_level": null,
+        "full_time": null,
+        "annotations": [],
+        "appointment_state": null,
+        "stable_identity": false
+      },
+      {
+        "kind": "study",
+        "start": {
+          "value": "1987",
+          "source_ids": [],
+          "inferred": true,
+          "basis": "按学制倒推：公共管理硕士两年制，1989年毕业（国会名录）",
+          "inference": {
+            "rule": "degree_duration",
+            "from_date": "1989",
+            "duration_years": 2
+          }
+        },
+        "end": {
+          "value": "1989",
+          "source_ids": [
+            "cdir1"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "organization": "哈佛大学肯尼迪学院",
+        "role": null,
+        "program": "公共管理",
+        "degree_awarded": {
+          "value": "公共管理硕士",
+          "source_ids": [
+            "cdir1",
+            "s2"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
+        "concurrent": false,
+        "source_ids": [
+          "cdir1",
+          "s2"
         ],
         "ongoing": false,
         "roles": [],
         "role_category": null,
         "role_basis": null,
-        "study_level": null,
+        "study_level": "master",
         "full_time": null,
-        "annotations": [
-          {
-            "kind": "study",
-            "start": {
-              "value": "1987",
-              "source_ids": [],
-              "inferred": false,
-              "basis": null,
-              "inference": null
-            },
-            "end": {
-              "value": "1989",
-              "source_ids": [],
-              "inferred": false,
-              "basis": null,
-              "inference": null
-            },
-            "ongoing": false,
-            "organization": "哈佛大学肯尼迪政府学院",
-            "role": null,
-            "roles": [],
-            "program": "公共管理",
-            "degree_awarded": {
-              "value": "公共管理硕士",
-              "source_ids": [],
-              "inferred": false,
-              "basis": null,
-              "inference": null
-            },
-            "concurrent": true,
-            "source_ids": []
-          }
-        ],
+        "annotations": [],
         "appointment_state": null,
         "stable_identity": false
       },
@@ -323,7 +376,7 @@
         "start": {
           "value": "1997",
           "source_ids": [
-            "care1"
+            "cdir1"
           ],
           "inferred": false,
           "basis": null,
@@ -332,7 +385,7 @@
         "end": {
           "value": "2000",
           "source_ids": [
-            "care1"
+            "cdir1"
           ],
           "inferred": false,
           "basis": null,
@@ -344,6 +397,7 @@
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
+          "cdir1",
           "care1"
         ],
         "ongoing": false,
@@ -361,16 +415,20 @@
         "start": {
           "value": "2003",
           "source_ids": [
-            "care1"
+            "cdir1",
+            "s2",
+            "s4"
           ],
           "inferred": false,
           "basis": null,
           "inference": null
         },
         "end": {
-          "value": "2009",
+          "value": "2008",
           "source_ids": [
-            "care1"
+            "cdir1",
+            "s2",
+            "s4"
           ],
           "inferred": false,
           "basis": null,
@@ -382,7 +440,9 @@
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
-          "care1"
+          "cdir1",
+          "s2",
+          "s4"
         ],
         "ongoing": false,
         "roles": [],
@@ -399,16 +459,20 @@
         "start": {
           "value": "2011",
           "source_ids": [
-            "care1"
+            "cdir1",
+            "s2",
+            "s4"
           ],
           "inferred": false,
           "basis": null,
           "inference": null
         },
         "end": {
-          "value": "2015",
+          "value": "2014",
           "source_ids": [
-            "care1"
+            "cdir1",
+            "s2",
+            "s4"
           ],
           "inferred": false,
           "basis": null,
@@ -420,7 +484,9 @@
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
-          "care1"
+          "cdir1",
+          "s2",
+          "s4"
         ],
         "ongoing": false,
         "roles": [],
@@ -437,6 +503,7 @@
         "start": {
           "value": "2015",
           "source_ids": [
+            "cdir1",
             "care1"
           ],
           "inferred": false,
@@ -446,6 +513,7 @@
         "end": {
           "value": "2023",
           "source_ids": [
+            "cdir1",
             "care1"
           ],
           "inferred": false,
@@ -458,6 +526,8 @@
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
+          "cdir1",
+          "s1",
           "care1"
         ],
         "ongoing": false,
@@ -475,6 +545,7 @@
         "start": {
           "value": "2023",
           "source_ids": [
+            "cdir1",
             "care1"
           ],
           "inferred": false,
@@ -488,6 +559,8 @@
         "degree_awarded": null,
         "concurrent": false,
         "source_ids": [
+          "cdir1",
+          "s1",
           "care1"
         ],
         "ongoing": true,
@@ -501,7 +574,9 @@
             "kind": "part_time",
             "start": {
               "value": "2024",
-              "source_ids": [],
+              "source_ids": [
+                "s4"
+              ],
               "inferred": false,
               "basis": null,
               "inference": null
@@ -514,7 +589,10 @@
             "program": null,
             "degree_awarded": null,
             "concurrent": true,
-            "source_ids": []
+            "source_ids": [
+              "s2",
+              "s4"
+            ]
           },
           {
             "kind": "part_time",
@@ -546,13 +624,20 @@
     "company_tag": "美国众议院",
     "conflicts": [],
     "unknowns": [
-      "履历：来源只有旧项目国会议员简历底稿（三级），待重新取证",
       "入党时间：底稿无锚点，按 party_join.md 重新取锚点",
-      "参加工作：旧底稿首段作“1997年6月参加工作”，与其履历第一条（1983年起）不一致，按履历第一条推算"
+      "陶氏化学公司化学师的任职止期未查到",
+      "商业拓展主任（众议员官网2015、2017年版；Ballotpedia 作中密歇根发展公司小企业中心主任）、米德兰高级与创意研究学院管理人员两段经历有来源，起止年份未查到，未编入履历",
+      "2001年－2002年、2009年－2010年的经历未查到",
+      "哈佛大学公共管理硕士入学年按学制倒推（两年制）",
+      "参加工作：旧底稿首段作“1997年6月参加工作”，与履历第一条（1983年陶氏化学公司化学师）不一致，按履历第一条推算"
     ],
     "excluded": [
       "发布稿「1997年6月参加工作」：月份为旧规则推定，只写到年",
-      "发布稿入党句「1997年11月加入美国共和党」：底稿无锚点、无来源，不采用"
+      "发布稿入党句「1997年11月加入美国共和党」：底稿无锚点、无来源，不采用",
+      "底稿「1983年－1997年 陶氏化学公司化学师、米德兰地区教育和企业机构工作人员」：起止年份和“米德兰地区教育和企业机构工作人员”没有来源，拆开，只留有来源的陶氏化学公司化学师（1983年起）",
+      "维基百科「在陶氏化学公司只做了八个月」：所引众议员官网简历（2015年5月、12月网页存档，2017年1月国家档案馆存档）没有这一说法，不采用",
+      "底稿「2003年－2009年 密歇根州众议员」「2011年－2015年 密歇根州参议员」：国会名录、众议员官网作2003－2008年、2011－2014年，照改",
+      "底稿「哈佛大学肯尼迪政府学院」：照译名表 v1.4 写哈佛大学肯尼迪学院"
     ],
     "country_profile": "us",
     "card_type": "完整简历卡",

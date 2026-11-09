@@ -7,8 +7,8 @@
   "tier": "draft",
   "ids": {},
   "data_cutoff": "2026-10-18",
-  "roles_checked_at": "2026-10-21",
-  "updated_at": "2026-10-22",
+  "roles_checked_at": "2026-11-09",
+  "updated_at": "2026-11-09",
   "origin": "名册首发：bureaus/personnel-whitehouse/roster/roster.csv（主要职务“白宫 Assistant to the President and Chief of Staff The White House Assistant to the President and Chief of Staff”：总统、白宫、内阁与独立机构）；补采简历 bureaus/personnel-whitehouse/data/verified/susie-wiles.json（sanju-neige，程序检查通过，待独立核查）",
   "portrait": {
     "file": "susie-wiles.jpg",
@@ -27,7 +27,8 @@
     "补采任务 sanju-neige（2026-10-20）"
   ],
   "events": [
-    "2026-10-19-susie-wiles-appoint"
+    "2026-10-19-susie-wiles-appoint",
+    "2026-11-06-susie-wiles-leave"
   ],
   "bureau_history": [
     {
@@ -97,6 +98,15 @@
         "checked_at": "2026-10-22",
         "excerpt": "Wiles, 67, was born and raised in New Jersey and is the daughter of the late NFL player and sportscaster Pat Summerall.",
         "tier": 2
+      },
+      {
+        "id": "s7",
+        "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+        "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+        "published_at": "2026-11-06",
+        "checked_at": "2026-11-09",
+        "excerpt": "Today, President Donald J. Trump announced the appointment of Stephen Miller as the 33rd White House Chief of Staff, succeeding Susie Wiles after her highly successful tenure.",
+        "tier": 1
       }
     ],
     "tags": [
@@ -192,54 +202,9 @@
       "military_rank": null,
       "dropout": null,
       "death_date": null,
-      "status": "在任"
+      "status": "离任"
     },
-    "current_roles": [
-      {
-        "organization": "白宫",
-        "role": "办公厅主任",
-        "start": {
-          "value": "2025-01-20",
-          "source_ids": [
-            "s1",
-            "s2"
-          ],
-          "inferred": false,
-          "basis": null,
-          "inference": null
-        },
-        "concurrent": false,
-        "source_ids": [
-          "s1",
-          "s2"
-        ],
-        "roles": [],
-        "sector": "politics",
-        "appointment_state": "正式"
-      },
-      {
-        "organization": "白宫妇女健康工作组",
-        "role": "共同主席",
-        "start": {
-          "value": "2026-10-19",
-          "source_ids": [
-            "s3",
-            "s4"
-          ],
-          "inferred": false,
-          "basis": null,
-          "inference": null
-        },
-        "concurrent": true,
-        "source_ids": [
-          "s3",
-          "s4"
-        ],
-        "roles": [],
-        "sector": "politics",
-        "appointment_state": "正式"
-      }
-    ],
+    "current_roles": [],
     "careers": [
       {
         "kind": "work",
@@ -445,7 +410,15 @@
           "basis": null,
           "inference": null
         },
-        "end": null,
+        "end": {
+          "value": "2026-11-06",
+          "source_ids": [
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
         "organization": "白宫",
         "role": "办公厅主任",
         "program": null,
@@ -455,7 +428,7 @@
           "s1",
           "s2"
         ],
-        "ongoing": true,
+        "ongoing": false,
         "roles": [],
         "role_category": null,
         "role_basis": null,
@@ -477,7 +450,16 @@
           "basis": null,
           "inference": null
         },
-        "end": null,
+        "end": {
+          "value": "2026-11-06",
+          "source_ids": [
+            "s3",
+            "s7"
+          ],
+          "inferred": false,
+          "basis": null,
+          "inference": null
+        },
         "organization": "白宫妇女健康工作组",
         "role": "共同主席",
         "program": null,
@@ -487,7 +469,7 @@
           "s3",
           "s4"
         ],
-        "ongoing": true,
+        "ongoing": false,
         "roles": [],
         "role_category": null,
         "role_basis": null,

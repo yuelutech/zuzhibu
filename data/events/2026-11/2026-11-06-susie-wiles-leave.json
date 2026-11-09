@@ -1,0 +1,122 @@
+{
+  "id": "2026-11-06-susie-wiles-leave",
+  "date": "2026-11-06",
+  "kind": "leave",
+  "kind_label": "离任",
+  "person_id": "susie-wiles",
+  "person": {
+    "name_zh": "苏茜·怀尔斯",
+    "name_en": "Susie Wiles",
+    "name_zh_source": "glossary",
+    "ids": {}
+  },
+  "announced_at": "2026-11-06",
+  "effective_at": "2026-11-06",
+  "ended_roles": [
+    {
+      "organization": "美国白宫",
+      "role": "办公厅主任",
+      "organization_en": "The White House",
+      "role_en": "Chief of Staff",
+      "start": null,
+      "end": "2026-11-06",
+      "concurrent": false,
+      "sector": "politics",
+      "source_ids": [
+        "e1"
+      ]
+    },
+    {
+      "organization": "白宫妇女健康工作组",
+      "role": "共同主席",
+      "organization_en": "White House Women’s Health Task Force",
+      "role_en": "Co-Chair",
+      "start": null,
+      "end": "2026-11-06",
+      "concurrent": true,
+      "sector": "politics",
+      "source_ids": [
+        "e1",
+        "e3"
+      ]
+    }
+  ],
+  "new_roles": [],
+  "other_current_roles": null,
+  "new_appointment": {
+    "organization": "特朗普政治团队",
+    "role": "",
+    "organization_en": "Trump Political Operation",
+    "role_en": "",
+    "start": null,
+    "end": null,
+    "concurrent": false,
+    "sector": "politics",
+    "source_ids": [
+      "e2"
+    ]
+  },
+  "new_appointment_checked": false,
+  "headline": "苏茜·怀尔斯不再担任白宫办公厅主任",
+  "summary": "美国白宫11月6日发布：特朗普当天宣布任命斯蒂芬·米勒为第33任白宫办公厅主任，接替苏茜·怀尔斯。怀尔斯11月5日晚递交辞呈，11月6日在社交媒体上说当天是她担任白宫办公厅主任的最后一天；特朗普称她将转到特朗普政治团队，职务未公布。白宫妇女健康工作组按2026年10月19日行政令第3条由白宫办公厅主任按职务共同主持，怀尔斯卸任办公厅主任即不再担任共同主席。其他现职未查到。",
+  "bureaus": [
+    "whitehouse"
+  ],
+  "sources": [
+    {
+      "id": "e1",
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+      "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+      "publisher": "The White House",
+      "published_at": "2026-11-06",
+      "excerpt": "Today, President Donald J. Trump announced the appointment of Stephen Miller as the 33rd White House Chief of Staff, succeeding Susie Wiles after her highly successful tenure.",
+      "checked_at": "2026-11-09",
+      "excerpt_check": true
+    },
+    {
+      "id": "e3",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+      "title": "Advancing Women’s Health to Improve Outcomes in All Phases of Life",
+      "publisher": "The White House",
+      "published_at": "2026-10-19",
+      "excerpt": "There is hereby established the White House Women’s Health Task Force (Task Force) co-chaired by the Secretary of Health and Human Services and the Assistant to the President and Chief of Staff.",
+      "checked_at": "2026-11-09",
+      "excerpt_check": true
+    }
+  ],
+  "verification": {
+    "status": "verified",
+    "method": "excerpt",
+    "checked_at": "2026-11-09",
+    "model": null,
+    "by": "程序核查：逐条取来源网页，一级来源的摘录逐字找到，人物、职务、类别、日期都在核实来源里",
+    "run": "20261109-115833",
+    "corrections": [],
+    "reasons": [],
+    "notes": [
+      "已核：e1、e3",
+      "e2：不是一级来源",
+      "离任后有无其他现职、新任命，程序核不了，按未查清写回（不转七局）"
+    ]
+  },
+  "origin": "codex-inbox",
+  "lead": null,
+  "default_bureau": "whitehouse",
+  "applied": {
+    "status": "pending_review",
+    "at": "2026-11-09",
+    "changes": [
+      "现任职务移出：白宫 办公厅主任",
+      "履历止时间：白宫办公厅主任 至 2026-11",
+      "现任职务移出：白宫妇女健康工作组 共同主席",
+      "履历止时间：白宫妇女健康工作组共同主席 至 2026-11"
+    ],
+    "notes": [
+      "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命；暂不转局"
+    ],
+    "bureau_before": "whitehouse",
+    "bureau_after": "whitehouse",
+    "person_id": "susie-wiles",
+    "reason": "转入七局前核对未通过：未核实没有其他现职、未核实没有公布新任命"
+  }
+}
